@@ -1,6 +1,22 @@
+"""
+Calculates the inter agreement kappa score.
+
+Kappa score to evaluate different manual annotations and to
+evaluate different libraries against manual annotations.
+"""
+
 from sklearn.metrics import cohen_kappa_score
 
 def Convert(string):
+
+    """
+
+    :param string: Input string
+    :return: list
+    """
+    """Converts string into comma separated list"""
+
+
     li = list(string.split(","))
     return li
 
