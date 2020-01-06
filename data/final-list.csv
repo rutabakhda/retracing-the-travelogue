@@ -1,3499 +1,3500 @@
-,Entity,Tag
-0, Angamanain (Andaman island), 
-1,ABASCIA (Abyssinia),Location
-2,Abaji, 
-3,Abaka (Abaga), 
-4,Abano, 
-5,Abash (Habsh), 
-6,Abba Gregory, 
-7,Abbott, 
-8,Abb�s, 
-9,Abdul Kuri islands, 
-10,Abeskun (Baxon, 
-11,Abher, 
-12,Abn�s, 
-13,Abraha, 
-14,Abraiaman, 
-15,Abubakr, 
-16,Abulfeda, 
-17,Abyssinia (Abash), 
-18,Acbalec Manzi, 
-19,Accambale, 
-20,Achalech-Manji,Location
-21,Acheh, 
-22,Achin, 
-23,Achmae,Person
-24,Achmath(Ahmad), 
-25,Acomat,Person
-26,Acomat Soldan (Ahmad Sultan), 
-27,Acorn bread, 
-28,Acqui, 
-29,Acre,Location
-30,Acrea, 
-31,Adam, 
-32,Adam's Peak,Location
-33,Adamodana, 
-34,Adel, 
-35,Aden,Location
-36,Aden(Adel),Location
-37,Adoration of the Emperor, 
-38,Adulis, 
-39,Aepyornis and its eggs, 
-40,Africa, 
-41,Agathou Daimonos, 
-42,Aghrukji or Ukuruji, 
-43,Agricola, 
-44,Aguil, 
-45,Ahmad of Fenaket, 
-46,Ahmadi, 
-47,Aidhab, 
-48,Aidhej, 
-49,Aijaruc, 
-50,Aikah Nowin, 
-51,Ajmir, 
-52,Ak-Bulak salt-mines, 
-53,Ak-khoja, 
-54,Akaas of Bolor, 
-55,Akbar and Kublai, 
-56,Akhaltzik� (Western Georgia), 
-57,Akhtuba River, 
-58,Aktar, 
-59,Al Biruni, 
-60,Alabastri, 
-61,Alacou, 
-62,Alacou(Hukalu), 
-63,Alamut, 
-64,Alania, 
-65,Alans, 
-66,Alaodin,Person
-67,Alaone, 
-68,Alarm Tower, 
-69,Alau,Person
-70,Alauddin (Alaodin), 
-71,Albenigaras, 
-72,Alboquerque, 
-73,Alchemy, 
-74,Alexander III, 
-75,Alexander IV, 
-76,Alexander the Great, 
-77,Alexandria, 
-78,Alidada, 
-79,Alihaiya, 
-80,Alinak, 
-81,Alligator, 
-82,Almalik, 
-83,Almanacs, 
-84,Almonds, 
-85,Aloes, 
-86,Altai (Altay) Mountains, 
-87,Altai Mountains,Location
-88,Altun�Khan, 
-89,Al�Ramni, 
-90,Amazons, 
-91,Ambergris, 
-92,Amda Zion, 
-93,Ameri, 
-94,Amhara, 
-95,Amien, 
-96,Amita Buddha, 
-97,Amphora, 
-98,Amu, 
-99,Amu (Bamoo),Location
-100,Ananda, 
-101,Anaurahta, 
-102,Ancestor Worship, 
-103,Anchors, 
-104,Andaine, 
-105,Andaman Islands , 
-106,Andragiri, 
-107,Andreas, 
-108,Andrew, 
-109,Andromeda ovalifolia, 
-110,Andun, 
-111,Angaman (Andaman) Islands,Location
-112,Angelic French, 
-113,Animal Patterns, 
-114,Anin, 
-115,Annals of the Indo�Chinese States, 
-116,Antarctic, 
-117,Anthropoides Virgo, 
-118,Antongil Bay, 
-119,An�r, 
-120,Apostoille (for 'Pope'), 
-121,Apples of Paradise , 
-122,Apushka (Apusca), 
-123,Arab Seamen's Traditions about Java, 
-124,Arabadni, 
-125,Arabi , 
-126,Arabia, 
-127,Arachoti, 
-128,Araines, 
-129,Arakan, 
-130,Aram (Har�mi), 
-131,Ararat,Location
-132,Arblasts, 
-133,Arbre Sec, 
-134,Arbre Sol or Arbre Sec, 
-135,Arcali, 
-136,Archbishop of Socotra, 
-137,Architectural remains in Indo�China, 
-138,Areca, 
-139,Areng Saccharifera, 
-140,Argaeus, 
-141,Argali, 
-142,"Arghun Khan (Argon, Lord of the Levant, of Polo)", 
-143,Argiron(Erzeroum),Location
-144,Argon,Person
-145,Argons or half-breeds (Argh�n), 
-146,Arii, 
-147,Arikbuga, 
-148,Arimaspia, 
-149,Ariora Keshimur, 
-150,Aripo, 
-151,Arjish (Arzizi), 
-152,Arkasun Noian, 
-153,Arkhaiun, 
-154,Armenia, 
-155,Armenia the Greater,Location
-156,Armenia the Lesser,Location
-157,Armenian Christians, 
-158,Armenians, 
-159,Arms of Kerman celebrated, 
-160,Arrows, 
-161,Artacki, 
-162,Arts, 
-163,Aru (in Sumatra), 
-164,Arucki, 
-165,Aruk, 
-166,Arya Chakravarti, 
-167,Aryavartta, 
-168,Arzinga,Location
-169,Arzinga (Erzingan), 
-170,Arziron (Erzrum), 
-171,Arzizi (Arj�sh), 
-172,Asbestos and the Salamander, 
-173,Ascelin,Person
-174,Asceticism of the Sensin, 
-175,Asciar, 
-176,Asedin Soldan (Ghaiassuddin Balban), 
-177,Ashishin, 
-178,Asoka, 
-179,Asper, 
-180,Assassins, 
-181,Asses, 
-182,Asterius, 
-183,Astrakhan (Gittarchan), 
-184,Astrolabe, 
-185,Astrology, 
-186,Atabegs, 
-187,Atkinson's Explorations impunged by Russians, 
-188,Atlas, 
-189,Audh (Oudh), 
-190,Aufat, 
-191,Augury, 
-192,"Aung Khan (Unc Can, see Prester John of Polo)", 
-193,Aurangzib, 
-194,Aurora, 
-195,Aussa, 
-196,Avarian, 
-197,Axum, 
-198,"Ayas (Layas,Aiazzo, Giazza, port of Cilician Armenia)", 
-199,Ayuthia, 
-200,Azumiti, 
-201,Azure(Ultramarine), 
-202,A�tius, 
-203,A�s, 
-204,Baatau,Person
-205,Baba Buzurg, 
-206,Baboons, 
-207,Babylon, 
-208,Babylonish garments, 
-209,Baccadeo, 
-210,Baccanor, 
-211,Bacsi(Bakhshi), 
-212,Badakhshan (Badashan), 
-213,Badascia (Badakshan),Location
-214,Badger, 
-215,Badgh�s, 
-216,Badg�r, 
-217,Badruddin Lulu of Mosul, 
-218,Bad��n, 
-219,Bafk, 
-220,Baft, 
-221,Bagdad,Location
-222,Baghdad (Baudas), 
-223,Bagratidae, 
-224,Bahar, 
-225,Bahrein, 
-226,Bah�uddin Ayaz, 
-227,Bai, 
-228,Baiberdon, 
-229,Baidu Khan, 
-230,Bailo, 
-231,Baiothony,Person
-232,Bakhty�ris of Lurist�n, 
-233,Baksi,Person
-234,Baku,Location
-235,Bala-Sagun, 
-236,Baldacchini (Baudekins), 
-237,Baldach (Bagdad),Location
-238,Baldwin de Courtenay, 
-239,Bali, 
-240,Balios, 
-241,Balish (a money of account), 
-242,Balista, 
-243,Balk(Balkh),Location
-244,Balkhash , 
-245,Ballaad-ul-Falfal, 
-246,Ballads, 
-247,Ballard, 
-248,Balor, 
-249,Balsamodendron Mukul, 
-250,Balti, 
-251,Balustrade, 
-252,Bam-i-dunyah, 
-253,Bamboo , 
-254,Bamian, 
-255,Bamm, 
-256,Bamo, 
-257,Bandar Abbas (Bandar-Abbasi), 
-258,Bangala, 
-259,Bangala(Bengal),Location
-260,Bangu(Eastern Siberia),Location
-261,Baptism accompanied by branding in Abyssinia, 
-262,Bara, 
-263,Barac (Borrak), 
-264,Barberino, 
-265,Bardesir, 
-266,Bargu , 
-267,Barguchin Tugrum, 
-268,Barguerlac , 
-269,Barguzinsk, 
-270,Barin, 
-271,Bark, 
-272,Barka Khan (Barca), 
-273,Barka khan,Person
-274,Barkul, 
-275,Bark�t , 
-276,Barlaam and Josaphat, 
-277,Barley, 
-278,Baroch, 
-279,Baron-tala, 
-280,Barons,Person
-281,Barozzi, 
-282,Barsauma (St. Brassamo), 
-283,Barskul (Barscol), 
-284,Barus, 
-285,Barussae Insulae, 
-286,Barygazu, 
-287,Bascra (Bussora),Location
-288,Bashai (Pashai), 
-289,Basma, 
-290,Basmuls, 
-291,Baspa Lama and the Mongol character called after him, 
-292,Basra (Bascra or Bastra), 
-293,Bathang, 
-294,Baths, 
-295,Batigala, 
-296,Batochina, 
-297,Bats, 
-298,Battas of Sumatra and their  cannibalism, 
-299,Batthala (Patlam in Ceylon), 
-300,Battles, 
-301,Batu, 
-302,Baudas (Baghdad), 
-303,Baudekins , 
-304,Bauduin de Sebourc, 
-305,Bavaria, 
-306,Baw�rij, 
-307,Bayam,Person
-308,Bayan Chingsian, 
-309,Bazacata, 
-310,Bdellium, 
-311,Beads, 
-312,Bearcoote, 
-313,Bears, 
-314,Beast and bird patterns on silks, 
-315,Beaten gold, 
-316,Beauty of Georgians, 
-317,Beds, 
-318,Beef not eaten in Maabar, 
-319,Bejas of the Red Sea Coast, 
-320,Belic' for 'Melic', 
-321,Bell, 
-322,Bellal Rajas, 
-323,Belledi(or balladi), 
-324,Belor (Beloor),Location
-325,Bendocquedar, 
-326,Benedict, 
-327,Bengal (Bangala), 
-328,Benjamin of Tudela on the Gryphon, 
-329,Benzoin, 
-330,Berbera, 
-331,Berchet, 
-332,Bern MS. Of Polo's Book, 
-333,Berrie, 
-334,Bettelar, 
-335,Beyamini, 
-336,Bezant, 
-337,Bhartpur, 
-338,Bianconi, 
-339,Biar, 
-340,Bibars Bund�kd�ri (Bendocquedar), 
-341,Bielo Osero, 
-342,Bigoncio, 
-343,Bil�chis, 
-344,Binkin, 
-345,Bintang (Pentam), 
-346,Birch-bark Books, 
-347,Bird-hunts, 
-348,Birdwood, 
-349,Birhors of Chuta Nagp�r, 
-350,Birthday of the Great Kaan, 
-351,Bir�Pandi or Pira�Bandi, 
-352,Bishbalik, 
-353,Bishop, 
-354,Bitter bread, 
-355,Blac, 
-356,Black Crane, 
-357,Blacker the more beautiful, 
-358,Block-books, 
-359,Blood-sucking, 
-360,"Blous, Bloies'", 
-361,Boar's tusks, 
-362,Boccassini, 
-363,Bodhisatva Avalokitecvara, 
-364,Bodleian MS. of Polo, 
-365,Boeach, 
-366,Boemond, 
-367,Boga (Buka), 
-368,Boghra Khan, 
-369,Bohea country, 
-370,Boikoff, 
-371,Bokhara,Location
-372,Bokhara (Bocara), 
-373,Bolgana, 
-374,Bolghar, 
-375,Bolghar (Bolgara), 
-376,Bolivar, 
-377,Bolor, 
-378,Bombay, 
-379,Bonga, 
-380,Boni,Person
-381,Boniface, 
-382,Bonoccio di Mestro, 
-383,Bonus (Ebony), 
-384,Boodhism in Central Asia,
-385,Book of Marco Polo, 
-386,Bore in Hangchau Estuary, 
-387,Borgal, 
-388,Borneo, 
-389,BoroBodor, 
-390,Borrak (Barac), 
-391,Bostam, 
-392,Bouqueran, 
-393,Boxwood Forests in Georgia, 
-394,Bozzi, 
-395,Bragadino, 
-396,Brahmanical Thread, 
-397,Brahmans (Abraiaman), 
-398,Brahuis, 
-399,Brakhimov, 
-400,Brambanan, 
-401,Bran diet, 
-402,Brazil (wood), 
-403,Brephung monastery, 
-404,Bretesche, 
-405,Brichu (Brius the Upper Kiang), 
-406,Bridges, 
-407,Brine-wells, 
-408,British Museum,Location
-409,Brius , 
-410,Brius river,Location
-411,Brown, 
-412,Bruce's Abyssinian Chronology, 
-413,Brunetto Latini's Book, 
-414,Bucephalus, 
-415,Buckrams, 
-416,Buddha, 
-417,Buddhism, 
-418,Buddhist , 
-419,Buffet and vessels of Kaan's table, 
-420,Buka (Boga), 
-421,Bularguchi, 
-422,Bulgaria,Location
-423,Bulugh�n , 
-424,Bund�kd�r, 
-425,Burkan Kaldun, 
-426,Burma , 
-427,Burnes,Person
-428,Burning paper imitations of property at funerals, 
-429,Burning the Dead, 
-430,Buryats or Buraets, 
-431,Butchers, 
-432,Butiflis (Mutfili), 
-433,Ca-cian-fu (Ho-kien-fou),Location
-434,Ca-cian-fu (Tong-tcheou),Location
-435,Caaju, 
-436,Cacanfu (Hokiang-fu), 
-437,Cachanfu (P�uchau-fu), 
-438,Cachar Modun, 
-439,Cachilpatnam, 
-440,Caesalpinia, 
-441,Caesarea of Cappadocia (Casaria), 
-442,Cai-gui(Qua-tcheou),Location
-443,Caichu, 
-444,Caidu, 
-445,Caiju (on the Hoang-Ho), 
-446,"Caiju (on the Kiang, Kwachau)", 
-447,Cail (K�yal), 
-448,Caindu, 
-449,Caingan, 
-450,Cairo, 
-451,Caiton, 
-452,Cala Ataperistan (or Gueber's Castle), 
-453,Calachan, 
-454,Calacian,Location
-455,Calaiate, 
-456,Calamanz, 
-457,Calamina, 
-458,Calatu, 
-459,Calatu (Kalhat),Location
-460,Caldwell, 
-461,Calendar, 
-462,Cali or Kael,Location
-463,Calicut, 
-464,Calif, 
-465,Caligine, 
-466,Camabaia(Cambay),Location
-467,Camadi , 
-468,Camandu,Location
-469,Cambaluc (Khanbalig or Peking), 
-470,"Cambay (Cambaet, Cambeth)", 
-471,Cambuscan of Chaucer, 
-472,Camels, 
-473,Camexu, 
-474,Camlets (cammellotti), 
-475,Camoens, 
-476,Camphor, 
-477,Campichu (Kanchau), 
-478,"Camul (Kamul, Komul)", 
-479,Camut, 
-480,Can-giu (Kiang-chan-fui),Location
-481,Canal, 
-482,Canale, 
-483,Cananor, 
-484,Cananore, 
-485,Canara, 
-486,Cancamum, 
-487,Candahar, 
-488,"Cane,Canes ", 
-489,Cannibalism, 
-490,Cannibals, 
-491,Canonical Hours, 
-492,Canpicion (Kan-tcheou),Location
-493,Cansay, 
-494,Canton, 
-495,Cape Comorin, 
-496,Cape Corrients , 
-497,Cappidoglio, 
-498,Caracoron (Kar� Korum), 
-499,Caraian,Location
-500,Carajan , 
-501,Caramoran River (Hoang-Ho), 
-502,Caraonas (Karaunahs), 
-503,Carats, 
-504,Carbine, 
-505,Cardamom, 
-506,Cardinal's Wit, 
-507,Caribs, 
-508,Carpets, 
-509,Carpini,Person
-510,Carriages, 
-511,Carrion shot from engines, 
-512,Casan, 
-513,Casan or Ghazan,Person
-514,Casaria (Caesarea of Cappadocia), 
-515,Cascar (Cashgar),Location
-516,Cascar (Kashgar), 
-517,Casem, 
-518,Casoni, 
-519,Caspian Sea (Sea of Ghel or Ghelan), 
-520,Cassay, 
-521,Cassia, 
-522,Castaldi, 
-523,Casvin (Kazw�n), 
-524,Cat's Head Tablet, 
-525,Catalan Navy, 
-526,Cathay (Northern China), 
-527,Cathay or Kataia,Location
-528,Cathayans, 
-529,Catholicos, 
-530,Cators , 
-531,Cats in China, 
-532,Caucasian Wall, 
-533,Caugigu, 
-534,Caulking of Chinese ships, 
-535,Cauly, 
-536,Causeway, 
-537,Cauterising  heads of children, 
-538,Cave-houses, 
-539,Cavo de Eli, 
-540,Caya-fu,Location
-541,Cayu (Kao-yu), 
-542,Ca� Polo, 
-543,Celtic Church, 
-544,Census of houses in Kinsay, 
-545,Ceremonial of Mongol Court, 
-546,Ceylon (Seilan), 
-547,Chachan (properly Charchand), 
-548,Chagan-Nur(N.E. of Kamul), 
-549,Chagatai, 
-550,Champa (Chamba), 
-551,Chandra Banu, 
-552,Chandu,Location
-553,Chandu (Shangtu), 
-554,Chang-y (Chenchu), 
-555,Changan, 
-556,Changchau (Chinginju), 
-557,Changgan, 
-558,Changlu, 
-559,Changshan (Chanshan), 
-560,Chaohien, 
-561,Chaotong, 
-562,Chapu, 
-563,Characters, 
-564,"Charchan (Chachan of Johnson, Charchand)", 
-565,Charities of the Kaan, 
-566,Charlemagne,Person
-567,Chasteaux, 
-568,Chaukans or  temporary wives at Kashgar, 
-569,Chaul, 
-570,Chaym(Kao-yeou),Location
-571,Cheapness in China, 
-572,Cheetas, 
-573,Cheinan, 
-574,Chekiang into Fokien, 
-575,Chen-gui (Yen-tcheou-fou),Location
-576,Chenching (Cochin-China), 
-577,Chenchu , 
-578,Cheu, 
-579,Chibai and Chiban, 
-580,Chilaw, 
-581,Chin, 
-582,Chin-tan, 
-583,China,Location
-584,Chinangli(T�sinan-fu), 
-585,Chinchau, 
-586,Chinese, 
-587,Chinese empire,Organization
-588,Chinese navigation to India,
-589,Ching-hoang tower at Hangchau-fu, 
-590,Chinghian-fu (Chinkiang-fu), 
-591,Chinghiz Khan, 
-592,Chinghiz Tora, 
-593,Chinghu, 
-594,Chinginju (Changchau), 
-595,Chingintalas, 
-596,Chingsang, 
-597,Chingting-fu (Acbaluc), 
-598,Chingtsu or Yunglo, 
-599,Chinkin, 
-600,Chinuchi, 
-601,Chin�r, 
-602,Chipangu (Japan), 
-603,Chisi (Kishm),Location
-604,Chitral, 
-605,Chloroxylon, 
-606,Chochau (Juju), 
-607,Choiach, 
-608,Chola, 
-609,Chonka , 
-610,Chonkw� , 
-611,Chorcha, 
-612,Christian, 
-613,Christianity, 
-614,Christians, 
-615,Chrocho (The Rukh), 
-616,Chronology and chronological data discussed, 
-617,Chuchau-fu, 
-618,Chuchu, 
-619,Chungkw�, 
-620,Chungtu, 
-621,Churches, 
-622,Churchin, 
-623,Ciagatai or Zagatai,Person
-624,Cian-cian (Kiu-tcheou),Location
-625,Cian-gli (Te-tcheou),Location
-626,Cian-glu (Tsan-tcheou),Location
-627,Cianba (Tsiompa),Location
-628,Cianganor,Location
-629,Ciarcian (Karashehr),Location
-630,Cielstan, 
-631,Cin-ghian-fu(Tchin-kiang-fou),Location
-632,Cinnamon, 
-633,Circumcision , 
-634,Cirophanes, 
-635,Civet of Sumatra, 
-636,Clemenfu (Tai-yuen-fou),Location
-637,Clement IV, 
-638,Clement IV.,Person
-639,Clepsydra, 
-640,Cloves, 
-641,Coal, 
-642,Cobi or Shamo,Location
-643,Cobinam (Khubees),Location
-644,Cobinan (Koh�Ban�n), 
-645,Cocachin (Kuk�chin), 
-646,Cochin-China, 
-647,Coco Islands, 
-648,Coco-nut (Indian nut), 
-649,Cocos Islands, 
-650,Coeur de Lion, 
-651,Coffins, 
-652,Cogachin (Hukaji), 
-653,Cogatai, 
-654,Cogatal, 
-655,Coiganju (Hwaingan-fu), 
-656,Coilac,Location
-657,Coilon,Location
-658,"Coilum (Kaulam, Quilon)", 
-659,Coilumin, 
-660,Coins , 
-661,Coja (Koja), 
-662,Cold, 
-663,Coleridge, 
-664,Coloman, 
-665,Colombino, 
-666,Colossal Buddhas, 
-667,Columbum, 
-668,Columbus, 
-669,Comania, 
-670,Comari,Location
-671,Combermere, 
-672,Comorin, 
-673,Comoro Islands, 
-674,Compartments, 
-675,Compass, 
-676,Competitive Examinations in beauty, 
-677,Conchi, 
-678,Conci,Person
-679,Concubines, 
-680,Condi-fu (Tsi-nan-fou),Location
-681,Condor, 
-682,Condur and Sondur, 
-683,Condux, 
-684,Conia, 
-685,Conjeveram, 
-686,Conjurers, 
-687,Conosalmi (Kamasal), 
-688,Constantinople, 
-689,Convents, 
-690,Cookery, 
-691,Cooper, 
-692,Copal, 
-693,Copper, 
-694,Coral, 
-695,Corea (Kauli), 
-696,Cormos (Ormus),Location
-697,Corn, 
-698,Coromandel (Maabar), 
-699,Corsairs, 
-700,Corte del Milione, 
-701,Corvino,Person
-702,Cosmography, 
-703,Costus, 
-704,Cotan, 
-705,Cotan (Khoten),Location
-706,Cotton, 
-707,Counts in Vokhan, 
-708,Couriers of the great khan,
-709,Courts of Justice, 
-710,Cowdung, 
-711,Cowell, 
-712,"Cowries (porcelain shells, pig shells)", 
-713,Cralantur, 
-714,Cramoisy (quermesis), 
-715,Cranes, 
-716,Crawford, 
-717,Creman(Carmania),Location
-718,Cremation, 
-719,Cremesor, 
-720,Crocodiles, 
-721,Cross, 
-722,Crossbows, 
-723,Cruelties, 
-724,Crusca MS. of Polo, 
-725,Crusca MS. of the Travels,Person
-726,Cubeb pepper, 
-727,Cubits, 
-728,Cublay, 
-729,Cucintana, 
-730,Cudgel, 
-731,Cuiju (Kweichau), 
-732,Cuinet, 
-733,Cuirbouly, 
-734,Cuju, 
-735,Cun-chin,Location
-736,Cuncun (Han-Chung) , 
-737,Cunningham, 
-738,Cups, 
-739,Curds and Curdistan, 
-740,Curmosa (Hormuz), 
-741,Currency, 
-742,Current, 
-743,Currents, 
-744,Curtains, 
-745,Curzola , 
-746,Curzon, 
-747,Customs, 
-748,Cutch pirates, 
-749,Cuxstac, 
-750,Cuy Khan , 
-751,Cuyne(Kuynuk),Person
-752,Cuyn�(Kuynuk),Person
-753,Cycle, 
-754,Cyn-gui,Location
-755,Cypresses, 
-756,Cyprus, 
-757,Cyrus, 
-758,D'Alboquerque, 
-759,D'Anghieria, 
-760,D'Ely, 
-761,Da Gama, 
-762,Dabul, 
-763,Dagroian, 
-764,Dailiu (Tali), 
-765,Daki�nus, 
-766,Dalada, 
-767,Dalai Lama, 
-768,Dalivar, 
-769,Dalmian, 
-770,Damas, 
-771,Damascus, 
-772,Damasks, 
-773,Damghan, 
-774,Dancing dervishes, 
-775,Dancing girls, 
-776,Dandolo,Person
-777,Dantapura, 
-778,Dante, 
-779,Darabjird, 
-780,Darah, 
-781,Dariel, 
-782,Darius, 
-783,Dark Ocean of the South, 
-784,Darkness, 
-785,Darraj, 
-786,Daruna, 
-787,Darwaz, 
-788,Dasht, 
-789,Dasht-i-Lut(Desert of L�t) , 
-790,Dashtistan tribe and district, 
-791,Dasht�b, 
-792,Dates , 
-793,Daughters of Marco Polo, 
-794,David, 
-795,Davids, 
-796,Davis, 
-797,Dawaro, 
-798,Daya, 
-799,Da�tu, 
-800,De Barros, 
-801,De Bode, 
-802,De Borron, 
-803,De Guignes,
-804,De la Croix, 
-805,Dead, 
-806,Debt, 
-807,Decima, 
-808,Decimal organisation of Tartar armies, 
-809,Decius, 
-810,Degh�ns, 
-811,Deh Bakri, 
-812,Deh�nah, 
-813,Delhi, 
-814,Demoiselle Crane, 
-815,Deogir, 
-816,Depopulation of Badakhshan, 
-817,Derbend, 
-818,Deserts, 
-819,Desgodins, 
-820,Despina Khatun, 
-821,Devad�si, 
-822,Devapattan, 
-823,Devil trees, 
-824,Devil-dancing, 
-825,Devils, 
-826,Dev�ria, 
-827,"Dhafar (Dofar, Zhafar)", 
-828,Dh�lkarnain , 
-829,Dialects, 
-830,Diamonds in India, 
-831,Dil�war, 
-832,Dimitri II, 
-833,Dinh Ti�n-hw�ng, 
-834,Din�r, 
-835,Din�r of Red Gold, 
-836,Diocletian, 
-837,Dir, 
-838,Dirakht-i-Fazl, 
-839,Dirakht-i-Kush, 
-840,Dirhem-Kub, 
-841,Dir�wal, 
-842,Dish of Sakya or of Adam, 
-843,Diu City, 
-844,Diul-Sind, 
-845,Divination by twigs or arrows, 
-846,Dixan, 
-847,Dizabulus, 
-848,Dizful River, 
-849,Djao (Chao) Namian Sum�  (Kaipingfu), 
-850,Djaya, 
-851,Doctors at Kinsay, 
-852,Dofar, 
-853,Dog-headed races, 
-854,Dog-sledging in Far North, 
-855,Dogana, 
-856,Dogh�bah River, 
-857,Dogs,
-858,Dolfino, 
-859,Dolonn�r, 
-860,Dominican friars; their mission to Persia,
-861,Dominicans, 
-862,Dor,Person
-863,Dorah Pass, 
-864,Doria, 
-865,Dorj�, 
-866,Douglas, 
-867,Doyley, 
-868,Dragoian (Ta-hua-Mien, 
-869,Dragoian (Ta-hua-Mien), 
-870,Drawers, 
-871,Dreams, 
-872,Drums, 
-873,Du Bose, 
-874,Du Halde's estimate of the revenues of China,
-875,Dua Khan, 
-876,Ducat, 
-877,Dudley, 
-878,Duel, 
-879,Dufar or Dofar,Location
-880,Dufour, 
-881,Duhalde, 
-882,Dukuz Khatun, 
-883,Dulcarnon (Zulkarnain), 
-884,Dulites, 
-885,Dumas, 
-886,Dumb trade, 
-887,Duncan, 
-888,Duplicates in geography, 
-889,Durga Temple, 
-890,Dursamand, 
-891,Dust-storms, 
-892,Duties, 
-893,Dutthagamini, 
-894,Dwara Samudra, 
-895,Dzegun-tala, 
-896,Dzungaria, 
-897,D�Avezac, 
-898,D�Orl�ans, 
-899,D�r�pur , 
-900,D�rer�s Map of Venice, 
-901,Eagle mark on shoulder of Georgian kings, 
-902,Eagle-wood, 
-903,Eagles, 
-904,Earth honoured, 
-905,East, 
-906,Ebony (bonus), 
-907,Edkins, 
-908,Edward I, 
-909,Edward II, 
-910,Effeminacy, 
-911,Eggs of Ruc and Aepyornis, 
-912,Egrigaia, 
-913,Egrigaia (Ninghia),Location
-914,Eighurs,Location
-915,Ela (cardamom), 
-916,Elchidai, 
-917,Elenovka, 
-918,Elephantiasis, 
-919,Elephants,
-920,Eli, 
-921,Eli or Dely,Location
-922,Elima, 
-923,Elixir vitae of the Jogis, 
-924,Elliot, 
-925,Emad, 
-926,Embroidery, 
-927,Empoli, 
-928,Empusa, 
-929,Enchanters, 
-930,Enchantments, 
-931,Engano Island, 
-932,Engineering feat, 
-933,Engineers, 
-934,England, 
-935,English trade and character in Asia, 
-936,Enlightenment, 
-937,Erba, 
-938,Erculin, 
-939,Erdeni Tso (Erdenidsu, 
-940,Eremites (Rishis, 
-941,Erginul,Location
-942,Erguiul, 
-943,Erivan, 
-944,Ermine, 
-945,Erzinjan, 
-946,Erzrum (Arziron), 
-947,Eschiel, 
-948,Escier (Shaher),Location
-949,"Esher (Shehr, Es-shehr)", 
-950,Essentemur (Isentimur), 
-951,Estimo, 
-952,Etchmiadzin Monastery, 
-953,Ethiopia and India, 
-954,Ethiopian sheep, 
-955,Etiquette of the Mongol Court, 
-956,Etymologies, 
-957,Etzina, 
-958,Eunuchs, 
-959,Euphrates, 
-960,Euphrates river,Location
-961,Europeans,
-962,Euxine, 
-963,Evelyn's Diary, 
-964,Execution of Princes of the Blood, 
-965,Eyircay� , 
-966,Ezina,Location
-967,Facen, 
-968,Facfur,Person
-969,Faghfur (Facfur), 
-970,Faizabad in Badakhshan, 
-971,Fakan�r, 
-972,Fakata, 
-973,Fakhruddin Ahmad, 
-974,Falconers, 
-975,Falconry in China,
-976,Falcons, 
-977,Famine, 
-978,Fan Wen-hu, 
-979,Fanchan Lake, 
-980,Fanching, 
-981,Fandaraina, 
-982,Fansur, 
-983,Fansuri camphor, 
-984,Fariab, 
-985,Faro of Constantinople, 
-986,Farriers, 
-987,Fars, 
-988,Fashiyah, 
-989,Fassa, 
-990,Fasting days, 
-991,Fattan, 
-992,Fausto, 
-993,Fazl, 
-994,Feili, 
-995,Female attendants on Chinese Emperors, 
-996,Ferlec, 
-997,Fernandez, 
-998,Ferrier, 
-999,Festivals,
-1000,Fiag, 
-1001,Fid�w�, 
-1002,Filial Piety in China, 
-1003,Filippi, 
-1004,Finn, 
-1005,Fiordelisa, 
-1006,Firando Island, 
-1007,Fird�s, 
-1008,Fire, 
-1009,Fire worshippers (Guebres) in Persia,Person
-1010,Fire-baptism, 
-1011,Fire-worship, 
-1012,Firishta, 
-1013,Fish, 
-1014,Fish-oil, 
-1015,Florin, 
-1016,Flour (Sago, 
-1017,Fl�ckiger, 
-1018,Fo-kien,Location
-1019,Fog, 
-1020,Fokien, 
-1021,Folin (Byzantine Empire), 
-1022,Fondaco, 
-1023,Foot-mark on Adam's Peak, 
-1024,Foot-posts in Cathay, 
-1025,Forg, 
-1026,Formosa, 
-1027,Forsyth, 
-1028,Fortune, 
-1029,Foundlings, 
-1030,Four-horned sheep, 
-1031,Fowls with hair, 
-1032,Foxes, 
-1033,Fozl�n, 
-1034,Fra terre (Interior), 
-1035,Fracastorious, 
-1036,Frampton,Person
-1037,Franciscan converts, 
-1038,Francolin (darr�j of the Persians), 
-1039,Frankincense, 
-1040,Frederic II, 
-1041,French, 
-1042,French Expedition up the Kamboja River, 
-1043,French Geographical Society,
-1044,French mission and missionaries in China, 
-1045,Frenchmen, 
-1046,Frere, 
-1047,Froissart, 
-1048,Fr�re charnel, 
-1049,Fu-gui or Concha,Location
-1050,Fuchau (Fuju), 
-1051,Fuen (Fen) ho , 
-1052,Fuju (Fokien and Fuchau), 
-1053,Funeral rites, 
-1054,Fungul, 
-1055,Furs, 
-1056,Fusang, 
-1057,Fuyang, 
-1058,Fuzo, 
-1059,Gabala, 
-1060,Gagry, 
-1061,Gaisue, 
-1062,Galashkird, 
-1063,Galeasse, 
-1064,Galeazza, 
-1065,Galingale, 
-1066,Galletti, 
-1067,Galley-slaves , 
-1068,Galleys of the Middle Ages, 
-1069,Gambling, 
-1070,Game, 
-1071,Game Laws, 
-1072,Gan-fu (Ning-po),Location
-1073,Gan-p'u, 
-1074,Ganapati Kings, 
-1075,Gandar, 
-1076,Gandh�ra , 
-1077,Ganfu, 
-1078,Ganja, 
-1079,Gantanpouhoa, 
-1080,Gant�r , 
-1081,Gardenia, 
-1082,Gardiner�s (misprinted Gardner�s), 
-1083,Gardner, 
-1084,Garmsir, 
-1085,Garnier, 
-1086,Garrisons, 
-1087,Gat-pauls, 
-1088,Gate of Iron, 
-1089,Gates, 
-1090,Gauenispola Island, 
-1091,Gaui or Pariahs of Southern India,
-1092,Gauristan, 
-1093,Gavraz villages, 
-1094,Gazaria, 
-1095,Gedrosi, 
-1096,Gelath in Imeretia, 
-1097,Genealogy of Polos, 
-1098,Gengis,Person
-1099,Genoa, 
-1100,Genoese, 
-1101,Gentile Plural names converted into local singulars, 
-1102,Geo-gui or Gin-gui(Tso-tcheou),Location
-1103,Geographical Society of Paris,
-1104,Geographical Text of Polo�s Book constantly quoted, 
-1105,"George (Jirjis Yurji, Gurg�n)", 
-1106,Georgia,Location
-1107,Georgia (Georgiana), 
-1108,Gerfalcons , 
-1109,Gerini, 
-1110,German Follower of the Polos, 
-1111,Ghaissuddin Balban (Asedin Soldan), 
-1112,Ghazan (Casan) Khan of Persia, 
-1113,Ghel, 
-1114,Ghell� (G�l�), 
-1115,Ghes, 
-1116,Ghiuju, 
-1117,Ghiyas ed-din, 
-1118,Ghori, 
-1119,Gh�ran country, 
-1120,Gh�r, 
-1121,Giglioli, 
-1122,Gilgit, 
-1123,Gill, 
-1124,Ginao, 
-1125,Gindanes of Herodotus, 
-1126,Ginger, 
-1127,Ginghintalas (Barkoul),Location
-1128,Giraffes, 
-1129,Girardo, 
-1130,Girdkuh, 
-1131,Girls, 
-1132,Gittarchan, 
-1133,Glaza (Ayas), 
-1134,Gleemen and jugglers, 
-1135,Goa, 
-1136,Gobernador, 
-1137,Gog and Magog (Ung and Mungul), 
-1138,Gogo, 
-1139,Golconda,Location
-1140,Golconda diamond mines, 
-1141,Gold, 
-1142,Gold and silver towers of Mien, 
-1143,Gold dust in Tibet, 
-1144,Golden King and Prester John, 
-1145,Gomispola, 
-1146,Gomushtapah, 
-1147,Gomuti palm, 
-1148,Gondophares, 
-1149,Gordon�s �Ever Victorious Army�, 
-1150,Gordun Sh�h, 
-1151,Goriosan, 
-1152,Goshawks, 
-1153,Gothia (Crimean, 
-1154,Govy, 
-1155,Goza, 
-1156,Gozurat,Location
-1157,Go�tre at Yarkand, 
-1158,Go�s, 
-1159,Grail, 
-1160,Granaries, 
-1161,Grapes in Shan-si, 
-1162,Grass-cloths, 
-1163,Grasso, 
-1164,Great, 
-1165,Great Bear (Meistre, 
-1166,Great wall of China,Location
-1167,Greece, 
-1168,Greek fire, 
-1169,Greeks, 
-1170,Green, 
-1171,Gregorieff, 
-1172,Gregory X, 
-1173,Gregory X.,Person
-1174,Grenard, 
-1175,Grioni, 
-1176,Groat, 
-1177,Groot, 
-1178,Grote, 
-1179,Grueber and Dorville, 
-1180,Gryphon, 
-1181,Guasmul (Basmul, 
-1182,Guchluk, 
-1183,Gudar (village, 
-1184,Gudar (village), 
-1185,Gudran, 
-1186,Guebers, 
-1187,Guilds of craftsmen at Kinsay, 
-1188,Guinea-fowl, 
-1189,Guions, 
-1190,Guj�h, 
-1191,Gumish�Kh�nak, 
-1192,Gunpowder, 
-1193,Gurgan, 
-1194,Gur�Khan of Karacathay, 
-1195,Gutturals, 
-1196,Guzerat (Gozurat, 
-1197,G�ring, 
-1198,G�l, 
-1199,Haast, 
-1200,Habsh (Abash, 
-1201,Hab�b-ullah of Khotan, 
-1202,Hadhramaut (Sessania Adrumetorum), 
-1203,Hadiah, 
-1204,Haffer, 
-1205,Hai-nan, 
-1206,Hairy men in Sumatra, 
-1207,Hajji Mahomed, 
-1208,Hakeddin, 
-1209,Half-breeds, 
-1210,Hamd Allah Mastaufi, 
-1211,Hamilton, 
-1212,Hammer�Purgstall on Marco Polo, 
-1213,Hamza Pants�ri, 
-1214,Hamza of Ispahan, 
-1215,Ham�m Arabs, 
-1216,Han Yu, 
-1217,Han dynasty, 
-1218,Han-chung (Cuncun), 
-1219,Han-kau, 
-1220,Hanbury, 
-1221,Hang-chau fu, 
-1222,Hanjam, 
-1223,Hansi, 
-1224,Harhaura, 
-1225,Harlez, 
-1226,Harran, 
-1227,Harshadeva, 
-1228,Harsuddi, 
-1229,Haru, 
-1230,Hash�sh�n, 
-1231,Hasik, 
-1232,Hassan, 
-1233,Hass�n Kal�, 
-1234,Hastings, 
-1235,Hatan, 
-1236,Haunted deserts, 
-1237,Havret, 
-1238,Hawks, 
-1239,Hayton I. (Hethum, 
-1240,Hazbana, 
-1241,Haz�ras, 
-1242,He-lung Kiang, 
-1243,Heat, 
-1244,Heaven, 
-1245,Hedin, 
-1246,Hei-shui (Mongol Etsina) River, 
-1247,Heibak, 
-1248,Height, 
-1249,Heikel, 
-1250,Hel, 
-1251,Helena, 
-1252,Helli, 
-1253,Hemp of Kwei-chau, 
-1254,Henry II, 
-1255,Henry III, 
-1256,Heraclius, 
-1257,Herat, 
-1258,Hereditary trades, 
-1259,Hereford, 
-1260,Hermenia, 
-1261,Hermits of Kashmir, 
-1262,Herodotus, 
-1263,Hethum, 
-1264,Hiai � or Kiai-chau (Caichu?), 
-1265,Hides (See Leather.), 
-1266,Hili, 
-1267,Hill-people of Fo-kien, 
-1268,Hinaur, 
-1269,Hind, 
-1270,Hindu character, 
-1271,Hindus, 
-1272,Hing-hwa, 
-1273,Hippopotamus� teeth, 
-1274,Hips, 
-1275,Hirth, 
-1276,Hiuan�Tsung, 
-1277,Hiuen Tsang, 
-1278,Ho-nhi, 
-1279,Hoang-ho,Location
-1280,Hochau, 
-1281,Hochung-fu (Cachanfu), 
-1282,Hodgson, 
-1283,Hoernle, 
-1284,Hojos, 
-1285,Hokien-fu (Cacanfu), 
-1286,Hokow, 
-1287,Holcombe, 
-1288,Hollingworth, 
-1289,Holy Sepulchre, 
-1290,Homeritae, 
-1291,Homi-cheu, 
-1292,Hondius map, 
-1293,Hooker, 
-1294,Hoolaku,Person
-1295,Horiad (Oirad, 
-1296,Hormuz (Hormos, 
-1297,Hormuzdia, 
-1298,Horns of Ovis Poli, 
-1299,Horoscopes, 
-1300,Horsburgh,Person
-1301,Horse-posts and Post-houses, 
-1302,Horse-stealing, 
-1303,Horses, 
-1304,Hosie, 
-1305,Hospitals, 
-1306,Hostelries, 
-1307,Hot springs in Armenia, 
-1308,Hounds, 
-1309,Hours, 
-1310,Hsi Hsia dynasty, 
-1311,Hu-chau fu (Vuju), 
-1312,Hui-hui, 
-1313,Hukaji (Hog�chi, 
-1314,Hukwan-hien, 
-1315,Hullukluk, 
-1316,Human fat, 
-1317,Humboldt, 
-1318,Hum�y�n, 
-1319,Hun-ho (Sanghin River), 
-1320,Hundred Eyes, 
-1321,Hung Hao, 
-1322,Hungary, 
-1323,Huns invade Europe,
-1324,Hunting equipment and Expedition, 
-1325,Hun�war (Onore, 
-1326,Hutton, 
-1327,Hwa-chau, 
-1328,Hwai River, 
-1329,Hwai-lu, 
-1330,Hwai-ngan-fu (Coiganju), 
-1331,Hwan-ho, 
-1332,Hwang-ho (Yellow River, 
-1333,Hyena, 
-1334,Hyrcania, 
-1335,H�lak� Khan (Alau, 
-1336,Iabadiu, 
-1337,Ibn Batuta (Moorish traveller, 
-1338,Ibn Fozl�n, 
-1339,Ibn-al-Fur�t, 
-1340,Ichin-hien, 
-1341,Ichthyophagous cattle and people, 
-1342,Icon Amlac, 
-1343,Iconium,Location
-1344,Iconium (Kuniyah, 
-1345,Idolatry (Buddhism) and Idolaters, 
-1346,Idols, 
-1347,Ieu, 
-1348,Ifat, 
-1349,Ig, 
-1350,Igba Zion, 
-1351,Ilchi, 
-1352,Ilchigadai Khan, 
-1353,Ilija, 
-1354,Ilkhan, 
-1355,Ily�ts, 
-1356,Im Thurn, 
-1357,Im�ms of the Ismailites, 
-1358,Incense, 
-1359,India, 
-1360,Indian drugs to prolong life, 
-1361,Indies, 
-1362,Indifference, 
-1363,Indigo, 
-1364,Indo�China, 
-1365,Indragiri River, 
-1366,Infants, 
-1367,Ingushes of Caucasus, 
-1368,Innocent IV, 
-1369,Innocent IV.,Person
-1370,Inscription, 
-1371,Insult, 
-1372,Intramural interment prohibited, 
-1373,Invulnerability, 
-1374,Irghai, 
-1375,Irish, 
-1376,Iron, 
-1377,Iron Gate (Derbend Pass, 
-1378,Irtish River, 
-1379,Isaac, 
-1380,Isabel, 
-1381,Isabeni, 
-1382,Isentemur (Sentemur, 
-1383,Ish, 
-1384,Ish-K�shm, 
-1385,Iskandar, 
-1386,Islands, 
-1387,Islands of the Oriental Archipelago,Location
-1388,Isle d�Orleans, 
-1389,Isle of Rubies (Ceylon), 
-1390,Ismailites, 
-1391,Ismalies or Assassins,Person
-1392,Isma�l, 
-1393,Ispahan (Istanit, 
-1394,Israel in China, 
-1395,Iteration, 
-1396,Ivongo, 
-1397,Ivory trade, 
-1398,Izzuddin Muzaffar, 
-1399,I�tsing, 
-1400,Jacinth, 
-1401,Jacobite Christians, 
-1402,Jacobs, 
-1403,Jade stone (jasper) of Khotan, 
-1404,Jaeschke, 
-1405,Jaffa, 
-1406,Jaip�l, 
-1407,Jal�ludd�n of Khwarizm, 
-1408,Jamaluddin, 
-1409,Jambi River, 
-1410,James of Aragon, 
-1411,Jam�ludd�n-al-Thaibi, 
-1412,Jam�i Kh�t�n, 
-1413,Jangama sect, 
-1414,Janibeg, 
-1415,Japan,Location
-1416,Japanese paper-money, 
-1417,Jaroslawl, 
-1418,Jaspar (Gaspar, 
-1419,Jasper and chalcedony, 
-1420,Jatolic, 
-1421,Jauchau, 
-1422,Java,Location
-1423,Jawa, 
-1424,Jaya�Sinhavarman II, 
-1425,Jazirah, 
-1426,Ja�zg�n, 
-1427,Jehang�r (Jehan, 
-1428,Jenkinson, 
-1429,Jerusalem, 
-1430,Jer�n (Zarun, 
-1431,Jesuit maps, 
-1432,Jesujabus, 
-1433,Jews, 
-1434,Jibal, 
-1435,Jibal-ul-Thab�l, 
-1436,Jiruft, 
-1437,Jogis (Chughi), 
-1438,John XXII, 
-1439,Johnson, 
-1440,Johnston, 
-1441,Johore, 
-1442,Jomard,
-1443,Jon (Jihon, 
-1444,Jor-fattan (Baliapatan), 
-1445,Jordanus, 
-1446,Josephus, 
-1447,Jubb River, 
-1448,Judi, 
-1449,Jugglers, 
-1450,Juggling extraordinary, 
-1451,Juji, 
-1452,Juju (Cho-chau), 
-1453,Julman, 
-1454,Junghuhn, 
-1455,Junks. (See also Ships.), 
-1456,Jup�r, 
-1457,Justice, 
-1458,Justinian, 
-1459,Juzg�na (Dogana, 
-1460,Juzg�na (Dogana), 
-1461,J�jnagar, 
-1462,J�misfulah (Gauenispola), 
-1463,Kaan, 
-1464,Kaans, 
-1465,Kabul, 
-1466,Kadapah, 
-1467,Kafchi-k�e, 
-1468,Kahn-i-Panchur, 
-1469,Kaidu,Person
-1470,Kaidu (Caidu) Khan, 
-1471,Kaifung-fu, 
-1472,Kaikhosru I. and III, 
-1473,Kaikh�tu (Kiacatu, 
-1474,Kaikus, 
-1475,Kain-du,Location
-1476,Kaipingfu (Keibung, 
-1477,Kairat-ul-Arab, 
-1478,Kais, 
-1479,Kaisar�ya (Caesaraea, 
-1480,Kajjala, 
-1481,Kakateya, 
-1482,Kakhyens, 
-1483,Kakula, 
-1484,Kalajan (Calachan), 
-1485,Kalantan, 
-1486,Kala� Atishparastan (Cala Ataperistan, 
-1487,Kala� Safed, 
-1488,Kalchi, 
-1489,Kales Devar, 
-1490,Kalgan, 
-1491,Kalh�t (Kalh�t�, 
-1492,Kalid�sa, 
-1493,Kalinga, 
-1494,Kalinjar, 
-1495,Kal�m�r, 
-1496,Kamasal (Conosalmi, 
-1497,Kambala, 
-1498,Kambalu (Pe-king),Location
-1499,Kamboja (Chinla), 
-1500,Kamb�yat (Cambay), 
-1501,Kampar, 
-1502,Kamul (Khamil or Hamil),Location
-1503,Kamul (Komal, 
-1504,Kam�l Malik, 
-1505,Kam�rah, 
-1506,Kanauj, 
-1507,Kanbalu Island, 
-1508,Kanch�u (Campichu), 
-1509,Kandah�r, 
-1510,Kandy, 
-1511,Kanerkes, 
-1512,Kang-hi, 
-1513,Kangigu,Location
-1514,Kank, 
-1515,Kanp�u (Ganpu, 
-1516,Kansan, 
-1517,Kansuh, 
-1518,Kan�t-ul-Sh�m (Conosalmi), 
-1519,Kao Hoshang, 
-1520,Kao-yu (Cayu), 
-1521,Kao�Tsung, 
-1522,Kapilavastu, 
-1523,Kapukada, 
-1524,Karakorum,Location
-1525,Karakorum (Caracoron, 
-1526,Karakorum (Caracoron), 
-1527,Karamoran (Hoang-ho),Location
-1528,Karan�t, 
-1529,Karaunahs (Caraonas, 
-1530,Karazan,Location
-1531,Kara�n Jidun, 
-1532,Kardandan,Location
-1533,Karens, 
-1534,Karmathian, 
-1535,Karn�l, 
-1536,Karra-M�nikp�r, 
-1537,Karrah, 
-1538,Kartazonon, 
-1539,Kar� Hulun, 
-1540,Kar� Khoja, 
-1541,Kar�j�ng (Carajan, 
-1542,Kar�khitaian Empire, 
-1543,Kar�k�sh (�black jade�) River, 
-1544,Kar�m�ren (Caramoran) River, 
-1545,Kar�ni (vulgo Cranny), 
-1546,Kasaidi Arabs, 
-1547,Kashan, 
-1548,Kashmiris, 
-1549,Kashm�r (Keshimur, 
-1550,Kasia, 
-1551,Kasyapa Buddha, 
-1552,Kataghan, 
-1553,Kataia,
-1554,Katar pirates, 
-1555,Katif, 
-1556,Kattiaw�r, 
-1557,Kaulam, 
-1558,Kaulam�Mal�, 
-1559,Kauli (Cauly, 
-1560,Kaunchi (Conchi, 
-1561,Kavv�yi, 
-1562,Kayten, 
-1563,Kazan, 
-1564,Kazbek, 
-1565,Kazv�n (Casvin), 
-1566,Kaz�winah, 
-1567,Ka�kobad I. and III, 
-1568,Keary, 
-1569,Kehran, 
-1570,Keiaz tribe, 
-1571,Keibung (Kaipingfu), 
-1572,Kelinfu (Kienning-fu, 
-1573,Kemenfu, 
-1574,Kenjanfu (Si-ngan fu), 
-1575,Keraits, 
-1576,Kerala, 
-1577,Keria, 
-1578,Keriza River, 
-1579,Kerm�n, 
-1580,Kerulen (K�i-lien) valley, 
-1581,Keshican (Keshikten, 
-1582,Kesimur (Cashmere),Location
-1583,Kesmacoran (Kij Makr�n, 
-1584,Kesmacoran (Mekran),Location
-1585,Keuyung Kwan, 
-1586,Khak�n, 
-1587,Khalif (Calif) Mosta�Sim Billah of Baghdad, 
-1588,Khambavati (Cambay), 
-1589,Khanabad (Dogana?), 
-1590,Khanfu, 
-1591,Khanikoff, 
-1592,Khanoolla (Mount Royal, 
-1593,Khans�, 
-1594,Kharesem, 
-1595,Khato-tribe, 
-1596,Khavailu (Hwo-lu h�ien), 
-1597,Khazars, 
-1598,Khilak, 
-1599,Khimka, 
-1600,Khinsa, 
-1601,Khitan, 
-1602,Khmer, 
-1603,Khodabanda, 
-1604,Khojas, 
-1605,Khorasan, 
-1606,Khormuzda, 
-1607,Khotan (Cotan, 
-1608,Khoten,Location
-1609,Khumbavati (Cambay), 
-1610,Khumd�n, 
-1611,Khusr�, 
-1612,Khutuktai Setzen, 
-1613,Khwarizm, 
-1614,Kh�n B�dshah of Khotan, 
-1615,Kh�nbal�k, 
-1616,Kh�t�n-gol, 
-1617,Kia Tsing, 
-1618,Kia-k�ing, 
-1619,Kiacatu, 
-1620,Kiahing (Ciangan, 
-1621,Kiai � or Hiai-chau (Caichu), 
-1622,Kiakhta, 
-1623,Kiang, 
-1624,Kiang-mai, 
-1625,Kiang-su, 
-1626,Kiang-suy (-shui) River, 
-1627,Kiangka, 
-1628,Kiangshan, 
-1629,Kiangsi, 
-1630,Kiangtheu, 
-1631,Kiang�Ch�, 
-1632,Kiang�Hung, 
-1633,Kiang�Tung, 
-1634,Kiao-chi (Tungking, 
-1635,Kiaproth,
-1636,Kichau Castle, 
-1637,Kieh�Ch�a, 
-1638,Kien-chau, 
-1639,Kien-kw�, 
-1640,Kien-lung, 
-1641,Kien-ning fu (Kelinfu), 
-1642,Kiepert, 
-1643,Kiev,Location
-1644,Kij�Makr�n (Kesmacoran), 
-1645,Kila�-i-Gabr, 
-1646,Kilimanchi River, 
-1647,Kiming shan Mountains, 
-1648,Kin, 
-1649,Kin-hwa fu, 
-1650,Kin-sai or Quin-sai (Hang-tcheou-fou),Location
-1651,Kin-sha Kiang, 
-1652,Kincha, 
-1653,King of the Abraiaman, 
-1654,King-t�-ch�n, 
-1655,Kings of Maabar, 
-1656,Kingsmill, 
-1657,Kinki, 
-1658,Kinsay (King-sz�), 
-1659,Kinshan, 
-1660,Kinto, 
-1661,Kin�Chi, 
-1662,Kipchak (Ponent), 
-1663,Kirghiz, 
-1664,Kirghiz Kazak, 
-1665,Kirghiz-tribe,Organization
-1666,Kiria, 
-1667,Kirk, 
-1668,Kis, 
-1669,Kishik, 
-1670,Kishm (Casem), 
-1671,Kistna River, 
-1672,Kitubuka, 
-1673,Kiu-chau, 
-1674,Kiulan (Quilon, 
-1675,Kizil Irmak, 
-1676,Kizil River, 
-1677,Kneeling oxen, 
-1678,Ko-li-ki-sze, 
-1679,Kobad, 
-1680,Kobdo, 
-1681,Kogatai,Person
-1682,Koh�Ban�n (Cobinan), 
-1683,Koi-gan-zu (Hoai-ngan-fou),Location
-1684,Koja (Coja), 
-1685,Kokcha River, 
-1686,Kolastri, 
-1687,Kolkhoi of Ptolemy, 
-1688,Kollam, 
-1689,Koloman, 
-1690,Kolyma, 
-1691,Kom�r, 
-1692,Kondachi, 
-1693,Konkan, 
-1694,Kon�r tree, 
-1695,Koresh king, 
-1696,Kosakio, 
-1697,Kosseir, 
-1698,Kotcheres, 
-1699,Kotlogh, 
-1700,Kotlogh Shah, 
-1701,Kotou,
-1702,Kotrobah Island, 
-1703,Kouyunjik, 
-1704,Kozlov, 
-1705,Ku-kwan, 
-1706,Kuang-chou, 
-1707,Kublai Khan,Person
-1708,Kuch� character, 
-1709,Kuhistan, 
-1710,Kukin-T�na, 
-1711,Kukju (Genkju), 
-1712,Kuku�Khotan (Blue Town), 
-1713,Kulasaikera, 
-1714,Kul�b, 
-1715,Kul�n, 
-1716,Kumhari, 
-1717,Kumiz, 
-1718,Kumm�jar, 
-1719,Kum�r, 
-1720,Kunduz, 
-1721,Kunduz�Baghl�n, 
-1722,Kung-ki-cheng (Fei-ch�eng), 
-1723,Kungur�ts, 
-1724,Kuniyah (Conia, 
-1725,Kunlun (Pulo Condore), 
-1726,Kurd dynasty, 
-1727,Kurdistan (Curdistan), 
-1728,Kurds,Person
-1729,Kuria Maria Islands, 
-1730,Kuridai, 
-1731,Kurmishi, 
-1732,Kurshids of L�rist�n, 
-1733,Kus, 
-1734,Kushluk, 
-1735,Kutan, 
-1736,Kutchluk Khan (Buddhist, 
-1737,Kutuktemur, 
-1738,Kutulun, 
-1739,Kuwinji, 
-1740,Kuyuk Khan,Person
-1741,Kwa-chau (Caiju, 
-1742,Kwan Hsien, 
-1743,Kwansinfu, 
-1744,Kwawa, 
-1745,Kwei-chau (Cuiju), 
-1746,Kwei-hwa-ch�eng, 
-1747,Kweilei River, 
-1748,Kyung-sang province, 
-1749,K�firs of Hindu Kush, 
-1750,K�il, 
-1751,K�lik�t, 
-1752,K�shgar (Cascar, 
-1753,K�veri River, 
-1754,K�veripattanam, 
-1755,K�yal, 
-1756,K��n (Gh��n, 
-1757,K�ben�n (Cobinan, 
-1758,K�bl�i (Cublay), 
-1759,K�kachin, 
-1760,K�nb�rn Monastery, 
-1761,K�reh-i-Ardesh�r (Kuw�sh�r), 
-1762,K�ien-ch�ang, 
-1763,K�ing-y�an (Ning-po), 
-1764,Lac (Wallachia, 
-1765,Ladies of Kinsay, 
-1766,Ladies� dresses in Badakhshan, 
-1767,Lagong, 
-1768,Lahore (Dalivar), 
-1769,Lahsa, 
-1770,Laias (Aias),Location
-1771,Lake, 
-1772,Laknaoti, 
-1773,Lakshamana Deva, 
-1774,Lamas of Tibetan Buddhism, 
-1775,Lambri, 
-1776,Lan Ki Hien (Nan�Che-hien), 
-1777,Lan-tsang kiang (Mekong) River, 
-1778,Lances of Sago Palm, 
-1779,Lanchang, 
-1780,Land of Darkness, 
-1781,Langdarma, 
-1782,Langting Balghasun, 
-1783,Languages used in Mongol Court and administration, 
-1784,Lanja B�l�s, 
-1785,Lanka (Ceylon), 
-1786,Lanner Falcons, 
-1787,Lan�Ho, 
-1788,Laos, 
-1789,Lao�Kiun, 
-1790,Lar,Location
-1791,Latin version of Polo�s Book, 
-1792,Latins, 
-1793,Lats�, 
-1794,Lauredano, 
-1795,Lawek, 
-1796,Laxities of marriage customs, 
-1797,Layard, 
-1798,Layas, 
-1799,Le Strange, 
-1800,Leather, 
-1801,Leaves, 
-1802,Lecomte on Chinese war vessels, 
-1803,Lembeser, 
-1804,Lenzin, 
-1805,Leon I, 
-1806,Leon II, 
-1807,Leon III, 
-1808,Leon VI, 
-1809,Leopards, 
-1810,Lepechin, 
-1811,Leung Shan, 
-1812,Levant, 
-1813,Lew-sha, 
-1814,Lewchew, 
-1815,Lewis, 
-1816,Lewis XI. and XII. (France), 
-1817,Leyes, 
-1818,Lh�sa, 
-1819,Li H�ien, 
-1820,Li Yuan-hao, 
-1821,Li-kiang fu, 
-1822,Liampo (Ningpo), 
-1823,Liang, 
-1824,Liang-chau in Kansuh, 
-1825,Liao dynasty, 
-1826,Liao-tong, 
-1827,Libanos, 
-1828,Licinius, 
-1829,Lid� (Liti), 
-1830,Lieuli Ho, 
-1831,Lign-aloes (eagle-wood, 
-1832,Ligor, 
-1833,Lin-gui,Location
-1834,Lin-ngan (Hang-chau), 
-1835,Lin-ngan in Yun-nan, 
-1836,Lin-t�sing chau, 
-1837,Lindley, 
-1838,Lindsay, 
-1839,Linju, 
-1840,Lintching-y, 
-1841,Lion and Sun, 
-1842,Lions,
-1843,Lion�s Head Tablets, 
-1844,Lisbon, 
-1845,Lissu, 
-1846,Litai, 
-1847,Litan rebels against Kublai,
-1848,Lithang, 
-1849,Little Orphan Rock, 
-1850,Lit�n, 
-1851,Liu Pang, 
-1852,Liu Pei (Luo P�, 
-1853,Livres of gold, 
-1854,Lo, 
-1855,Lob, 
-1856,Locac, 
-1857,Lochac (Camaboia),Location
-1858,Lockhart, 
-1859,Lolo tribes, 
-1860,Longevity of Brahmins and Jogis, 
-1861,Longfellow, 
-1862,Lop,Location
-1863,Lophaburi, 
-1864,Loping, 
-1865,Lor, 
-1866,Lord, 
-1867,Louis,Person
-1868,Loups cerviers (lynx), 
-1869,Low castes, 
-1870,Lowatong River, 
-1871,Loyang, 
-1872,Lu-tzu tribe, 
-1873,Lubbies, 
-1874,Lub�n, 
-1875,Lub�n-J�wi, 
-1876,Lub�n-Shehri, 
-1877,Lucky and unlucky hours and days, 
-1878,Luddur Deo, 
-1879,Luh-ho-ta Pagoda, 
-1880,Lukon�Kiao (Hun-ho, 
-1881,Lukyn Port, 
-1882,Lung-yin, 
-1883,Lusignan, 
-1884,Lynxes, 
-1885,L�jwurd mines, 
-1886,L�ss, 
-1887,L�ristan (Lor, 
-1888,L�t, 
-1889,Ma Twan-lin, 
-1890,Ma-t�eu (Matu), 
-1891,Maabar,Location
-1892,Maaden, 
-1893,Maatum, 
-1894,Macartney�s Map, 
-1895,Macgregor, 
-1896,Maclagan, 
-1897,Madagascar,Location
-1898,Madagascar (Madeigascar), 
-1899,Madar�Des, 
-1900,Madjgars, 
-1901,Madras, 
-1902,Madura, 
-1903,Maestro, 
-1904,Magadha, 
-1905,Magadoxo, 
-1906,Magapatana, 
-1907,Magi, 
-1908,Magic, 
-1909,Magical darkness (dry fog and dust storms), 
-1910,Magnet, 
-1911,Magyars, 
-1912,Mahar Aml�k, 
-1913,Mahavan, 
-1914,Mahmudiah Canal, 
-1915,Mahm�d Kalh�ti, 
-1916,Mahm�d of Ghazni, 
-1917,Mahomed, 
-1918,Mahomed (Mahommet), 
-1919,Mahomedan revolts in China, 
-1920,Mahomedans (Saracens), 
-1921,Mailap�r (Shrine of St. Thomas), 
-1922,Mailla's translation of the Chinese History,
-1923,Maiman, 
-1924,Maitreya Buddha, 
-1925,Majapahit, 
-1926,Majar (Menjar), 
-1927,Major, 
-1928,Makdashan, 
-1929,Malabar, 
-1930,Malacca,
-1931,Malaiur, 
-1932,Malasgird, 
-1933,Malay Peninsula, 
-1934,Malayo, 
-1935,Malcolm, 
-1936,Maldive Islands, 
-1937,Male and Female,Location
-1938,Male and Female Islands, 
-1939,Malifattan, 
-1940,Malik al Dh�hir, 
-1941,Malli, 
-1942,Malpiero, 
-1943,Malte�Brun, 
-1944,Malwa, 
-1945,Mal� in Burma, 
-1946,Mal�Amir, 
-1947,Mamaseni, 
-1948,Mamre, 
-1949,Man, 
-1950,Manchu dynasty, 
-1951,Mancopa, 
-1952,Mandal� in Burma, 
-1953,Mandarin language, 
-1954,Mangalai, 
-1955,Mangalore, 
-1956,Mangalu,Person
-1957,Mangla and Nebila Islands, 
-1958,Mangonels made by Polos for attack of Saianfu, 
-1959,Mangou,Person
-1960,Mangu (Mangk�, 
-1961,Mangu�Temur (Mungultemur), 
-1962,Manjanikis (Mangonellas). (See Mangonels.), 
-1963,Manji,Location
-1964,Manjushri, 
-1965,Manj�n�k (Manjaniki, 
-1966,Manj�n�k (Manjaniki), 
-1967,Manphul, 
-1968,Mansur Shah, 
-1969,Mantz�, 
-1970,Manuel, 
-1971,Manufactures, 
-1972,Manuscripts of Polo�s Book, 
-1973,Manzi (Facfur), 
-1974,Map, 
-1975,Mapillas, 
-1976,Maps, 
-1977,Mar Sarghis, 
-1978,Marabia, 
-1979,Marah Silu, 
-1980,Marash, 
-1981,Maratha, 
-1982,Mardin (Merdin), 
-1983,Mare�s milk, 
-1984,Margaritone, 
-1985,Marignolli, 
-1986,Market days, 
-1987,Markets in Kinsay, 
-1988,Marks of Silver, 
-1989,Marriage customs in Khotan, 
-1990,Marsden,Person
-1991,Marsden�s edition of Polo, 
-1992,Martin, 
-1993,Martini,Person
-1994,Martyrs, 
-1995,Mashhad (Meshed, 
-1996,Mashiz, 
-1997,Maskat, 
-1998,Mastiff Dogs, 
-1999,Mastiffs of Tibet, 
-2000,Mastodon, 
-2001,Masulipatam,Location
-2002,Mas�ud II, 
-2003,Mas�udi, 
-2004,Matchlocks, 
-2005,Mati Dhivaja, 
-2006,Matityna (Martinique), 
-2007,Matit�nana, 
-2008,Maundevile, 
-2009,Maung Maorong, 
-2010,Mauro, 
-2011,Mausul (Mosul), 
-2012,Mayers, 
-2013,Mayhew, 
-2014,Mazand�ran, 
-2015,Ma�bar (Maabar), 
-2016,Medressehs at Sivas, 
-2017,Mekhitar, 
-2018,Mekong River (Lan-tsang kiang), 
-2019,Mekr�n, 
-2020,Mekr�nis, 
-2021,Melchior, 
-2022,Melibar, 
-2023,Melibar (Malabar),Location
-2024,Melic, 
-2025,Melons, 
-2026,Menangkabau, 
-2027,Mendoza, 
-2028,Menezes, 
-2029,Mengki, 
-2030,Menjar (M�jar?), 
-2031,Menuvair and Grosvair, 
-2032,Merghuz Boir�k Khan, 
-2033,Merkit (Mecrit, 
-2034,Meshid (more correctly Mashhad), 
-2035,Messengers, 
-2036,Mexico, 
-2037,Meyer, 
-2038,Miafarakain, 
-2039,Miau-tzu, 
-2040,Mien,Location
-2041,Mikado, 
-2042,Military engines of the Middle Ages, 
-2043,Milk, 
-2044,Million, 
-2045,Millione, 
-2046,Millioni, 
-2047,Milne, 
-2048,Min River (in Fokien, 
-2049,Min River (in Fokien), 
-2050,Minao district, 
-2051,Mines and Minerals, 
-2052,Minever, 
-2053,Ming, 
-2054,Ming-ti, 
-2055,Mingan, 
-2056,Minj�n, 
-2057,Minotto, 
-2058,Mint, 
-2059,Mintsing-hien, 
-2060,Mious River, 
-2061,Miracle Stories, 
-2062,Mirkhond, 
-2063,Mirobolans, 
-2064,Missionary Friars, 
-2065,Moa of New Zealand, 
-2066,Modhafferians, 
-2067,Modun Khotan (�Wood-ville�), 
-2068,Moghistan, 
-2069,Mohammed, 
-2070,Mohammerah, 
-2071,Mohiuddin, 
-2072,Mokli, 
-2073,Molayu, 
-2074,Molebar, 
-2075,Molephatan, 
-2076,Moli�re, 
-2077,Moluccas, 
-2078,Mombasa, 
-2079,Momein, 
-2080,Monasteries of Idolaters (Buddhists), 
-2081,Money, 
-2082,Money of the great khan,
-2083,Mongol Emperors,Person
-2084,Mongol conquests, 
-2085,Mongols,Organization
-2086,Mongon Khan, 
-2087,Mongotay (Mangkutai, 
-2088,Monkeys, 
-2089,Monks, 
-2090,Monnier, 
-2091,Monoceros and Maiden, 
-2092,Monophysitism, 
-2093,Monsoons, 
-2094,Monte d�Ely, 
-2095,Montecorvino, 
-2096,Montgomerie, 
-2097,Monument at Si-ngan fu, 
-2098,Moon, 
-2099,Moore, 
-2100,Moplas, 
-2101,Morgan, 
-2102,Mortagne, 
-2103,Moscow, 
-2104,Mosolin, 
-2105,Mossos, 
-2106,Mosta�sim Billah, 
-2107,Mosul,Location
-2108,Mosul (Mausul), 
-2109,Motapall�, 
-2110,Motawakkil, 
-2111,Moule, 
-2112,Mount, 
-2113,Mountain, 
-2114,Mourning customs, 
-2115,Mozambique Channel, 
-2116,Muang, 
-2117,Mulberry Trees, 
-2118,Multan, 
-2119,Mul�hidah (Mulehet), 
-2120,Mul�Java, 
-2121,Mung (Nicaea), 
-2122,Mungasht, 
-2123,Mungul, 
-2124,Mungul�Temur and Mongo�Temur, 
-2125,Murad Beg, 
-2126,Murghab River, 
-2127,Murray, 
-2128,Murus Ussu (Brius, 
-2129,Mus, 
-2130,Musa՜d, 
-2131,Musk,
-2132,Muslin, 
-2133,Mutfili (Motapall� for Telingana), 
-2134,Muza, 
-2135,Mynibar, 
-2136,Mysore, 
-2137,Mystic number, 
-2138,M�chin, 
-2139,M�d�i, 
-2140,M�n, 
-2141,M�ramangalam, 
-2142,M�tzner, 
-2143,M�rat, 
-2144,M�n�l pheasant (Lopophorus impeyanus), 
-2145,M�ller, 
-2146,Nac, 
-2147,Nakk�ra (Naccara), 
-2148,Nalanda, 
-2149,Nan-ghin (Nan-King),Location
-2150,Nancouri, 
-2151,Nanghin (Ngan-king), 
-2152,Nangiass, 
-2153,Nankau, 
-2154,Nanking, 
-2155,Nanwuli, 
-2156,Nan�Chao, 
-2157,Naobanj�n, 
-2158,Naoshirwan, 
-2159,Naphtha in the Caucasian country, 
-2160,Napier, 
-2161,Napoleon III, 
-2162,Narikela�Dvipa, 
-2163,Narin�Kaleh, 
-2164,Narkandam, 
-2165,Narsinga, 
-2166,Narwhal tusk, 
-2167,Nasich, 
-2168,Nasruddin (Nescradin), 
-2169,Nassir-uddin, 
-2170,Natigay, 
-2171,Navapa (Lop?), 
-2172,Nava�Khanda, 
-2173,Naversa (ancient Anazarbus, 
-2174,Nayan,Person
-2175,Nebila and Mangla islands, 
-2176,Nebuchadnezzar, 
-2177,Necklaces, 
-2178,Necuveran, 
-2179,Necuveran (Nicobar) Islands,
-2180,Negapatam, 
-2181,Negroes described, 
-2182,Negropont, 
-2183,Nellore, 
-2184,Nemej, 
-2185,Nerghi, 
-2186,Nescardin,Person
-2187,Nescradin, 
-2188,Nestorian Christians, 
-2189,Nestorian Christians and Jacobites,
-2190,Nestorius, 
-2191,Neverg�n Pass, 
-2192,New Year Festival at K�bl�i�s Court, 
-2193,Neza Tash Pass, 
-2194,Ngan-king (Nanghin), 
-2195,Ngan-ning-ho River, 
-2196,Ngantung, 
-2197,Ngo-ning, 
-2198,Nia (ancient Ni-jang, 
-2199,Nias Island, 
-2200,Nibong Palm, 
-2201,Nicaea of Alexander, 
-2202,Nicholson, 
-2203,Nicobar (Necuveran) Islands, 
-2204,Nicolas, 
-2205,Nicolas IV, 
-2206,Nicolas of Pistoia, 
-2207,Nieuhoff, 
-2208,Nigudar (Nogodar, 
-2209,Nigudarian bands, 
-2210,Nilaw�r (Nellore), 
-2211,Nile, 
-2212,Nileshwaram, 
-2213,Nine, 
-2214,Nine Provinces (India), 
-2215,Ning-hsia, 
-2216,Ning-yuan fu, 
-2217,Ningpo, 
-2218,Niriz, 
-2219,Nirvana, 
-2220,Nishap�r, 
-2221,Niuch� (Yuch�, 
-2222,Noah�s Ark in Armenia, 
-2223,Nobles of Venice, 
-2224,Nochdarizari, 
-2225,Nogai Khan, 
-2226,Nogodar,Person
-2227,Nogodar (Nigudar, 
-2228,Nomad tribes of Persia, 
-2229,Nomogan (Numughan, 
-2230,None, 
-2231,North, 
-2232,North Star, 
-2233,Note Book, 
-2234,Novgorod, 
-2235,Nubia, 
-2236,Nukdaris, 
-2237,Nuks�n Pass, 
-2238,Numbers, 
-2239,Nusi�Ibrahim, 
-2240,Nutmegs, 
-2241,Nyuch�, 
-2242,Oak of Hebron, 
-2243,Oaracta (Kishm, 
-2244,Obedience of Ismaelites, 
-2245,Obi River, 
-2246,Observatory at Peking, 
-2247,Ocean Sea, 
-2248,Ocoloro Island, 
-2249,Odoric, 
-2250,Oger, 
-2251,Ogotai Khan, 
-2252,Oil from the Holy Sepulchre, 
-2253,Oirad, 
-2254,Okkodai Khan, 
-2255,Okkoday Khan,Person
-2256,Olak, 
-2257,Old Man of the Mountain,Person
-2258,Old Man of the Mountain (Aloadin), 
-2259,Olja�tu Khan, 
-2260,Oman, 
-2261,Omens, 
-2262,Onan Kerule, 
-2263,Ondanique (fine kind of steel), 
-2264,Oppert, 
-2265,Orang Gugu, 
-2266,Orang Malayu River, 
-2267,Orbelian, 
-2268,Ordos, 
-2269,Organa (Jer�n), 
-2270,Oriental phrases in Polo�s dictation, 
-2271,Orissa, 
-2272,Orkhon River, 
-2273,Orleans, 
-2274,Oroech, 
-2275,Ostriches, 
-2276,Ostyaks, 
-2277,Otto, 
-2278,Ouang Khan,Person
-2279,Oulatay (Uladai), 
-2280,Owen, 
-2281,Oxen, 
-2282,Oxenham, 
-2283,Oxus Valley and River, 
-2284,Oxus river,Location
-2285,Oxydracae, 
-2286,Pa-yi writing, 
-2287,Pacamuria (Baccanor), 
-2288,Pacauta! (an invocation), 
-2289,Pacem, 
-2290,Paddle-wheel barges, 
-2291,Paderin, 
-2292,Padma Sambhava, 
-2293,Pagaroyang, 
-2294,Paggi Islands, 
-2295,Pagodas, 
-2296,Pag�n (in Burma), 
-2297,Pahang, 
-2298,Pai-yen-ching, 
-2299,Paipurth (Baiburt), 
-2300,Pakwiha, 
-2301,Palace of Khan at Chagannor, 
-2302,Palembang, 
-2303,Palladius, 
-2304,Palm (Measure), 
-2305,Palm Wine, 
-2306,Pamier (Pamir),
-2307,Pandarani, 
-2308,Pandit Manphul, 
-2309,Pandrethan in Kashmir, 
-2310,Pandyan kings, 
-2311,Panja River, 
-2312,Panjkora, 
-2313,Panjshir, 
-2314,Panj�b, 
-2315,Pantaleon, 
-2316,Panth�, 
-2317,Panya (or Pengya, 
-2318,Pan�Asiatic usages, 
-2319,Pao-ki h�ien, 
-2320,Paonano Pao, 
-2321,Paper-money (Chao, 
-2322,Papien River, 
-2323,Pap�, 
-2324,Paquier, 
-2325,Paradise, 
-2326,Paramisura, 
-2327,Paravas, 
-2328,Parez, 
-2329,Pariahs (Paraiyar, 
-2330,Parker, 
-2331,Parliament, 
-2332,Parl�k, 
-2333,Parpa iron mines, 
-2334,Parris,Person
-2335,Parrot, 
-2336,Parrots, 
-2337,Partridges, 
-2338,Parwana, 
-2339,Pary�n silver mines, 
-2340,Par�kr�ma Bahu I, 
-2341,Pascal of Vittoria, 
-2342,Pascia (Peshawer),Location
-2343,Pasei, 
-2344,Pasha and Pashagar tribes, 
-2345,Pashai, 
-2346,Pasha�Afroz, 
-2347,Passo (or Pace, 
-2348,Patarins, 
-2349,Patlam, 
-2350,Patriarchs of Eastern Christians. (See also Catholicos and, 
-2351,Patteik�Kar�, 
-2352,Patterns, 
-2353,Patu, 
-2354,Pau-chym (Pao-yug-shien),Location
-2355,Paukin (Pao-ying), 
-2356,Pauthier, 
-2357,Paved roads in China, 
-2358,Payan, 
-2359,Payangadi, 
-2360,Pa�, 
-2361,Pe-king,Location
-2362,Peaches, 
-2363,Peacocks at St. Thomas�s, 
-2364,Pearls, 
-2365,Pears, 
-2366,Pedir, 
-2367,Pedro, 
-2368,Pegu and Bengal confounded, 
-2369,Pei-chau (Piju), 
-2370,Pein (Bai),Location
-2371,Pein (Pim, 
-2372,Peking, 
-2373,Pelly, 
-2374,Pema-ching, 
-2375,Pemberton, 
-2376,Pentam (Bintang),Location
-2377,Pepper, 
-2378,Pepper Country, 
-2379,Peregrine falcons, 
-2380,Perla (Ferlec), 
-2381,Persia,Location
-2382,Persia and India, 
-2383,Persian Gulf (Sea of India?), 
-2384,Persian applied to language of foreigners at Mongol Court, 
-2385,Pesh�war, 
-2386,Peter, 
-2387,Pharaoh�s rats (Gerboa), 
-2388,Phayre, 
-2389,Pheasants, 
-2390,Pheng (the Rukh), 
-2391,Philip III. and IV. of France, 
-2392,Philip the Fair, 
-2393,Philippine Islands, 
-2394,Phillips, 
-2395,Phipps, 
-2396,Phra R�ma, 
-2397,Phungan, 
-2398,Physician, 
-2399,Physicians, 
-2400,Pi-an-fu(Pin-yang-fou),Location
-2401,Pianfu (P�ing-yang fu, 
-2402,Pianfu (P�ing-yang fu), 
-2403,Pichalok, 
-2404,Pievtsov, 
-2405,Pig-shells, 
-2406,Pigeon posts, 
-2407,Piju (Pei-chau), 
-2408,Pilgrimage, 
-2409,Pima (Pim), 
-2410,Pin-gui (Pi-tcheou),Location
-2411,Pinati, 
-2412,Pine woods in Mongolian desert, 
-2413,Pinna�Cael (Punnei-K�yal), 
-2414,Pipino,Person
-2415,Pirabandi or Bir Pandi (Vira Pandi), 
-2416,Pirada, 
-2417,Pirates of Malabar, 
-2418,Piratical customs at Eli, 
-2419,Pistachioes, 
-2420,Plane, 
-2421,Plano Carpini, 
-2422,Po-sz� (Persia), 
-2423,Pog, 
-2424,Poison, 
-2425,Poison wind, 
-2426,Poisoning guests, 
-2427,Poisonous pasturage, 
-2428,Poland, 
-2429,Pole, 
-2430,Pole-star, 
-2431,Police, 
-2432,Politeness of Chinese, 
-2433,Polo,Location
-2434,Polygamy, 
-2435,Ponent, 
-2436,Pong (Mediaeval Shan State), 
-2437,Poods, 
-2438,Pope of Rome,Person
-2439,Popinjays, 
-2440,Population, 
-2441,Porcelain manufacture, 
-2442,Porcupines, 
-2443,Pork, 
-2444,Posts, 
-2445,Potala at L�hasa, 
-2446,Pottinger, 
-2447,Poultry, 
-2448,Pound, 
-2449,Pozdneiev, 
-2450,Precious stones or gems, 
-2451,Prester John,Person
-2452,Prester John (Unc Can, 
-2453,Prices of horses, 
-2454,Printing, 
-2455,Private names supposed, 
-2456,Prjevalsky, 
-2457,Probation of Jogis, 
-2458,Prophecy regarding Bayan, 
-2459,Prostitutes; at Cambaluc, 
-2460,Provinces, 
-2461,Pseudo�Callisthenes, 
-2462,Ptolemies� trained African elephants, 
-2463,Ptolemy, 
-2464,Pu-ch�eng, 
-2465,Puer and Esmok, 
-2466,Pukan Mien�Wang, 
-2467,Pulad Chingsang, 
-2468,Pulisangan river,Location
-2469,Pulisanghin, 
-2470,Pulo Bras, 
-2471,Pulo Condore (Sondur and Condur), 
-2472,Pulo Gommes (Gauenispola), 
-2473,Pulo Nankai, 
-2474,Pulo W�, 
-2475,Punnei-K�yal, 
-2476,Purchas in his Pilgrims uses Ramusio's edition of Marco Polo's Travels,
-2477,Pur�nas, 
-2478,Putchok, 
-2479,Putu-ho, 
-2480,Pygmies, 
-2481,P�dishah Kh�t�n of Kerman, 
-2482,P�ing-chang, 
-2483,P�ing-yang fu (Pianfu), 
-2484,P�o-yang Lake, 
-2485,P�u-chau fu, 
-2486,Qal�ah Asgher, 
-2487,Qara Ars-l�n Beg, 
-2488,Quails in India, 
-2489,Que-lin-fu (Kien-ning-fou),Location
-2490,Queen of Mutfili, 
-2491,Quen-gian-fu (Si-ngan-fou),Location
-2492,Quicksilver and sulphur potion, 
-2493,Quills of the Ruc, 
-2494,Quilon, 
-2495,Quin-sai,Location
-2496,Qumadin (Camadi, 
-2497,Rabbanta, 
-2498,Rabelais, 
-2499,Radloff, 
-2500,Rain-makers, 
-2501,Rainald, 
-2502,Rainy season, 
-2503,Rajkot leather-work, 
-2504,Rakka, 
-2505,Rama Kamheng, 
-2506,Rameshwaram, 
-2507,Ramnad, 
-2508,Rampart of Gog and Magog, 
-2509,Ramusio, 
-2510,Ramusio's collection of Voyages and Travels,
-2511,Ranking, 
-2512,Raonano�Rao, 
-2513,Rapson, 
-2514,Ras Haili, 
-2515,Rash�dudd�n, 
-2516,Ravenala tree (Urania speciosa), 
-2517,Raw meat eaten, 
-2518,Rawlinson, 
-2519,Reclus, 
-2520,Red Sea, 
-2521,Red gold and red Tangas, 
-2522,Red sect of Lamas, 
-2523,Refraction, 
-2524,Regains his liberty,Person
-2525,Reindeer ridden, 
-2526,Religion, 
-2527,Remission of taxation by K�bl�i, 
-2528,Rennell, 
-2529,Reobarle,Location
-2530,Reobarles (R�db�r, 
-2531,Revenue of Kinsay, 
-2532,Rhinoceros (Unicorn, 
-2533,Rhinoceros of Sumatra,
-2534,Rhins, 
-2535,Rhubarb, 
-2536,Riant, 
-2537,Ricci, 
-2538,Rice, 
-2539,Rice-wine, 
-2540,Richard II, 
-2541,Richthofen, 
-2542,Right and Left, 
-2543,Rio Marabia, 
-2544,Roads radiating from Cambaluc, 
-2545,Robbers in Persia, 
-2546,Robbers� River, 
-2547,Robes distributed by K�bl�i, 
-2548,Roborovsky, 
-2549,Rochefort, 
-2550,Rockets, 
-2551,Rockhill (Rubruck and Diary of a Journey, 
-2552,Rofia palm (sagus ruffia, 
-2553,Rofia palm (sagus ruffia), 
-2554,Rome, 
-2555,Rori�Bakkar, 
-2556,Rosaries, 
-2557,Rostof and Susdal, 
-2558,Roth, 
-2559,Rouble, 
-2560,Roxana, 
-2561,Roze de l�A�ur, 
-2562,Rubies, 
-2563,Rubruquis,Person
-2564,Ruby mines in Badakhshan, 
-2565,Ruc (Rukh, 
-2566,Rudder, 
-2567,Rudra Deva, 
-2568,Rudrama Devi, 
-2569,Rukh, 
-2570,Rukhnuddin, 
-2571,Runiz, 
-2572,Ruomedam�Ahomet, 
-2573,Rupen, 
-2574,Rupert, 
-2575,Russia,
-2576,Russia (Rosia, 
-2577,Russians, 
-2578,Rusticiano of Pisa, 
-2579,Rusticians,Person
-2580,Rust�k, 
-2581,Ruysch�s map, 
-2582,R�in, 
-2583,R�n� Paramit��s Woman Country, 
-2584,R�db�r-i-Lass, 
-2585,R�dkh�nah-i-Duzdi (Robbers� River), 
-2586,R�dkh�nah-i-Shor (Salt River), 
-2587,R�m, 
-2588,R�ppell�s Table of Abyssinian kings, 
-2589,Sa-van-fu (Siang-yang-fou),Location
-2590,Saadi, 
-2591,Saba (Sava, 
-2592,Sabaste, 
-2593,Sable, 
-2594,Sabreddin, 
-2595,Sabzawur, 
-2596,Sacchion (Cha-tcheou),Location
-2597,Sachiu (Sha-chau), 
-2598,Sacrifices of people of Tangut, 
-2599,Saffron, 
-2600,Sagacity of sledge-dogs, 
-2601,Sagamon Borcan, 
-2602,Sagatu, 
-2603,Saggio (16 oz.), 
-2604,Sago, 
-2605,Saianfu, 
-2606,Saif Arad, 
-2607,Saifuddin Nazrat, 
-2608,Saimur (Chaul), 
-2609,Sain Khan (or Batu), 
-2610,Saker falcons, 
-2611,Sakta doctrines, 
-2612,Sakya Muni (Sagamon Borcan) Buddha, 
-2613,Salamander, 
-2614,Salar (Ho-chau), 
-2615,Salem, 
-2616,Salghur, 
-2617,Salsette Island, 
-2618,Salt,Location
-2619,Salwen River, 
-2620,Samagar, 
-2621,Samara, 
-2622,Samarcan (Samarcand),Location
-2623,Samarkand (Samarcan, 
-2624,Sampson, 
-2625,Samudra, 
-2626,Samuel, 
-2627,Sam�na, 
-2628,San Giovanni Grisostomo, 
-2629,San Lorenzo, 
-2630,Sandu, 
-2631,Sanf, 
-2632,Sanglich, 
-2633,Sangon, 
-2634,Sang�n, 
-2635,Sang�Miau, 
-2636,Sanitary effects of Mountain air, 
-2637,Sanjar, 
-2638,Sankin Hoto, 
-2639,Sanuto of Torcelli, 
-2640,Sappan wood, 
-2641,Sapta�Shaila, 
-2642,Sapurgan (Sab�rk�n, 
-2643,Sapurgan(Shibbergaun) city of,
-2644,Sar-i-kol, 
-2645,Saracanco (Saraichik, 
-2646,Saracens,Organization
-2647,Sarai (Sara, 
-2648,Saratov, 
-2649,Sarbizan Pass, 
-2650,Sardines, 
-2651,Sarghalan River, 
-2652,Sarha, 
-2653,Sarhadd River, 
-2654,Sars�ti, 
-2655,Sartach,Person
-2656,Sartak, 
-2657,Sassanian dynasty, 
-2658,Sati, 
-2659,Satin, 
-2660,Sava,Location
-2661,Savast (Siwas), 
-2662,Scanderoon, 
-2663,Scasem, 
-2664,Scassem(Koondooz),Location
-2665,Scherani, 
-2666,Schiltberger, 
-2667,Schindler, 
-2668,Schlegel, 
-2669,Schmidt, 
-2670,Schuyler, 
-2671,Sch�nborn, 
-2672,Scidmore, 
-2673,Scotra, 
-2674,Scotra (Socotra) isle of,Location
-2675,Scythians,Organization
-2676,Sea of Chin, 
-2677,Seal, 
-2678,Sebaste, 
-2679,Sebourc, 
-2680,Sees of Latin Church, 
-2681,Sefav�ehs, 
-2682,Seilan, 
-2683,Seilan (Ceylon),Person
-2684,Self-decapitation, 
-2685,Selitrennoy� Gorodok (Saltpetre Town), 
-2686,Seljukian dynasty, 
-2687,Semal tree, 
-2688,Semedo, 
-2689,Semenat, 
-2690,Semenat (Sumnaut),Location
-2691,Sempad, 
-2692,Sendal, 
-2693,Sendemain, 
-2694,Sender Bandi Davar, 
-2695,Seneca, 
-2696,Senecherim, 
-2697,Seni, 
-2698,Sensin, 
-2699,Sentemur, 
-2700,Sepulchre of Adam, 
-2701,Serano, 
-2702,Serazi (Sh�r�z, 
-2703,Serendib, 
-2704,Sergamon Borcam,
-2705,Serpents, 
-2706,Sertorius, 
-2707,Sesam�, 
-2708,Seth�s mission to Paradise, 
-2709,Sevan Lake, 
-2710,Seven Arts, 
-2711,Severtsoff, 
-2712,Seyyed Barghash, 
-2713,Sha-chau (Sachin, 
-2714,Shabankara, 
-2715,Shabar, 
-2716,Shadow, 
-2717,Shah Abbas, 
-2718,Shah Werdy, 
-2719,Shahr Mandi, 
-2720,Shahr-i-Babek, 
-2721,Shahr-i-Nao (Siam), 
-2722,Shaibani Khan, 
-2723,Shaikhs (Esheks, 
-2724,Shakespeare, 
-2725,Shamanism,
-2726,Shamanism. (See also Devil�Dancing.), 
-2727,Shampath, 
-2728,Shamsuddin Shamatrani, 
-2729,Shamuthera, 
-2730,Shan (Laotian, 
-2731,Shan-hai-kwan, 
-2732,Shan-si, 
-2733,Shan-tung, 
-2734,Shanars of Tinnevelly, 
-2735,Shang-hai, 
-2736,Shangking�Fungking, 
-2737,Shangtu, 
-2738,Shangtu Keibung, 
-2739,Shank�rah, 
-2740,Shao-hing-fu, 
-2741,Shao-ling, 
-2742,Shara-ul-buks (Forest of box on the Black Sea), 
-2743,Sharakhs, 
-2744,Sharks and shark charmers, 
-2745,Shauls, 
-2746,Shaw, 
-2747,Shawls of Kerman, 
-2748,Shaw�nk�ra (Soncara), 
-2749,Sheep, 
-2750,Sheep�s head given to horses, 
-2751,Shehr, 
-2752,Shehrizor (Kerkuk), 
-2753,Shen-si, 
-2754,Shenrabs, 
-2755,Shentseu tribe, 
-2756,Sheuping, 
-2757,Shew�, 
-2758,Shi-tsung, 
-2759,Shibrg�n (Sapurgan), 
-2760,Shieng, 
-2761,Shighnan (Syghinan, 
-2762,Shik�rg�h, 
-2763,Shing-king, 
-2764,Ships, 
-2765,Shireghi, 
-2766,Shirha, 
-2767,Shirwan, 
-2768,Shoa, 
-2769,Shob�aengs of Nicobar, 
-2770,Shodja ed-din Kurshid, 
-2771,Shor�Rud (Salt River), 
-2772,Shot of Military Engines, 
-2773,Shpilevsky, 
-2774,Shut up nations, 
-2775,Shw�li River, 
-2776,Sh�li�t, 
-2777,Sh�r�z (Cerazi), 
-2778,Sh�list�n (Suolstan), 
-2779,Sh�ls of Shauls, 
-2780,Si Hia, 
-2781,Si-fan,Organization
-2782,Si-hu, 
-2783,Si-ngan fu (Kenjanfu, 
-2784,Siam, 
-2785,Siang-yang-fu (Saianfu, 
-2786,Siberia, 
-2787,Sibree, 
-2788,Sick men put to death and eaten by their friends, 
-2789,Siddh�rta, 
-2790,Sidi Ali, 
-2791,Sien, 
-2792,Sifan, 
-2793,Sigatay, 
-2794,Sighelm, 
-2795,Sijist�n, 
-2796,Siju (Suthsian), 
-2797,Sikintinju (Kien-chow), 
-2798,Silesia, 
-2799,Silk, 
-2800,Silver chairs, 
-2801,Simon, 
-2802,Simurgh, 
-2803,Sim�m, 
-2804,Sin-din-fu(Tching-tou-fou) ,Location
-2805,Sin-gui,Location
-2806,Sin-gui (Sou-teheou-fou),Location
-2807,Sin-gui(Tsi-ning-tcheou) city of,
-2808,Sinbad, 
-2809,Sind (Sindhu�Sauvira), 
-2810,Sindachu (Siuen-hwa fu), 
-2811,Sindafu (Chengtu-fu), 
-2812,Sindhu�Sauvira (Sindh-S�gor), 
-2813,Sind�b�r (Goa), 
-2814,Singapore, 
-2815,Singkel, 
-2816,Singphos, 
-2817,Sings, 
-2818,Singtur, 
-2819,Singuyli (Cranganor), 
-2820,Sinhopala (Accambale, 
-2821,Sinju (Si-ning fu, 
-2822,Sinju (Si-ning fu), 
-2823,Sinju-matu, 
-2824,Sinope, 
-2825,Sinugul (Soui-tcheou),Location
-2826,Sir-i-Chashma, 
-2827,Sirikol, 
-2828,Sirocco,
-2829,Sis, 
-2830,Sismondi,
-2831,Sitting in air, 
-2832,Siu chau, 
-2833,Siuen-hwa-fu, 
-2834,Siva, 
-2835,Sivas, 
-2836,Siwast�n, 
-2837,Siwi, 
-2838,Sixtus V, 
-2839,Siyurgutmish, 
-2840,Sladen, 
-2841,Slaves in Bengal, 
-2842,Sledges, 
-2843,Sleeping-mats, 
-2844,Sluices of Grand Canal, 
-2845,Smith, 
-2846,Smith (R.E., 
-2847,Sneezing, 
-2848,Socotra (Scotra, 
-2849,Soer (Suhar), 
-2850,Sofala, 
-2851,Sogoman Borcan, 
-2852,Sol, 
-2853,Soldaia, 
-2854,Soldan, 
-2855,Soldurii, 
-2856,Soli, 
-2857,Solomon, 
-2858,Soltania, 
-2859,Somnath (Semenat, 
-2860,Sonagar-pattanam, 
-2861,Soncara (Shawank�ra), 
-2862,Sondur and Condur (Pulo Condore,
-2863,Sondur and Condur (Pulo Condore Group), 
-2864,Sorcerers, 
-2865,Sornau (Shahr-i-Nau, 
-2866,Sotiates, 
-2867,Soucat, 
-2868,Southey, 
-2869,Spaan, 
-2870,Spice, 
-2871,Spice wood, 
-2872,Spices in China, 
-2873,Spikenard, 
-2874,Spinello Aretini, 
-2875,Spirit drawings and spiritual flowers, 
-2876,Spirits haunting deserts, 
-2877,Spiritualism in China, 
-2878,Spittoons, 
-2879,Spodium (Spodos), 
-2880,Sport and game, 
-2881,Sposk, 
-2882,Springolds, 
-2883,Springs, 
-2884,Sprinkling of drink, 
-2885,Squares at Kinsay, 
-2886,Sri�Thammarat, 
-2887,Sri�Vaikuntham, 
-2888,Sse River, 
-2889,St. Anno of Cologne, 
-2890,St. Barlaam and St. Josafat, 
-2891,St. Barsauma (Barsamo, 
-2892,St. Blasius (Blaise, 
-2893,St. Brandon, 
-2894,St. Buddha, 
-2895,St. Epiphanius, 
-2896,St. George, 
-2897,St. Helena, 
-2898,St. James� Shrine, 
-2899,St. John the Baptist, 
-2900,St. Leonard�s Convent in Georgia, 
-2901,St. Lewis, 
-2902,St. Martin, 
-2903,St. Mary�s Island, 
-2904,St. Matthew, 
-2905,St. Matthew�s Gospel, 
-2906,St. Nina, 
-2907,St. Sabba�s at Acre, 
-2908,St. Thomas, 
-2909,St. Thomas�s Isle, 
-2910,Stack, 
-2911,Star Chart, 
-2912,Star of Bethlehem, 
-2913,Steamers on Yangtse-kiang, 
-2914,Steel mines at Kerm�n, 
-2915,Stefani, 
-2916,Stein, 
-2917,Stiens of Cambodia, 
-2918,Stirrups, 
-2919,Stitched vessels, 
-2920,Stockade erected by Polo�s party in Sumatra, 
-2921,Stone, 
-2922,Stones giving invulnerability, 
-2923,Su-chau (Suju, 
-2924,Su-t�sh, 
-2925,Submersion of part of Ceylon, 
-2926,Subterraneous irrigation, 
-2927,Suburbs of Cambaluc, 
-2928,Subutai, 
-2929,Succiur (Sou-tcheou),Location
-2930,Suchnan River, 
-2931,Sudarium, 
-2932,Sugar, 
-2933,Suh-chau (Sukchur), 
-2934,Suicides before an idol, 
-2935,Sukchur, 
-2936,Sukkothai, 
-2937,Sukum Kala�, 
-2938,Suleiman, 
-2939,Sulphur and quicksilver, 
-2940,Sultan Shah, 
-2941,Sultaniah, 
-2942,Sumatra,Location
-2943,Sumatra (Java the Less, 
-2944,Sumbawa, 
-2945,Summers, 
-2946,Sumutala, 
-2947,Sun and moon, 
-2948,Sundar F�l�t (Pulo Condore Group), 
-2949,Sundara Pandi Devar, 
-2950,Sung, 
-2951,Sunnis and Shias, 
-2952,Suolstan (Shulistan, 
-2953,Superstitions in Tangut, 
-2954,Survival, 
-2955,Sur�Raja, 
-2956,Sushun, 
-2957,Suttee,
-2958,Suttees in S. India, 
-2959,Su�kin, 
-2960,Swans, 
-2961,Swat, 
-2962,Swi-fu, 
-2963,Sword blades of India, 
-2964,Syghinan, 
-2965,Sykes, 
-2966,Sylen (Ceylon), 
-2967,Symbolical messages, 
-2968,Syrian Christians, 
-2969,Sze-ch�wan (Ch�eng-tu, 
-2970,Szech�nyi, 
-2971,S�lih, 
-2972,S�rd� Pass, 
-2973,S�vah (Saba), 
-2974,S�nkal�n, 
-2975,S�rj�n or Shirj�n, 
-2976,S�r�f (Kish, 
-2977,S�st�n, 
-2978,S�ddhodhana, 
-2979,Ta Tsing River, 
-2980,Ta-pa-Shan range, 
-2981,Ta-t�sien-lu, 
-2982,Tabashir, 
-2983,Tabbas, 
-2984,Table of the Great Khan, 
-2985,Tables, 
-2986,Tablet, 
-2987,Tablets of Authority, 
-2988,Tabriz (Tauris), 
-2989,Tachindo, 
-2990,Tacitus, 
-2991,Tactics, 
-2992,Tacuin, 
-2993,Tadinfu, 
-2994,Taeping, 
-2995,Taeping Insurrection and Devastations, 
-2996,Taffetas, 
-2997,Taft, 
-2998,Tafurs, 
-2999,Tagachar, 
-3000,Tagaung, 
-3001,Tagharma Pass, 
-3002,Taghd�ngb�sh River, 
-3003,Tai-in-fu (Tai-yuen-fou),Location
-3004,Tai-kan(Khoolloom),Location
-3005,Tai-tsu, 
-3006,Taianfu (T�ai-yuan-fu, 
-3007,Taiani, 
-3008,Taican, 
-3009,Taichau (Tigu), 
-3010,Taidu, 
-3011,Taikung, 
-3012,Tailed men, 
-3013,Tailors, 
-3014,Taim�ni tribe, 
-3015,Taiting-fu (Tadinfu, 
-3016,Taitong-fu, 
-3017,Tajiks of Badakhshan, 
-3018,Takf�r, 
-3019,Takhtapul, 
-3020,Takla�Makan, 
-3021,Talains, 
-3022,Talas River, 
-3023,Tali, 
-3024,Talifu (Carajan), 
-3025,Talikan, 
-3026,Tallies, 
-3027,Tam-pin-gui,Location
-3028,Tamarind, 
-3029,Tamerlan, 
-3030,Tana (Azov, 
-3031,Tana (Azov), 
-3032,Tana (Bombay),Location
-3033,Tana�Maiambu, 
-3034,Tana�Malayu, 
-3035,Tanduc, 
-3036,Tangnu Oola, 
-3037,Tangut,Location
-3038,Tangut province, 
-3039,Tangutan, 
-3040,Tanjore, 
-3041,Tanpiju (Shaohing?), 
-3042,Tantras, 
-3043,Tao-lin, 
-3044,Tao-sze (Taoss�, 
-3045,Taprobana, 
-3046,Tarakai, 
-3047,Tarantula, 
-3048,Tarem, 
-3049,Tares of the parable, 
-3050,Tarmabala, 
-3051,Tarok Man and Tarok Myo, 
-3052,Tartar language, 
-3053,Tartars, 
-3054,Tartars driven out of China,
-3055,Tartary cloths, 
-3056,Tarungares, 
-3057,Tar�kh-i-Rash�d�, 
-3058,Tatar�ya coins, 
-3059,Tathung, 
-3060,Tattooing, 
-3061,Tatu (Taichu, 
-3062,Tatu (Taichu), 
-3063,Tatyang Khan (Great King, 
-3064,Tauris, 
-3065,Taurizi, 
-3066,Taw�lisi, 
-3067,Taxes, 
-3068,Tchakiri Mondou (Modun, 
-3069,Tchakiri Mondou (Modun), 
-3070,Tea,
-3071,Tea trees in E. Tibet, 
-3072,Tea-houses at Kingsz�, 
-3073,Tebet, 
-3074,Tedaldo, 
-3075,Teeth, 
-3076,Teflis,Location
-3077,Tegana, 
-3078,Teghele, 
-3079,Teimur (Temur, 
-3080,Tekla, 
-3081,Tekrit, 
-3082,Telingana, 
-3083,Telo Samawe, 
-3084,Tembul (Betel, 
-3085,Temkan, 
-3086,Temple, 
-3087,Temple�s account of the Condor, 
-3088,Temugin,Person
-3089,Temujin, 
-3090,Temur,Person
-3091,Tenduc,Location
-3092,Tengri, 
-3093,Tennasserim, 
-3094,Tents, 
-3095,Tents of  the great khan,
-3096,Terebinth, 
-3097,Terra Australis, 
-3098,Terra Mountains, 
-3099,Te�Tsung, 
-3100,Thai, 
-3101,Thai-yuanfu (Taianfu, 
-3102,Thai-yuanfu (Taianfu), 
-3103,Thaigin, 
-3104,Theft, 
-3105,Theistic worship, 
-3106,Thelasar, 
-3107,Theobald, 
-3108,Theodorus, 
-3109,Theodosius the Great, 
-3110,Theophilus, 
-3111,Thian Shan, 
-3112,Thiant�-Kiun, 
-3113,Thibet,Person
-3114,Thin l�Ev�que, 
-3115,Tholoman, 
-3116,Tholoman (part of Yun-nan),Location
-3117,Thomas, 
-3118,Thread, 
-3119,Three kingdoms (San�Kw�), 
-3120,Threshold, 
-3121,Thur�n Shah�s History of Hormuz, 
-3122,Th�venot, 
-3123,Ti-min-gui (King-te-ching),
-3124,Tibet (Tebet) province, 
-3125,Tibetan language and character, 
-3126,Tibetans, 
-3127,Tides in Hang-chau estuary, 
-3128,Tierce, 
-3129,Tiflis, 
-3130,Tigado, 
-3131,Tigers (called lions by Polo, 
-3132,Tigris River (Volga, 
-3133,Tig�dar (Acomat Soldan), 
-3134,Tiju, 
-3135,Tiles, 
-3136,Tiling, 
-3137,Tilinga, 
-3138,Timur of Toumen, 
-3139,Timur the Great, 
-3140,Timurids, 
-3141,Tin-gui,Location
-3142,Ting, 
-3143,Tinju, 
-3144,Tinnevelly, 
-3145,Tithe on clothing material, 
-3146,Tithing men, 
-3147,Titus, 
-3148,Tjajya, 
-3149,Toba race, 
-3150,Toc-tai,Person
-3151,Toctai, 
-3152,Tod, 
-3153,Toddy, 
-3154,Togan, 
-3155,Toghontemur, 
-3156,Toghrul I, 
-3157,Togrul Wang Khan, 
-3158,Toka Tumir, 
-3159,Toktai Khan (Toctai, 
-3160,Tok�t, 
-3161,Tolan-nur (Dolonn�r), 
-3162,Toleto, 
-3163,Tolobuga, 
-3164,Toman (Tuman, 
-3165,Tongking, 
-3166,Tonocain (Daumghann),Location
-3167,Tooth-relique of Buddha, 
-3168,Torchi, 
-3169,Toris (Tauris or Tabreez),Location
-3170,Tornesel, 
-3171,Toro River, 
-3172,Torshok, 
-3173,Torture by constriction in raw hide, 
-3174,Tournefort, 
-3175,Tower and Bell Alarm at Peking, 
-3176,Toyan (Tathung?), 
-3177,Trade at Layas, 
-3178,Trades in Manzi, 
-3179,Transmigration, 
-3180,Traps for fur animals, 
-3181,Travancore, 
-3182,Travellers,Organization
-3183,Treasure of Maabar kings, 
-3184,Trebizond, 
-3185,Trebuchets, 
-3186,Trees, 
-3187,Trench, 
-3188,Trevisano, 
-3189,Trincomalee, 
-3190,Tringano, 
-3191,Trinkat, 
-3192,Tsin-tsun, 
-3193,Tsiuan-chau, 
-3194,Tsongkhapa, 
-3195,Tsukuzi in Japan, 
-3196,Tsung-ngan-hien, 
-3197,Tsushima, 
-3198,Ts�uan-chou, 
-3199,Tu T�song, 
-3200,Tu-fan, 
-3201,Tu-ku-hun, 
-3202,Tuan, 
-3203,Tudai, 
-3204,Tudai�Mangku (Totamangu or Totamangul), 
-3205,Tughan, 
-3206,Tughlak Shah, 
-3207,Tuktuyai Khan, 
-3208,Tuli, 
-3209,Tuman, 
-3210,Tumba, 
-3211,Tun-o-kain (Tunocain, 
-3212,Tung-chau (Tinju), 
-3213,Tung-hwang-hien, 
-3214,Tung-kwan, 
-3215,Tung-�an in Fokien, 
-3216,Tunguses, 
-3217,Tunny fish, 
-3218,Turbit (radex Turpethi), 
-3219,Turcomania,Organization
-3220,Turcomania (Anatolian Turkey), 
-3221,Turgaut, 
-3222,Turkestan,Location
-3223,Turkey, 
-3224,Turkistan chiefs send mission to kings of India, 
-3225,Turkmans and Turks, 
-3226,Turks, 
-3227,Turmeric, 
-3228,Turner, 
-3229,Turquans, 
-3230,Turquoises in Kerm�n, 
-3231,Turtle doves, 
-3232,Turumpak, 
-3233,Tutia (Tutty, 
-3234,Tuticorin, 
-3235,Tver, 
-3236,Twelve, 
-3237,Twigs or arrows, 
-3238,Tylor, 
-3239,Tyuman, 
-3240,Tyunju, 
-3241,Tzarev, 
-3242,Tzaritzyn, 
-3243,T�ki-uddin, 
-3244,T�nasi cloth, 
-3245,T�nk�z Khan, 
-3246,T�sh Kurg�n, 
-3247,T�n, 
-3248,T�ai Tsung, 
-3249,T�aiching-Kwan, 
-3250,T�ang dynasty, 
-3251,T�sang-chau, 
-3252,T�si-nan-fu (Chinangli), 
-3253,T�si-ning-chau, 
-3254,T�sien T�ang River, 
-3255,T�sing-chau, 
-3256,T�sing-ling range, 
-3257,U-man and Pe-man (Black and White Barbarians), 
-3258,U-nya-Mwezi superstition, 
-3259,Ucaca (Ukak, 
-3260,Uch-baligh, 
-3261,Uch�Mult�n, 
-3262,Udoe country, 
-3263,Udong, 
-3264,Udy�na, 
-3265,Ughim,Location
-3266,Ughuz, 
-3267,Uigh�r character, 
-3268,Uigh�rs, 
-3269,Uiraca, 
-3270,Uirad, 
-3271,Ujjain, 
-3272,Ukak. (See Ucaca.), 
-3273,Ulakhai, 
-3274,Ulan Muren (Red River), 
-3275,Ulatai (Oulatay), 
-3276,Ulugh Bagh, 
-3277,Ul�s, 
-3278,Umbrellas, 
-3279,Un-gui(Kia-hing),Location
-3280,Un-quem(Ming-taing),Location
-3281,Unc Can (Aung Khan), 
-3282,Ung (Ungk�t, 
-3283,Ungrat (Kungurat), 
-3284,Unicorn (Rhinoceros), 
-3285,Unken, 
-3286,Unlucky hours, 
-3287,Ural river,Location
-3288,Urduja, 
-3289,Uriangkadai, 
-3290,Uriangk�t (Tunguses), 
-3291,Urianhai, 
-3292,Urumtsi, 
-3293,Urz�, 
-3294,Uspenskoye (called also Bolgarskoye), 
-3295,Uttungadeva, 
-3296,Uwek, 
-3297,Uzbeg Khan of Sarai, 
-3298,Uzbegs of Kunduz, 
-3299,Uzun Tati, 
-3300,Vair, 
-3301,Valaghir district, 
-3302,Van Lake, 
-3303,Vanchu (Wangchu), 
-3304,Varaegian, 
-3305,Varaha Mihira, 
-3306,Vardoj River, 
-3307,Varsach, 
-3308,Veil of the Temple, 
-3309,Vellalars, 
-3310,Venetians, 
-3311,Venice,Location
-3312,Ventilators at Hormuz, 
-3313,Ven�dan, 
-3314,Verlinden, 
-3315,Vessels, 
-3316,Vial, 
-3317,Vijayanagar, 
-3318,Vikramajit, 
-3319,Vikramp�r, 
-3320,Villard de Honnecourt, 
-3321,Vincent of Beauvais, 
-3322,Vincenzo, 
-3323,Vineyards, 
-3324,Vinson, 
-3325,Virgin of Cape Comorin, 
-3326,Visconti, 
-3327,Vissering, 
-3328,Vochan (Unchan), 
-3329,Vociam,Location
-3330,Vokhan, 
-3331,Vokhan (Wakhan),Location
-3332,Volga, 
-3333,Volga river,Location
-3334,Vos, 
-3335,Vughin, 
-3336,Vuju in Kiangnan, 
-3337,V�mb�ry, 
-3338,Wa-tzu, 
-3339,Wadoe tribe, 
-3340,Wakf, 
-3341,Wakhijrui Pass, 
-3342,Wakhj�r Pass, 
-3343,Wakhsh, 
-3344,Wakhtang II, 
-3345,Wakh�n (Vokhan, 
-3346,Walashjird, 
-3347,Waldshut,
-3348,Wall of Alexander (or Caucasian), 
-3349,Wallachs, 
-3350,Walnut-oil, 
-3351,Wami River, 
-3352,Wang, 
-3353,Wangchu, 
-3354,Wapila, 
-3355,War vessels, 
-3356,Warangol Ku, 
-3357,Warangs, 
-3358,Warner, 
-3359,Wass�f, 
-3360,Water, 
-3361,Wathek, 
-3362,Weather-conjuring, 
-3363,Wei River in Shen-si, 
-3364,Wei dynasty, 
-3365,Wei-ning, 
-3366,Weights and measures, 
-3367,Wen River, 
-3368,Wen-chow, 
-3369,Westermarck, 
-3370,Whale oil, 
-3371,Whales, 
-3372,Wheaten bread not eaten, 
-3373,White bears, 
-3374,Whittington and his cat in Persia, 
-3375,Wild asses and oxen, 
-3376,William of Tripoli, 
-3377,Williams, 
-3378,Williamson, 
-3379,Wilson, 
-3380,Wind, 
-3381,Wine, 
-3382,Wo-fo-sze, 
-3383,Wolves in Pamir, 
-3384,Women, 
-3385,Wonders performed by the Bacsi, 
-3386,Wood, 
-3387,Wood-oil, 
-3388,Wool, 
-3389,Worship of Mahomet (supposed), 
-3390,Worshipping the tablets, 
-3391,Wu-chau (Vuju), 
-3392,Wu-ti, 
-3393,Wukiang-hien (Vughin), 
-3394,Wylie, 
-3395,W�sus, 
-3396,Xavier, 
-3397,Xerxes, 
-3398,Ya-chau, 
-3399,Yachi (Yun-nan-fu), 
-3400,Yaci(Chiaki),Location
-3401,Yaik River, 
-3402,Yak (dong), 
-3403,Yakuts, 
-3404,Yalung River, 
-3405,Yam, 
-3406,Yamg�n, 
-3407,Yan-gui (Yang-tcheou-fou),Location
-3408,Yang-chau (Yanju), 
-3409,Yang-tse-kiang or Kiang,Location
-3410,Yarbeg of Badakhshan, 
-3411,Yarcan(Yarcund) ,Location
-3412,Yarcund,Location
-3413,Yarkand (Yarcan), 
-3414,Yasdi (Yerd),Location
-3415,Yasdi (Yezd), 
-3416,Yasodhara, 
-3417,Yavanas, 
-3418,Yazdashir, 
-3419,Ya�k�b Beg of Kasghar, 
-3420,Ydifu, 
-3421,Year, 
-3422,Yelimala, 
-3423,Yeliu Chutsai, 
-3424,Yellow, 
-3425,Yemen (See also Aden.), 
-3426,Yen-king (Old Peking), 
-3427,Yeng-chau (in Shan-tung, 
-3428,Yeng-chau (in Shan-tung), 
-3429,Yenshan, 
-3430,Yen�Ping, 
-3431,Yesubuka, 
-3432,Yesudar, 
-3433,Yesugai, 
-3434,Yetsina (Etzina), 
-3435,Yezd (Yasdi), 
-3436,Yiu-ki River, 
-3437,Yonting Ho River, 
-3438,Yoritomo, 
-3439,Yotk�n, 
-3440,Youth, 
-3441,Yrac, 
-3442,Ysemain of Hiulie, 
-3443,Yu, 
-3444,Yu-chow, 
-3445,Yuan Ho, 
-3446,Yue-chi, 
-3447,Yuen, 
-3448,Yuen ming-yuen, 
-3449,Yuen shi, 
-3450,Yuen-hao, 
-3451,Yugria, 
-3452,Yuh-shan, 
-3453,Yule, 
-3454,Yun-nan (Carajan), 
-3455,Yun-nan-fu city, 
-3456,Yung Lo, 
-3457,Yung-chang fu (Shen-si), 
-3458,Yun�Hien, 
-3459,Yurungk�sh (white Jade) River, 
-3460,Yusuf Kekfi, 
-3461,Yuthia, 
-3462,Yvo of Narbonne, 
-3463,Y�j�, 
-3464,Zabedj, 
-3465,Zai-tun (Amoy),Location
-3466,Zaila, 
-3467,Zampa, 
-3468,Zanghibar (Zangibar), 
-3469,Zanghibar (Zanguebar),Location
-3470,Zanton (Shantung?), 
-3471,Zanzale, 
-3472,Zapharan, 
-3473,Zardandan, 
-3474,Zarneke, 
-3475,Zayton, 
-3476,Zebu, 
-3477,Zeb�k Valley, 
-3478,Zedoary, 
-3479,Zenghi, 
-3480,Zerms (Jerms), 
-3481,Zerumbet, 
-3482,Zettani, 
-3483,Zhafar, 
-3484,Zic (Circassia), 
-3485,Zikas, 
-3486,Zimm�, 
-3487,Zinc, 
-3488,Zinj, 
-3489,Zipangu (Japan),
-3490,Zobeidah, 
-3491,Zorza, 
-3492,Zu-�lkarnain (Zulcarniain), 
-3493,Zurficar (Z�rpica Zulficar), 
-3494,an soe the Pope,
-3495,"�An-nan, or Tongking", 
-3496,�Angka(Gryphon), 
-3497,�Apuhota (Kapukada?), 
+﻿	Entity	Tag	Reference
+0	ABASCIA (Abyssinia)	Location	Murray
+1	Abacan	Person	Yule
+2	Abaji	Person	Yule
+3	Abaka (Abaga)	Person	Yule
+4	Abano	Person	Yule
+5	Abash (Habsh)	FALSE	Yule
+6	Abba Gregory	FALSE	Yule
+7	Abbott	FALSE	Yule
+8	Abdul Kuri islands	Location	Yule
+9	Abeskun (Baxon	FALSE	Yule
+10	Abher	FALSE	Yule
+11	Abnús	 	Yule
+12	Abraha	Person	Yule
+13	Abraiaman	Organization	Yule
+14	Abubakr	Person	Yule
+15	Abulfeda	Person	Yule
+16	Abyssinia (Abash)	Person	Yule
+17	Acbalec Manzi	Location	Yule
+18	Accambale	Person	Yule
+19	Achalech-Manji	Location	Murray
+20	Acheh	FALSE	Yule
+21	Achin	FALSE	Yule
+22	Achmae	Person	Murray
+23	Achmath(Ahmad)	Person	Yule
+24	Acomat	Person	Murray
+25	Acomat Soldan (Ahmad Sultan)	Person	Yule
+26	Acorn bread	FALSE	Yule
+27	Acqui	Person	Yule
+28	Acre	Location	Murray,Yule
+29	Acrea	FALSE	Yule
+30	Adam	Location	Yule
+31	Adam's Peak	Location	Murray
+32	Adamodana	FALSE	Yule
+33	Adel	FALSE	Yule
+34	Aden	Location	Murray,Yule
+35	Aden(Adel)	Location	Murray
+36	Adoration of the Emperor	FALSE	Yule
+37	Adulis	FALSE	Yule
+38	Aepyornis and its eggs	FALSE	Yule
+39	Africa	Location	Yule
+40	Agathou Daimonos	Location	Yule
+41	Aghrukji or Ukuruji	Person	Yule
+42	Agricola	Person	Yule
+43	Aguil	Person	Yule
+44	Ahmad of Fenaket	Person	Yule
+45	Ahmadi	Location	Yule
+46	Aidhab	FALSE	Yule
+47	Aidhej	FALSE	Yule
+48	Aijaruc	Person	Yule
+49	Aikah Nowin	Person	Yule
+50	Ajmir	FALSE	Yule
+51	Ak-Bulak salt-mines	Location	Yule
+52	Ak-khoja	FALSE	Yule
+53	Akaas of Bolor	FALSE	Yule
+54	Akbar and Kublai	Person	Yule
+55	AkhaltzikÃ© 	 	Yule
+56	Akhtuba River	Location	Yule
+57	Aktar	FALSE	Yule
+58	Al Biruni	FALSE	Yule
+59	Alabastri	FALSE	Yule
+60	Alacou	FALSE	Yule
+61	Alacou(Hukalu)	FALSE	Yule
+62	Alamut	Location	Yule
+63	Alania	FALSE	Yule
+64	Alans	Person	Yule
+65	Alaodin	Person	Murray
+66	Alaone	FALSE	Yule
+67	Alarm Tower	Location	Yule
+68	Alau	Person	Murray,Yule
+69	Alauddin (Alaodin)	Person	Yule
+70	Albenigaras	FALSE	Yule
+71	Alboquerque	FALSE	Yule
+72	Alchemy	FALSE	Yule
+73	Alexander III	Person	Yule
+74	Alexander IV	Person	Yule
+75	Alexander the Great	Person	Yule
+76	Alexandria	Location	Yule
+77	Alidada	FALSE	Yule
+78	Alihaiya	Person	Yule
+79	Alinak	FALSE	Yule
+80	Alligator	FALSE	Yule
+81	Almalik	FALSE	Yule
+82	Almanacs	FALSE	Yule
+83	Almonds	FALSE	Yule
+84	Aloes	FALSE	Yule
+85	Altai (Altay) Mountains	Location	Yule
+86	Altai Mountains	Location	Murray
+87	Altun-Khan	Location	Yule
+88	Alï¿½Ramni	 	Yule
+89	Amazons	Location	Yule
+90	Ambergris	FALSE	Yule
+91	Amda Zion	Person	Yule
+92	Ameri	FALSE	Yule
+93	Amhara	FALSE	Yule
+94	Amien	FALSE	Yule
+95	Amita Buddha	FALSE	Yule
+96	Amphora	FALSE	Yule
+97	Amu	FALSE	Yule
+98	Amu (Bamoo)	Location	Murray
+99	Ananda	Person	Yule
+100	Anaurahta	Person	Yule
+101	Ancestor Worship	FALSE	Yule
+102	Anchors	FALSE	Yule
+103	Andaine	FALSE	Yule
+104	Andaman Islands 	FALSE	Yule
+105	Andragiri	FALSE	Yule
+106	Andreas	Person	Yule
+107	Andrew	Person	Yule
+108	Andromeda ovalifolia	FALSE	Yule
+109	Andun	FALSE	Yule
+110	Angaman (Andaman) Islands	Location	Murray
+111	Angamanain (Andaman island)	Location	Yule
+112	Angelic French	FALSE	Yule
+113	Animal Patterns	FALSE	Yule
+114	Anin	Location	Yule
+115	Annals of the Indoï¿½Chinese States	 	Yule
+116	Antarctic	FALSE	Yule
+117	Anthropoides Virgo	FALSE	Yule
+118	Antongil Bay	FALSE	Yule
+119	Anï¿½r	 	Yule
+120	Apostoille (for 'Pope')	FALSE	Yule
+121	Apples of Paradise 	FALSE	Yule
+122	Apushka (Apusca)	FALSE	Yule
+123	Arab Seamen's Traditions about Java	Person	Yule
+124	Arabadni	FALSE	Yule
+125	Arabi 	Organization	Yule
+126	Arabia	FALSE	Yule
+127	Arachoti	FALSE	Yule
+128	Araines	FALSE	Yule
+129	Arakan	FALSE	Yule
+130	Aram (Harï¿½mi)	 	Yule
+131	Ararat	Location	Murray,Yule
+132	Arblasts	FALSE	Yule
+133	Arbre Sec	FALSE	Yule
+134	Arbre Sol or Arbre Sec	Location	Yule
+135	Arcali	FALSE	Yule
+136	Archbishop of Socotra	FALSE	Yule
+137	Architectural remains in Indoï¿½China	 	Yule
+138	Areca	FALSE	Yule
+139	Areng Saccharifera	FALSE	Yule
+140	Argaeus	FALSE	Yule
+141	Argali	FALSE	Yule
+142	Arghun Khan (Argon, Lord of the Levant, of Polo)	Person	Yule
+143	Argiron(Erzeroum)	Location	Murray
+144	Argon	Person	Murray
+145	Argons or half-breeds (Arghï¿½n)	 	Yule
+146	Arii	FALSE	Yule
+147	Arikbuga	Person	Yule
+148	Arimaspia	FALSE	Yule
+149	Ariora Keshimur	FALSE	Yule
+150	Aripo	FALSE	Yule
+151	Arjish (Arzizi)	FALSE	Yule
+152	Arkasun Noian	FALSE	Yule
+153	Arkhaiun	FALSE	Yule
+154	Armenia	FALSE	Yule
+155	Armenia the Greater	Location	Murray
+156	Armenia the Lesser	Location	Murray
+157	Armenian Christians	FALSE	Yule
+158	Armenians	FALSE	Yule
+159	Arms of Kerman celebrated	FALSE	Yule
+160	Arrows	FALSE	Yule
+161	Artacki	FALSE	Yule
+162	Arts	FALSE	Yule
+163	Aru (in Sumatra)	FALSE	Yule
+164	Arucki	FALSE	Yule
+165	Aruk	FALSE	Yule
+166	Arya Chakravarti	FALSE	Yule
+167	Aryavartta	Person	Yule
+168	Arzinga	Location	Murray
+169	Arzinga (Erzingan)	FALSE	Yule
+170	Arziron (Erzrum)	FALSE	Yule
+171	Arzizi (Arjï¿½sh)	 	Yule
+172	Asbestos and the Salamander	FALSE	Yule
+173	Ascelin	Person	Murray
+174	Asceticism of the Sensin	FALSE	Yule
+175	Asciar	FALSE	Yule
+176	Asedin Soldan (Ghaiassuddin Balban)	Person	Yule
+177	Ashishin	FALSE	Yule
+178	Asoka	Person	Yule
+179	Asper	FALSE	Yule
+180	Assassins	FALSE	Yule
+181	Asses	FALSE	Yule
+182	Asterius	Person	Yule
+183	Astrakhan (Gittarchan)	FALSE	Yule
+184	Astrolabe	FALSE	Yule
+185	Astrology	FALSE	Yule
+186	Atabegs	FALSE	Yule
+187	Atkinson's Explorations impunged by Russians	FALSE	Yule
+188	Atlas	FALSE	Yule
+189	Audh (Oudh)	FALSE	Yule
+190	Aufat	FALSE	Yule
+191	Augury	FALSE	Yule
+192	Aung Khan (Unc Can, see Prester John of Polo)	Person	Yule
+193	Aurangzib	FALSE	Yule
+194	Aurora	FALSE	Yule
+195	Aussa	FALSE	Yule
+196	Avarian	FALSE	Yule
+197	Axum	FALSE	Yule
+198	Ayas (Layas,Aiazzo, Giazza, port of Cilician Armenia)	FALSE	Yule
+199	Ayuthia	FALSE	Yule
+200	Azumiti	FALSE	Yule
+201	Azure(Ultramarine)	Location	Yule
+202	Aás	 	Yule
+203	Aï¿½tius	 	Yule
+204	Baatau	Person	Murray
+205	Baba Buzurg	FALSE	Yule
+206	Baboons	FALSE	Yule
+207	Babylon	Location	Yule
+208	Babylonish garments	FALSE	Yule
+209	Baccadeo	FALSE	Yule
+210	Baccanor	FALSE	Yule
+211	Bacsi(Bakhshi)	FALSE	Yule
+212	Badakhshan (Badashan)	Location	Yule
+213	Badascia (Badakshan)	Location	Murray
+214	Badger	FALSE	Yule
+215	Badghï¿½s	 	Yule
+216	Badgï¿½r	 	Yule
+217	Badruddin Lulu of Mosul	FALSE	Yule
+218	Badï¿½ï¿½n	 	Yule
+219	Bafk	FALSE	Yule
+220	Baft	FALSE	Yule
+221	Bagdad	Location	Murray
+222	Baghdad (Baudas)	FALSE	Yule
+223	Bagratidae	FALSE	Yule
+224	Bahar	FALSE	Yule
+225	Bahrein	FALSE	Yule
+226	Bahï¿½uddin Ayaz	 	Yule
+227	Bai	FALSE	Yule
+228	Baiberdon	FALSE	Yule
+229	Baidu Khan	Person	Yule
+230	Bailo	FALSE	Yule
+231	Baiothony	Person	Murray
+232	Bakhtyï¿½ris of Luristï¿½n	 	Yule
+233	Baksi	Person	Murray
+234	Baku	Location	Murray
+235	Bala-Sagun	FALSE	Yule
+236	Baldacchini (Baudekins)	FALSE	Yule
+237	Baldach (Bagdad)	Location	Murray
+238	Baldwin de Courtenay	Person	Yule
+239	Bali	Location	Yule
+240	Balios	FALSE	Yule
+241	Balish (a money of account)	FALSE	Yule
+242	Balista	FALSE	Yule
+243	Balk(Balkh)	Location	Murray
+244	Balkhash 	FALSE	Yule
+245	Ballaad-ul-Falfal	FALSE	Yule
+246	Ballads	FALSE	Yule
+247	Ballard	FALSE	Yule
+248	Balor	FALSE	Yule
+249	Balsamodendron Mukul	FALSE	Yule
+250	Balti	FALSE	Yule
+251	Balustrade	FALSE	Yule
+252	Bam-i-dunyah	Location	Yule
+253	Bamboo 	Location	Yule
+254	Bamian	FALSE	Yule
+255	Bamm	FALSE	Yule
+256	Bamo	Location	Yule
+257	Bandar Abbas (Bandar-Abbasi)	FALSE	Yule
+258	Bangala	Location	Yule
+259	Bangala(Bengal)	Location	Murray
+260	Bangu(Eastern Siberia)	Location	Murray
+261	Baptism accompanied by branding in Abyssinia	FALSE	Yule
+262	Bara	FALSE	Yule
+263	Barac (Borrak)	Person	Yule
+264	Barberino	FALSE	Yule
+265	Bardesir	FALSE	Yule
+266	Bargu 	FALSE	Yule
+267	Barguchin Tugrum	FALSE	Yule
+268	Barguerlac 	FALSE	Yule
+269	Barguzinsk	FALSE	Yule
+270	Barin	FALSE	Yule
+271	Bark	FALSE	Yule
+272	Barka Khan (Barca)	Person	Yule
+273	Barka khan	Person	Murray
+274	Barkul	FALSE	Yule
+275	Barkï¿½t 	 	Yule
+276	Barlaam and Josaphat	FALSE	Yule
+277	Barley	FALSE	Yule
+278	Baroch	FALSE	Yule
+279	Baron-tala	FALSE	Yule
+280	Barons	Person	Murray
+281	Barozzi	Person	Yule
+282	Barsauma (St. Brassamo)	FALSE	Yule
+283	Barskul (Barscol)	FALSE	Yule
+284	Barus	FALSE	Yule
+285	Barussae Insulae	FALSE	Yule
+286	Barygazu	FALSE	Yule
+287	Bascra (Bussora)	Location	Murray
+288	Bashai (Pashai)	FALSE	Yule
+289	Basma	Location	Yule
+290	Basmuls	FALSE	Yule
+291	Baspa Lama and the Mongol character called after him	FALSE	Yule
+292	Basra (Bascra or Bastra)	FALSE	Yule
+293	Bathang	FALSE	Yule
+294	Baths	FALSE	Yule
+295	Batigala	FALSE	Yule
+296	Batochina	FALSE	Yule
+297	Bats	FALSE	Yule
+298	Battas of Sumatra and their  cannibalism	FALSE	Yule
+299	Batthala (Patlam in Ceylon)	FALSE	Yule
+300	Battles	Person	Yule
+301	Batu	Person	Yule
+302	Baudas (Baghdad)	Location	Yule
+303	Baudekins 	FALSE	Yule
+304	Bauduin de Sebourc	FALSE	Yule
+305	Bavaria	Location	Yule
+306	Bawï¿½rij	 	Yule
+307	Bayam	Person	Murray
+308	Bayan Chingsian	Person	Yule
+309	Bazacata	FALSE	Yule
+310	Bdellium	FALSE	Yule
+311	Beads	FALSE	Yule
+312	Bearcoote	FALSE	Yule
+313	Bears	FALSE	Yule
+314	Beast and bird patterns on silks	FALSE	Yule
+315	Beaten gold	FALSE	Yule
+316	Beauty of Georgians	Person	Yule
+317	Beds	FALSE	Yule
+318	Beef not eaten in Maabar	FALSE	Yule
+319	Bejas of the Red Sea Coast	FALSE	Yule
+320	Belic' for 'Melic'	FALSE	Yule
+321	Bell	FALSE	Yule
+322	Bellal Rajas	FALSE	Yule
+323	Belledi(or balladi)	FALSE	Yule
+324	Belor (Beloor)	Location	Murray
+325	Bendocquedar	FALSE	Yule
+326	Benedict	Person	Yule
+327	Bengal (Bangala)	Person	Yule
+328	Benjamin of Tudela on the Gryphon	FALSE	Yule
+329	Benzoin	FALSE	Yule
+330	Berbera	Location	Yule
+331	Berchet	FALSE	Yule
+332	Bern MS. Of Polo's Book	Person	Yule
+333	Berrie	FALSE	Yule
+334	Bettelar	Person	Yule
+335	Beyamini	FALSE	Yule
+336	Bezant	FALSE	Yule
+337	Bhartpur	FALSE	Yule
+338	Bianconi	Person	Yule
+339	Biar	FALSE	Yule
+340	Bibars Bundï¿½kdï¿½ri (Bendocquedar)	 	Yule
+341	Bielo Osero	FALSE	Yule
+342	Bigoncio	FALSE	Yule
+343	Bilï¿½chis	 	Yule
+344	Binkin	FALSE	Yule
+345	Bintang (Pentam)	FALSE	Yule
+346	Birch-bark Books	FALSE	Yule
+347	Bird-hunts	FALSE	Yule
+348	Birdwood	FALSE	Yule
+349	Birhors of Chuta Nagpï¿½r	 	Yule
+350	Birthday of the Great Kaan	FALSE	Yule
+351	Birï¿½Pandi or Piraï¿½Bandi	 	Yule
+352	Bishbalik	FALSE	Yule
+353	Bishop	FALSE	Yule
+354	Bitter bread	FALSE	Yule
+355	Blac	FALSE	Yule
+356	Black Crane	FALSE	Yule
+357	Blacker the more beautiful	FALSE	Yule
+358	Block-books	FALSE	Yule
+359	Blood-sucking	FALSE	Yule
+360	Blous, Bloies'	FALSE	Yule
+361	Boar's tusks	FALSE	Yule
+362	Boccassini	FALSE	Yule
+363	Bodhisatva Avalokitecvara	FALSE	Yule
+364	Bodleian MS. of Polo	FALSE	Yule
+365	Boeach	FALSE	Yule
+366	Boemond	Person	Yule
+367	Boga (Buka)	Person	Yule
+368	Boghra Khan	Person	Yule
+369	Bohea country	FALSE	Yule
+370	Boikoff	FALSE	Yule
+371	Bokhara	Location	Murray
+372	Bokhara (Bocara)	FALSE	Yule
+373	Bolgana	Person	Yule
+374	Bolghar	Person	Yule
+375	Bolghar (Bolgara)	Location	Yule
+376	Bolivar	Person	Yule
+377	Bolor	FALSE	Yule
+378	Bombay	Location	Yule
+379	Bonga	FALSE	Yule
+380	Boni	Person	Murray
+381	Boniface	FALSE	Yule
+382	Bonoccio di Mestro	FALSE	Yule
+383	Bonus (Ebony)	FALSE	Yule
+384	Boodhism in Central Asia		Murray
+385	Book of Marco Polo	FALSE	Yule
+386	Bore in Hangchau Estuary	FALSE	Yule
+387	Borgal	FALSE	Yule
+388	Borneo	FALSE	Yule
+389	BoroBodor	FALSE	Yule
+390	Borrak (Barac)	Person	Yule
+391	Bostam	FALSE	Yule
+392	Bouqueran	FALSE	Yule
+393	Boxwood Forests in Georgia	FALSE	Yule
+394	Bozzi	FALSE	Yule
+395	Bragadino	Person	Yule
+396	Brahmanical Thread	FALSE	Yule
+397	Brahmans (Abraiaman)	Person	Yule
+398	Brahuis	FALSE	Yule
+399	Brakhimov	FALSE	Yule
+400	Brambanan	FALSE	Yule
+401	Bran diet	FALSE	Yule
+402	Brazil (wood)	FALSE	Yule
+403	Brephung monastery	FALSE	Yule
+404	Bretesche	FALSE	Yule
+405	Brichu (Brius the Upper Kiang)	FALSE	Yule
+406	Bridges	FALSE	Yule
+407	Brine-wells	FALSE	Yule
+408	British Museum	Location	Murray
+409	Brius 	Location	Yule
+410	Brius river	Location	Murray
+411	Brown	Person	Yule
+412	Bruce's Abyssinian Chronology	FALSE	Yule
+413	Brunetto Latini's Book	FALSE	Yule
+414	Bucephalus	FALSE	Yule
+415	Buckrams	FALSE	Yule
+416	Buddha	Person	Yule
+417	Buddhism	FALSE	Yule
+418	Buddhist 	FALSE	Yule
+419	Buffet and vessels of Kaan's table	FALSE	Yule
+420	Buka (Boga)	Person	Yule
+421	Bularguchi	FALSE	Yule
+422	Bulgaria	Location	Murray,Yule
+423	Bulughï¿½n 	 	Yule
+424	Bundï¿½kdï¿½r	 	Yule
+425	Burkan Kaldun	FALSE	Yule
+426	Burma 	Person	Yule
+427	Burnes	Person	Murray
+428	Burning paper imitations of property at funerals	Person	Yule
+429	Burning the Dead	FALSE	Yule
+430	Buryats or Buraets	FALSE	Yule
+431	Butchers	FALSE	Yule
+432	Butiflis (Mutfili)	FALSE	Yule
+433	Ca-cian-fu (Ho-kien-fou)	Location	Murray
+434	Ca-cian-fu (Tong-tcheou)	Location	Murray
+435	Caaju	Location	Yule
+436	Cacanfu (Hokiang-fu)	FALSE	Yule
+437	Cachanfu (Pï¿½uchau-fu)	 	Yule
+438	Cachar Modun	FALSE	Yule
+439	Cachilpatnam	FALSE	Yule
+440	Caesalpinia	FALSE	Yule
+441	Caesarea of Cappadocia (Casaria)	FALSE	Yule
+442	Cai-gui(Qua-tcheou)	Location	Murray
+443	Caichu	Location	Yule
+444	Caidu	Person	Yule
+445	Caiju (on the Hoang-Ho)	FALSE	Yule
+446	Caiju (on the Kiang, Kwachau)	FALSE	Yule
+447	Cail (Kï¿½yal)	 	Yule
+448	Caindu	Location	Yule
+449	Caingan	FALSE	Yule
+450	Cairo	Location	Yule
+451	Caiton	FALSE	Yule
+452	Cala Ataperistan (or Gueber's Castle)	FALSE	Yule
+453	Calachan	FALSE	Yule
+454	Calacian	Location	Murray
+455	Calaiate	FALSE	Yule
+456	Calamanz	FALSE	Yule
+457	Calamina	FALSE	Yule
+458	Calatu	FALSE	Yule
+459	Calatu (Kalhat)	Location	Murray
+460	Caldwell	FALSE	Yule
+461	Calendar	Person	Yule
+462	Cali or Kael	Location	Murray
+463	Calicut	Person	Yule
+464	Calif	Person	Yule
+465	Caligine	FALSE	Yule
+466	Camabaia(Cambay)	Location	Murray
+467	Camadi 	Location	Yule
+468	Camandu	Location	Murray
+469	Cambaluc (Khanbalig or Peking)	Location	Yule
+470	Cambay (Cambaet, Cambeth)	Location	Yule
+471	Cambuscan of Chaucer	FALSE	Yule
+472	Camels	FALSE	Yule
+473	Camexu	FALSE	Yule
+474	Camlets (cammellotti)	FALSE	Yule
+475	Camoens	FALSE	Yule
+476	Camphor	Person	Yule
+477	Campichu (Kanchau)	Location	Yule
+478	Camul (Kamul, Komul)	Location	Yule
+479	Camut	Person	Yule
+480	Can-giu (Kiang-chan-fui)	Location	Murray
+481	Canal	FALSE	Yule
+482	Canale	FALSE	Yule
+483	Cananor	FALSE	Yule
+484	Cananore	FALSE	Yule
+485	Canara	FALSE	Yule
+486	Cancamum	FALSE	Yule
+487	Candahar	FALSE	Yule
+488	Cane,Canes 	FALSE	Yule
+489	Cannibalism	FALSE	Yule
+490	Cannibals	FALSE	Yule
+491	Canonical Hours	FALSE	Yule
+492	Canpicion (Kan-tcheou)	Location	Murray
+493	Cansay	FALSE	Yule
+494	Canton	FALSE	Yule
+495	Cape Comorin	FALSE	Yule
+496	Cape Corrients 	FALSE	Yule
+497	Cappidoglio	FALSE	Yule
+498	Caracoron (Karï¿½ Korum)	 	Yule
+499	Caraian	Location	Murray,Yule
+500	Carajan 	Location	Yule
+501	Caramoran River (Hoang-Ho)	FALSE	Yule
+502	Caraonas (Karaunahs)	FALSE	Yule
+503	Carats	FALSE	Yule
+504	Carbine	FALSE	Yule
+505	Cardamom	FALSE	Yule
+506	Cardinal's Wit	FALSE	Yule
+507	Caribs	FALSE	Yule
+508	Carpets	FALSE	Yule
+509	Carpini	Person	Murray
+510	Carriages	FALSE	Yule
+511	Carrion shot from engines	FALSE	Yule
+512	Casan	FALSE	Yule
+513	Casan or Ghazan	Person	Murray
+514	Casaria (Caesarea of Cappadocia)	FALSE	Yule
+515	Cascar (Cashgar)	Location	Murray
+516	Cascar (Kashgar)	FALSE	Yule
+517	Casem	FALSE	Yule
+518	Casoni	FALSE	Yule
+519	Caspian Sea (Sea of Ghel or Ghelan)	FALSE	Yule
+520	Cassay	FALSE	Yule
+521	Cassia	FALSE	Yule
+522	Castaldi	Person	Yule
+523	Casvin (Kazwï¿½n)	 	Yule
+524	Cat's Head Tablet	FALSE	Yule
+525	Catalan Navy	FALSE	Yule
+526	Cathay (Northern China)	FALSE	Yule
+527	Cathay or Kataia	Location	Murray
+528	Cathayans	FALSE	Yule
+529	Catholicos	FALSE	Yule
+530	Cators 	FALSE	Yule
+531	Cats in China	FALSE	Yule
+532	Caucasian Wall	FALSE	Yule
+533	Caugigu	Location	Yule
+534	Caulking of Chinese ships	FALSE	Yule
+535	Cauly	FALSE	Yule
+536	Causeway	Location	Yule
+537	Cauterising  heads of children	FALSE	Yule
+538	Cave-houses	FALSE	Yule
+539	Cavo de Eli	FALSE	Yule
+540	Caya-fu	Location	Murray
+541	Cayu (Kao-yu)	FALSE	Yule
+542	Caï¿½ Polo	 	Yule
+543	Celtic Church	FALSE	Yule
+544	Census of houses in Kinsay	FALSE	Yule
+545	Ceremonial of Mongol Court	FALSE	Yule
+546	Ceylon (Seilan)	Person	Yule
+547	Chachan (properly Charchand)	FALSE	Yule
+548	Chagan-Nur(N.E. of Kamul)	FALSE	Yule
+549	Chagatai	Person	Yule
+550	Champa (Chamba)	Location	Yule
+551	Chandra Banu	FALSE	Yule
+552	Chandu	Location	Murray
+553	Chandu (Shangtu)	Location	Yule
+554	Chang-y (Chenchu)	FALSE	Yule
+555	Changan	FALSE	Yule
+556	Changchau (Chinginju)	FALSE	Yule
+557	Changgan	FALSE	Yule
+558	Changlu	FALSE	Yule
+559	Changshan (Chanshan)	FALSE	Yule
+560	Chaohien	FALSE	Yule
+561	Chaotong	FALSE	Yule
+562	Chapu	FALSE	Yule
+563	Characters	FALSE	Yule
+564	Charchan (Chachan of Johnson, Charchand)	FALSE	Yule
+565	Charities of the Kaan	Person	Yule
+566	Charlemagne	Person	Murray
+567	Chasteaux	FALSE	Yule
+568	Chaukans or  temporary wives at Kashgar	FALSE	Yule
+569	Chaul	FALSE	Yule
+570	Chaym(Kao-yeou)	Location	Murray
+571	Cheapness in China	FALSE	Yule
+572	Cheetas	FALSE	Yule
+573	Cheinan	FALSE	Yule
+574	Chekiang into Fokien	FALSE	Yule
+575	Chen-gui (Yen-tcheou-fou)	Location	Murray
+576	Chenching (Cochin-China)	FALSE	Yule
+577	Chenchu 	FALSE	Yule
+578	Cheu	FALSE	Yule
+579	Chibai and Chiban	FALSE	Yule
+580	Chilaw	FALSE	Yule
+581	Chin	Location	Yule
+582	Chin-tan	FALSE	Yule
+583	China	Location	Murray,Yule
+584	Chinangli(Tï¿½sinan-fu)	 	Yule
+585	Chinchau	FALSE	Yule
+586	Chinese	Person	Yule
+587	Chinese empire	Organization	Murray
+588	Chinese navigation to India		Murray
+589	Ching-hoang tower at Hangchau-fu	FALSE	Yule
+590	Chinghian-fu (Chinkiang-fu)	FALSE	Yule
+591	Chinghiz Khan	Person	Yule
+592	Chinghiz Tora	FALSE	Yule
+593	Chinghu	FALSE	Yule
+594	Chinginju (Changchau)	FALSE	Yule
+595	Chingintalas	Location	Yule
+596	Chingsang	FALSE	Yule
+597	Chingting-fu (Acbaluc)	FALSE	Yule
+598	Chingtsu or Yunglo	Location	Yule
+599	Chinkin	Person	Yule
+600	Chinuchi	FALSE	Yule
+601	Chinï¿½r	 	Yule
+602	Chipangu (Japan)	Location	Yule
+603	Chisi (Kishm)	Location	Murray
+604	Chitral	FALSE	Yule
+605	Chloroxylon	FALSE	Yule
+606	Chochau (Juju)	FALSE	Yule
+607	Choiach	FALSE	Yule
+608	Chola	FALSE	Yule
+609	Chonka 	Location	Yule
+610	Chonkwï¿½ 	 	Yule
+611	Chorcha	Location	Yule
+612	Christian	FALSE	Yule
+613	Christianity	FALSE	Yule
+614	Christians	Organization	Yule
+615	Chrocho (The Rukh)	Organization	Yule
+616	Chronology and chronological data discussed	FALSE	Yule
+617	Chuchau-fu	FALSE	Yule
+618	Chuchu	FALSE	Yule
+619	Chungkwï¿½	 	Yule
+620	Chungtu	FALSE	Yule
+621	Churches	Location	Yule
+622	Churchin	FALSE	Yule
+623	Ciagatai or Zagatai	Person	Murray
+624	Cian-cian (Kiu-tcheou)	Location	Murray
+625	Cian-gli (Te-tcheou)	Location	Murray
+626	Cian-glu (Tsan-tcheou)	Location	Murray
+627	Cianba (Tsiompa)	Location	Murray
+628	Cianganor	Location	Murray
+629	Ciarcian (Karashehr)	Location	Murray
+630	Cielstan	FALSE	Yule
+631	Cin-ghian-fu(Tchin-kiang-fou)	Location	Murray
+632	Cinnamon	Person	Yule
+633	Circumcision 	FALSE	Yule
+634	Cirophanes	FALSE	Yule
+635	Civet of Sumatra	FALSE	Yule
+636	Clemenfu (Tai-yuen-fou)	Location	Murray
+637	Clement IV	Person	Yule
+638	Clement IV.	Person	Murray
+639	Clepsydra	FALSE	Yule
+640	Cloves	FALSE	Yule
+641	Coal	FALSE	Yule
+642	Cobi or Shamo	Location	Murray
+643	Cobinam (Khubees)	Location	Murray
+644	Cobinan (Kohï¿½Banï¿½n)	 	Yule
+645	Cocachin (Kukï¿½chin)	 	Yule
+646	Cochin-China	FALSE	Yule
+647	Coco Islands	FALSE	Yule
+648	Coco-nut (Indian nut)	FALSE	Yule
+649	Cocos Islands	FALSE	Yule
+650	Coeur de Lion	Person	Yule
+651	Coffins	FALSE	Yule
+652	Cogachin (Hukaji)	Person	Yule
+653	Cogatai	Person	Yule
+654	Coiganju (Hwaingan-fu)	FALSE	Yule
+655	Coilac	Location	Murray
+656	Coilon	Location	Murray
+657	Coilum (Kaulam, Quilon)	Location	Yule
+658	Coilumin	FALSE	Yule
+659	Coins 	FALSE	Yule
+660	Coja (Koja)	Person	Yule
+661	Cold	Location	Yule
+662	Coleridge	FALSE	Yule
+663	Coloman	FALSE	Yule
+664	Colombino	FALSE	Yule
+665	Colossal Buddhas	FALSE	Yule
+666	Columbum	FALSE	Yule
+667	Columbus	FALSE	Yule
+668	Comania	FALSE	Yule
+669	Comari	Location	Murray,Yule
+670	Combermere	Location	Yule
+671	Comorin	FALSE	Yule
+672	Comoro Islands	Location	Yule
+673	Compartments	Location	Yule
+674	Compass	FALSE	Yule
+675	Competitive Examinations in beauty	FALSE	Yule
+676	Conchi	Person	Yule
+677	Conci	Person	Murray
+678	Concubines	FALSE	Yule
+679	Condi-fu (Tsi-nan-fou)	Location	Murray
+680	Condor	FALSE	Yule
+681	Condur and Sondur	FALSE	Yule
+682	Condux	FALSE	Yule
+683	Conia	FALSE	Yule
+684	Conjeveram	FALSE	Yule
+685	Conjurers	Person	Yule
+686	Conosalmi (Kamasal)	FALSE	Yule
+687	Constantinople	FALSE	Yule
+688	Convents	FALSE	Yule
+689	Cookery	FALSE	Yule
+690	Cooper	Person	Yule
+691	Copal	FALSE	Yule
+692	Copper	FALSE	Yule
+693	Coral	FALSE	Yule
+694	Corea (Kauli)	FALSE	Yule
+695	Cormos (Ormus)	Location	Murray
+696	Corn	FALSE	Yule
+697	Coromandel (Maabar)	FALSE	Yule
+698	Corsairs	FALSE	Yule
+699	Corte del Milione	FALSE	Yule
+700	Corvino	Person	Murray
+701	Cosmography	FALSE	Yule
+702	Costus	FALSE	Yule
+703	Cotan	FALSE	Yule
+704	Cotan (Khoten)	Location	Murray
+705	Cotton	FALSE	Yule
+706	Counts in Vokhan	FALSE	Yule
+707	Couriers of the great khan		Murray
+708	Courts of Justice	FALSE	Yule
+709	Cowdung	FALSE	Yule
+710	Cowell	FALSE	Yule
+711	Cowries (porcelain shells, pig shells)	FALSE	Yule
+712	Cralantur	FALSE	Yule
+713	Cramoisy (quermesis)	FALSE	Yule
+714	Cranes	FALSE	Yule
+715	Crawford	FALSE	Yule
+716	Creman(Carmania)	Location	Murray
+717	Cremation	FALSE	Yule
+718	Cremesor	FALSE	Yule
+719	Crocodiles	FALSE	Yule
+720	Cross	FALSE	Yule
+721	Crossbows	FALSE	Yule
+722	Cruelties	FALSE	Yule
+723	Crusca MS. of Polo	FALSE	Yule
+724	Crusca MS. of the Travels	Person	Murray
+725	Cubeb pepper	FALSE	Yule
+726	Cubits	FALSE	Yule
+727	Cublay	Person	Yule
+728	Cucintana	FALSE	Yule
+729	Cudgel	FALSE	Yule
+730	Cuiju (Kweichau)	Location	Yule
+731	Cuinet	Location	Yule
+732	Cuirbouly	FALSE	Yule
+733	Cuju	FALSE	Yule
+734	Cun-chin	Location	Murray
+735	Cuncun (Han-Chung) 	Location	Yule
+736	Cunningham	Person	Yule
+737	Cups	FALSE	Yule
+738	Curds and Curdistan	FALSE	Yule
+739	Curmosa (Hormuz)	FALSE	Yule
+740	Currency	Person	Yule
+741	Current	FALSE	Yule
+742	Currents	FALSE	Yule
+743	Curtains	FALSE	Yule
+744	Curzola 	Location	Yule
+745	Curzon	FALSE	Yule
+746	Customs	FALSE	Yule
+747	Cutch pirates	FALSE	Yule
+748	Cuxstac	FALSE	Yule
+749	Cuy Khan 	FALSE	Yule
+750	Cuyne(Kuynuk)	Person	Murray
+751	Cuyné(Kuynuk)	 	Murray
+752	Cycle	FALSE	Yule
+753	Cyn-gui	Location	Murray
+754	Cypresses	FALSE	Yule
+755	Cyprus	FALSE	Yule
+756	Cyrus	Person	Yule
+757	D'Alboquerque	FALSE	Yule
+758	D'Anghieria	FALSE	Yule
+759	D'Ely	FALSE	Yule
+760	Da Gama	FALSE	Yule
+761	Dabul	FALSE	Yule
+762	Dagroian	Location	Yule
+763	Dailiu (Tali)	FALSE	Yule
+764	Dakiï¿½nus	 	Yule
+765	Dalada	FALSE	Yule
+766	Dalai Lama	FALSE	Yule
+767	Dalivar	Location	Yule
+768	Dalmian	FALSE	Yule
+769	Damas	FALSE	Yule
+770	Damascus	Location	Yule
+771	Damasks	FALSE	Yule
+772	Damghan	FALSE	Yule
+773	Dancing dervishes	FALSE	Yule
+774	Dancing girls	FALSE	Yule
+775	Dandolo	Person	Murray,Yule
+776	Dantapura	FALSE	Yule
+777	Dante	FALSE	Yule
+778	Darabjird	FALSE	Yule
+779	Darah	FALSE	Yule
+780	Dariel	FALSE	Yule
+781	Darius	Person	Yule
+782	Dark Ocean of the South	FALSE	Yule
+783	Darkness	FALSE	Yule
+784	Darraj	FALSE	Yule
+785	Daruna	Location	Yule
+786	Darwaz	FALSE	Yule
+787	Dasht	FALSE	Yule
+788	Dasht-i-Lut(Desert of Lï¿½t) 	 	Yule
+789	Dashtistan tribe and district	FALSE	Yule
+790	Dashtï¿½b	 	Yule
+791	Dates 	FALSE	Yule
+792	Daughters of Marco Polo	FALSE	Yule
+793	David	Person	Yule
+794	Davids	Person	Yule
+795	Davis	Person	Yule
+796	Dawaro	FALSE	Yule
+797	Daya	FALSE	Yule
+798	Daï¿½tu	 	Yule
+799	De Barros	FALSE	Yule
+800	De Bode	FALSE	Yule
+801	De Borron	FALSE	Yule
+802	De Guignes		Murray
+803	De la Croix	FALSE	Yule
+804	Dead	FALSE	Yule
+805	Debt	FALSE	Yule
+806	Decima	FALSE	Yule
+807	Decimal organisation of Tartar armies	FALSE	Yule
+808	Decius	Person	Yule
+809	Deghï¿½ns	 	Yule
+810	Deh Bakri	FALSE	Yule
+811	Dehï¿½nah	 	Yule
+812	Delhi	Location	Yule
+813	Demoiselle Crane	FALSE	Yule
+814	Deogir	FALSE	Yule
+815	Depopulation of Badakhshan	FALSE	Yule
+816	Derbend	Location	Yule
+817	Deserts	FALSE	Yule
+818	Desgodins	FALSE	Yule
+819	Despina Khatun	FALSE	Yule
+820	Devadï¿½si	 	Yule
+821	Devapattan	FALSE	Yule
+822	Devil trees	FALSE	Yule
+823	Devil-dancing	FALSE	Yule
+824	Devils	FALSE	Yule
+825	Devï¿½ria	 	Yule
+826	Dhafar (Dofar, Zhafar)	Location	Yule
+827	Dhï¿½lkarnain 	 	Yule
+828	Dialects	FALSE	Yule
+829	Diamonds in India	FALSE	Yule
+830	Dilï¿½war	 	Yule
+831	Dimitri II	Person	Yule
+832	Dinh Tiï¿½n-hwï¿½ng	 	Yule
+833	Dinï¿½r	 	Yule
+834	Dinï¿½r of Red Gold	 	Yule
+835	Diocletian	FALSE	Yule
+836	Dir	Location	Yule
+837	Dirakht-i-Fazl	FALSE	Yule
+838	Dirakht-i-Kush	FALSE	Yule
+839	Dirhem-Kub	Person	Yule
+840	Dirï¿½wal	 	Yule
+841	Dish of Sakya or of Adam	FALSE	Yule
+842	Diu City	FALSE	Yule
+843	Diul-Sind	FALSE	Yule
+844	Divination by twigs or arrows	FALSE	Yule
+845	Dixan	FALSE	Yule
+846	Dizabulus	FALSE	Yule
+847	Dizful River	FALSE	Yule
+848	Djao (Chao) Namian Sumï¿½  (Kaipingfu)	 	Yule
+849	Djaya	FALSE	Yule
+850	Doctors at Kinsay	FALSE	Yule
+851	Dofar	FALSE	Yule
+852	Dog-headed races	FALSE	Yule
+853	Dog-sledging in Far North	FALSE	Yule
+854	Dogana	FALSE	Yule
+855	Doghï¿½bah River	 	Yule
+856	Dogs		Murray,Yule
+857	Dolfino	Person	Yule
+858	Dolonnï¿½r	 	Yule
+859	Dominican friars; their mission to Persia		Murray
+860	Dominicans	FALSE	Yule
+861	Dor	Person	Murray
+862	Dorah Pass	FALSE	Yule
+863	Doria	Person	Yule
+864	Dorjï¿½	 	Yule
+865	Douglas	FALSE	Yule
+866	Doyley	Person	Yule
+867	Dragoian (Ta-hua-Mien	FALSE	Yule
+868	Dragoian (Ta-hua-Mien)	FALSE	Yule
+869	Drawers	FALSE	Yule
+870	Dreams	FALSE	Yule
+871	Drums	FALSE	Yule
+872	Du Bose	FALSE	Yule
+873	Du Halde's estimate of the revenues of China		Murray
+874	Dua Khan	FALSE	Yule
+875	Ducat	FALSE	Yule
+876	Dudley	FALSE	Yule
+877	Duel	FALSE	Yule
+878	Dufar or Dofar	Location	Murray
+879	Dufour	FALSE	Yule
+880	Duhalde	FALSE	Yule
+881	Dukuz Khatun	FALSE	Yule
+882	Dulcarnon (Zulkarnain)	FALSE	Yule
+883	Dulites	FALSE	Yule
+884	Dumas	FALSE	Yule
+885	Dumb trade	FALSE	Yule
+886	Duncan	FALSE	Yule
+887	Duplicates in geography	FALSE	Yule
+888	Durga Temple	FALSE	Yule
+889	Dursamand	FALSE	Yule
+890	Dust-storms	FALSE	Yule
+891	Duties	FALSE	Yule
+892	Dutthagamini	Person	Yule
+893	Dwara Samudra	FALSE	Yule
+894	Dzegun-tala	FALSE	Yule
+895	Dzungaria	FALSE	Yule
+896	Dï¿½Avezac	 	Yule
+897	Dï¿½Orlï¿½ans	 	Yule
+898	Dï¿½rerï¿½s Map of Venice	 	Yule
+899	Dï¿½rï¿½pur 	 	Yule
+900	Eagle mark on shoulder of Georgian kings	FALSE	Yule
+901	Eagle-wood	FALSE	Yule
+902	Eagles	FALSE	Yule
+903	Earth honoured	FALSE	Yule
+904	East	FALSE	Yule
+905	Ebony (bonus)	FALSE	Yule
+906	Edkins	FALSE	Yule
+907	Edward I	FALSE	Yule
+908	Edward II	FALSE	Yule
+909	Effeminacy	FALSE	Yule
+910	Eggs of Ruc and Aepyornis	FALSE	Yule
+911	Egrigaia	Location	Yule
+912	Egrigaia (Ninghia)	Location	Murray
+913	Eighurs	Location	Murray
+914	Ela (cardamom)	FALSE	Yule
+915	Elchidai	FALSE	Yule
+916	Elenovka	FALSE	Yule
+917	Elephantiasis	FALSE	Yule
+918	Elephants		Murray,Yule
+919	Eli	Location	Yule
+920	Eli or Dely	Location	Murray
+921	Elima	FALSE	Yule
+922	Elixir vitae of the Jogis	FALSE	Yule
+923	Elliot	Person	Yule
+924	Emad	Person	Yule
+925	Embroidery	Person	Yule
+926	Empoli	FALSE	Yule
+927	Empusa	FALSE	Yule
+928	Enchanters	FALSE	Yule
+929	Enchantments	FALSE	Yule
+930	Engano Island	FALSE	Yule
+931	Engineering feat	FALSE	Yule
+932	Engineers	FALSE	Yule
+933	England	Person	Yule
+934	English trade and character in Asia	FALSE	Yule
+935	Enlightenment	Location	Yule
+936	Entity Name	Tag	Yule
+937	Erba	FALSE	Yule
+938	Erculin	FALSE	Yule
+939	Erdeni Tso (Erdenidsu	FALSE	Yule
+940	Eremites (Rishis	FALSE	Yule
+941	Erginul	Location	Murray
+942	Erguiul	Location	Yule
+943	Erivan	FALSE	Yule
+944	Ermine	FALSE	Yule
+945	Erzinjan	FALSE	Yule
+946	Erzrum (Arziron)	FALSE	Yule
+947	Eschiel	FALSE	Yule
+948	Escier (Shaher)	Location	Murray
+949	Esher (Shehr, Es-shehr)	FALSE	Yule
+950	Essentemur (Isentimur)	Person	Yule
+951	Estimo	FALSE	Yule
+952	Etchmiadzin Monastery	FALSE	Yule
+953	Ethiopia and India	FALSE	Yule
+954	Ethiopian sheep	FALSE	Yule
+955	Etiquette of the Mongol Court	FALSE	Yule
+956	Etymologies	FALSE	Yule
+957	Etzina	FALSE	Yule
+958	Eunuchs	FALSE	Yule
+959	Euphrates	FALSE	Yule
+960	Euphrates river	Location	Murray
+961	Europeans		Murray
+962	Euxine	FALSE	Yule
+963	Evelyn's Diary	FALSE	Yule
+964	Execution of Princes of the Blood	FALSE	Yule
+965	Eyircayï¿½ 	 	Yule
+966	Ezina	Location	Murray
+967	Facen	Person	Yule
+968	Facfur	Person	Murray
+969	Faghfur (Facfur)	Person	Yule
+970	Faizabad in Badakhshan	FALSE	Yule
+971	Fakanï¿½r	 	Yule
+972	Fakata	FALSE	Yule
+973	Fakhruddin Ahmad	Person	Yule
+974	Falconers	FALSE	Yule
+975	Falconry in China		Murray
+976	Falcons	FALSE	Yule
+977	Famine	FALSE	Yule
+978	Fan Wen-hu	FALSE	Yule
+979	Fanchan Lake	FALSE	Yule
+980	Fanching	FALSE	Yule
+981	Fandaraina	FALSE	Yule
+982	Fansur	Location	Yule
+983	Fansuri camphor	FALSE	Yule
+984	Fariab	FALSE	Yule
+985	Faro of Constantinople	FALSE	Yule
+986	Farriers	FALSE	Yule
+987	Fars	Location	Yule
+988	Fashiyah	Organization	Yule
+989	Fassa	FALSE	Yule
+990	Fasting days	Person	Yule
+991	Fattan	FALSE	Yule
+992	Fausto	Person	Yule
+993	Fazl	FALSE	Yule
+994	Feili	FALSE	Yule
+995	Female attendants on Chinese Emperors	FALSE	Yule
+996	Ferlec	Location	Yule
+997	Fernandez	FALSE	Yule
+998	Ferrier	FALSE	Yule
+999	Festivals		Murray,Yule
+1000	Fiag	Location	Yule
+1001	Fidï¿½wï¿½	 	Yule
+1002	Filial Piety in China	FALSE	Yule
+1003	Filippi	Person	Yule
+1004	Finn	FALSE	Yule
+1005	Fiordelisa	Person	Yule
+1006	Firando Island	Location	Yule
+1007	Firdï¿½s	 	Yule
+1008	Fire	FALSE	Yule
+1009	Fire worshippers (Guebres) in Persia	Person	Murray
+1010	Fire-baptism	FALSE	Yule
+1011	Fire-worship	FALSE	Yule
+1012	Firishta	Person	Yule
+1013	Fish	FALSE	Yule
+1014	Fish-oil	FALSE	Yule
+1015	Florin	FALSE	Yule
+1016	Flour (Sago	FALSE	Yule
+1017	Flï¿½ckiger	 	Yule
+1018	Fo-kien	Location	Murray
+1019	Fog	FALSE	Yule
+1020	Fokien	FALSE	Yule
+1021	Folin (Byzantine Empire)	FALSE	Yule
+1022	Fondaco	FALSE	Yule
+1023	Foot-mark on Adam's Peak	FALSE	Yule
+1024	Foot-posts in Cathay	FALSE	Yule
+1025	Forg	FALSE	Yule
+1026	Formosa	FALSE	Yule
+1027	Forsyth	FALSE	Yule
+1028	Fortune	FALSE	Yule
+1029	Foundlings	FALSE	Yule
+1030	Four-horned sheep	FALSE	Yule
+1031	Fowls with hair	FALSE	Yule
+1032	Foxes	FALSE	Yule
+1033	Fozlï¿½n	 	Yule
+1034	Fra terre (Interior)	FALSE	Yule
+1035	Fracastorious	FALSE	Yule
+1036	Frampton	Person	Murray
+1037	Franciscan converts	FALSE	Yule
+1038	Francolin (darrï¿½j of the Persians)	 	Yule
+1039	Frankincense	FALSE	Yule
+1040	Frederic II	Person	Yule
+1041	French	FALSE	Yule
+1042	French Expedition up the Kamboja River	FALSE	Yule
+1043	French Geographical Society		Murray
+1044	French mission and missionaries in China	FALSE	Yule
+1045	Frenchmen	FALSE	Yule
+1046	Frere	Person	Yule
+1047	Froissart	FALSE	Yule
+1048	Frï¿½re charnel	 	Yule
+1049	Fu-gui or Concha	Location	Murray
+1050	Fuchau (Fuju)	FALSE	Yule
+1051	Fuen (Fen) ho 	Location	Yule
+1052	Fuju (Fokien and Fuchau)	Location	Yule
+1053	Funeral rites	FALSE	Yule
+1054	Fungul	Location	Yule
+1055	Furs	Person	Yule
+1056	Fusang	Location	Yule
+1057	Fuyang	FALSE	Yule
+1058	Fuzo	FALSE	Yule
+1059	Gabala	Person	Yule
+1060	Gagry	FALSE	Yule
+1061	Gaisue	Person	Yule
+1062	Galashkird	FALSE	Yule
+1063	Galeasse	FALSE	Yule
+1064	Galeazza	FALSE	Yule
+1065	Galingale	FALSE	Yule
+1066	Galletti	FALSE	Yule
+1067	Galley-slaves 	FALSE	Yule
+1068	Galleys of the Middle Ages	FALSE	Yule
+1069	Gambling	FALSE	Yule
+1070	Game	FALSE	Yule
+1071	Game Laws	FALSE	Yule
+1072	Gan-fu (Ning-po)	Location	Murray
+1073	Gan-p'u	FALSE	Yule
+1074	Ganapati Kings	FALSE	Yule
+1075	Gandar	Person	Yule
+1076	Gandhï¿½ra 	 	Yule
+1077	Ganfu	Location	Yule
+1078	Ganja	Location	Yule
+1079	Gantanpouhoa	Person	Yule
+1080	Gantï¿½r 	 	Yule
+1081	Gardenia	FALSE	Yule
+1082	Gardinerï¿½s (misprinted Gardnerï¿½s)	 	Yule
+1083	Gardner	Person	Yule
+1084	Garmsir	Person	Yule
+1085	Garnier	FALSE	Yule
+1086	Garrisons	FALSE	Yule
+1087	Gat-pauls	FALSE	Yule
+1088	Gate of Iron	FALSE	Yule
+1089	Gates	Location	Yule
+1090	Gauenispola Island	Location	Yule
+1091	Gaui or Pariahs of Southern India		Murray
+1092	Gauristan	FALSE	Yule
+1093	Gavraz villages	FALSE	Yule
+1094	Gazaria	FALSE	Yule
+1095	Gedrosi	FALSE	Yule
+1096	Gelath in Imeretia	FALSE	Yule
+1097	Genealogy of Polos	FALSE	Yule
+1098	Gengis	Person	Murray
+1099	Genoa	FALSE	Yule
+1100	Genoese	FALSE	Yule
+1101	Gentile Plural names converted into local singulars	FALSE	Yule
+1102	Geo-gui or Gin-gui(Tso-tcheou)	Location	Murray
+1103	Geographical Society of Paris		Murray
+1104	Geographical Text of Polo's Book constantly quoted	Person	Yule
+1105	George (Jirjis Yurji, Gurgï¿½n)	 	Yule
+1106	Georgia	Location	Murray
+1107	Georgia (Georgiana)	Location	Yule
+1108	Gerfalcons 	FALSE	Yule
+1109	Gerini	FALSE	Yule
+1110	German Follower of the Polos	FALSE	Yule
+1111	Ghaissuddin Balban (Asedin Soldan)	Person	Yule
+1112	Ghazan (Casan) Khan of Persia	Person	Yule
+1113	Ghel	FALSE	Yule
+1114	Ghellï¿½ (Gï¿½lï¿½)	 	Yule
+1115	Ghes	FALSE	Yule
+1116	Ghiuju	FALSE	Yule
+1117	Ghiyas ed-din	Person	Yule
+1118	Ghori	Location	Yule
+1119	Ghï¿½r	 	Yule
+1120	Ghï¿½ran country	 	Yule
+1121	Giglioli	Person	Yule
+1122	Gilgit	FALSE	Yule
+1123	Gill	Location	Yule
+1124	Ginao	FALSE	Yule
+1125	Gindanes of Herodotus	FALSE	Yule
+1126	Ginger	FALSE	Yule
+1127	Ginghintalas (Barkoul)	Location	Murray
+1128	Giraffes	FALSE	Yule
+1129	Girardo	FALSE	Yule
+1130	Girdkuh	Location	Yule
+1131	Girls	FALSE	Yule
+1132	Gittarchan	FALSE	Yule
+1133	Glaza (Ayas)	FALSE	Yule
+1134	Gleemen and jugglers	FALSE	Yule
+1135	Goa	FALSE	Yule
+1136	Gobernador	FALSE	Yule
+1137	Gog and Magog (Ung and Mungul)	Location	Yule
+1138	Gogo	FALSE	Yule
+1139	Golconda	Location	Murray
+1140	Golconda diamond mines	FALSE	Yule
+1141	Gold	FALSE	Yule
+1142	Gold and silver towers of Mien	Person	Yule
+1143	Gold dust in Tibet	Location	Yule
+1144	Golden King and Prester John	FALSE	Yule
+1145	Gomispola	FALSE	Yule
+1146	Gomushtapah	FALSE	Yule
+1147	Gomuti palm	FALSE	Yule
+1148	Gondophares	FALSE	Yule
+1149	Gordonï¿½s ï¿½Ever Victorious Armyï¿½	 	Yule
+1150	Gordun Shï¿½h	 	Yule
+1151	Goriosan	FALSE	Yule
+1152	Goshawks	FALSE	Yule
+1153	Gothia (Crimean	FALSE	Yule
+1154	Govy	FALSE	Yule
+1155	Goza	FALSE	Yule
+1156	Gozurat	Location	Murray,Yule
+1157	Goï¿½s	 	Yule
+1158	Goï¿½tre at Yarkand	 	Yule
+1159	Grail	Person	Yule
+1160	Granaries	FALSE	Yule
+1161	Grapes in Shan-si	FALSE	Yule
+1162	Grass-cloths	FALSE	Yule
+1163	Grasso	FALSE	Yule
+1164	Great	FALSE	Yule
+1165	Great Bear (Meistre	FALSE	Yule
+1166	Great wall of China	Location	Murray
+1167	Greece	FALSE	Yule
+1168	Greek fire	FALSE	Yule
+1169	Greeks	FALSE	Yule
+1170	Green	FALSE	Yule
+1171	Gregorieff	Person	Yule
+1172	Gregory X	Person	Yule
+1173	Gregory X.	Person	Murray
+1174	Grenard	FALSE	Yule
+1175	Grioni	FALSE	Yule
+1176	Groat	FALSE	Yule
+1177	Groot	Person	Yule
+1178	Grote	Person	Yule
+1179	Grueber and Dorville	FALSE	Yule
+1180	Gryphon	FALSE	Yule
+1181	Guasmul (Basmul	FALSE	Yule
+1182	Guchluk	FALSE	Yule
+1183	Gudar (village	FALSE	Yule
+1184	Gudar (village)	FALSE	Yule
+1185	Gudran	FALSE	Yule
+1186	Guebers	FALSE	Yule
+1187	Guilds of craftsmen at Kinsay	FALSE	Yule
+1188	Guinea-fowl	FALSE	Yule
+1189	Guions	FALSE	Yule
+1190	Gujï¿½h	 	Yule
+1191	Gumishï¿½Khï¿½nak	 	Yule
+1192	Gunpowder	FALSE	Yule
+1193	Gurgan	Person	Yule
+1194	Gurï¿½Khan of Karacathay	 	Yule
+1195	Gutturals	FALSE	Yule
+1196	Guzerat (Gozurat	FALSE	Yule
+1197	Gï¿½l	 	Yule
+1198	Gï¿½ring	 	Yule
+1199	Haast	Person	Yule
+1200	Habsh (Abash	FALSE	Yule
+1201	Habï¿½b-ullah of Khotan	 	Yule
+1202	Hadhramaut (Sessania Adrumetorum)	FALSE	Yule
+1203	Hadiah	FALSE	Yule
+1204	Haffer	FALSE	Yule
+1205	Hai-nan	Location	Yule
+1206	Hairy men in Sumatra	FALSE	Yule
+1207	Hajji Mahomed	FALSE	Yule
+1208	Hakeddin	FALSE	Yule
+1209	Half-breeds	FALSE	Yule
+1210	Hamd Allah Mastaufi	Person	Yule
+1211	Hamilton	Person	Yule
+1212	Hammerï¿½Purgstall on Marco Polo	 	Yule
+1213	Hamza Pantsï¿½ri	 	Yule
+1214	Hamza of Ispahan	FALSE	Yule
+1215	Hamï¿½m Arabs	 	Yule
+1216	Han Yu	FALSE	Yule
+1217	Han dynasty	Location	Yule
+1218	Han-chung (Cuncun)	FALSE	Yule
+1219	Han-kau	FALSE	Yule
+1220	Hanbury	FALSE	Yule
+1221	Hang-chau fu	FALSE	Yule
+1222	Hanjam	FALSE	Yule
+1223	Hansi	FALSE	Yule
+1224	Harhaura	FALSE	Yule
+1225	Harlez	FALSE	Yule
+1226	Harran	FALSE	Yule
+1227	Harshadeva	Person	Yule
+1228	Harsuddi	Location	Yule
+1229	Haru	FALSE	Yule
+1230	Hashï¿½shï¿½n	 	Yule
+1231	Hasik	FALSE	Yule
+1232	Hassan	Person	Yule
+1233	Hassï¿½n Kalï¿½	 	Yule
+1234	Hastings	FALSE	Yule
+1235	Hatan	FALSE	Yule
+1236	Haunted deserts	FALSE	Yule
+1237	Havret	Person	Yule
+1238	Hawks	Person	Yule
+1239	Hayton I. (Hethum	Person	Yule
+1240	Hazbana	Person	Yule
+1241	Hazï¿½ras	 	Yule
+1242	He-lung Kiang	FALSE	Yule
+1243	Heat	FALSE	Yule
+1244	Heaven	Location	Yule
+1245	Hedin	Person	Yule
+1246	Hei-shui (Mongol Etsina) River	Location	Yule
+1247	Heibak	FALSE	Yule
+1248	Height	FALSE	Yule
+1249	Heikel	Person	Yule
+1250	Hel	FALSE	Yule
+1251	Helena	Person	Yule
+1252	Helli	Person	Yule
+1253	Hemp of Kwei-chau	FALSE	Yule
+1254	Henry II	Person	Yule
+1255	Henry III	Person	Yule
+1256	Heraclius	Person	Yule
+1257	Herat	FALSE	Yule
+1258	Hereditary trades	FALSE	Yule
+1259	Hereford	FALSE	Yule
+1260	Hermenia	Location	Yule
+1261	Hermits of Kashmir	FALSE	Yule
+1262	Herodotus	FALSE	Yule
+1263	Hethum	FALSE	Yule
+1264	Hiai ï¿½ or Kiai-chau (Caichu?)	 	Yule
+1265	Hides (See Leather.)	FALSE	Yule
+1266	Hili	FALSE	Yule
+1267	Hill-people of Fo-kien	FALSE	Yule
+1268	Hinaur	FALSE	Yule
+1269	Hind	FALSE	Yule
+1270	Hindu character	FALSE	Yule
+1271	Hindus	Organization	Yule
+1272	Hing-hwa	FALSE	Yule
+1273	Hippopotamusï¿½ teeth	 	Yule
+1274	Hips	FALSE	Yule
+1275	Hirth	Person	Yule
+1276	Hiuan-Tsung	Person	Yule
+1277	Hiuen Tsang	Person	Yule
+1278	Ho-nhi	FALSE	Yule
+1279	Hoang-ho	Location	Murray
+1280	Hochau	Location	Yule
+1281	Hochung-fu (Cachanfu)	FALSE	Yule
+1282	Hodgson	Person	Yule
+1283	Hoernle	Person	Yule
+1284	Hojos	FALSE	Yule
+1285	Hokien-fu (Cacanfu)	FALSE	Yule
+1286	Hokow	FALSE	Yule
+1287	Holcombe	Location	Yule
+1288	Hollingworth	FALSE	Yule
+1289	Holy Sepulchre	FALSE	Yule
+1290	Homeritae	FALSE	Yule
+1291	Homi-cheu	FALSE	Yule
+1292	Hondius map	FALSE	Yule
+1293	Hooker	Person	Yule
+1294	Hoolaku	Person	Murray
+1295	Horiad (Oirad	FALSE	Yule
+1296	Hormuz (Hormos	Person	Yule
+1297	Hormuzdia	FALSE	Yule
+1298	Horns of Ovis Poli	FALSE	Yule
+1299	Horoscopes	FALSE	Yule
+1300	Horsburgh	Person	Murray
+1301	Horse-posts and Post-houses	FALSE	Yule
+1302	Horse-stealing	FALSE	Yule
+1303	Horses	Person	Yule
+1304	Hosie	FALSE	Yule
+1305	Hospitals	FALSE	Yule
+1306	Hostelries	FALSE	Yule
+1307	Hot springs in Armenia	FALSE	Yule
+1308	Hounds	FALSE	Yule
+1309	Hours	FALSE	Yule
+1310	Hsi Hsia dynasty	Location	Yule
+1311	Hu-chau fu (Vuju)	FALSE	Yule
+1312	Hui-hui	FALSE	Yule
+1313	Hukaji (Hogï¿½chi	 	Yule
+1314	Hukwan-hien	FALSE	Yule
+1315	Hullukluk	Location	Yule
+1316	Human fat	FALSE	Yule
+1317	Humboldt	FALSE	Yule
+1318	Humï¿½yï¿½n	 	Yule
+1319	Hun-ho (Sanghin River)	FALSE	Yule
+1320	Hundred Eyes	FALSE	Yule
+1321	Hung Hao	Person	Yule
+1322	Hungary	FALSE	Yule
+1323	Huns invade Europe		Murray
+1324	Hunting equipment and Expedition	FALSE	Yule
+1325	Hunï¿½war (Onore	 	Yule
+1326	Hutton	Person	Yule
+1327	Hwa-chau	FALSE	Yule
+1328	Hwai River	FALSE	Yule
+1329	Hwai-lu	FALSE	Yule
+1330	Hwai-ngan-fu (Coiganju)	FALSE	Yule
+1331	Hwan-ho	FALSE	Yule
+1332	Hwang-ho (Yellow River	Location	Yule
+1333	Hyena	FALSE	Yule
+1334	Hyrcania	Person	Yule
+1335	Hï¿½lakï¿½ Khan (Alau	 	Yule
+1336	Iabadiu	FALSE	Yule
+1337	Ibn Batuta (Moorish traveller	Person	Yule
+1338	Ibn Fozlï¿½n	 	Yule
+1339	Ibn-al-Furï¿½t	 	Yule
+1340	Ichin-hien	FALSE	Yule
+1341	Ichthyophagous cattle and people	FALSE	Yule
+1342	Icon Amlac	Person	Yule
+1343	Iconium	Location	Murray
+1344	Iconium (Kuniyah	FALSE	Yule
+1345	Idolatry (Buddhism) and Idolaters	FALSE	Yule
+1346	Idols	FALSE	Yule
+1347	Ieu	FALSE	Yule
+1348	Ifat	FALSE	Yule
+1349	Ig	FALSE	Yule
+1350	Igba Zion	Person	Yule
+1351	Ilchi	Location	Yule
+1352	Ilchigadai Khan	Person	Yule
+1353	Ilija	FALSE	Yule
+1354	Ilkhan	FALSE	Yule
+1355	Ilyï¿½ts	 	Yule
+1356	Im Thurn	FALSE	Yule
+1357	Imï¿½ms of the Ismailites	 	Yule
+1358	Incense	FALSE	Yule
+1359	India	Location	Yule
+1360	Indian drugs to prolong life	FALSE	Yule
+1361	Indies	FALSE	Yule
+1362	Indifference	FALSE	Yule
+1363	Indigo	FALSE	Yule
+1364	Indo-China	FALSE	Yule
+1365	Indragiri River	Location	Yule
+1366	Infants	FALSE	Yule
+1367	Ingushes of Caucasus	FALSE	Yule
+1368	Innocent IV	Person	Yule
+1369	Innocent IV.	Person	Murray
+1370	Inscription	FALSE	Yule
+1371	Insult	FALSE	Yule
+1372	Intramural interment prohibited	FALSE	Yule
+1373	Invulnerability	FALSE	Yule
+1374	Irghai	FALSE	Yule
+1375	Irish	Person	Yule
+1376	Iron	FALSE	Yule
+1377	Iron Gate (Derbend Pass	Location	Yule
+1378	Irtish River	Location	Yule
+1379	Isaac	Person	Yule
+1380	Isabel	Person	Yule
+1381	Isabeni	FALSE	Yule
+1382	Isentemur (Sentemur	Person	Yule
+1383	Ish	FALSE	Yule
+1384	Ish-Kï¿½shm	 	Yule
+1385	Iskandar	Person	Yule
+1386	Islands	Location	Yule
+1387	Islands of the Oriental Archipelago	Location	Murray
+1388	Isle dï¿½Orleans	 	Yule
+1389	Isle of Rubies (Ceylon)	Location	Yule
+1390	Ismailites	FALSE	Yule
+1391	Ismalies or Assassins	Person	Murray
+1392	Ismaï¿½l	 	Yule
+1393	Ispahan (Istanit	Location	Yule
+1394	Israel in China	FALSE	Yule
+1395	Iteration	FALSE	Yule
+1396	Ivongo	FALSE	Yule
+1397	Ivory trade	FALSE	Yule
+1398	Izzuddin Muzaffar	Person	Yule
+1399	Iï¿½tsing	 	Yule
+1400	Jacinth	FALSE	Yule
+1401	Jacobite Christians	FALSE	Yule
+1402	Jacobs	FALSE	Yule
+1403	Jade stone (jasper) of Khotan	FALSE	Yule
+1404	Jaeschke	FALSE	Yule
+1405	Jaffa	Person	Yule
+1406	Jaipï¿½l	 	Yule
+1407	Jalï¿½luddï¿½n of Khwarizm	 	Yule
+1408	Jamaluddin	Person	Yule
+1409	Jambi River	Location	Yule
+1410	James of Aragon	Person	Yule
+1411	Jamï¿½i Khï¿½tï¿½n	 	Yule
+1412	Jamï¿½luddï¿½n-al-Thaibi	 	Yule
+1413	Jangama sect	FALSE	Yule
+1414	Janibeg	Person	Yule
+1415	Japan	Location	Murray,Yule
+1416	Japanese paper-money	FALSE	Yule
+1417	Jaroslawl	FALSE	Yule
+1418	Jaspar (Gaspar	FALSE	Yule
+1419	Jasper and chalcedony	FALSE	Yule
+1420	Jatolic	FALSE	Yule
+1421	Jauchau	FALSE	Yule
+1422	Java	Location	Murray,Yule
+1423	Jawa	FALSE	Yule
+1424	Jayaï¿½Sinhavarman II	 	Yule
+1425	Jazirah	FALSE	Yule
+1426	Jaï¿½zgï¿½n	 	Yule
+1427	Jehangï¿½r (Jehan	 	Yule
+1428	Jenkinson	FALSE	Yule
+1429	Jerusalem	Location	Yule
+1430	Jerï¿½n (Zarun	 	Yule
+1431	Jesuit maps	FALSE	Yule
+1432	Jesujabus	FALSE	Yule
+1433	Jews	Organization	Yule
+1434	Jibal	FALSE	Yule
+1435	Jibal-ul-Thabï¿½l	 	Yule
+1436	Jiruft	FALSE	Yule
+1437	Jogis (Chughi)	FALSE	Yule
+1438	John XXII	Person	Yule
+1439	Johnson	Person	Yule
+1440	Johnston	Person	Yule
+1441	Johore	Person	Yule
+1442	Jomard		Murray
+1443	Jon (Jihon	Location	Yule
+1444	Jor-fattan (Baliapatan)	FALSE	Yule
+1445	Jordanus	FALSE	Yule
+1446	Josephus	FALSE	Yule
+1447	Jubb River	Location	Yule
+1448	Judi	Location	Yule
+1449	Jugglers	FALSE	Yule
+1450	Juggling extraordinary	FALSE	Yule
+1451	Juji	Person	Yule
+1452	Juju (Cho-chau)	FALSE	Yule
+1453	Julman	FALSE	Yule
+1454	Junghuhn	FALSE	Yule
+1455	Junks. (See also Ships.)	FALSE	Yule
+1456	Jupï¿½r	 	Yule
+1457	Justice	FALSE	Yule
+1458	Justinian	Person	Yule
+1459	Juzgï¿½na (Dogana	 	Yule
+1460	Juzgï¿½na (Dogana)	 	Yule
+1461	Jï¿½jnagar	 	Yule
+1462	Jï¿½misfulah (Gauenispola)	 	Yule
+1463	Kaan	Person	Yule
+1464	Kaans	Person	Yule
+1465	Kabul	Location	Yule
+1466	Kadapah	FALSE	Yule
+1467	Kafchi-kï¿½e	 	Yule
+1468	Kahn-i-Panchur	FALSE	Yule
+1469	Kaidu	Person	Murray
+1470	Kaidu (Caidu) Khan	Person	Yule
+1471	Kaifung-fu	Location	Yule
+1472	Kaikhosru I. and III	Organization	Yule
+1473	Kaikhï¿½tu (Kiacatu	 	Yule
+1474	Kaikus	FALSE	Yule
+1475	Kain-du	Location	Murray
+1476	Kaipingfu (Keibung	FALSE	Yule
+1477	Kairat-ul-Arab	FALSE	Yule
+1478	Kais	FALSE	Yule
+1479	Kaisarï¿½ya (Caesaraea	 	Yule
+1480	Kajjala	Person	Yule
+1481	Kakateya	Location	Yule
+1482	Kakhyens	Location	Yule
+1483	Kakula	FALSE	Yule
+1484	Kalajan (Calachan)	FALSE	Yule
+1485	Kalantan	FALSE	Yule
+1486	Kalaï¿½ Atishparastan (Cala Ataperistan	 	Yule
+1487	Kalaï¿½ Safed	 	Yule
+1488	Kalchi	FALSE	Yule
+1489	Kales Devar	Person	Yule
+1490	Kalgan	FALSE	Yule
+1491	Kalhï¿½t (Kalhï¿½tï¿½	 	Yule
+1492	Kalidï¿½sa	 	Yule
+1493	Kalinga	FALSE	Yule
+1494	Kalinjar	FALSE	Yule
+1495	Kalï¿½mï¿½r	 	Yule
+1496	Kamasal (Conosalmi	FALSE	Yule
+1497	Kambala	Person	Yule
+1498	Kambalu (Pe-king)	Location	Murray
+1499	Kamboja (Chinla)	FALSE	Yule
+1500	Kambï¿½yat (Cambay)	 	Yule
+1501	Kampar	Location	Yule
+1502	Kamul (Khamil or Hamil)	Location	Murray
+1503	Kamul (Komal	FALSE	Yule
+1504	Kamï¿½l Malik	 	Yule
+1505	Kamï¿½rah	 	Yule
+1506	Kanauj	FALSE	Yule
+1507	Kanbalu Island	FALSE	Yule
+1508	Kanchï¿½u (Campichu)	 	Yule
+1509	Kandahï¿½r	 	Yule
+1510	Kandy	FALSE	Yule
+1511	Kanerkes	Location	Yule
+1512	Kang-hi	FALSE	Yule
+1513	Kangigu	Location	Murray
+1514	Kank	FALSE	Yule
+1515	Kanpï¿½u (Ganpu	 	Yule
+1516	Kansan	FALSE	Yule
+1517	Kansuh	FALSE	Yule
+1518	Kanï¿½t-ul-Shï¿½m (Conosalmi)	 	Yule
+1519	Kao Hoshang	FALSE	Yule
+1520	Kao-yu (Cayu)	FALSE	Yule
+1521	Kaoï¿½Tsung	 	Yule
+1522	Kapilavastu	FALSE	Yule
+1523	Kapukada	FALSE	Yule
+1524	Karakorum	Location	Murray
+1525	Karakorum (Caracoron	FALSE	Yule
+1526	Karakorum (Caracoron)	FALSE	Yule
+1527	Karamoran (Hoang-ho)	Location	Murray
+1528	Karanï¿½t	 	Yule
+1529	Karaunahs (Caraonas	FALSE	Yule
+1530	Karazan	Location	Murray
+1531	Karaï¿½n Jidun	 	Yule
+1532	Kardandan	Location	Murray
+1533	Karens	FALSE	Yule
+1534	Karmathian	FALSE	Yule
+1535	Karnï¿½l	 	Yule
+1536	Karra-Mï¿½nikpï¿½r	 	Yule
+1537	Karrah	FALSE	Yule
+1538	Kartazonon	FALSE	Yule
+1539	Karï¿½ Hulun	 	Yule
+1540	Karï¿½ Khoja	 	Yule
+1541	Karï¿½jï¿½ng (Carajan	 	Yule
+1542	Karï¿½khitaian Empire	 	Yule
+1543	Karï¿½kï¿½sh (ï¿½black jadeï¿½) River	 	Yule
+1544	Karï¿½mï¿½ren (Caramoran) River	 	Yule
+1545	Karï¿½ni (vulgo Cranny)	 	Yule
+1546	Kasaidi Arabs	FALSE	Yule
+1547	Kashan	FALSE	Yule
+1548	Kashmiris	FALSE	Yule
+1549	Kashmï¿½r (Keshimur	 	Yule
+1550	Kasia	FALSE	Yule
+1551	Kasyapa Buddha	FALSE	Yule
+1552	Kataghan	FALSE	Yule
+1553	Kataia		Murray
+1554	Katar pirates	FALSE	Yule
+1555	Katif	FALSE	Yule
+1556	Kattiawï¿½r	 	Yule
+1557	Kaulam	FALSE	Yule
+1558	Kaulamï¿½Malï¿½	 	Yule
+1559	Kauli (Cauly	FALSE	Yule
+1560	Kaunchi (Conchi	FALSE	Yule
+1561	Kavvï¿½yi	 	Yule
+1562	Kayten	FALSE	Yule
+1563	Kazan	FALSE	Yule
+1564	Kazbek	FALSE	Yule
+1565	Kazvï¿½n (Casvin)	 	Yule
+1566	Kazï¿½winah	 	Yule
+1567	Kaï¿½kobad I. and III	 	Yule
+1568	Keary	FALSE	Yule
+1569	Kehran	FALSE	Yule
+1570	Keiaz tribe	FALSE	Yule
+1571	Keibung (Kaipingfu)	FALSE	Yule
+1572	Kelinfu (Kienning-fu	Location	Yule
+1573	Kemenfu	FALSE	Yule
+1574	Kenjanfu (Si-ngan fu)	FALSE	Yule
+1575	Keraits	Location	Yule
+1576	Kerala	Location	Yule
+1577	Keria	FALSE	Yule
+1578	Keriza River	FALSE	Yule
+1579	Kermï¿½n	 	Yule
+1580	Kerulen (Kï¿½i-lien) valley	 	Yule
+1581	Keshican (Keshikten	FALSE	Yule
+1582	Kesimur (Cashmere)	Location	Murray
+1583	Kesmacoran (Kij Makrï¿½n	 	Yule
+1584	Kesmacoran (Mekran)	Location	Murray
+1585	Keuyung Kwan	Location	Yule
+1586	Khakï¿½n	 	Yule
+1587	Khalif (Calif) Mostaï¿½Sim Billah of Baghdad	 	Yule
+1588	Khambavati (Cambay)	FALSE	Yule
+1589	Khanabad (Dogana?)	FALSE	Yule
+1590	Khanfu	FALSE	Yule
+1591	Khanikoff	FALSE	Yule
+1592	Khanoolla (Mount Royal	FALSE	Yule
+1593	Khansï¿½	 	Yule
+1594	Kharesem	FALSE	Yule
+1595	Khato-tribe	FALSE	Yule
+1596	Khavailu (Hwo-lu hï¿½ien)	 	Yule
+1597	Khazars	FALSE	Yule
+1598	Khilak	FALSE	Yule
+1599	Khimka	FALSE	Yule
+1600	Khinsa	FALSE	Yule
+1601	Khitan	FALSE	Yule
+1602	Khmer	FALSE	Yule
+1603	Khodabanda	Person	Yule
+1604	Khojas	FALSE	Yule
+1605	Khorasan	Location	Yule
+1606	Khormuzda	FALSE	Yule
+1607	Khotan (Cotan	Location	Yule
+1608	Khoten	Location	Murray
+1609	Khumbavati (Cambay)	Location	Yule
+1610	Khumdï¿½n	 	Yule
+1611	Khusrï¿½	 	Yule
+1612	Khutuktai Setzen	Person	Yule
+1613	Khwarizm	FALSE	Yule
+1614	Khï¿½n Bï¿½dshah of Khotan	 	Yule
+1615	Khï¿½nbalï¿½k	 	Yule
+1616	Khï¿½tï¿½n-gol	 	Yule
+1617	Kia Tsing	Person	Yule
+1618	Kia-kï¿½ing	 	Yule
+1619	Kiacatu	FALSE	Yule
+1620	Kiahing (Ciangan	FALSE	Yule
+1621	Kiai ï¿½ or Hiai-chau (Caichu)	 	Yule
+1622	Kiakhta	FALSE	Yule
+1623	Kiang	FALSE	Yule
+1624	Kiang-mai	FALSE	Yule
+1625	Kiang-su	FALSE	Yule
+1626	Kiang-suy (-shui) River	Location	Yule
+1627	Kiangka	FALSE	Yule
+1628	Kiangshan	FALSE	Yule
+1629	Kiangsi	FALSE	Yule
+1630	Kiangtheu	FALSE	Yule
+1631	Kiangï¿½Chï¿½	 	Yule
+1632	Kiangï¿½Hung	 	Yule
+1633	Kiangï¿½Tung	 	Yule
+1634	Kiao-chi (Tungking	FALSE	Yule
+1635	Kiaproth		Murray
+1636	Kichau Castle	FALSE	Yule
+1637	Kiehï¿½Chï¿½a	 	Yule
+1638	Kien-chau	FALSE	Yule
+1639	Kien-kwï¿½	 	Yule
+1640	Kien-lung	Person	Yule
+1641	Kien-ning fu (Kelinfu)	FALSE	Yule
+1642	Kiepert	FALSE	Yule
+1643	Kiev	Location	Murray
+1644	Kijï¿½Makrï¿½n (Kesmacoran)	 	Yule
+1645	Kilaï¿½-i-Gabr	 	Yule
+1646	Kilimanchi River	Location	Yule
+1647	Kiming shan Mountains	Location	Yule
+1648	Kin	Location	Yule
+1649	Kin-hwa fu	FALSE	Yule
+1650	Kin-sai or Quin-sai (Hang-tcheou-fou)	Location	Murray
+1651	Kin-sha Kiang	Location	Yule
+1652	Kincha	FALSE	Yule
+1653	King of the Abraiaman	Person	Yule
+1654	King-tï¿½-chï¿½n	 	Yule
+1655	Kings of Maabar	Person	Yule
+1656	Kingsmill	FALSE	Yule
+1657	Kinki	FALSE	Yule
+1658	Kinsay (King-szï¿½)	 	Yule
+1659	Kinshan	Location	Yule
+1660	Kinto	FALSE	Yule
+1661	Kinï¿½Chi	 	Yule
+1662	Kipchak (Ponent)	Location	Yule
+1663	Kirghiz	FALSE	Yule
+1664	Kirghiz Kazak	FALSE	Yule
+1665	Kirghiz-tribe	Organization	Murray
+1666	Kiria	FALSE	Yule
+1667	Kirk	Person	Yule
+1668	Kis	FALSE	Yule
+1669	Kishik	FALSE	Yule
+1670	Kishm (Casem)	FALSE	Yule
+1671	Kistna River	Location	Yule
+1672	Kitubuka	FALSE	Yule
+1673	Kiu-chau	FALSE	Yule
+1674	Kiulan (Quilon	FALSE	Yule
+1675	Kizil Irmak	FALSE	Yule
+1676	Kizil River	FALSE	Yule
+1677	Kneeling oxen	FALSE	Yule
+1678	Ko-li-ki-sze	FALSE	Yule
+1679	Kobad	FALSE	Yule
+1680	Kobdo	FALSE	Yule
+1681	Kogatai	Person	Murray
+1682	Kohï¿½Banï¿½n (Cobinan)	 	Yule
+1683	Koi-gan-zu (Hoai-ngan-fou)	Location	Murray
+1684	Koja (Coja)	Person	Yule
+1685	Kokcha River	Location	Yule
+1686	Kolastri	FALSE	Yule
+1687	Kolkhoi of Ptolemy	FALSE	Yule
+1688	Kollam	FALSE	Yule
+1689	Koloman	FALSE	Yule
+1690	Kolyma	FALSE	Yule
+1691	Komï¿½r	 	Yule
+1692	Kondachi	FALSE	Yule
+1693	Konkan	Person	Yule
+1694	Konï¿½r tree	 	Yule
+1695	Koresh king	Person	Yule
+1696	Kosakio	Person	Yule
+1697	Kosseir	FALSE	Yule
+1698	Kotcheres	Organization	Yule
+1699	Kotlogh	Person	Yule
+1700	Kotlogh Shah	Person	Yule
+1701	Kotou		Murray
+1702	Kotrobah Island	Location	Yule
+1703	Kouyunjik	Location	Yule
+1704	Kozlov	Person	Yule
+1705	Ku-kwan	FALSE	Yule
+1706	Kuang-chou	FALSE	Yule
+1707	Kublai Khan	Person	Murray
+1708	Kuchï¿½ character	 	Yule
+1709	Kuhistan	Location	Yule
+1710	Kukin-Tï¿½na	 	Yule
+1711	Kukju (Genkju)	Person	Yule
+1712	Kukuï¿½Khotan (Blue Town)	 	Yule
+1713	Kulasaikera	FALSE	Yule
+1714	Kulï¿½b	 	Yule
+1715	Kulï¿½n	 	Yule
+1716	Kumhari	FALSE	Yule
+1717	Kumiz	FALSE	Yule
+1718	Kummï¿½jar	 	Yule
+1719	Kumï¿½r	 	Yule
+1720	Kunduz	FALSE	Yule
+1721	Kunduzï¿½Baghlï¿½n	 	Yule
+1722	Kung-ki-cheng (Fei-chï¿½eng)	 	Yule
+1723	Kungurï¿½ts	 	Yule
+1724	Kuniyah (Conia	FALSE	Yule
+1725	Kunlun (Pulo Condore)	FALSE	Yule
+1726	Kurd dynasty	Organization	Yule
+1727	Kurdistan (Curdistan)	Location	Yule
+1728	Kurds	Person	Murray,Yule
+1729	Kuria Maria Islands	Location	Yule
+1730	Kuridai	Person	Yule
+1731	Kurmishi	FALSE	Yule
+1732	Kurshids of Lï¿½ristï¿½n	 	Yule
+1733	Kus	FALSE	Yule
+1734	Kushluk	FALSE	Yule
+1735	Kutan	Person	Yule
+1736	Kutchluk Khan (Buddhist	Person	Yule
+1737	Kutuktemur	Person	Yule
+1738	Kutulun	Person	Yule
+1739	Kuwinji	FALSE	Yule
+1740	Kuyuk Khan	Person	Murray,Yule
+1741	Kwa-chau (Caiju	FALSE	Yule
+1742	Kwan Hsien	FALSE	Yule
+1743	Kwansinfu	FALSE	Yule
+1744	Kwawa	FALSE	Yule
+1745	Kwei-chau (Cuiju)	FALSE	Yule
+1746	Kwei-hwa-chï¿½eng	 	Yule
+1747	Kweilei River	Location	Yule
+1748	Kyung-sang province	Location	Yule
+1749	Kï¿½benï¿½n (Cobinan	 	Yule
+1750	Kï¿½blï¿½i (Cublay)	 	Yule
+1751	Kï¿½firs of Hindu Kush	 	Yule
+1752	Kï¿½ien-chï¿½ang	 	Yule
+1753	Kï¿½il	 	Yule
+1754	Kï¿½ing-yï¿½an (Ning-po)	 	Yule
+1755	Kï¿½kachin	 	Yule
+1756	Kï¿½likï¿½t	 	Yule
+1757	Kï¿½nbï¿½rn Monastery	 	Yule
+1758	Kï¿½reh-i-Ardeshï¿½r (Kuwï¿½shï¿½r)	 	Yule
+1759	Kï¿½shgar (Cascar	 	Yule
+1760	Kï¿½veri River	 	Yule
+1761	Kï¿½veripattanam	 	Yule
+1762	Kï¿½yal	 	Yule
+1763	Kï¿½ï¿½n (Ghï¿½ï¿½n	 	Yule
+1764	Lac (Wallachia	FALSE	Yule
+1765	Ladies of Kinsay	FALSE	Yule
+1766	Ladiesï¿½ dresses in Badakhshan	 	Yule
+1767	Lagong	FALSE	Yule
+1768	Lahore (Dalivar)	FALSE	Yule
+1769	Lahsa	FALSE	Yule
+1770	Laias (Aias)	Location	Murray
+1771	Lake	Location	Yule
+1772	Laknaoti	FALSE	Yule
+1773	Lakshamana Deva	Person	Yule
+1774	Lamas of Tibetan Buddhism	FALSE	Yule
+1775	Lambri	Location	Yule
+1776	Lan Ki Hien (Nanï¿½Che-hien)	 	Yule
+1777	Lan-tsang kiang (Mekong) River	Location	Yule
+1778	Lances of Sago Palm	FALSE	Yule
+1779	Lanchang	FALSE	Yule
+1780	Land of Darkness	Location	Yule
+1781	Langdarma	FALSE	Yule
+1782	Langting Balghasun	FALSE	Yule
+1783	Languages used in Mongol Court and administration	Location	Yule
+1784	Lanja Bï¿½lï¿½s	 	Yule
+1785	Lanka (Ceylon)	Location	Yule
+1786	Lanner Falcons	FALSE	Yule
+1787	Lanï¿½Ho	 	Yule
+1788	Laos	Organization	Yule
+1789	Laoï¿½Kiun	 	Yule
+1790	Lar	Location	Murray,Yule
+1791	Latin version of Poloï¿½s Book	 	Yule
+1792	Latins	FALSE	Yule
+1793	Latsï¿½	 	Yule
+1794	Lauredano	FALSE	Yule
+1795	Lawek	FALSE	Yule
+1796	Laxities of marriage customs	FALSE	Yule
+1797	Layard	Person	Yule
+1798	Layas	Location	Yule
+1799	Le Strange	Location	Yule
+1800	Leather	FALSE	Yule
+1801	Leaves	FALSE	Yule
+1802	Lecomte on Chinese war vessels	FALSE	Yule
+1803	Lembeser	FALSE	Yule
+1804	Lenzin	FALSE	Yule
+1805	Leon I	Person	Yule
+1806	Leon II	Person	Yule
+1807	Leon III	Person	Yule
+1808	Leon VI	Person	Yule
+1809	Leopards	FALSE	Yule
+1810	Lepechin	Person	Yule
+1811	Leung Shan	Person	Yule
+1812	Levant	Location	Yule
+1813	Lew-sha	Location	Yule
+1814	Lewchew	FALSE	Yule
+1815	Lewis	Person	Yule
+1816	Lewis XI. and XII. (France)	Person	Yule
+1817	Leyes	FALSE	Yule
+1818	Lhï¿½sa	 	Yule
+1819	Li Hï¿½ien	 	Yule
+1820	Li Yuan-hao	Organization	Yule
+1821	Li-kiang fu	FALSE	Yule
+1822	Liampo (Ningpo)	FALSE	Yule
+1823	Liang	FALSE	Yule
+1824	Liang-chau in Kansuh	FALSE	Yule
+1825	Liao dynasty	FALSE	Yule
+1826	Liao-tong	FALSE	Yule
+1827	Libanos	FALSE	Yule
+1828	Licinius	Person	Yule
+1829	Lidï¿½ (Liti)	 	Yule
+1830	Lieuli Ho	FALSE	Yule
+1831	Lign-aloes (eagle-wood	FALSE	Yule
+1832	Ligor	FALSE	Yule
+1833	Lin-gui	Location	Murray
+1834	Lin-ngan (Hang-chau)	FALSE	Yule
+1835	Lin-ngan in Yun-nan	FALSE	Yule
+1836	Lin-tï¿½sing chau	 	Yule
+1837	Lindley	FALSE	Yule
+1838	Lindsay	FALSE	Yule
+1839	Linju	FALSE	Yule
+1840	Lintching-y	FALSE	Yule
+1841	Lion and Sun	FALSE	Yule
+1842	Lions		Murray,Yule
+1843	Lionï¿½s Head Tablets	 	Yule
+1844	Lisbon	FALSE	Yule
+1845	Lissu	FALSE	Yule
+1846	Litai	FALSE	Yule
+1847	Litan rebels against Kublai		Murray
+1848	Lithang	FALSE	Yule
+1849	Little Orphan Rock	FALSE	Yule
+1850	Litï¿½n	 	Yule
+1851	Liu Pang	Person	Yule
+1852	Liu Pei (Luo Pï¿½	 	Yule
+1853	Livres of gold	FALSE	Yule
+1854	Lo	Location	Yule
+1855	Lob	FALSE	Yule
+1856	Locac	Location	Yule
+1857	Lochac (Camaboia)	Location	Murray
+1858	Lockhart	FALSE	Yule
+1859	Lolo tribes	Location	Yule
+1860	Longevity of Brahmins and Jogis	FALSE	Yule
+1861	Longfellow	FALSE	Yule
+1862	Lop	Location	Murray,Yule
+1863	Lophaburi	FALSE	Yule
+1864	Loping	FALSE	Yule
+1865	Lor	FALSE	Yule
+1866	Lord	Person	Yule
+1867	Louis	Person	Murray
+1868	Loups cerviers (lynx)	FALSE	Yule
+1869	Low castes	FALSE	Yule
+1870	Lowatong River	FALSE	Yule
+1871	Loyang	Location	Yule
+1872	Lu-tzu tribe	FALSE	Yule
+1873	Lubbies	FALSE	Yule
+1874	Lubï¿½n	 	Yule
+1875	Lubï¿½n-Jï¿½wi	 	Yule
+1876	Lubï¿½n-Shehri	 	Yule
+1877	Lucky and unlucky hours and days	FALSE	Yule
+1878	Luddur Deo	FALSE	Yule
+1879	Luh-ho-ta Pagoda	FALSE	Yule
+1880	Lukonï¿½Kiao (Hun-ho	 	Yule
+1881	Lukyn Port	FALSE	Yule
+1882	Lung-yin	FALSE	Yule
+1883	Lusignan	FALSE	Yule
+1884	Lynxes	FALSE	Yule
+1885	Lï¿½jwurd mines	 	Yule
+1886	Lï¿½ristan (Lor	 	Yule
+1887	Lï¿½ss	 	Yule
+1888	Lï¿½t	 	Yule
+1889	Ma Twan-lin	FALSE	Yule
+1890	Ma-tï¿½eu (Matu)	 	Yule
+1891	Maabar	Location	Murray
+1892	Maaden	Location	Yule
+1893	Maatum	FALSE	Yule
+1894	Macartneyï¿½s Map	 	Yule
+1895	Macgregor	Person	Yule
+1896	Maclagan	FALSE	Yule
+1897	Madagascar	Location	Murray
+1898	Madagascar (Madeigascar)	Location	Yule
+1899	Madarï¿½Des	 	Yule
+1900	Madjgars	Location	Yule
+1901	Madras	Location	Yule
+1902	Madura	Location	Yule
+1903	Maestro		Yule
+1904	Magadha	FALSE	Yule
+1905	Magadoxo	Location	Yule
+1906	Magapatana	Location	Yule
+1907	Magi	FALSE	Yule
+1908	Magic	FALSE	Yule
+1909	Magical darkness (dry fog and dust storms)	FALSE	Yule
+1910	Magnet	FALSE	Yule
+1911	Magyars	FALSE	Yule
+1912	Mahar Amlï¿½k	 	Yule
+1913	Mahavan	FALSE	Yule
+1914	Mahmudiah Canal	Person	Yule
+1915	Mahmï¿½d Kalhï¿½ti	 	Yule
+1916	Mahmï¿½d of Ghazni	 	Yule
+1917	Mahomed	Person	Yule
+1918	Mahomed (Mahommet)	Person	Yule
+1919	Mahomedan revolts in China	Organization	Yule
+1920	Mahomedans (Saracens)	Organization	Yule
+1921	Mailapï¿½r (Shrine of St. Thomas)	 	Yule
+1922	Mailla's translation of the Chinese History		Murray
+1923	Maiman	FALSE	Yule
+1924	Maitreya Buddha	FALSE	Yule
+1925	Majapahit	Location	Yule
+1926	Majar (Menjar)	FALSE	Yule
+1927	Major	FALSE	Yule
+1928	Makdashan	Location	Yule
+1929	Malabar	Location	Yule
+1930	Malacca		Murray,Yule
+1931	Malaiur	Location	Yule
+1932	Malasgird	FALSE	Yule
+1933	Malay Peninsula	Location	Yule
+1934	Malayo	FALSE	Yule
+1935	Malcolm	Person	Yule
+1936	Maldive Islands	Location	Yule
+1937	Male and Female	Location	Murray
+1938	Male and Female Islands	Location	Yule
+1939	Malifattan	FALSE	Yule
+1940	Malik al Dhï¿½hir	 	Yule
+1941	Malli	FALSE	Yule
+1942	Malpiero	FALSE	Yule
+1943	Malteï¿½Brun	 	Yule
+1944	Malwa	FALSE	Yule
+1945	Malï¿½ in Burma	 	Yule
+1946	Malï¿½Amir	 	Yule
+1947	Mamaseni	FALSE	Yule
+1948	Mamre	FALSE	Yule
+1949	Man	Person	Yule
+1950	Manchu dynasty	Organization	Yule
+1951	Mancopa	FALSE	Yule
+1952	Mandalï¿½ in Burma	 	Yule
+1953	Mandarin language	FALSE	Yule
+1954	Mangalai	Person	Yule
+1955	Mangalore	Location	Yule
+1956	Mangalu	Person	Murray
+1957	Mangla and Nebila Islands	Location	Yule
+1958	Mangonels made by Polos for attack of Saianfu	FALSE	Yule
+1959	Mangou	Person	Murray
+1960	Mangu (Mangkï¿½	 	Yule
+1961	Manguï¿½Temur (Mungultemur)	 	Yule
+1962	Manjanikis (Mangonellas). (See Mangonels.)	FALSE	Yule
+1963	Manji	Location	Murray,Yule
+1964	Manjushri	Person	Yule
+1965	Manjï¿½nï¿½k (Manjaniki	 	Yule
+1966	Manjï¿½nï¿½k (Manjaniki)	 	Yule
+1967	Manphul	Person	Yule
+1968	Mansur Shah	Person	Yule
+1969	Mantzï¿½	 	Yule
+1970	Manuel	FALSE	Yule
+1971	Manufactures	FALSE	Yule
+1972	Manuscripts of Poloï¿½s Book	 	Yule
+1973	Manzi (Facfur)	Person	Yule
+1974	Map	FALSE	Yule
+1975	Mapillas	FALSE	Yule
+1976	Maps	FALSE	Yule
+1977	Mar Sarghis	FALSE	Yule
+1978	Marabia	FALSE	Yule
+1979	Marah Silu	FALSE	Yule
+1980	Marash	FALSE	Yule
+1981	Maratha	FALSE	Yule
+1982	Mardin (Merdin)	FALSE	Yule
+1983	Mareï¿½s milk	 	Yule
+1984	Margaritone	FALSE	Yule
+1985	Marignolli	FALSE	Yule
+1986	Market days	FALSE	Yule
+1987	Markets in Kinsay	FALSE	Yule
+1988	Marks of Silver	FALSE	Yule
+1989	Marriage customs in Khotan	FALSE	Yule
+1990	Marsden	Person	Murray
+1991	Marsdenï¿½s edition of Polo	 	Yule
+1992	Martin	Person	Yule
+1993	Martini	Person	Murray,Yule
+1994	Martyrs	FALSE	Yule
+1995	Mashhad (Meshed	Location	Yule
+1996	Mashiz	FALSE	Yule
+1997	Maskat	FALSE	Yule
+1998	Mastiff Dogs	FALSE	Yule
+1999	Mastiffs of Tibet	FALSE	Yule
+2000	Mastodon	FALSE	Yule
+2001	Masulipatam	Location	Murray,Yule
+2002	Masï¿½ud II	 	Yule
+2003	Masï¿½udi	 	Yule
+2004	Matchlocks	FALSE	Yule
+2005	Mati Dhivaja	FALSE	Yule
+2006	Matityna (Martinique)	FALSE	Yule
+2007	Matitï¿½nana	 	Yule
+2008	Maundevile	Person	Yule
+2009	Maung Maorong	Person	Yule
+2010	Mauro	Person	Yule
+2011	Mausul (Mosul)	Location	Yule
+2012	Mayers	FALSE	Yule
+2013	Mayhew	FALSE	Yule
+2014	Mazandï¿½ran	 	Yule
+2015	Maï¿½bar (Maabar)	 	Yule
+2016	Medressehs at Sivas	FALSE	Yule
+2017	Mekhitar	FALSE	Yule
+2018	Mekong River (Lan-tsang kiang)	Location	Yule
+2019	Mekrï¿½n	 	Yule
+2020	Mekrï¿½nis	 	Yule
+2021	Melchior	FALSE	Yule
+2022	Melibar	Location	Yule
+2023	Melibar (Malabar)	Location	Murray
+2024	Melic	FALSE	Yule
+2025	Melons	FALSE	Yule
+2026	Menangkabau	FALSE	Yule
+2027	Mendoza	FALSE	Yule
+2028	Menezes	FALSE	Yule
+2029	Mengki	Person	Yule
+2030	Menjar (Mï¿½jar?)	 	Yule
+2031	Menuvair and Grosvair	FALSE	Yule
+2032	Merghuz Boirï¿½k Khan	 	Yule
+2033	Merkit (Mecrit	Location	Yule
+2034	Meshid (more correctly Mashhad)	FALSE	Yule
+2035	Messengers	FALSE	Yule
+2036	Mexico	Location	Yule
+2037	Meyer	Person	Yule
+2038	Miafarakain	FALSE	Yule
+2039	Miau-tzu	FALSE	Yule
+2040	Mien	Location	Murray,Yule
+2041	Mikado	FALSE	Yule
+2042	Military engines of the Middle Ages	Person	Yule
+2043	Milk	FALSE	Yule
+2044	Million	FALSE	Yule
+2045	Millione	Person	Yule
+2046	Millioni	FALSE	Yule
+2047	Milne	FALSE	Yule
+2048	Min River (in Fokien	Location	Yule
+2049	Min River (in Fokien)	Location	Yule
+2050	Minao district	Location	Yule
+2051	Mines and Minerals	Location	Yule
+2052	Minever	FALSE	Yule
+2053	Ming	Organization	Yule
+2054	Ming-ti	Person	Yule
+2055	Mingan	Person	Yule
+2056	Minjï¿½n	 	Yule
+2057	Minotto	Person	Yule
+2058	Mint	FALSE	Yule
+2059	Mintsing-hien	FALSE	Yule
+2060	Mious River	Location	Yule
+2061	Miracle Stories	FALSE	Yule
+2062	Mirkhond	FALSE	Yule
+2063	Mirobolans	FALSE	Yule
+2064	Missionary Friars	FALSE	Yule
+2065	Moa of New Zealand	Location	Yule
+2066	Modhafferians	FALSE	Yule
+2067	Modun Khotan (ï¿½Wood-villeï¿½)	 	Yule
+2068	Moghistan	FALSE	Yule
+2069	Mohammed	Person	Yule
+2070	Mohammerah	FALSE	Yule
+2071	Mohiuddin	FALSE	Yule
+2072	Mokli	FALSE	Yule
+2073	Molayu	FALSE	Yule
+2074	Molebar	Location	Yule
+2075	Molephatan	FALSE	Yule
+2076	Moliï¿½re	 	Yule
+2077	Moluccas	FALSE	Yule
+2078	Mombasa	FALSE	Yule
+2079	Momein	FALSE	Yule
+2080	Monasteries of Idolaters (Buddhists)	FALSE	Yule
+2081	Money	FALSE	Yule
+2082	Money of the great khan		Murray
+2083	Mongol Emperors	Person	Murray
+2084	Mongol conquests	FALSE	Yule
+2085	Mongols	Organization	Murray
+2086	Mongon Khan	FALSE	Yule
+2087	Mongotay (Mangkutai	Person	Yule
+2088	Monkeys	FALSE	Yule
+2089	Monks	FALSE	Yule
+2090	Monnier	Person	Yule
+2091	Monoceros and Maiden	FALSE	Yule
+2092	Monophysitism	FALSE	Yule
+2093	Monsoons	FALSE	Yule
+2094	Monte dï¿½Ely	 	Yule
+2095	Montecorvino	Person	Yule
+2096	Montgomerie	Person	Yule
+2097	Monument at Si-ngan fu	FALSE	Yule
+2098	Moon	Location	Yule
+2099	Moore	FALSE	Yule
+2100	Moplas	FALSE	Yule
+2101	Morgan	Person	Yule
+2102	Mortagne	FALSE	Yule
+2103	Moscow	Location	Yule
+2104	Mosolin	FALSE	Yule
+2105	Mossos	Location	Yule
+2106	Mostaï¿½sim Billah	 	Yule
+2107	Mosul	Location	Murray
+2108	Mosul (Mausul)	Location	Yule
+2109	Motapallï¿½	 	Yule
+2110	Motawakkil	Person	Yule
+2111	Moule	Person	Yule
+2112	Mount	FALSE	Yule
+2113	Mountain	Location	Yule
+2114	Mourning customs	FALSE	Yule
+2115	Mozambique Channel	FALSE	Yule
+2116	Muang	Location	Yule
+2117	Mulberry Trees	FALSE	Yule
+2118	Multan	FALSE	Yule
+2119	Mulï¿½Java	 	Yule
+2120	Mulï¿½hidah (Mulehet)	 	Yule
+2121	Mung (Nicaea)	FALSE	Yule
+2122	Mungasht	FALSE	Yule
+2123	Mungul	FALSE	Yule
+2124	Mungulï¿½Temur and Mongoï¿½Temur	 	Yule
+2125	Murad Beg	FALSE	Yule
+2126	Murghab River	Location	Yule
+2127	Murray	Person	Yule
+2128	Murus Ussu (Brius	FALSE	Yule
+2129	Mus	FALSE	Yule
+2130	MusaÕd	 	Yule
+2131	Musk		Murray,Yule
+2132	Muslin	FALSE	Yule
+2133	Mutfili (Motapallï¿½ for Telingana)	 	Yule
+2134	Muza	FALSE	Yule
+2135	Mynibar	FALSE	Yule
+2136	Mysore	Location	Yule
+2137	Mystic number	FALSE	Yule
+2138	Mï¿½chin	 	Yule
+2139	Mï¿½dï¿½i	 	Yule
+2140	Mï¿½ller	 	Yule
+2141	Mï¿½n	 	Yule
+2142	Mï¿½nï¿½l pheasant (Lopophorus impeyanus)	 	Yule
+2143	Mï¿½ramangalam	 	Yule
+2144	Mï¿½rat	 	Yule
+2145	Mï¿½tzner	 	Yule
+2146	Nac	FALSE	Yule
+2147	Nakkï¿½ra (Naccara)	 	Yule
+2148	Nalanda	FALSE	Yule
+2149	Nan-ghin (Nan-King)	Location	Murray
+2150	Nancouri	FALSE	Yule
+2151	Nanghin (Ngan-king)	FALSE	Yule
+2152	Nangiass	Person	Yule
+2153	Nankau	FALSE	Yule
+2154	Nanking	FALSE	Yule
+2155	Nanwuli	FALSE	Yule
+2156	Nanï¿½Chao	 	Yule
+2157	Naobanjï¿½n	 	Yule
+2158	Naoshirwan	FALSE	Yule
+2159	Naphtha in the Caucasian country	FALSE	Yule
+2160	Napier	Person	Yule
+2161	Napoleon III	Person	Yule
+2162	Narikelaï¿½Dvipa	 	Yule
+2163	Narinï¿½Kaleh	 	Yule
+2164	Narkandam	Location	Yule
+2165	Narsinga	Person	Yule
+2166	Narwhal tusk	FALSE	Yule
+2167	Nasich	FALSE	Yule
+2168	Nasruddin (Nescradin)	Person	Yule
+2169	Nassir-uddin	Person	Yule
+2170	Natigay	FALSE	Yule
+2171	Navapa (Lop?)	FALSE	Yule
+2172	Navaï¿½Khanda	 	Yule
+2173	Naversa (ancient Anazarbus	FALSE	Yule
+2174	Nayan	Person	Murray,Yule
+2175	Nebila and Mangla islands	Location	Yule
+2176	Nebuchadnezzar	FALSE	Yule
+2177	Necklaces	FALSE	Yule
+2178	Necuveran	FALSE	Yule
+2179	Necuveran (Nicobar) Islands		Murray
+2180	Negapatam	FALSE	Yule
+2181	Negroes described	FALSE	Yule
+2182	Negropont	FALSE	Yule
+2183	Nellore	FALSE	Yule
+2184	Nemej	FALSE	Yule
+2185	Nerghi	FALSE	Yule
+2186	Nescardin	Person	Murray
+2187	Nescradin	Person	Yule
+2188	Nestorian Christians	Organization	Yule
+2189	Nestorian Christians and Jacobites		Murray
+2190	Nestorius	Person	Yule
+2191	Nevergï¿½n Pass	 	Yule
+2192	New Year Festival at Kï¿½blï¿½iï¿½s Court	 	Yule
+2193	Neza Tash Pass	FALSE	Yule
+2194	Ngan-king (Nanghin)	FALSE	Yule
+2195	Ngan-ning-ho River	FALSE	Yule
+2196	Ngantung	Person	Yule
+2197	Ngo-ning	FALSE	Yule
+2198	Nia (ancient Ni-jang	FALSE	Yule
+2199	Nias Island	Location	Yule
+2200	Nibong Palm	FALSE	Yule
+2201	Nicaea of Alexander	FALSE	Yule
+2202	Nicholson	Location	Yule
+2203	Nicobar (Necuveran) Islands	Location	Yule
+2204	Nicolas	Person	Yule
+2205	Nicolas IV	Person	Yule
+2206	Nicolas of Pistoia	FALSE	Yule
+2207	Nieuhoff	FALSE	Yule
+2208	Nigudar (Nogodar	Person	Yule
+2209	Nigudarian bands	FALSE	Yule
+2210	Nilawï¿½r (Nellore)	 	Yule
+2211	Nile	FALSE	Yule
+2212	Nileshwaram	FALSE	Yule
+2213	Nine	FALSE	Yule
+2214	Nine Provinces (India)	Location	Yule
+2215	Ning-hsia	FALSE	Yule
+2216	Ning-yuan fu	FALSE	Yule
+2217	Ningpo	FALSE	Yule
+2218	Niriz	FALSE	Yule
+2219	Nirvana	FALSE	Yule
+2220	Nishapï¿½r	 	Yule
+2221	Niuchï¿½ (Yuchï¿½	 	Yule
+2222	Noahï¿½s Ark in Armenia	 	Yule
+2223	Nobles of Venice	FALSE	Yule
+2224	Nochdarizari	Location	Yule
+2225	Nogai Khan	Person	Yule
+2226	Nogodar	Person	Murray
+2227	Nogodar (Nigudar	Person	Yule
+2228	Nomad tribes of Persia	FALSE	Yule
+2229	Nomogan (Numughan	Person	Yule
+2230	None	Person	Yule
+2231	North	Location	Yule
+2232	North Star	FALSE	Yule
+2233	Note Book	FALSE	Yule
+2234	Novgorod	FALSE	Yule
+2235	Nubia	FALSE	Yule
+2236	Nukdaris	Location	Yule
+2237	Nuksï¿½n Pass	 	Yule
+2238	Numbers	FALSE	Yule
+2239	Nusiï¿½Ibrahim	 	Yule
+2240	Nutmegs	FALSE	Yule
+2241	Nyuchï¿½	 	Yule
+2242	Oak of Hebron	FALSE	Yule
+2243	Oaracta (Kishm	FALSE	Yule
+2244	Obedience of Ismaelites	FALSE	Yule
+2245	Obi River	Location	Yule
+2246	Observatory at Peking	Location	Yule
+2247	Ocean Sea	Location	Yule
+2248	Ocoloro Island	Location	Yule
+2249	Odoric	FALSE	Yule
+2250	Oger	FALSE	Yule
+2251	Ogotai Khan	FALSE	Yule
+2252	Oil from the Holy Sepulchre	FALSE	Yule
+2253	Oirad	FALSE	Yule
+2254	Okkodai Khan	Person	Yule
+2255	Okkoday Khan	Person	Murray
+2256	Olak	FALSE	Yule
+2257	Old Man of the Mountain	Person	Murray
+2258	Old Man of the Mountain (Aloadin)	Person	Yule
+2259	Oljaï¿½tu Khan	 	Yule
+2260	Oman	FALSE	Yule
+2261	Omens	FALSE	Yule
+2262	Onan Kerule	FALSE	Yule
+2263	Ondanique (fine kind of steel)	FALSE	Yule
+2264	Oppert	Person	Yule
+2265	Orang Gugu	FALSE	Yule
+2266	Orang Malayu River	Location	Yule
+2267	Orbelian	FALSE	Yule
+2268	Ordos	FALSE	Yule
+2269	Organa (Jerï¿½n)	 	Yule
+2270	Oriental phrases in Poloï¿½s dictation	 	Yule
+2271	Orissa	Location	Yule
+2272	Orkhon River	Location	Yule
+2273	Orleans	FALSE	Yule
+2274	Oroech	FALSE	Yule
+2275	Ostriches	FALSE	Yule
+2276	Ostyaks	FALSE	Yule
+2277	Otto	Person	Yule
+2278	Ouang Khan	Person	Murray
+2279	Oulatay (Uladai)	Person	Yule
+2280	Owen	Person	Yule
+2281	Oxen	FALSE	Yule
+2282	Oxenham	FALSE	Yule
+2283	Oxus Valley and River	Location	Yule
+2284	Oxus river	Location	Murray
+2285	Oxydracae	FALSE	Yule
+2286	Pa-yi writing	FALSE	Yule
+2287	Pacamuria (Baccanor)	FALSE	Yule
+2288	Pacauta! (an invocation)	FALSE	Yule
+2289	Pacem	FALSE	Yule
+2290	Paddle-wheel barges	FALSE	Yule
+2291	Paderin	Person	Yule
+2292	Padma Sambhava	FALSE	Yule
+2293	Pagaroyang	FALSE	Yule
+2294	Paggi Islands	Location	Yule
+2295	Pagodas	FALSE	Yule
+2296	Pagï¿½n (in Burma)	 	Yule
+2297	Pahang	FALSE	Yule
+2298	Pai-yen-ching	FALSE	Yule
+2299	Paipurth (Baiburt)	FALSE	Yule
+2300	Pakwiha	FALSE	Yule
+2301	Palace of Khan at Chagannor	Location	Yule
+2302	Palembang	FALSE	Yule
+2303	Palladius	FALSE	Yule
+2304	Palm (Measure)	FALSE	Yule
+2305	Palm Wine	FALSE	Yule
+2306	Pamier (Pamir)		Murray,Yule
+2307	Pandarani	FALSE	Yule
+2308	Pandit Manphul	FALSE	Yule
+2309	Pandrethan in Kashmir	Location	Yule
+2310	Pandyan kings	FALSE	Yule
+2311	Panja River	Location	Yule
+2312	Panjkora	FALSE	Yule
+2313	Panjshir	FALSE	Yule
+2314	Panjï¿½b	 	Yule
+2315	Pantaleon	FALSE	Yule
+2316	Panthï¿½	 	Yule
+2317	Panya (or Pengya	Location	Yule
+2318	Panï¿½Asiatic usages	 	Yule
+2319	Pao-ki hï¿½ien	 	Yule
+2320	Paonano Pao	FALSE	Yule
+2321	Paper-money (Chao	FALSE	Yule
+2322	Papien River	Location	Yule
+2323	Papï¿½	 	Yule
+2324	Paquier	Person	Yule
+2325	Paradise	Location	Yule
+2326	Paramisura	Person	Yule
+2327	Paravas	FALSE	Yule
+2328	Parez	Location	Yule
+2329	Pariahs (Paraiyar	FALSE	Yule
+2330	Parker	FALSE	Yule
+2331	Parliament	FALSE	Yule
+2332	Parlï¿½k	 	Yule
+2333	Parpa iron mines	FALSE	Yule
+2334	Parris	Person	Murray
+2335	Parrot	FALSE	Yule
+2336	Parrots	FALSE	Yule
+2337	Partridges	FALSE	Yule
+2338	Parwana	FALSE	Yule
+2339	Paryï¿½n silver mines	 	Yule
+2340	Parï¿½krï¿½ma Bahu I	 	Yule
+2341	Pascal of Vittoria	FALSE	Yule
+2342	Pascia (Peshawer)	Location	Murray
+2343	Pasei	Person	Yule
+2344	Pasha and Pashagar tribes	Location	Yule
+2345	Pashai	Location	Yule
+2346	Pashaï¿½Afroz	 	Yule
+2347	Passo (or Pace	FALSE	Yule
+2348	Patarins	Person	Yule
+2349	Patlam	Person	Yule
+2350	Patriarchs of Eastern Christians. (See also Catholicos and	FALSE	Yule
+2351	Patteikï¿½Karï¿½	 	Yule
+2352	Patterns	FALSE	Yule
+2353	Patu	FALSE	Yule
+2354	Pau-chym (Pao-yug-shien)	Location	Murray
+2355	Paukin (Pao-ying)	FALSE	Yule
+2356	Pauthier	Person	Yule
+2357	Paved roads in China	FALSE	Yule
+2358	Payan	Location	Yule
+2359	Payangadi	FALSE	Yule
+2360	Paï¿½	 	Yule
+2361	Pe-king	Location	Murray
+2362	Peaches	FALSE	Yule
+2363	Peacocks at St. Thomasï¿½s	 	Yule
+2364	Pearls	Person	Yule
+2365	Pears	FALSE	Yule
+2366	Pedir	FALSE	Yule
+2367	Pedro	Person	Yule
+2368	Pegu and Bengal confounded	FALSE	Yule
+2369	Pei-chau (Piju)	FALSE	Yule
+2370	Pein (Bai)	Location	Murray
+2371	Pein (Pim	Location	Yule
+2372	Peking	FALSE	Yule
+2373	Pelly	Person	Yule
+2374	Pema-ching	FALSE	Yule
+2375	Pemberton	Person	Yule
+2376	Pentam (Bintang)	Location	Murray,Yule
+2377	Pepper	FALSE	Yule
+2378	Pepper Country	Location	Yule
+2379	Peregrine falcons	FALSE	Yule
+2380	Perla (Ferlec)	FALSE	Yule
+2381	Persia	Location	Murray,Yule
+2382	Persia and India	Location	Yule
+2383	Persian Gulf (Sea of India?)	Location	Yule
+2384	Persian applied to language of foreigners at Mongol Court	FALSE	Yule
+2385	Peshï¿½war	 	Yule
+2386	Peter	Person	Yule
+2387	Pharaohï¿½s rats (Gerboa)	 	Yule
+2388	Phayre	Person	Yule
+2389	Pheasants	FALSE	Yule
+2390	Pheng (the Rukh)	FALSE	Yule
+2391	Philip III. and IV. of France	Person	Yule
+2392	Philip the Fair	FALSE	Yule
+2393	Philippine Islands	Location	Yule
+2394	Phillips	FALSE	Yule
+2395	Phipps	Person	Yule
+2396	Phra Rï¿½ma	 	Yule
+2397	Phungan	FALSE	Yule
+2398	Physician	FALSE	Yule
+2399	Physicians	FALSE	Yule
+2400	Pi-an-fu(Pin-yang-fou)	Location	Murray
+2401	Pianfu (Pï¿½ing-yang fu	 	Yule
+2402	Pianfu (Pï¿½ing-yang fu)	 	Yule
+2403	Pichalok	FALSE	Yule
+2404	Pievtsov	Person	Yule
+2405	Pig-shells	FALSE	Yule
+2406	Pigeon posts	FALSE	Yule
+2407	Piju (Pei-chau)	FALSE	Yule
+2408	Pilgrimage	Location	Yule
+2409	Pima (Pim)	FALSE	Yule
+2410	Pin-gui (Pi-tcheou)	Location	Murray
+2411	Pinati	Person	Yule
+2412	Pine woods in Mongolian desert	FALSE	Yule
+2413	Pinnaï¿½Cael (Punnei-Kï¿½yal)	 	Yule
+2414	Pipino	Person	Murray,Yule
+2415	Pirabandi or Bir Pandi (Vira Pandi)	FALSE	Yule
+2416	Pirada	FALSE	Yule
+2417	Pirates of Malabar	FALSE	Yule
+2418	Piratical customs at Eli	FALSE	Yule
+2419	Pistachioes	FALSE	Yule
+2420	Plane	FALSE	Yule
+2421	Plano Carpini	FALSE	Yule
+2422	Po-szï¿½ (Persia)	 	Yule
+2423	Pog	Location	Yule
+2424	Poison	FALSE	Yule
+2425	Poison wind	FALSE	Yule
+2426	Poisoning guests	FALSE	Yule
+2427	Poisonous pasturage	FALSE	Yule
+2428	Poland	Location	Yule
+2429	Pole	FALSE	Yule
+2430	Pole-star	FALSE	Yule
+2431	Police	FALSE	Yule
+2432	Politeness of Chinese	FALSE	Yule
+2433	Polo	Location	Murray,Yule
+2434	Polygamy	FALSE	Yule
+2435	Ponent	FALSE	Yule
+2436	Pong (Mediaeval Shan State)	FALSE	Yule
+2437	Poods	FALSE	Yule
+2438	Pope of Rome	Person	Murray
+2439	Popinjays	FALSE	Yule
+2440	Population	FALSE	Yule
+2441	Porcelain manufacture	FALSE	Yule
+2442	Porcupines	FALSE	Yule
+2443	Pork	FALSE	Yule
+2444	Posts	FALSE	Yule
+2445	Potala at Lï¿½hasa	 	Yule
+2446	Pottinger	FALSE	Yule
+2447	Poultry	FALSE	Yule
+2448	Pound	FALSE	Yule
+2449	Pozdneiev	FALSE	Yule
+2450	Precious stones or gems	FALSE	Yule
+2451	Prester John	Person	Murray
+2452	Prester John (Unc Can	Person	Yule
+2453	Prices of horses	FALSE	Yule
+2454	Printing	FALSE	Yule
+2455	Private names supposed	FALSE	Yule
+2456	Prjevalsky	Person	Yule
+2457	Probation of Jogis	FALSE	Yule
+2458	Prophecy regarding Bayan	FALSE	Yule
+2459	Prostitutes; at Cambaluc	FALSE	Yule
+2460	Provinces	Location	Yule
+2461	Pseudoï¿½Callisthenes	 	Yule
+2462	Ptolemiesï¿½ trained African elephants	 	Yule
+2463	Ptolemy	FALSE	Yule
+2464	Pu-chï¿½eng	 	Yule
+2465	Puer and Esmok	FALSE	Yule
+2466	Pukan Mienï¿½Wang	 	Yule
+2467	Pulad Chingsang	FALSE	Yule
+2468	Pulisangan river	Location	Murray
+2469	Pulisanghin	Location	Yule
+2470	Pulo Bras	FALSE	Yule
+2471	Pulo Condore (Sondur and Condur)	FALSE	Yule
+2472	Pulo Gommes (Gauenispola)	FALSE	Yule
+2473	Pulo Nankai	FALSE	Yule
+2474	Pulo Wï¿½	 	Yule
+2475	Punnei-Kï¿½yal	 	Yule
+2476	Purchas in his Pilgrims uses Ramusio's edition of Marco Polo's Travels		Murray
+2477	Purï¿½nas	 	Yule
+2478	Putchok	FALSE	Yule
+2479	Putu-ho	FALSE	Yule
+2480	Pygmies	FALSE	Yule
+2481	Pï¿½dishah Khï¿½tï¿½n of Kerman	 	Yule
+2482	Pï¿½ing-chang	 	Yule
+2483	Pï¿½ing-yang fu (Pianfu)	 	Yule
+2484	Pï¿½o-yang Lake	 	Yule
+2485	Pï¿½u-chau fu	 	Yule
+2486	Qalï¿½ah Asgher	 	Yule
+2487	Qara Ars-lï¿½n Beg	 	Yule
+2488	Quails in India	FALSE	Yule
+2489	Que-lin-fu (Kien-ning-fou)	Location	Murray
+2490	Queen of Mutfili	FALSE	Yule
+2491	Quen-gian-fu (Si-ngan-fou)	Location	Murray
+2492	Quicksilver and sulphur potion	FALSE	Yule
+2493	Quills of the Ruc	FALSE	Yule
+2494	Quilon	FALSE	Yule
+2495	Quin-sai	Location	Murray
+2496	Qumadin (Camadi	FALSE	Yule
+2497	Rabbanta	Person	Yule
+2498	Rabelais	FALSE	Yule
+2499	Radloff	Person	Yule
+2500	Rain-makers	FALSE	Yule
+2501	Rainald	FALSE	Yule
+2502	Rainy season	FALSE	Yule
+2503	Rajkot leather-work	FALSE	Yule
+2504	Rakka	FALSE	Yule
+2505	Rama Kamheng	Person	Yule
+2506	Rameshwaram	FALSE	Yule
+2507	Ramnad	FALSE	Yule
+2508	Rampart of Gog and Magog	FALSE	Yule
+2509	Ramusio	Person	Yule
+2510	Ramusio's collection of Voyages and Travels		Murray
+2511	Ranking	FALSE	Yule
+2512	Raonanoï¿½Rao	 	Yule
+2513	Rapson	FALSE	Yule
+2514	Ras Haili	FALSE	Yule
+2515	Rashï¿½duddï¿½n	 	Yule
+2516	Ravenala tree (Urania speciosa)	FALSE	Yule
+2517	Raw meat eaten	FALSE	Yule
+2518	Rawlinson	Person	Yule
+2519	Reclus	FALSE	Yule
+2520	Red Sea	Location	Yule
+2521	Red gold and red Tangas	FALSE	Yule
+2522	Red sect of Lamas	FALSE	Yule
+2523	Refraction	FALSE	Yule
+2524	Regains his liberty	Person	Murray
+2525	Reindeer ridden	FALSE	Yule
+2526	Religion	FALSE	Yule
+2527	Remission of taxation by Kï¿½blï¿½i	 	Yule
+2528	Rennell	FALSE	Yule
+2529	Reobarle	Location	Murray
+2530	Reobarles (Rï¿½dbï¿½r	 	Yule
+2531	Revenue of Kinsay	FALSE	Yule
+2532	Rhinoceros (Unicorn	FALSE	Yule
+2533	Rhinoceros of Sumatra		Murray
+2534	Rhins	FALSE	Yule
+2535	Rhubarb	FALSE	Yule
+2536	Riant	FALSE	Yule
+2537	Ricci	FALSE	Yule
+2538	Rice	FALSE	Yule
+2539	Rice-wine	FALSE	Yule
+2540	Richard II	FALSE	Yule
+2541	Richthofen	FALSE	Yule
+2542	Right and Left	FALSE	Yule
+2543	Rio Marabia	Location	Yule
+2544	Roads radiating from Cambaluc	FALSE	Yule
+2545	Robbers in Persia	FALSE	Yule
+2546	Robbersï¿½ River	 	Yule
+2547	Robes distributed by Kï¿½blï¿½i	 	Yule
+2548	Roborovsky	Person	Yule
+2549	Rochefort	FALSE	Yule
+2550	Rockets	FALSE	Yule
+2551	Rockhill (Rubruck and Diary of a Journey	Location	Yule
+2552	Rofia palm (sagus ruffia	FALSE	Yule
+2553	Rofia palm (sagus ruffia)	FALSE	Yule
+2554	Rome	Location	Yule
+2555	Roriï¿½Bakkar	 	Yule
+2556	Rosaries	FALSE	Yule
+2557	Rostof and Susdal	Person	Yule
+2558	Roth	FALSE	Yule
+2559	Rouble	FALSE	Yule
+2560	Roxana	Person	Yule
+2561	Roze de lï¿½Aï¿½ur	 	Yule
+2562	Rubies	FALSE	Yule
+2563	Rubruquis	Person	Murray,Yule
+2564	Ruby mines in Badakhshan	FALSE	Yule
+2565	Ruc (Rukh	Person	Yule
+2566	Rudder	FALSE	Yule
+2567	Rudra Deva	Person	Yule
+2568	Rudrama Devi	Person	Yule
+2569	Rukh	Person	Yule
+2570	Rukhnuddin	Person	Yule
+2571	Runiz	FALSE	Yule
+2572	Ruomedamï¿½Ahomet	 	Yule
+2573	Rupen	Person	Yule
+2574	Rupert	Person	Yule
+2575	Russia		Murray
+2576	Russia (Rosia	Location	Yule
+2577	Russians	FALSE	Yule
+2578	Rusticiano of Pisa	Person	Yule
+2579	Rusticians	Person	Murray
+2580	Rustï¿½k	 	Yule
+2581	Ruyschï¿½s map	 	Yule
+2582	Rï¿½dbï¿½r-i-Lass	 	Yule
+2583	Rï¿½dkhï¿½nah-i-Duzdi (Robbersï¿½ River)	 	Yule
+2584	Rï¿½dkhï¿½nah-i-Shor (Salt River)	 	Yule
+2585	Rï¿½in	 	Yule
+2586	Rï¿½m	 	Yule
+2587	Rï¿½nï¿½ Paramitï¿½ï¿½s Woman Country	 	Yule
+2588	Rï¿½ppellï¿½s Table of Abyssinian kings	 	Yule
+2589	Sa-van-fu (Siang-yang-fou)	Location	Murray
+2590	Saadi	FALSE	Yule
+2591	Saba (Sava	Location	Yule
+2592	Sabaste	FALSE	Yule
+2593	Sable	FALSE	Yule
+2594	Sabreddin	FALSE	Yule
+2595	Sabzawur	FALSE	Yule
+2596	Sacchion (Cha-tcheou)	Location	Murray
+2597	Sachiu (Sha-chau)	FALSE	Yule
+2598	Sacrifices of people of Tangut	FALSE	Yule
+2599	Saffron	FALSE	Yule
+2600	Sagacity of sledge-dogs	FALSE	Yule
+2601	Sagamon Borcan	FALSE	Yule
+2602	Sagatu	FALSE	Yule
+2603	Saggio (16 oz.)	FALSE	Yule
+2604	Sago	FALSE	Yule
+2605	Saianfu	FALSE	Yule
+2606	Saif Arad	Person	Yule
+2607	Saifuddin Nazrat	Person	Yule
+2608	Saimur (Chaul)	FALSE	Yule
+2609	Sain Khan (or Batu)	Person	Yule
+2610	Saker falcons	FALSE	Yule
+2611	Sakta doctrines	FALSE	Yule
+2612	Sakya Muni (Sagamon Borcan) Buddha	Person	Yule
+2613	Salamander	FALSE	Yule
+2614	Salar (Ho-chau)	FALSE	Yule
+2615	Salem	Person	Yule
+2616	Salghur	FALSE	Yule
+2617	Salsette Island	Location	Yule
+2618	Salt	Location	Murray,Yule
+2619	Salwen River	Location	Yule
+2620	Samagar	FALSE	Yule
+2621	Samara	Location	Yule
+2622	Samarcan (Samarcand)	Location	Murray
+2623	Samarkand (Samarcan	Location	Yule
+2624	Sampson	FALSE	Yule
+2625	Samudra	FALSE	Yule
+2626	Samuel	Person	Yule
+2627	Samï¿½na	 	Yule
+2628	San Giovanni Grisostomo	Person	Yule
+2629	San Lorenzo	Location	Yule
+2630	Sandu	FALSE	Yule
+2631	Sanf	FALSE	Yule
+2632	Sanglich	FALSE	Yule
+2633	Sangon	FALSE	Yule
+2634	Sangï¿½Miau	 	Yule
+2635	Sangï¿½n	 	Yule
+2636	Sanitary effects of Mountain air	FALSE	Yule
+2637	Sanjar	Location	Yule
+2638	Sankin Hoto	Person	Yule
+2639	Sanuto of Torcelli	Person	Yule
+2640	Sappan wood	FALSE	Yule
+2641	Saptaï¿½Shaila	 	Yule
+2642	Sapurgan (Sabï¿½rkï¿½n	 	Yule
+2643	Sapurgan(Shibbergaun) city of		Murray
+2644	Sar-i-kol	Location	Yule
+2645	Saracanco (Saraichik	FALSE	Yule
+2646	Saracens	Organization	Murray,Yule
+2647	Sarai (Sara	Location	Yule
+2648	Saratov	FALSE	Yule
+2649	Sarbizan Pass	FALSE	Yule
+2650	Sardines	FALSE	Yule
+2651	Sarghalan River	FALSE	Yule
+2652	Sarha	Location	Yule
+2653	Sarhadd River	Location	Yule
+2654	Sarsï¿½ti	 	Yule
+2655	Sartach	Person	Murray
+2656	Sartak	Person	Yule
+2657	Sassanian dynasty	Organization	Yule
+2658	Sati	FALSE	Yule
+2659	Satin	FALSE	Yule
+2660	Sava	Location	Murray
+2661	Savast (Siwas)	FALSE	Yule
+2662	Scanderoon	Location	Yule
+2663	Scasem	FALSE	Yule
+2664	Scassem(Koondooz)	Location	Murray
+2665	Scherani	FALSE	Yule
+2666	Schiltberger	FALSE	Yule
+2667	Schindler	Person	Yule
+2668	Schlegel	Person	Yule
+2669	Schmidt	Person	Yule
+2670	Schuyler	FALSE	Yule
+2671	Schï¿½nborn	 	Yule
+2672	Scidmore	FALSE	Yule
+2673	Scotra	Location	Yule
+2674	Scotra (Socotra) isle of	Location	Murray
+2675	Scythians	Organization	Murray
+2676	Sea of Chin	Location	Yule
+2677	Seal	FALSE	Yule
+2678	Sebaste	FALSE	Yule
+2679	Sebourc	FALSE	Yule
+2680	Sees of Latin Church	FALSE	Yule
+2681	Sefavï¿½ehs	 	Yule
+2682	Seilan	Location	Yule
+2683	Seilan (Ceylon)	Person	Murray
+2684	Self-decapitation	FALSE	Yule
+2685	Selitrennoyï¿½ Gorodok (Saltpetre Town)	 	Yule
+2686	Seljukian dynasty	Organization	Yule
+2687	Semal tree	FALSE	Yule
+2688	Semedo	FALSE	Yule
+2689	Semenat	Location	Yule
+2690	Semenat (Sumnaut)	Location	Murray
+2691	Sempad	Person	Yule
+2692	Sendal	FALSE	Yule
+2693	Sendemain	Person	Yule
+2694	Sender Bandi Davar	FALSE	Yule
+2695	Seneca	FALSE	Yule
+2696	Senecherim	Person	Yule
+2697	Seni	FALSE	Yule
+2698	Sensin	FALSE	Yule
+2699	Sentemur	FALSE	Yule
+2700	Sepulchre of Adam	FALSE	Yule
+2701	Serano	FALSE	Yule
+2702	Serazi (Shï¿½rï¿½z	 	Yule
+2703	Serendib	FALSE	Yule
+2704	Sergamon Borcam		Murray
+2705	Serpents	FALSE	Yule
+2706	Sertorius	FALSE	Yule
+2707	Sesamï¿½	 	Yule
+2708	Sethï¿½s mission to Paradise	 	Yule
+2709	Sevan Lake	Location	Yule
+2710	Seven Arts	FALSE	Yule
+2711	Severtsoff	FALSE	Yule
+2712	Seyyed Barghash	Person	Yule
+2713	Sha-chau (Sachin	FALSE	Yule
+2714	Shabankara	FALSE	Yule
+2715	Shabar	Person	Yule
+2716	Shadow	FALSE	Yule
+2717	Shah Abbas	Person	Yule
+2718	Shah Werdy	Person	Yule
+2719	Shahr Mandi	FALSE	Yule
+2720	Shahr-i-Babek	Location	Yule
+2721	Shahr-i-Nao (Siam)	FALSE	Yule
+2722	Shaibani Khan	FALSE	Yule
+2723	Shaikhs (Esheks	FALSE	Yule
+2724	Shakespeare	FALSE	Yule
+2725	Shamanism		Murray
+2726	Shamanism. (See also Devilï¿½Dancing.)	 	Yule
+2727	Shampath	Person	Yule
+2728	Shamsuddin Shamatrani	FALSE	Yule
+2729	Shamuthera	Location	Yule
+2730	Shan (Laotian	FALSE	Yule
+2731	Shan-hai-kwan	FALSE	Yule
+2732	Shan-si	FALSE	Yule
+2733	Shan-tung	FALSE	Yule
+2734	Shanars of Tinnevelly	FALSE	Yule
+2735	Shang-hai	FALSE	Yule
+2736	Shangkingï¿½Fungking	 	Yule
+2737	Shangtu	Location	Yule
+2738	Shangtu Keibung	FALSE	Yule
+2739	Shankï¿½rah	 	Yule
+2740	Shao-hing-fu	FALSE	Yule
+2741	Shao-ling	FALSE	Yule
+2742	Shara-ul-buks (Forest of box on the Black Sea)	FALSE	Yule
+2743	Sharakhs	FALSE	Yule
+2744	Sharks and shark charmers	FALSE	Yule
+2745	Shauls	FALSE	Yule
+2746	Shaw	FALSE	Yule
+2747	Shawls of Kerman	FALSE	Yule
+2748	Shawï¿½nkï¿½ra (Soncara)	 	Yule
+2749	Sheep	FALSE	Yule
+2750	Sheepï¿½s head given to horses	 	Yule
+2751	Shehr	Person	Yule
+2752	Shehrizor (Kerkuk)	FALSE	Yule
+2753	Shen-si	FALSE	Yule
+2754	Shenrabs	FALSE	Yule
+2755	Shentseu tribe	FALSE	Yule
+2756	Sheuping	FALSE	Yule
+2757	Shewï¿½	 	Yule
+2758	Shi-tsung	Person	Yule
+2759	Shibrgï¿½n (Sapurgan)	 	Yule
+2760	Shieng	FALSE	Yule
+2761	Shighnan (Syghinan	Location	Yule
+2762	Shikï¿½rgï¿½h	 	Yule
+2763	Shing-king	FALSE	Yule
+2764	Ships	FALSE	Yule
+2765	Shireghi	FALSE	Yule
+2766	Shirha	FALSE	Yule
+2767	Shirwan	FALSE	Yule
+2768	Shoa	FALSE	Yule
+2769	Shobï¿½aengs of Nicobar	 	Yule
+2770	Shodja ed-din Kurshid	FALSE	Yule
+2771	Shorï¿½Rud (Salt River)	 	Yule
+2772	Shot of Military Engines	FALSE	Yule
+2773	Shpilevsky	FALSE	Yule
+2774	Shut up nations	FALSE	Yule
+2775	Shwï¿½li River	 	Yule
+2776	Shï¿½listï¿½n (Suolstan)	 	Yule
+2777	Shï¿½liï¿½t	 	Yule
+2778	Shï¿½ls of Shauls	 	Yule
+2779	Shï¿½rï¿½z (Cerazi)	 	Yule
+2780	Si Hia	FALSE	Yule
+2781	Si-fan	Organization	Murray
+2782	Si-hu	Location	Yule
+2783	Si-ngan fu (Kenjanfu	FALSE	Yule
+2784	Siam	Person	Yule
+2785	Siang-yang-fu (Saianfu	Location	Yule
+2786	Siberia	Location	Yule
+2787	Sibree	FALSE	Yule
+2788	Sick men put to death and eaten by their friends	FALSE	Yule
+2789	Siddhï¿½rta	 	Yule
+2790	Sidi Ali	FALSE	Yule
+2791	Sien	FALSE	Yule
+2792	Sifan	FALSE	Yule
+2793	Sigatay	FALSE	Yule
+2794	Sighelm	Person	Yule
+2795	Sijistï¿½n	 	Yule
+2796	Siju (Suthsian)	FALSE	Yule
+2797	Sikintinju (Kien-chow)	FALSE	Yule
+2798	Silesia	Location	Yule
+2799	Silk	FALSE	Yule
+2800	Silver chairs	FALSE	Yule
+2801	Simon	FALSE	Yule
+2802	Simurgh	FALSE	Yule
+2803	Simï¿½m	 	Yule
+2804	Sin-din-fu(Tching-tou-fou) 	Location	Murray
+2805	Sin-gui	Location	Murray
+2806	Sin-gui (Sou-teheou-fou)	Location	Murray
+2807	Sin-gui(Tsi-ning-tcheou) city of		Murray
+2808	Sinbad	Person	Yule
+2809	Sind (Sindhuï¿½Sauvira)	 	Yule
+2810	Sindachu (Siuen-hwa fu)	FALSE	Yule
+2811	Sindafu (Chengtu-fu)	FALSE	Yule
+2812	Sindhuï¿½Sauvira (Sindh-Sï¿½gor)	 	Yule
+2813	Sindï¿½bï¿½r (Goa)	 	Yule
+2814	Singapore	FALSE	Yule
+2815	Singkel	FALSE	Yule
+2816	Singphos	FALSE	Yule
+2817	Sings	FALSE	Yule
+2818	Singtur	Person	Yule
+2819	Singuyli (Cranganor)	FALSE	Yule
+2820	Sinhopala (Accambale	Person	Yule
+2821	Sinju (Si-ning fu	FALSE	Yule
+2822	Sinju (Si-ning fu)	FALSE	Yule
+2823	Sinju-matu	FALSE	Yule
+2824	Sinope	FALSE	Yule
+2825	Sinugul (Soui-tcheou)	Location	Murray
+2826	Sir-i-Chashma	FALSE	Yule
+2827	Sirikol	Location	Yule
+2828	Sirocco		Murray
+2829	Sis	FALSE	Yule
+2830	Sismondi		Murray
+2831	Sitting in air	FALSE	Yule
+2832	Siu chau	FALSE	Yule
+2833	Siuen-hwa-fu	FALSE	Yule
+2834	Siva	FALSE	Yule
+2835	Sivas	FALSE	Yule
+2836	Siwastï¿½n	 	Yule
+2837	Siwi	FALSE	Yule
+2838	Sixtus V	Person	Yule
+2839	Siyurgutmish	FALSE	Yule
+2840	Sladen	FALSE	Yule
+2841	Slaves in Bengal	FALSE	Yule
+2842	Sledges	FALSE	Yule
+2843	Sleeping-mats	FALSE	Yule
+2844	Sluices of Grand Canal	FALSE	Yule
+2845	Smith	Person	Yule
+2846	Smith (R.E.	Person	Yule
+2847	Sneezing	FALSE	Yule
+2848	Socotra (Scotra	Location	Yule
+2849	Soer (Suhar)	FALSE	Yule
+2850	Sofala	FALSE	Yule
+2851	Sogoman Borcan	Person	Yule
+2852	Sol	FALSE	Yule
+2853	Soldaia	FALSE	Yule
+2854	Soldan	FALSE	Yule
+2855	Soldurii	FALSE	Yule
+2856	Soli	Location	Yule
+2857	Solomon	FALSE	Yule
+2858	Soltania	FALSE	Yule
+2859	Somnath (Semenat	Location	Yule
+2860	Sonagar-pattanam	FALSE	Yule
+2861	Soncara (Shawankï¿½ra)	 	Yule
+2862	Sondur and Condur (Pulo Condore		Murray
+2863	Sondur and Condur (Pulo Condore Group)	FALSE	Yule
+2864	Sorcerers	FALSE	Yule
+2865	Sornau (Shahr-i-Nau	FALSE	Yule
+2866	Sotiates	Location	Yule
+2867	Soucat	FALSE	Yule
+2868	Southey	Person	Yule
+2869	Spaan	FALSE	Yule
+2870	Spice	FALSE	Yule
+2871	Spice wood	FALSE	Yule
+2872	Spices in China	FALSE	Yule
+2873	Spikenard	FALSE	Yule
+2874	Spinello Aretini	FALSE	Yule
+2875	Spirit drawings and spiritual flowers	FALSE	Yule
+2876	Spirits haunting deserts	FALSE	Yule
+2877	Spiritualism in China	FALSE	Yule
+2878	Spittoons	FALSE	Yule
+2879	Spodium (Spodos)	FALSE	Yule
+2880	Sport and game	FALSE	Yule
+2881	Sposk	FALSE	Yule
+2882	Springolds	FALSE	Yule
+2883	Springs	FALSE	Yule
+2884	Sprinkling of drink	FALSE	Yule
+2885	Squares at Kinsay	FALSE	Yule
+2886	Sriï¿½Thammarat	 	Yule
+2887	Sriï¿½Vaikuntham	 	Yule
+2888	Sse River	FALSE	Yule
+2889	St. Anno of Cologne	FALSE	Yule
+2890	St. Barlaam and St. Josafat	FALSE	Yule
+2891	St. Barsauma (Barsamo	FALSE	Yule
+2892	St. Blasius (Blaise	Location	Yule
+2893	St. Brandon	FALSE	Yule
+2894	St. Buddha	FALSE	Yule
+2895	St. Epiphanius	FALSE	Yule
+2896	St. George	Location	Yule
+2897	St. Helena	FALSE	Yule
+2898	St. Jamesï¿½ Shrine	 	Yule
+2899	St. John the Baptist	Location	Yule
+2900	St. Leonardï¿½s Convent in Georgia	 	Yule
+2901	St. Lewis	Person	Yule
+2902	St. Martin	FALSE	Yule
+2903	St. Maryï¿½s Island	 	Yule
+2904	St. Matthew	FALSE	Yule
+2905	St. Matthewï¿½s Gospel	 	Yule
+2906	St. Nina	FALSE	Yule
+2907	St. Sabbaï¿½s at Acre	 	Yule
+2908	St. Thomas	Person	Yule
+2909	St. Thomasï¿½s Isle	 	Yule
+2910	Stack	FALSE	Yule
+2911	Star Chart	FALSE	Yule
+2912	Star of Bethlehem	FALSE	Yule
+2913	Steamers on Yangtse-kiang	FALSE	Yule
+2914	Steel mines at Kermï¿½n	 	Yule
+2915	Stefani	FALSE	Yule
+2916	Stein	Person	Yule
+2917	Stiens of Cambodia	FALSE	Yule
+2918	Stirrups	FALSE	Yule
+2919	Stitched vessels	FALSE	Yule
+2920	Stockade erected by Poloï¿½s party in Sumatra	 	Yule
+2921	Stone	FALSE	Yule
+2922	Stones giving invulnerability	FALSE	Yule
+2923	Su-chau (Suju	FALSE	Yule
+2924	Su-tï¿½sh	 	Yule
+2925	Submersion of part of Ceylon	FALSE	Yule
+2926	Subterraneous irrigation	FALSE	Yule
+2927	Suburbs of Cambaluc	FALSE	Yule
+2928	Subutai	Person	Yule
+2929	Succiur (Sou-tcheou)	Location	Murray
+2930	Suchnan River	FALSE	Yule
+2931	Sudarium	FALSE	Yule
+2932	Sugar	FALSE	Yule
+2933	Suh-chau (Sukchur)	FALSE	Yule
+2934	Suicides before an idol	FALSE	Yule
+2935	Sukchur	Location	Yule
+2936	Sukkothai	FALSE	Yule
+2937	Sukum Kalaï¿½	 	Yule
+2938	Suleiman	Location	Yule
+2939	Sulphur and quicksilver	FALSE	Yule
+2940	Sultan Shah	Person	Yule
+2941	Sultaniah	FALSE	Yule
+2942	Sumatra	Location	Murray,Yule
+2943	Sumatra (Java the Less	Location	Yule
+2944	Sumbawa	FALSE	Yule
+2945	Summers	Person	Yule
+2946	Sumutala	FALSE	Yule
+2947	Sun and moon	FALSE	Yule
+2948	Sundar Fï¿½lï¿½t (Pulo Condore Group)	 	Yule
+2949	Sundara Pandi Devar	Person	Yule
+2950	Sung	Organization	Yule
+2951	Sunnis and Shias	FALSE	Yule
+2952	Suolstan (Shulistan	Location	Yule
+2953	Superstitions in Tangut	FALSE	Yule
+2954	Survival	FALSE	Yule
+2955	Surï¿½Raja	 	Yule
+2956	Sushun	Person	Yule
+2957	Suttee		Murray
+2958	Suttees in S. India	FALSE	Yule
+2959	Suï¿½kin	 	Yule
+2960	Swans	FALSE	Yule
+2961	Swat	Location	Yule
+2962	Swi-fu	FALSE	Yule
+2963	Sword blades of India	FALSE	Yule
+2964	Syghinan	FALSE	Yule
+2965	Sykes	FALSE	Yule
+2966	Sylen (Ceylon)	FALSE	Yule
+2967	Symbolical messages	FALSE	Yule
+2968	Syrian Christians	FALSE	Yule
+2969	Sze-chï¿½wan (Chï¿½eng-tu	 	Yule
+2970	Szechï¿½nyi	 	Yule
+2971	Sï¿½ddhodhana	 	Yule
+2972	Sï¿½lih	 	Yule
+2973	Sï¿½nkalï¿½n	 	Yule
+2974	Sï¿½rdï¿½ Pass	 	Yule
+2975	Sï¿½rjï¿½n or Shirjï¿½n	 	Yule
+2976	Sï¿½rï¿½f (Kish	 	Yule
+2977	Sï¿½stï¿½n	 	Yule
+2978	Sï¿½vah (Saba)	 	Yule
+2979	Ta Tsing River	Location	Yule
+2980	Ta-pa-Shan range	FALSE	Yule
+2981	Ta-tï¿½sien-lu	 	Yule
+2982	Tabashir	FALSE	Yule
+2983	Tabbas	FALSE	Yule
+2984	Table of the Great Khan	FALSE	Yule
+2985	Tables	FALSE	Yule
+2986	Tablet	FALSE	Yule
+2987	Tablets of Authority	FALSE	Yule
+2988	Tabriz (Tauris)	FALSE	Yule
+2989	Tachindo	FALSE	Yule
+2990	Tacitus	FALSE	Yule
+2991	Tactics	FALSE	Yule
+2992	Tacuin	FALSE	Yule
+2993	Tadinfu	FALSE	Yule
+2994	Taeping	FALSE	Yule
+2995	Taeping Insurrection and Devastations	FALSE	Yule
+2996	Taffetas	FALSE	Yule
+2997	Taft	FALSE	Yule
+2998	Tafurs	FALSE	Yule
+2999	Tagachar	FALSE	Yule
+3000	Tagaung	FALSE	Yule
+3001	Tagharma Pass	FALSE	Yule
+3002	Taghdï¿½ngbï¿½sh River	 	Yule
+3003	Tai-in-fu (Tai-yuen-fou)	Location	Murray
+3004	Tai-kan(Khoolloom)	Location	Murray
+3005	Tai-tsu	FALSE	Yule
+3006	Taianfu (Tï¿½ai-yuan-fu	 	Yule
+3007	Taiani	FALSE	Yule
+3008	Taican	FALSE	Yule
+3009	Taichau (Tigu)	FALSE	Yule
+3010	Taidu	Location	Yule
+3011	Taikung	FALSE	Yule
+3012	Tailed men	Person	Yule
+3013	Tailors	FALSE	Yule
+3014	Taimï¿½ni tribe	 	Yule
+3015	Taiting-fu (Tadinfu	FALSE	Yule
+3016	Taitong-fu	FALSE	Yule
+3017	Tajiks of Badakhshan	FALSE	Yule
+3018	Takfï¿½r	 	Yule
+3019	Takhtapul	FALSE	Yule
+3020	Taklaï¿½Makan	 	Yule
+3021	Talains	FALSE	Yule
+3022	Talas River	Location	Yule
+3023	Tali	Location	Yule
+3024	Talifu (Carajan)	FALSE	Yule
+3025	Talikan	FALSE	Yule
+3026	Tallies	FALSE	Yule
+3027	Tam-pin-gui	Location	Murray
+3028	Tamarind	FALSE	Yule
+3029	Tamerlan	FALSE	Yule
+3030	Tana (Azov	Location	Yule
+3031	Tana (Azov)	Location	Yule
+3032	Tana (Bombay)	Location	Murray
+3033	Tanaï¿½Maiambu	 	Yule
+3034	Tanaï¿½Malayu	 	Yule
+3035	Tanduc	FALSE	Yule
+3036	Tangnu Oola	FALSE	Yule
+3037	Tangut	Location	Murray
+3038	Tangut province	FALSE	Yule
+3039	Tangutan	FALSE	Yule
+3040	Tanjore	FALSE	Yule
+3041	Tanpiju (Shaohing?)	FALSE	Yule
+3042	Tantras	FALSE	Yule
+3043	Tao-lin	Person	Yule
+3044	Tao-sze (Taossï¿½	 	Yule
+3045	Taprobana	FALSE	Yule
+3046	Tarakai	FALSE	Yule
+3047	Tarantula	FALSE	Yule
+3048	Tarem	FALSE	Yule
+3049	Tares of the parable	FALSE	Yule
+3050	Tarmabala	Person	Yule
+3051	Tarok Man and Tarok Myo	FALSE	Yule
+3052	Tartar language	FALSE	Yule
+3053	Tartars	Organization	Yule
+3054	Tartars driven out of China		Murray
+3055	Tartary cloths	FALSE	Yule
+3056	Tarungares	FALSE	Yule
+3057	Tarï¿½kh-i-Rashï¿½dï¿½	 	Yule
+3058	Tatarï¿½ya coins	 	Yule
+3059	Tathung	FALSE	Yule
+3060	Tattooing	FALSE	Yule
+3061	Tatu (Taichu	Location	Yule
+3062	Tatu (Taichu)	Location	Yule
+3063	Tatyang Khan (Great King	Person	Yule
+3064	Tauris	FALSE	Yule
+3065	Taurizi	FALSE	Yule
+3066	Tawï¿½lisi	 	Yule
+3067	Taxes	FALSE	Yule
+3068	Tchakiri Mondou (Modun	FALSE	Yule
+3069	Tchakiri Mondou (Modun)	FALSE	Yule
+3070	Tea		Murray
+3071	Tea trees in E. Tibet	FALSE	Yule
+3072	Tea-houses at Kingszï¿½	 	Yule
+3073	Tebet	Location	Yule
+3074	Tedaldo	FALSE	Yule
+3075	Teeth	FALSE	Yule
+3076	Teflis	Location	Murray
+3077	Tegana	FALSE	Yule
+3078	Teghele	FALSE	Yule
+3079	Teimur (Temur	Person	Yule
+3080	Tekla	FALSE	Yule
+3081	Tekrit	FALSE	Yule
+3082	Telingana	FALSE	Yule
+3083	Telo Samawe	FALSE	Yule
+3084	Tembul (Betel	FALSE	Yule
+3085	Temkan	Person	Yule
+3086	Temple	FALSE	Yule
+3087	Templeï¿½s account of the Condor	 	Yule
+3088	Temugin	Person	Murray
+3089	Temujin	FALSE	Yule
+3090	Temur	Person	Murray
+3091	Tenduc	Location	Murray,Yule
+3092	Tengri	FALSE	Yule
+3093	Tennasserim	FALSE	Yule
+3094	Tents	FALSE	Yule
+3095	Tents of  the great khan		Murray
+3096	Terebinth	FALSE	Yule
+3097	Terra Australis	FALSE	Yule
+3098	Terra Mountains	FALSE	Yule
+3099	Teï¿½Tsung	 	Yule
+3100	Thai	FALSE	Yule
+3101	Thai-yuanfu (Taianfu	FALSE	Yule
+3102	Thai-yuanfu (Taianfu)	FALSE	Yule
+3103	Thaigin	FALSE	Yule
+3104	Theft	FALSE	Yule
+3105	Theistic worship	FALSE	Yule
+3106	Thelasar	FALSE	Yule
+3107	Theobald	FALSE	Yule
+3108	Theodorus	Person	Yule
+3109	Theodosius the Great	FALSE	Yule
+3110	Theophilus	Person	Yule
+3111	Thian Shan	Person	Yule
+3112	Thiantï¿½-Kiun	 	Yule
+3113	Thibet	Person	Murray
+3114	Thin lï¿½Evï¿½que	 	Yule
+3115	Tholoman	FALSE	Yule
+3116	Tholoman (part of Yun-nan)	Location	Murray
+3117	Thomas	FALSE	Yule
+3118	Thread	FALSE	Yule
+3119	Three kingdoms (Sanï¿½Kwï¿½)	 	Yule
+3120	Threshold	FALSE	Yule
+3121	Thurï¿½n Shahï¿½s History of Hormuz	 	Yule
+3122	Thï¿½venot	 	Yule
+3123	Ti-min-gui (King-te-ching)		Murray
+3124	Tibet (Tebet) province	Location	Yule
+3125	Tibetan language and character	FALSE	Yule
+3126	Tibetans	FALSE	Yule
+3127	Tides in Hang-chau estuary	FALSE	Yule
+3128	Tierce	FALSE	Yule
+3129	Tiflis	FALSE	Yule
+3130	Tigado	Location	Yule
+3131	Tigers (called lions by Polo	FALSE	Yule
+3132	Tigris River (Volga	Location	Yule
+3133	Tigï¿½dar (Acomat Soldan)	 	Yule
+3134	Tiju	FALSE	Yule
+3135	Tiles	FALSE	Yule
+3136	Tiling	FALSE	Yule
+3137	Tilinga	FALSE	Yule
+3138	Timur of Toumen	Person	Yule
+3139	Timur the Great	FALSE	Yule
+3140	Timurids	FALSE	Yule
+3141	Tin-gui	Location	Murray
+3142	Ting	FALSE	Yule
+3143	Tinju	FALSE	Yule
+3144	Tinnevelly	FALSE	Yule
+3145	Tithe on clothing material	FALSE	Yule
+3146	Tithing men	FALSE	Yule
+3147	Titus	Person	Yule
+3148	Tjajya	FALSE	Yule
+3149	Toba race	FALSE	Yule
+3150	Toc-tai	Person	Murray
+3151	Toctai	Person	Yule
+3152	Tod	Person	Yule
+3153	Toddy	FALSE	Yule
+3154	Togan	FALSE	Yule
+3155	Toghontemur	Person	Yule
+3156	Toghrul I	Person	Yule
+3157	Togrul Wang Khan	Person	Yule
+3158	Toka Tumir	FALSE	Yule
+3159	Toktai Khan (Toctai	Person	Yule
+3160	Tokï¿½t	 	Yule
+3161	Tolan-nur (Dolonnï¿½r)	 	Yule
+3162	Toleto	Person	Yule
+3163	Tolobuga	FALSE	Yule
+3164	Toman (Tuman	FALSE	Yule
+3165	Tongking	FALSE	Yule
+3166	Tonocain (Daumghann)	Location	Murray
+3167	Tooth-relique of Buddha	FALSE	Yule
+3168	Torchi	FALSE	Yule
+3169	Toris (Tauris or Tabreez)	Location	Murray
+3170	Tornesel	FALSE	Yule
+3171	Toro River	Person	Yule
+3172	Torshok	FALSE	Yule
+3173	Torture by constriction in raw hide	FALSE	Yule
+3174	Tournefort	FALSE	Yule
+3175	Tower and Bell Alarm at Peking	FALSE	Yule
+3176	Toyan (Tathung?)	FALSE	Yule
+3177	Trade at Layas	FALSE	Yule
+3178	Trades in Manzi	FALSE	Yule
+3179	Transmigration	FALSE	Yule
+3180	Traps for fur animals	FALSE	Yule
+3181	Travancore	FALSE	Yule
+3182	Travellers	Organization	Murray
+3183	Treasure of Maabar kings	FALSE	Yule
+3184	Trebizond	Location	Yule
+3185	Trebuchets	FALSE	Yule
+3186	Trees	FALSE	Yule
+3187	Trench	FALSE	Yule
+3188	Trevisano	FALSE	Yule
+3189	Trincomalee	FALSE	Yule
+3190	Tringano	FALSE	Yule
+3191	Trinkat	Person	Yule
+3192	Tsin-tsun	FALSE	Yule
+3193	Tsiuan-chau	FALSE	Yule
+3194	Tsongkhapa	FALSE	Yule
+3195	Tsukuzi in Japan	FALSE	Yule
+3196	Tsung-ngan-hien	FALSE	Yule
+3197	Tsushima	Location	Yule
+3198	Tsï¿½uan-chou	 	Yule
+3199	Tu Tï¿½song	 	Yule
+3200	Tu-fan	Location	Yule
+3201	Tu-ku-hun	FALSE	Yule
+3202	Tuan	Person	Yule
+3203	Tudai	Person	Yule
+3204	Tudaiï¿½Mangku (Totamangu or Totamangul)	 	Yule
+3205	Tughan	Person	Yule
+3206	Tughlak Shah	Person	Yule
+3207	Tuktuyai Khan	Person	Yule
+3208	Tuli	Person	Yule
+3209	Tuman	FALSE	Yule
+3210	Tumba	FALSE	Yule
+3211	Tun-o-kain (Tunocain	Location	Yule
+3212	Tung-chau (Tinju)	FALSE	Yule
+3213	Tung-hwang-hien	FALSE	Yule
+3214	Tung-kwan	Location	Yule
+3215	Tung-ï¿½an in Fokien	 	Yule
+3216	Tunguses	FALSE	Yule
+3217	Tunny fish	FALSE	Yule
+3218	Turbit (radex Turpethi)	FALSE	Yule
+3219	Turcomania	Organization	Murray
+3220	Turcomania (Anatolian Turkey)	FALSE	Yule
+3221	Turgaut	FALSE	Yule
+3222	Turkestan	Location	Murray
+3223	Turkey	FALSE	Yule
+3224	Turkistan chiefs send mission to kings of India	FALSE	Yule
+3225	Turkmans and Turks	FALSE	Yule
+3226	Turks	Person	Yule
+3227	Turmeric	FALSE	Yule
+3228	Turner	Person	Yule
+3229	Turquans	FALSE	Yule
+3230	Turquoises in Kermï¿½n	 	Yule
+3231	Turtle doves	FALSE	Yule
+3232	Turumpak	FALSE	Yule
+3233	Tutia (Tutty	FALSE	Yule
+3234	Tuticorin	FALSE	Yule
+3235	Tver	FALSE	Yule
+3236	Twelve	FALSE	Yule
+3237	Twigs or arrows	FALSE	Yule
+3238	Tylor	Person	Yule
+3239	Tyuman	FALSE	Yule
+3240	Tyunju	FALSE	Yule
+3241	Tzarev	FALSE	Yule
+3242	Tzaritzyn	FALSE	Yule
+3243	Tï¿½ai Tsung	 	Yule
+3244	Tï¿½aiching-Kwan	 	Yule
+3245	Tï¿½ang dynasty	 	Yule
+3246	Tï¿½ki-uddin	 	Yule
+3247	Tï¿½n	 	Yule
+3248	Tï¿½nasi cloth	 	Yule
+3249	Tï¿½nkï¿½z Khan	 	Yule
+3250	Tï¿½sang-chau	 	Yule
+3251	Tï¿½sh Kurgï¿½n	 	Yule
+3252	Tï¿½si-nan-fu (Chinangli)	 	Yule
+3253	Tï¿½si-ning-chau	 	Yule
+3254	Tï¿½sien Tï¿½ang River	 	Yule
+3255	Tï¿½sing-chau	 	Yule
+3256	Tï¿½sing-ling range	 	Yule
+3257	U-man and Pe-man (Black and White Barbarians)	FALSE	Yule
+3258	U-nya-Mwezi superstition	FALSE	Yule
+3259	Ucaca (Ukak	FALSE	Yule
+3260	Uch-baligh	FALSE	Yule
+3261	Uchï¿½Multï¿½n	 	Yule
+3262	Udoe country	FALSE	Yule
+3263	Udong	FALSE	Yule
+3264	Udyï¿½na	 	Yule
+3265	Ughim	Location	Murray
+3266	Ughuz	Location	Yule
+3267	Uighï¿½r character	 	Yule
+3268	Uighï¿½rs	 	Yule
+3269	Uiraca	FALSE	Yule
+3270	Uirad	FALSE	Yule
+3271	Ujjain	FALSE	Yule
+3272	Ukak. (See Ucaca.)	FALSE	Yule
+3273	Ulakhai	FALSE	Yule
+3274	Ulan Muren (Red River)	FALSE	Yule
+3275	Ulatai (Oulatay)	Location	Yule
+3276	Ulugh Bagh	Person	Yule
+3277	Ulï¿½s	 	Yule
+3278	Umbrellas	FALSE	Yule
+3279	Un-gui(Kia-hing)	Location	Murray
+3280	Un-quem(Ming-taing)	Location	Murray
+3281	Unc Can (Aung Khan)	Person	Yule
+3282	Ung (Ungkï¿½t	 	Yule
+3283	Ungrat (Kungurat)	Location	Yule
+3284	Unicorn (Rhinoceros)	FALSE	Yule
+3285	Unken	Location	Yule
+3286	Unlucky hours	FALSE	Yule
+3287	Ural river	Location	Murray
+3288	Urduja	Person	Yule
+3289	Uriangkadai	FALSE	Yule
+3290	Uriangkï¿½t (Tunguses)	 	Yule
+3291	Urianhai	FALSE	Yule
+3292	Urumtsi	FALSE	Yule
+3293	Urzï¿½	 	Yule
+3294	Uspenskoye (called also Bolgarskoye)	FALSE	Yule
+3295	Uttungadeva	Person	Yule
+3296	Uwek	FALSE	Yule
+3297	Uzbeg Khan of Sarai	Person	Yule
+3298	Uzbegs of Kunduz	FALSE	Yule
+3299	Uzun Tati	FALSE	Yule
+3300	Vair	FALSE	Yule
+3301	Valaghir district	FALSE	Yule
+3302	Van Lake	FALSE	Yule
+3303	Vanchu (Wangchu)	FALSE	Yule
+3304	Varaegian	FALSE	Yule
+3305	Varaha Mihira	Person	Yule
+3306	Vardoj River	Location	Yule
+3307	Varsach	Location	Yule
+3308	Veil of the Temple	FALSE	Yule
+3309	Vellalars	FALSE	Yule
+3310	Venetians	FALSE	Yule
+3311	Venice	Location	Murray,Yule
+3312	Ventilators at Hormuz	FALSE	Yule
+3313	Venï¿½dan	 	Yule
+3314	Verlinden	FALSE	Yule
+3315	Vessels	FALSE	Yule
+3316	Vial	FALSE	Yule
+3317	Vijayanagar	Location	Yule
+3318	Vikramajit	FALSE	Yule
+3319	Vikrampï¿½r	 	Yule
+3320	Villard de Honnecourt	FALSE	Yule
+3321	Vincent of Beauvais	FALSE	Yule
+3322	Vincenzo	FALSE	Yule
+3323	Vineyards	FALSE	Yule
+3324	Vinson	Person	Yule
+3325	Virgin of Cape Comorin	FALSE	Yule
+3326	Visconti	FALSE	Yule
+3327	Vissering	FALSE	Yule
+3328	Vochan (Unchan)	Location	Yule
+3329	Vociam	Location	Murray
+3330	Vokhan	Location	Yule
+3331	Vokhan (Wakhan)	Location	Murray
+3332	Volga	FALSE	Yule
+3333	Volga river	Location	Murray
+3334	Vos	Location	Yule
+3335	Vughin	FALSE	Yule
+3336	Vuju in Kiangnan	FALSE	Yule
+3337	Vï¿½mbï¿½ry	 	Yule
+3338	Wa-tzu	FALSE	Yule
+3339	Wadoe tribe	Location	Yule
+3340	Wakf	FALSE	Yule
+3341	Wakhijrui Pass	Location	Yule
+3342	Wakhjï¿½r Pass	 	Yule
+3343	Wakhsh	FALSE	Yule
+3344	Wakhtang II	Person	Yule
+3345	Wakhï¿½n (Vokhan	 	Yule
+3346	Walashjird	FALSE	Yule
+3347	Waldshut		Murray
+3348	Wall of Alexander (or Caucasian)	FALSE	Yule
+3349	Wallachs	FALSE	Yule
+3350	Walnut-oil	FALSE	Yule
+3351	Wami River	Location	Yule
+3352	Wang	Person	Yule
+3353	Wangchu	FALSE	Yule
+3354	Wapila	FALSE	Yule
+3355	War vessels	FALSE	Yule
+3356	Warangol Ku	FALSE	Yule
+3357	Warangs	FALSE	Yule
+3358	Warner	Person	Yule
+3359	Wassï¿½f	 	Yule
+3360	Water	FALSE	Yule
+3361	Wathek	FALSE	Yule
+3362	Weather-conjuring	FALSE	Yule
+3363	Wei River in Shen-si	Location	Yule
+3364	Wei dynasty	FALSE	Yule
+3365	Wei-ning	FALSE	Yule
+3366	Weights and measures	FALSE	Yule
+3367	Wen River	Location	Yule
+3368	Wen-chow	FALSE	Yule
+3369	Westermarck	FALSE	Yule
+3370	Whale oil	FALSE	Yule
+3371	Whales	FALSE	Yule
+3372	Wheaten bread not eaten	FALSE	Yule
+3373	White bears	FALSE	Yule
+3374	Whittington and his cat in Persia	FALSE	Yule
+3375	Wild asses and oxen	FALSE	Yule
+3376	William of Tripoli	Person	Yule
+3377	Williams	Person	Yule
+3378	Williamson	Person	Yule
+3379	Wilson	Person	Yule
+3380	Wind	FALSE	Yule
+3381	Wine	FALSE	Yule
+3382	Wo-fo-sze	FALSE	Yule
+3383	Wolves in Pamir	FALSE	Yule
+3384	Women	FALSE	Yule
+3385	Wonders performed by the Bacsi	FALSE	Yule
+3386	Wood	Person	Yule
+3387	Wood-oil	FALSE	Yule
+3388	Wool	FALSE	Yule
+3389	Worship of Mahomet (supposed)	FALSE	Yule
+3390	Worshipping the tablets	FALSE	Yule
+3391	Wu-chau (Vuju)	FALSE	Yule
+3392	Wu-ti	Person	Yule
+3393	Wukiang-hien (Vughin)	FALSE	Yule
+3394	Wylie	Person	Yule
+3395	Wï¿½sus	 	Yule
+3396	Xavier	FALSE	Yule
+3397	Xerxes	FALSE	Yule
+3398	Ya-chau	FALSE	Yule
+3399	Yachi (Yun-nan-fu)	Location	Yule
+3400	Yaci(Chiaki)	Location	Murray
+3401	Yaik River	Location	Yule
+3402	Yak (dong)	FALSE	Yule
+3403	Yakuts	FALSE	Yule
+3404	Yalung River	Location	Yule
+3405	Yam	FALSE	Yule
+3406	Yamgï¿½n	 	Yule
+3407	Yan-gui (Yang-tcheou-fou)	Location	Murray
+3408	Yang-chau (Yanju)	Person	Yule
+3409	Yang-tse-kiang or Kiang	Location	Murray
+3410	Yarbeg of Badakhshan	FALSE	Yule
+3411	Yarcan(Yarcund) 	Location	Murray
+3412	Yarcund	Location	Murray
+3413	Yarkand (Yarcan)	FALSE	Yule
+3414	Yasdi (Yerd)	Location	Murray
+3415	Yasdi (Yezd)	FALSE	Yule
+3416	Yasodhara	Person	Yule
+3417	Yavanas	FALSE	Yule
+3418	Yazdashir	FALSE	Yule
+3419	Yaï¿½kï¿½b Beg of Kasghar	 	Yule
+3420	Ydifu	FALSE	Yule
+3421	Year	FALSE	Yule
+3422	Yelimala	FALSE	Yule
+3423	Yeliu Chutsai	FALSE	Yule
+3424	Yellow	FALSE	Yule
+3425	Yemen (See also Aden.)	FALSE	Yule
+3426	Yen-king (Old Peking)	FALSE	Yule
+3427	Yeng-chau (in Shan-tung	FALSE	Yule
+3428	Yeng-chau (in Shan-tung)	FALSE	Yule
+3429	Yenshan	FALSE	Yule
+3430	Yenï¿½Ping	 	Yule
+3431	Yesubuka	FALSE	Yule
+3432	Yesudar	FALSE	Yule
+3433	Yesugai	Person	Yule
+3434	Yetsina (Etzina)	FALSE	Yule
+3435	Yezd (Yasdi)	FALSE	Yule
+3436	Yiu-ki River	FALSE	Yule
+3437	Yonting Ho River	FALSE	Yule
+3438	Yoritomo	FALSE	Yule
+3439	Yotkï¿½n	 	Yule
+3440	Youth	Location	Yule
+3441	Yrac	Location	Yule
+3442	Ysemain of Hiulie	Person	Yule
+3443	Yu	FALSE	Yule
+3444	Yu-chow	Location	Yule
+3445	Yuan Ho	FALSE	Yule
+3446	Yue-chi	FALSE	Yule
+3447	Yuen	Organization	Yule
+3448	Yuen ming-yuen	Location	Yule
+3449	Yuen shi	FALSE	Yule
+3450	Yuen-hao	Location	Yule
+3451	Yugria	Location	Yule
+3452	Yuh-shan	FALSE	Yule
+3453	Yule	Person	Yule
+3454	Yun-nan (Carajan)	Location	Yule
+3455	Yun-nan-fu city	Location	Yule
+3456	Yung Lo	Person	Yule
+3457	Yung-chang fu (Shen-si)	FALSE	Yule
+3458	Yunï¿½Hien	 	Yule
+3459	Yurungkï¿½sh (white Jade) River	 	Yule
+3460	Yusuf Kekfi	FALSE	Yule
+3461	Yuthia	Location	Yule
+3462	Yvo of Narbonne	FALSE	Yule
+3463	Yï¿½jï¿½	 	Yule
+3464	Zabedj	FALSE	Yule
+3465	Zai-tun (Amoy)	Location	Murray
+3466	Zaila	FALSE	Yule
+3467	Zampa	FALSE	Yule
+3468	Zanghibar (Zangibar)	Location	Yule
+3469	Zanghibar (Zanguebar)	Location	Murray
+3470	Zanton (Shantung?)	FALSE	Yule
+3471	Zanzale	Organization	Yule
+3472	Zapharan	Location	Yule
+3473	Zardandan	FALSE	Yule
+3474	Zarneke	FALSE	Yule
+3475	Zayton	Location	Yule
+3476	Zebu	FALSE	Yule
+3477	Zebï¿½k Valley	 	Yule
+3478	Zedoary	FALSE	Yule
+3479	Zenghi	FALSE	Yule
+3480	Zerms (Jerms)	FALSE	Yule
+3481	Zerumbet	FALSE	Yule
+3482	Zettani	FALSE	Yule
+3483	Zhafar	Location	Yule
+3484	Zic (Circassia)	FALSE	Yule
+3485	Zikas	FALSE	Yule
+3486	Zimmï¿½	 	Yule
+3487	Zinc	FALSE	Yule
+3488	Zinj	FALSE	Yule
+3489	Zipangu (Japan)		Murray
+3490	Zobeidah	Person	Yule
+3491	Zorza	FALSE	Yule
+3492	Zu-ï¿½lkarnain (Zulcarniain)	 	Yule
+3493	Zurficar (Zï¿½rpica Zulficar)	 	Yule
+3494	an soe the Pope		Murray
+3495	Ábah	 	Yule
+3496	ï¿½An-nan, or Tongking	 	Yule
+3497	ï¿½Angka(Gryphon)	 	Yule
+3498	ï¿½Apuhota (Kapukada?)	 	Yule

@@ -4,7 +4,7 @@ import pandas as pd
 
 datapath = Path(__file__).resolve().parents[2]
 
-print(f'Current working directory: {datapath}')
+#print(f'Current working directory: {datapath}')
 
 """
     This code combines 2 different versions of indexes.
@@ -44,7 +44,7 @@ def list_to_csv(list, dataframe1, dataframe2,common_words,unique_in_murray):
     :return:
     """
 
-    new_data = pd.DataFrame(columns=['Entity', 'Tag'])
+    new_data = pd.DataFrame(columns=['Entity', 'Tag','Reference'])
     new_row = {}
     for entry in list:
 
@@ -54,9 +54,10 @@ def list_to_csv(list, dataframe1, dataframe2,common_words,unique_in_murray):
             reference = 'Murray'
         else:
             reference = 'Yule'
+        entr = entry.encode('utf8')
 
-        temp1 = dataframe1[dataframe1['Entity Name'] == entry]
-        temp2 = dataframe2[dataframe2['Entity Name'] == entry]
+        temp1 = dataframe1.loc[dataframe1['Entity Name'] == entr]
+        temp2 = dataframe2[dataframe2['Entity Name'] == entr]
         if not temp1.empty:
             tag = temp1['Tag'].iloc[0]
         elif not temp2.empty:
@@ -67,19 +68,20 @@ def list_to_csv(list, dataframe1, dataframe2,common_words,unique_in_murray):
         new_row['Tag'] = tag
         new_row['Reference'] = reference
         new_data.loc[len(new_data)] = new_row
-    new_data.to_csv(datapath + "final-list.csv", sep=',', encoding='latin1')
+    new_data.to_csv(datapath / "data/final-list.csv", sep='\t', encoding='utf-8-sig')
 
 
 readfile_murray = datapath / 'data/hugh-murray/index/index.csv'
-readfile_yule = datapath / 'data/henry-yule/index/Book1.txt'
+readfile_yule = datapath / 'data/henry-yule/index/index-csv.csv'
 
 # Reads csv of index and convert it into list with unique entities
 df_murray=pd.read_csv(readfile_murray,sep=',',encoding='latin1')
 murray_list = df_murray['Entity Name'].unique().tolist()
-
 df_yule=pd.read_csv(readfile_yule,sep='\t',encoding='latin1')
 yule_list = df_yule['Entity Name'].unique().tolist()
 
 final_list,common_words,unique_in_murray = combine_lists(murray_list,yule_list)
 
 list_to_csv(final_list,df_murray,df_yule,common_words,unique_in_murray)
+
+print("completed")
