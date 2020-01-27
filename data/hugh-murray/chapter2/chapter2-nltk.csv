@@ -1,0 +1,748 @@
+	chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Person	Location	NLTK Location	NLTK Person	NLTK organization
+0	1	PART 1	1	On Armenia the Lesser	1	You must know there are two Armenias, a great and a lesser one, which last has a king who rules with pure justice, and is subject to the Tartars.		great Armenia,lesser Armenia			Armenias ,Tartars
+1	1	PART 1	1	On Armenia the Lesser	2	This region contains many cities and castles, and abundance of all things, with beasts and birds for hunting and hawking ; 					
+2	1	PART 1	1	On Armenia the Lesser	3	but I must tell you the air is not very healthy.					
+3	1	PART 1	1	On Armenia the Lesser	4	The gentry used formerly to be valiant and good at arms ; 					
+4	1	PART 1	1	On Armenia the Lesser	5	but now they are mean and vile, and remarkable only for being hard drinkers.					
+5	1	PART 1	1	On Armenia the Lesser	6	On the seacoast is a city named Laias,which carries on a very great trade ; for thither all the spices, rich cloths, and other precious articles, are brought from India across the Euphrates, which the merchants of Venice, of Pisa, and of Genoa, come to purchase.		Laias,India,Venice,Pisa,Genoa	India, Venice, Pisa, Genoa	Laias	Euphrates
+6	1	PART 1	1	On Armenia the Lesser	7	By this town we enter the province of Turcomania.		Turcomania	Turcomania		
+7	1	PART 1	2	On Turcomania	8	In Turcomania are three distinct races of men :-The Turcomans adore Mohammed, and are simple people, speaking a very rude language.	Mohammed	Turcomania	Turcomania	Mohammed	
+8	1	PART 1	2	On Turcomania	9	They live amid mountains and valleys where there is good pasturage for cattle, by which they subsist ; 					
+9	1	PART 1	2	On Turcomania	10	and I assure you that they rear excellent horses and mules of great value.					
+10	1	PART 1	2	On Turcomania	11	The two others are Armenians and Greeks, who dwell mingled in cities, and subsist by merchandise and manufactures ;			Greeks		Armenians
+11	1	PART 1	2	On Turcomania	12	 they work carpets and crimson silk, the richest and most beautiful in the whole world.					
+12	1	PART 1	2	On Turcomania	13	They have many towns, of which the principal are Como, Casserie, and Sevasto.		Como, Casserie,Sevasto		Casserie ,Sevasto	Como
+13	1	PART 1	2	On Turcomania	14	They are subject to the Eastern Tartars.		Eastern Tartars	Eastern Tartars		
+14	1	PART 1	2	On Turcomania	15	Now, let us leave them, and speak of Armenia the Greater.		Armenia the Greater	Armenia		Greater
+15	1	PART 1	3	On Armenia the Greater	16	Armenia the Greater is a large country, and, at the entrance of it is a city called Arzinga, in which is made the best buckram in the world.		Armenia the Greater,Arzinga	Armenia	Arzinga	Greater
+16	1	PART 1	3	On Armenia the Greater	17	There are several baths of warm spring water, the best and most beautiful any where to be found.					
+17	1	PART 1	3	On Armenia the Greater	18	There are many castles, and cities, among which the noblest is Arzinga, the seat of an archbishop, and the metropolis of the whole district; 		Arzinga		Arzinga	
+18	1	PART 1	3	On Armenia the Greater	19	there are also Argiron and Darzizi.		Argiron,Darzizi		Argiron ,Darzizi	
+19	1	PART 1	3	On Armenia the Greater	20	I assure you the province is very large, and during the summer all the Tartars of the Levant reside here with their flocks and herds, on account of its rich pastures ;					Tartars ,Levant
+20	1	PART 1	3	On Armenia the Greater	21	 but in winter they cannot remain because of the severe cold and snow, amid which the animals could not live.					
+21	1	PART 1	3	On Armenia the Greater	22	Now, in this Armenia is the ark of Noah on a great mountain.	Noah	Armenia	Armenia, Noah		
+22	1	PART 1	3	On Armenia the Greater	23	The circuit of its base cannot be traversed in less than two days ; 					
+23	1	PART 1	3	On Armenia the Greater	24	and the ascent is rendered impracticable by the snow on its summit, which never dissolves, but is increased by each successive fall.					
+24	1	PART 1	3	On Armenia the Greater	25	On the lower declivities, the melted snows cause an abundant vegetation, and afford rich pastures for the cattle which in summer resort thither from all the surrounding  countries.					
+25	1	PART 1	3	On Armenia the Greater	26	To the south-east it borders on a kingdom called Mosul, inhabited by Jacobite and Nestorian Christians, of whom we will mention more hereafter.		Mosul	Mosul	Jacobite ,Nestorian Christians	
+26	1	PART 1	3	On Armenia the Greater	27	On the north  it extends to the Georgians, and on that frontier is a fountain whence rises oil in such abundance that a hundred ships might be at once loaded with it.		Georgians	Georgians		
+27	1	PART 1	3	On Armenia the Greater	28	It is not good for eating, but very fit for fuel, for anointing the camels in maladies of the skin, and for other purposes ; 					
+28	1	PART 1	3	On Armenia the Greater	29	for which reason people come from a great distance for it, and nothing else is burned in all this country.					
+29	1	PART 1	3	On Armenia the Greater	30	Now let us quit Armenia, and tell of Georgia.		Armenia,Georgia	Armenia, Georgia		
+30	1	PART 1	4	On Georgia and its Productions	31	In Georgia  is a king always called David Melik, which means David the King ; 	David Melik,David the King	Georgia	Georgia, King	David Melik ,David	
+31	1	PART 1	4	On Georgia and its Productions	32	he is subject to the Tartars ; 			Tartars		
+32	1	PART 1	4	On Georgia and its Productions	33	and anciently all the monarchs of this province were born with the mark of an eagle on their left shoulder.					
+33	1	PART 1	4	On Georgia and its Productions	34	They are a handsome people, good archers, and valiant in battle.					
+34	1	PART 1	4	On Georgia and its Productions	35	They are Christians of the Greek church, and wear their hair close shaven in the manner of clergy.			Greek		
+35	1	PART 1	4	On Georgia and its Productions	36	This is the province which Alexander could not pass through on account of the narrowness of the path 	Alexander			Alexander	
+36	1	PART 1	4	On Georgia and its Productions	37	 because on one side is the sea, and on the other very high mountains, over which it is impossible to ride ; 					
+37	1	PART 1	4	On Georgia and its Productions	38	and, as this strait continues above four leagues, a few men might hold out against the whole world.					
+38	1	PART 1	4	On Georgia and its Productions	39	This was the reason why he could not pass;					
+39	1	PART 1	4	On Georgia and its Productions	40	but he built a very strong tower, that no one might come upon him from the other side, and it is called the Iron Gate.		Iron Gate			Iron Gate
+40	1	PART 1	4	On Georgia and its Productions	41	This is the place mentioned in the book of Alexander, where he enclosed the Tartars within their mountains ; 	Alexander			Alexander	Tartars
+41	1	PART 1	4	On Georgia and its Productions	42	though the Tartars did not exist at that time, but a certain people called Comani, and other races besides.				Tartars	Comani
+42	1	PART 1	4	On Georgia and its Productions	43	There are many cities and castles, with silk in abundance, with which, added to gold, they make cloths the most beautiful that ever man saw.					
+43	1	PART 1	4	On Georgia and its Productions	44	Here are the finest eagles in the world ; also victuals of every kind in abundance.					
+44	1	PART 1	4	On Georgia and its Productions	45	The province is full of great mountains, and of narrow passes, so that I can tell you the Tartars could never obtain the entire sovereignty of it.					Tartars
+45	1	PART 1	4	On Georgia and its Productions	46	There is a monastery called St Leonard, containing a great wonder, which I will now relate.		St Leonard		St Leonard	
+46	1	PART 1	4	On Georgia and its Productions	47	A large lake of water issues from a neighbouring mountain, in which, during the whole year, there is not found a fish great or small, except from the day before Lent down to the evening of Easter Sunday ; 				Easter	
+47	1	PART 1	4	On Georgia and its Productions	48	and during the whole of that time fishes are taken in great abundance, but none at any other.					
+48	1	PART 1	4	On Georgia and its Productions	49	And know that this sea of which I have spoken is seven hundred miles in circuit, and receives the Euphrates, one of the delights of paradise, and many other great rivers.		Euphrates			
+49	1	PART 1	4	On Georgia and its Productions	50	It is all surrounded by mountain and land; 					
+50	1	PART 1	4	On Georgia and its Productions	51	and lately the merchants of Genoa, who have built ships, navigate it, bringing silk, which is called gelle.		Genoa	Genoa		
+51	1	PART 1	4	On Georgia and its Productions	52	Into this sea the great rivers Herdil,Geihon, Kur, and Aras enter.		Herdil,Geihon, Kur,Aras		Herdil ,Geihon ,Kur ,Aras	
+52	1	PART 1	4	On Georgia and its Productions	53	In that province there is a grand city named Teflis, with suburbs and fortified posts around it.		Teflis		Teflis	
+53	1	PART 1	4	On Georgia and its Productions	54	The inhabitants are Armenian and Georgian Christians, with some few Mohammedans and Jews.			Armenian	Georgian Christians	
+54	1	PART 1	4	On Georgia and its Productions	55	There are manufactures of silk and other articles.					
+55	1	PART 1	4	On Georgia and its Productions	56	Now, having told you of the boundaries of Armenia to the north, I will describe those to the south and east.		Armenia	Armenia		
+56	1	PART 1	5	On the Kingdom of Mosul	57	Mosul is a great kingdom on the eastern border of Armenia, and inhabited by various denominations of men, whom I will now describe.		Mosul,Armenia	Mosul, Armenia		
+57	1	PART 1	5	On the Kingdom of Mosul	58	There is a race called Arabic, who adore Mohammed ; 	Mohammed		Mohammed	Arabic	
+58	1	PART 1	5	On the Kingdom of Mosul	59	also another who hold the christian law, but not as the church of Rome commands ; 		Rome	Rome		
+59	1	PART 1	5	On the Kingdom of Mosul	60	they err in many things.					
+60	1	PART 1	5	On the Kingdom of Mosul	61	They are denominated Nestorian and Jacobite, and have a patriarch named Jatolior, who makes archbishops, bishops, abbots, and other clergy, and sends them to all parts of Bagdad, India, and Cathay, as the pope does from Rome.	Jatolior	Bagdad, India,Cathay,Rome	Nestorian, Bagdad, India, Cathay, Rome	Jacobite ,Jatolior	
+61	1	PART 1	5	On the Kingdom of Mosul	62	All the Christians who are in those parts are of this sect ;					
+62	1	PART 1	5	On the Kingdom of Mosul	63	and all the cloths of silk and gold, which are called mosulin, are made there.					
+63	1	PART 1	5	On the Kingdom of Mosul	64	I tell you, too, that the great merchants who are called mosulin, and bring the largest quantity of all costly spices, are of this kingdom.	mosulin				
+64	1	PART 1	5	On the Kingdom of Mosul	65	Among its mountains are people called Kurds, who are Nestorian and Jacobite Christians, but some are Saracens, and reverence Mohammed.	Mohammed		Nestorian	Saracens ,Mohammed	Jacobite Christians
+65	1	PART 1	5	On the Kingdom of Mosul	66	They are an overbearing and wicked people, ever ready to rob the merchants.					
+66	1	PART 1	5	On the Kingdom of Mosul	67	Now let us leave Mosul, and speak of the great city of Baldach.		Mosul,Baldach	Mosul, Baldach		
+67	1	PART 1	6	On Baldach	68	At this place dwelt the caliph, chief prelate of all the Saracens in the world, as the pope is at Rome.	caliph	Rome	Saracens		Rome
+68	1	PART 1	6	On Baldach	69	Through the middle of it flows a very large river, by which you can proceed to the sea of India, whence merchants go and come with their goods.		India	India		
+69	1	PART 1	6	On Baldach	70	From Baldach to the ocean by the stream is a voyage of eighteen days.		Baldach	Baldach		
+70	1	PART 1	6	On Baldach	71	The merchants going to India sail down that river to a place named Chisi, and then enter the Indian sea.		India,Chisi,Indian sea	India, Chisi, Indian		
+71	1	PART 1	6	On Baldach	72	Between Baldach and Chisi is a great city named Bascra ; 		Baldach,Chisi,Bascra	Chisi, Bascra	Between	Baldach
+72	1	PART 1	6	On Baldach	73	and the woods around that city yield the finest dates in the world.					
+73	1	PART 1	6	On Baldach	74	In Baldach are many rich cloths of silk and gold, on which birds and beasts are represented ; 		Baldach	Baldach		
+74	1	PART 1	6	On Baldach	75	and it is the greatest and noblest city in all these regions.					
+75	1	PART 1	6	On Baldach	76	And know, assuredly, that the caliph was found to possess the most abundant treasure in gold, silver, and precious stones that ever was in the possession of man ; 	caliph				
+76	1	PART 1	6	On Baldach	77	and I will tell you how it happened.					
+77	1	PART 1	6	On Baldach	78	In the year of our Lord, 1255,the great sire of the Tartars, who is named Alau,brother to the great sire that now reigns, assembled a very large army, and marched upon Baldach and took it by force, which was a glorious exploit ; 	Alau	Baldach	Tartars	Alau ,Baldach	
+78	1	PART 1	6	On Baldach	79	for it contained more than 100,000 horsemen besides foot soldiers ;					
+79	1	PART 1	6	On Baldach	80	and when it was taken, he found the caliph in possession of a tower full of gold, silver, and other treasure, such as never was seen at once in one place.	caliph				
+80	1	PART 1	6	On Baldach	81	"When he discovered it he sent for the monarch and said : ""Caliph, why have you amassed such a treasure, and what do you mean to do with it?"	Caliph		Caliph		
+81	1	PART 1	6	On Baldach	82	Did you not know that I was your enemy, and coming to attack you with this mighty host?					
+82	1	PART 1	6	On Baldach	83	"Knowing this, why did you not take your treasure, and give it to knights and soldiers to defend you and your city?"""					
+83	1	PART 1	6	On Baldach	84	The caliph replied nothing, because he knew not what to say.	caliph				
+84	1	PART 1	6	On Baldach	85	"Then, said Alau: ""Caliph, since I see you love so much your treasure, I will give it you to eat."""	Alau,Caliph		Caliph	Alau	
+85	1	PART 1	6	On Baldach	86	He then commanded that he should be shut up in the tower with the treasure, and that nothing should be given to him to eat or drink.					
+86	1	PART 1	6	On Baldach	87	"Then he said to him: ""Caliph, eat your treasure as heartily as you please, for you will never eat any thing else."""	Caliph		Caliph		
+87	1	PART 1	6	On Baldach	88	He was then immured in the tower, where he died at the end of four days.					
+88	1	PART 1	6	On Baldach	89	And after him there never was any other caliph.	caliph				
+89	1	PART 1	7	On Toris or Tauris	90	Toris is a great city, in a province called Yrac, containing many towns and castles ; 		Toris,Yrac	Toris	Yrac	
+90	1	PART 1	7	On Toris or Tauris	91	but as this is the chief, I will tell you about it.					
+91	1	PART 1	7	On Toris or Tauris	92	The men live by merchandise, and by fabricating fine cloths of silk and gold.					
+92	1	PART 1	7	On Toris or Tauris	93	The place is so well situated that merchants proceed hither from India, Baldach, Mosul, Cremosor, and many other places.		India, Baldach, Mosul, Cremosor	India, Baldach, Mosul, Cremosor		
+93	1	PART 1	7	On Toris or Tauris	94	The Latin traffickers come to meet those from strange countries, from whom they purchase precious pearls and other valuable articles.					
+94	1	PART 1	7	On Toris or Tauris	95	The men are of indifferent character and very mixed origin, Armenians, Nestorians, Jacobites, Georgians, and Persians, and some who adore Mohammed.	Mohammed		Armenians, Nestorians, Georgians, Persians	Jacobites ,Mohammed	
+95	1	PART 1	7	On Toris or Tauris	96	The inhabitants of the city are called Taurisians.					
+96	1	PART 1	7	On Toris or Tauris	97	Around it are very fine gardens, full of fruits and vegetables.					
+97	1	PART 1	7	On Toris or Tauris	98	The Saracens here are most wicked and disloyal.					Saracens
+98	1	PART 1	7	On Toris or Tauris	99	They maintain that whatever is robbed or plundered from men of a different creed is justly acquired ; 					
+99	1	PART 1	7	On Toris or Tauris	100	while they regard as martyrs those of their own sect who die by the hands of Christians.					Christians
+100	1	PART 1	7	On Toris or Tauris	101	If, therefore, they were not checked by their present rulers, they would break out into many outrages.					
+101	1	PART 1	7	On Toris or Tauris	102	These principles are common to them all.					
+102	1	PART 1	7	On Toris or Tauris	103	At the point of death, the priest comes and demands whether they believe that Mohammed was the prophet of God.	Mohammed			Mohammed	
+103	1	PART 1	7	On Toris or Tauris	104	If they profess this belief, they are assured of salvation ;					
+104	1	PART 1	7	On Toris or Tauris	105	and through this easy absolution, which leaves scope for the perpetration of every crime, they have succeeded in converting many of the Tartars, who feel thus at liberty to indulge their worst propensities.			Tartars		
+105	1	PART 1	7	On Toris or Tauris	106	Near Toris is a monastery named after St Barsamo, and famous for sanctity.			Toris	St Barsamo	
+106	1	PART 1	7	On Toris or Tauris	107	It contains an abbot and many monks, who dress like the Carmelites.			Carmelites		
+107	1	PART 1	7	On Toris or Tauris	108	Unwilling to lead an idle life, they are constantly weaving woollen girdles, which they place on the altar of their saint during divine service ;					
+108	1	PART 1	7	On Toris or Tauris	109	and while going round the province to ask alms (as do their brethren of the Holy Ghost), they present these to their friends and persons of distinction, who value them as beneficial in the cure of rheumatism.					Holy Ghost
+109	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	110	Now I am to tell you of a great miracle which happened between Baldach and Mosul in the year 1225.			Mosul	Baldach	
+110	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	111	There was a caliph in the former who held the Christians in great hatred, as it is natural for all the Saracens in the world to do.	caliph		Saracens		
+111	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	112	 He thought day and night how he might compel all those in his country to become converts, or else kill them.					
+112	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	113	Many others concurred in that wicked purpose, and they agreed upon this plan : They found in the gospel a text saying that if a Christian had as much faith as a grain of mustard-seed and made his prayer to God, he would be able to join two mountains together.			Christian, God		
+113	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	114	On finding this text, they felt great joy, thinking they had thus either a means of converting them, or a pretext for killing them outright.					
+114	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	115	He therefore sent for all the Jacobite and Nestorian believers in his country, who were very numerous; 			Nestorian		Jacobite
+115	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	116	and when they came before him, he showed them this gospel, made them read it, and asked if it were true.					
+116	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	117	They replied that it was so.					
+117	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	118	Then, continued the caliph, since so many Christians are here, there surely must be among you this small measure of faith ; 	caliph				
+118	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	119	therefore, said he, pointing to a large hill in view, you must remove that mountain, or I will put you all to death, because otherwise you must be wholly destitute of faith, and on that account deserve to die.					
+119	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	120	If, however, you will turn to our good law of Mohammed, you shall be forgiven; 	Mohammed		Mohammed		
+120	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	121	and, in the mean time, I allow you ten days to do what is required.					
+121	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	122	He then dismissed them.					
+122	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	123	On hearing what the caliph had said, they were in great fear, and knew not what to resolve.	caliph				
+123	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	124	Then they all assembled, small and great, men and women, the bishop, archbishop, and priests of whom there were a considerable number, and they remained eight days and eight nights in prayer, that God, in his mercy, and for the diffusion of his faith, would come to their aid, and enable them to escape this cruel death with which they were threatened.				God	
+124	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	125	But what have I now to tell you?					
+125	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	126	While they were thus deeply engaged in prayer, an angel, by the message of God, appeared to a bishop who was a man of very holy life.			God		
+126	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	127	"He said, ""Oh, bishop!"					
+127	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	128	"do you now go to a certain shoemaker with one eye, and tell him that at his prayer the mountain will be moved""ù."					
+128	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	129	Now this shoemaker was a very honest and chaste man ; 					
+129	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	130	he fasted and went regularly to mass, and gave every day bread to the poor.					
+130	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	131	I will tell you a thing that he did, to prove his good faith and life.					
+131	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	132	It happened one day that a very beautiful woman came to his shop to purchase a pair of shoes, and in order to make them fit, he was obliged to look at her foot and ankle, and they were so finely shaped that he felt his eye take an undue pleasure in viewing them.					
+132	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	133	"As soon as she was gone, he began bitterly to reproach himself, and remembered the text, ""if thine eye offend thee, pluck it out, and cast it from thee""ù."					
+133	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	134	He then took a sharp weapon, and stuck it into his eye, so that it burst in his head, and he never saw with it again.					
+134	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	135	Thus you see he was a most holy and good man.					
+135	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	136	When, therefore, the bishop had this vision, he told it to all his people, and they agreed that this shoemaker should be called before them, and when he came, they requested him to pray to God that he would make the mountain move.					
+136	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	137	But when the shoemaker heard what the bishop and the others said, he answered that he was not so good a man as that God or our lady should for his sake do so great a miracle.					
+137	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	138	But the Christians pressed him so earnestly, that he at last agreed, and made the prayer.					Christians
+138	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	139	When the final day was come, they all rose early in the morning, great and small, male and female; 					
+139	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	140	and entering the church, they sung the holy mass, and then proceeded out to the plain in front of the mountain.					
+140	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	141	They were fully a hundred thousand, and they all placed themselves in front of the cross.					
+141	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	142	The caliph then came with a vast number of Saracens, eager to slay the unbelievers, for they thought it impossible the hill could be moved, and they themselves were in great fear and doubt ; 			Saracens		
+142	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	143	nevertheless they had good hope in their Creator.					
+143	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	144	Then the shoemaker fell on his knees before the cross, lifted his hands to heaven, and prayed fervently that the mountain might be moved, and the Christians there assembled escape a dreadful death.					
+144	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	145	When he had made his prayer, it was not long before the vast eminence began to stir, and move from its place.					
+145	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	146	The Saracens, on seeing this, wondered greatly, and many of them were converted ; 			Saracens		
+146	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	147	nay, the caliph himself became a believer in the gospel, but secretly, and when he died, a cross was found round his neck; 	caliph				
+147	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	148	for which reason he was not buried in the same place with the other sovereigns, but in a tomb by himself.					
+148	1	PART 1	8	On a certain Miracle of the Movement of a Mountain in that Region	149	Now let us leave Baldach and go to Persia.		Baldach,Persia	Persia	Baldach	
+149	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	150	Persia is a very extensive province, anciently very rich and flourishing, but now in a great degree wasted and destroyed by the Tartars.	Persia		Persia		Tartars
+150	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	151	It contains a city called Sava, whence the three magi came to adore Jesus Christ when born at Bethlehem.	Jesus Christ	Sava,Bethlehem		Sava ,Jesus Christ	Bethlehem
+151	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	152	In that city are buried the three, in separate tombs, above which is a square house carefully preserved.					
+152	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	153	Their hearts are still entire, with their hair and beards.					
+153	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	154	One was named Balthazar, the other Gaspar, the third Melchior.		Balthazar, Gaspar,Melchior	Gaspar	Balthazar	Melchior
+154	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	155	Messer Marco inquired often in that city about these three magi, but no one could tell him any thing, except that they were ancient kings, who were there buried.	Messer Marco			Messer Marco	
+155	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	156	They informed him, however, that three days' journey farther was a tower called the Castle of the Fire-worshippers, because the men there venerate fire, and for the following reason.		 Castle of the Fire-worshippers			Castle
+156	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	157	They say that anciently three kings of that country went to adore acertain prophet, newly born, and carried three offerings, gold, incense, and myrrh, to know if he were a king, a god, or a sage;					
+157	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	158	 for they said that, if he took gold, he was a king; if incense, he wasa god; if myrrh, he was a sage.					
+158	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	159	They went in one after another, and though they were of different ages and fashions, he appeared to each of them exactly like himself.					
+159	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	160	When they came out and compared what they had seen, they wondered much, and then went in altogether, and the child then appeared to them what he really was, a boy of thirteen days old.					
+160	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	161	They presented to him the three offerings, and he took them all, whence they concluded that he was at once god, king, and sage.					
+161	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	162	He presented to them a closed box, desiring them not to open it till their return home.					
+162	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	163	After having travelled a number of days, however, they were curious to see what was in the box, and opened it, when they found only a stone, which was meant to express that they should remain firm in the faith which they had received.					
+163	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	164	They did not understand this meaning, and despising the gift, threw it into a well, when immediately a great fire came down from heaven, and began to burn brightly.					
+164	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	165	When they saw this wonder, they were quite astonished, and repented that they had thrown away the stone.					
+165	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	166	They however took a portion of the fire, carried it to their country, and placed it in their church, where they kept it continually burning.					
+166	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	167	They revere it as a god, and use it for burning all their sacrifices ; 					
+167	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	168	and when at any time it goes out, they repair to that well, where the fire is never extinguished,and from it bring a fresh supply.					
+168	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	169	This is what all the people of that country tell, and Messer Marco was assured of it by those of the castle, and therefore it is truth.	Messer Marco			Messer Marco	
+169	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	170	One of these kings was of Saba, the other of Ava, the other of the castle.		Saba,Ava	Saba, Ava		
+170	1	PART 1	9	On the Province of Persia, and the Journey of the Magi	171	Now let me tell you of Persia, its cities, and the actions and customs of the people.		Persia	Persia		
+171	1	PART 1	10	On the Kingdoms of Persia	172	Know, then, that in Persia there are eight kingdoms, because it is a very great country, and I will tell you their names.		Persia	Know, Persia		
+172	1	PART 1	10	On the Kingdoms of Persia	173	The first is called Casum ;the second, to the south, Cardistan ; the third Lor ; the fourth Cielstan ;the fifth Istanit ;he sixth Cerazi ;the seventh Soucara ;the eighth Tonocain,which is on the remotest frontier.		Casum,Cardistan,Lor,Cielstan,Istanit,Cerazi,Soucara,Tonocain	Casum, Cardistan, Cielstan, Istanit, Cerazi, Soucara, Tonocain		
+173	1	PART 1	10	On the Kingdoms of Persia	174	In this last are many fine horses of high value, which are taken in large numbers to be sold in India; 			India		
+174	1	PART 1	10	On the Kingdoms of Persia	175	and the greater part of them are worth two hundred livres tournois each.					
+175	1	PART 1	10	On the Kingdoms of Persia	176	They have also the finest asses in the world, one of which is worth full thirty mares of silver.					
+176	1	PART 1	10	On the Kingdoms of Persia	177	The men of that country lead these horses to two cities on the banks of the sea of India, called Chisi and Curmosa, and find there merchants, who buy them and carry them into their distant country.		sea of India,Chisi,Curmosa	India, Chisi	Curmosa	
+177	1	PART 1	10	On the Kingdoms of Persia	178	In these kingdoms there are many cruel men, who are constantly killing one another, and but for the fear of the Eastern Tartars, who now rule in this land, they would ruin the merchants.			Eastern Tartars		
+178	1	PART 1	10	On the Kingdoms of Persia	179	As it is, unless the latter are well provided with arms and bows, they often kill or hurt them severely.					
+179	1	PART 1	10	On the Kingdoms of Persia	180	These men all hold the law of Mohammed.	Mohammed		Mohammed		
+180	1	PART 1	10	On the Kingdoms of Persia	181	In the city are industrious merchants ; 					
+181	1	PART 1	10	On the Kingdoms of Persia	182	they make robes of silk and gold of various fashions, and raise also plenty of cotton.					
+182	1	PART 1	10	On the Kingdoms of Persia	183	The country abounds in wheat, barley, millet, as well asin vines and other fruits.					
+183	1	PART 1	10	On the Kingdoms of Persia	184	Some may imagine that the Saracens do not drink wine, as being forbidden by their law ; 			Saracens		
+184	1	PART 1	10	On the Kingdoms of Persia	185	but they quiet their consciences by thinking that if boiled over the fire, which renders it milder and sweet, it may be drunk without breaking the commandment.					
+185	1	PART 1	10	On the Kingdoms of Persia	186	Changing its taste, they change its name, and no longer call it wine, though it really is so.					
+186	1	PART 1	10	On the Kingdoms of Persia	187	Let us now leave them, and tell you of Yasdi.		Yasdi	Yasdi		
+187	1	PART 1	11	On the City of Yasdi	188	Yasdi is a beautiful and noble city, with rich manufactures.		Yasdi	Yasdi		
+188	1	PART 1	11	On the City of Yasdi	189	The people make silk cloths called by its name, which the merchants carry into various countries.					
+189	1	PART 1	11	On the City of Yasdi	190	They all adore Mohammed.	Mohammed			Mohammed	
+190	1	PART 1	11	On the City of Yasdi	191	When a man departs from that city, he rides seven days over a plain, where in three places only there are habitations and inns for the traveller.					
+191	1	PART 1	11	On the City of Yasdi	192	There are many forests filled with partridges and other birds, which afford excellent sport ; also beautiful wild asses.					
+192	1	PART 1	11	On the City of Yasdi	193	At the end of these seven days a country called Creman presents itself.		Creman		Creman	
+193	1	PART 1	12	On the Kingdom of Creman	194	Creman is a kingdom anciently belonging to Persia, and which used to be governed by a hereditary prince ; 	Creman,Persia	Creman,Persia	Creman, Persia		
+194	1	PART 1	12	On the Kingdom of Creman	195	but since the Tartar conquered it, he appoints what deputy he pleases.					Tartar
+195	1	PART 1	12	On the Kingdom of Creman	196	In that region the stones called turquoises are in great abundance ; 					
+196	1	PART 1	12	On the Kingdom of Creman	197	they are found in the mountains, and excavated from the rocks.					
+197	1	PART 1	12	On the Kingdom of Creman	198	 The inhabitants make all things necessary for troops, such as reins, saddles, bows, arrows, quivers, and all kinds of arms, according to the custom of the country.					
+198	1	PART 1	12	On the Kingdom of Creman	199	The ladies work very neatly cloths of gold and silk, representing with the needle, beasts, birds, and many other objects.					
+199	1	PART 1	12	On the Kingdom of Creman	200	In the mountains are reared the finest falcons in the world, for though smaller than the peregrine species, they fly so swiftly that no bird can escape them.					
+200	1	PART 1	12	On the Kingdom of Creman	201	When a man leaves the city of Creman, he travels seven days through towns and fortified places, finding much amusement, because there are great numbers of wild beasts and birds.		Creman	Creman		
+201	1	PART 1	12	On the Kingdom of Creman	202	 At the end of these seven days, he comes to the declivity of a mountain, and continues two days always descending.					
+202	1	PART 1	12	On the Kingdom of Creman	203	There are abundance of fruits, but no habitation, only shepherds pasturing their flocks.					
+203	1	PART 1	12	On the Kingdom of Creman	204	The cold on this road during winter is so great that a man cannot safely travel unless with a very ample provision of clothes.					
+204	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	205	At the bottom of this descent is a very extensive plain, at the commencement of which is a city named Camandu,once wonderfully great and noble, but now much declined, because the Tartar invaders have repeatedly plundered it.		Camandu		Camandu	Tartar
+205	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	206	The heat here is extreme, and the province is called Reobarle.		Reobarle		Reobarle	
+206	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	207	Its fruits are dates, pistachio nuts, apples of paradise, and others which do not grow in our country.					
+207	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	208	Here are a species of birds called francolin, which are different from those of other lands, their colour being a mixture of white and black, while the beak and feet are red.					
+208	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	209	The oxen are very large, white as snow, and the hair very smooth, in consequence of the heat.					
+209	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	210	Between the shoulders is a hump, two palms high, and their appearance is the most beautiful of any in the world.					
+210	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	211	When the owner wishes to load them, they bend down as the camels do, and after receiving their burden, rise and bear it well, being extremely strong.					
+211	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	212	There are sheep as large as asses, and with tails so thick and so broad as to weigh full thirty pounds.					
+212	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	213	They are also fat, and make excellent food.					
+213	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	214	The people have castles and cities surrounded by walls of earth, in order to defend themselves against the Caraunas, a mixed race between the Indians and the Tartars.			Caraunas, Indians		Tartars
+214	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	215	When these people wish to overrun the country and rob it, they, by their enchantment and diabolical agency, cause the day to become dark, so that you can see to little or no distance, and this darkness they make to last seven days.					
+215	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	216	They know the places so well, that they can ride during the thickest of it ; 					
+216	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	217	and they are sometimes ten thousand in number, so that nothing found on the plain, man, beast, or any thing, can escape.					
+217	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	218	They kill the old persons, and carry off the young to sell them for slaves.					
+218	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	219	Their king is called Nogodar, and he went to the court of Ciagatai, who was the brother of the great khan, with 10,000 men, and remained with him, because his uncle was very powerful.	Nogodar,khan	Ciagatai	Ciagatai	Nogodar	
+219	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	220	During this stay, Nogodar committed a very great wickedness, and I will tell you what it was.				Nogodar	
+220	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	221	He departed from his uncle Ciagatai, who was in Great Armenia, and took with him 10,000 of his people, who were very cruel, and marched by Badasian and through a province called Pasciai, and another called Chesciemur, losing many of his people and beasts, because the roads were narrow and very bad; 		Ciagatai,Great Armenia,Badasian,Pasciai,Chesciemur	Great Armenia, Badasian, Chesciemur	Ciagatai ,Pasciai	
+221	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	222	and when they had passed all these provinces, they entered into India, on the borders of one called Dilivar.		India,Dilivar	India	Dilivar	
+222	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	223	They came to the city of the same name, and took it from a king called Asidiu Sultan, who was very great and rich.	Asidiu Sultan			Asidiu Sultan	
+223	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	224	There Nogodar, with his people, continues to rule, and makes war with all the other Tartars who dwell in the surrounding country.	Nogodar			Nogodar	
+224	1	PART 1	13	On Camandu, Reobarle, and the Karauna Robbers	225	Having told you of this plain, and of the people who produced darkness in order to rob, I must also mention that Messer Marco himself was nearly taken by them amid this gloom, but though a number of his companions were captured, and either killed or sold as slaves, he himself escaped to a castle named Canosalmi.	Messer Marco	Canosalmi	Canosalmi	Messer Marco	
+225	1	PART 1	14	On the City of Cormos	226	That plain extends five days' journey southward, and you then come to a descent which continues twenty miles by a very bad and difficult road, full of wicked robbers.					
+226	1	PART 1	14	On the City of Cormos	227	You then approach the very beautiful plain of Formosa, watered by fine rivers, with plantations of the date-palm, and having the air filled with francolins, parrots, and other birds unknown to our climate.		Formosa	Formosa		
+227	1	PART 1	14	On the City of Cormos	228	You ride two days through it, and then arrive at the ocean, on which there is a city and fort named Cormos.				Cormos	
+228	1	PART 1	14	On the City of Cormos	229	The ships of India bring thither all kinds of spiceries, precious stones, and pearls, cloths of silk and gold, elephants' teeth, and many other articles.		India	India		
+229	1	PART 1	14	On the City of Cormos	230	It is the capital of a kingdom, having many cities and castles under it, and the sovereign is called Ruemedan Achomac.		Ruemedan Achomac		Ruemedan Achomac	
+230	1	PART 1	14	On the City of Cormos	231	 The climate, however, is intensely hot, and extremely unhealthy, and when any foreign merchant dies, the king inherits all his property.					
+231	1	PART 1	14	On the City of Cormos	232	Wine is here made of dates and other spices, and is extremely good ; 			Wine		
+232	1	PART 1	14	On the City of Cormos	233	but when drunk by men unaccustomed to it, has a strong purgative quality, though, after some use, it agrees well, and promotes corpulence.					
+233	1	PART 1	14	On the City of Cormos	234	The people live chiefly on dates and salted fish, particularly the tunny ; 					
+234	1	PART 1	14	On the City of Cormos	235	considering these victuals to be the most wholesome, and that if they used wheaten bread and fiesh they would fall sick.					
+235	1	PART 1	14	On the City of Cormos	236	The ships are very bad, and many are lost from not being secured by nails like ours, but sewed together by a thread made of the bark of the Indian nuttrees, which being softened in water, becomes like horsehair, and is durable enough.			Indian		
+236	1	PART 1	14	On the City of Cormos	237	They use it for want of iron, but it is by no means strong or secure.					
+237	1	PART 1	14	On the City of Cormos	238	They have a mast, sail, and rudder, all single, and a coverlet of leather, which is spread over the goods, and on that they place the horses, many of which are transported into India.		India	India		
+238	1	PART 1	14	On the City of Cormos	239	These ships, too, are not tarred, but covered with the oil of fish.					
+239	1	PART 1	14	On the City of Cormos	240	The people are black, and adore Mohammed.	Mohammed			Mohammed	
+240	1	PART 1	14	On the City of Cormos	241	They do not remain in the city during summer, for then they would all die, but retire to the country, where they have verdant gardens, finely watered by streams.					
+241	1	PART 1	14	On the City of Cormos	242	Even there they would not escape, because there often blows from the sandy tracts that surround the city a wind so excessively hot that it would kill them all, if they did not plunge into the water and thus escape it.					
+242	1	PART 1	14	On the City of Cormos	243	They sow wheat, barley, and other kinds of grain in the month of November, and reap them in March, when they become ripe and perfect ; 			March		
+243	1	PART 1	14	On the City of Cormos	244	but none except the date will endure till May, being dried up by the extreme heat.					
+244	1	PART 1	14	On the City of Cormos	245	I have also to tell you, when men or women die, great grief is shown, and the ladies, during full four years after the death of their husbands, make lamentations at least once a-day.					
+245	1	PART 1	14	On the City of Cormos	246	On these occasions, they assemble their relations and neighbours, who join them in loud moanings and cries.					
+246	1	PART 1	14	On the City of Cormos	247	In proof of the extreme violence of the heat, Marco Polo mentions the following circumstance which occurred during his residence.	Marco Polo			Marco Polo	
+247	1	PART 1	14	On the City of Cormos	248	The ruler of Cormos neglected to pay his tribute to the King of Creman, who took the resolution of enforcing it at the season when the principal inhabitants go in to the country.		Cormos,Creman	Creman	Cormos	
+248	1	PART 1	14	On the City of Cormos	249	He therefore despatched 1600 horse and 5000 foot through the district of Reobarle, to take them by surprise.		Reobarle	Reobarle		
+249	1	PART 1	14	On the City of Cormos	250	Being misled, however, by the guides, they did not reach the place till night, when they halted to rest in a grove near the town.					
+250	1	PART 1	14	On the City of Cormos	251	On renewing their march next morning, they were attacked by the hot wind, and all suffocated ; 					
+251	1	PART 1	14	On the City of Cormos	252	not one surviving to carry back the fatal intelligence.					
+252	1	PART 1	14	On the City of Cormos	253	When the people of Cormos learned this event, and went to bury the dead bodies lest they should infect the air, they found them so softened by the intense heat, that the limbs, when handled, separated from the trunks ; 		Cormos		Cormos	
+253	1	PART 1	14	On the City of Cormos	254	and it was necessary to dig graves close to where the corpses lay.					
+254	1	PART 1	15	Return to Creman	255	We will now leave this city, and not go on to India, for I will describe it farther on in my book, in the proper time and place.		India	India		
+255	1	PART 1	15	Return to Creman	256	We will return, therefore, by another road to Creman, because the countries now to be delineated can be reached only by way of that city, and I must tell you that Ruemedan Achomac, of whom we have just spoken, is subject to its king.	Ruemedan Achomac	Creman	Creman	Ruemedan Achomac	
+256	1	PART 1	15	Return to Creman	257	The route in returning thither from Cormos is through a very fine plain.		Cormos	Cormos		
+257	1	PART 1	15	Return to Creman	258	There are many springs whence the water issues in a hot state, forming baths very salutary in cutaneous and other diseases.					
+258	1	PART 1	15	Return to Creman	259	Here is abundance of fruits and dates, also of partridges and other birds ; 					
+259	1	PART 1	15	Return to Creman	260	but the wheaten bread, owing to the quality of the water, is so bitter that no one unaccustomed to its use can eat it.					
+260	1	PART 1	15	Return to Creman	261	I now wish to tell you of a country lying to the north.					
+261	1	PART 1	15	Return to Creman	262	When a man has left Creman, he travels seven days in that direction, through a very dreary region.		Creman		Creman	
+262	1	PART 1	15	Return to Creman	263	During three days he finds no river, and the little water met with is salt, green like grass, and so bitter that it is impossible to drink it, and if a man tastes even a drop, it produces violent purging.					
+263	1	PART 1	15	Return to Creman	264	Travellers, therefore, carry water with them ; 					
+264	1	PART 1	15	Return to Creman	265	but the beasts being obliged to drink such as they find, suffer severely.					
+265	1	PART 1	15	Return to Creman	266	The whole tract is an arid desert, destitute of animals, which could not find food.					
+266	1	PART 1	15	Return to Creman	267	On the fourth day, you reach a river of fresh water, but with its channel mostly under ground.					
+267	1	PART 1	15	Return to Creman	268	In some spots, however, the force of the current makes abrupt openings, when the stream appears for a short space, and drink is abundantly supplied.					
+268	1	PART 1	15	Return to Creman	269	Then follows another tract that lasts four days, and is also a dry desert, with bitter water, and no animals except wild asses.					
+269	1	PART 1	15	Return to Creman	270	 At the end of the four days, we leave the kingdom of Creman and proceed towards Cobinam.		Creman,Cobinam		Cobinam	Creman
+270	1	PART 1	16	On the City of Cobinam	271	Cobinam is a great city inhabited by Mohammedans.		Cobinam	Cobinam		
+271	1	PART 1	16	On the City of Cobinam	272	There is abundance of iron, brass, and andanico, of the second of which they construct large and beautiful mirrors; 					
+272	1	PART 1	16	On the City of Cobinam	273	they make here also the tutty, which is extremely good for the eyes, and likewise sponge, in the following manner.					
+273	1	PART 1	16	On the City of Cobinam	274	They take a vein of earth fitted for this purpose, and throw it into a burning furnace, above which is a grating of iron; 					
+274	1	PART 1	16	On the City of Cobinam	275	then the smoke and moisture ascending adhere to the iron and form tutty, while the earth which remains in the furnace becomes sponge.					
+275	1	PART 1	17	On the Province of Tonocain	276	When a man departs from Cobinam, he goes through a desert of eight days, and the country is very arid; 		Cobinam	Cobinam		
+276	1	PART 1	17	On the Province of Tonocain	277	there is neither fruit nor trees, and the water is bitter and bad, so that he must carry both it and food for himself, but the beasts drink that on the road, though very unwillingly.					
+277	1	PART 1	17	On the Province of Tonocain	278	He then comes to a province called Tonocain, with cities and many castles, bordering upon Persia towards the north; 		Tonocain,Persia	Tonocain, Persia		
+278	1	PART 1	17	On the Province of Tonocain	279	and there is a very great plain on which grows what the Christians call the dry tree, which I will describe to you.					
+279	1	PART 1	17	On the Province of Tonocain	280	It is very large, and its leaves are green on one side and white on the other.					
+280	1	PART 1	17	On the Province of Tonocain	281	It yields a nut like the chestnut ; 					
+281	1	PART 1	17	On the Province of Tonocain	282	but there is nothing within it.					
+282	1	PART 1	17	On the Province of Tonocain	283	It is a strong wood, and yellow like box ; 					
+283	1	PART 1	17	On the Province of Tonocain	284	and there is no other tree in those parts for a hundred miles round, except on one side, at ten miles' distance.					
+284	1	PART 1	17	On the Province of Tonocain	285	It is said by the people of the country to be the place where Alexander fought with Darius.	Alexander,Darius			Alexander ,Darius	
+285	1	PART 1	17	On the Province of Tonocain	286	There are many towns and castles, and the inhabitants have abundance of all good things, the climate being neither too cold nor too hot.					
+286	1	PART 1	17	On the Province of Tonocain	287	Now I must tell you of a country called Mulecte, where the Old Man of the Mountain used to dwell.	the Old Man of the Mountain	Mulecte		Mulecte	Old ,Mountain
+287	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	288	You shall learn all about the Old Man of the Mountain, as I Marco heard related by many persons.	the Old Man of the Mountain,Marco		Mountain	Marco	Old
+288	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	289	He was called in their language Alaodin, and had caused to be formed, in a valley between two mountains, the largest and most beautiful garden that ever was seen.	Alaodin			Alaodin	
+289	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	290	There grew all the finest fruits in the world, and it was adorned by the most beautiful houses and palaces, the interior being richly gilded, and furnished with finely coloured pictures of birds and beasts, and the most striking objects.					
+290	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	291	It contained several conduits through which flowed respectively water, wine, honey, and milk.					
+291	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	292	Here were ladies and damsels unequalled in beauty and in the skill with which they sung and played on instruments of every description.					
+292	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	293	Now the Old Man made his people believe that this garden was paradise, and he formed it thus because Mohammed had given the Saracens to believe that those who went into that place would meet great numbers of beautiful women, and find rivers of water, wine, milk, and honey; 	the Old Man,Mohammed		Saracens	Mohammed	Old
+293	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	294	hence the visiters were led to think that this really was paradise.					
+294	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	295	Into this garden he admitted no man except those whom he wished to make assassins.					
+295	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	296	The entry to the spot was commanded by a castle so strong that he did not fear any power in the world.					
+296	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	297	He kept in his court all the youths of the country between twelve and twenty years of age, and when he thought proper, selected a number who had been well instructed in the description of paradise.					
+297	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	298	He gave them a beverage which threw them into a deep sleep, then carried them into the garden, and made them be awakened.					
+298	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	299	When any one of them opened his eyes, saw this delightful spot, and heard the delicious music and songs, he really believed himself in the state of blessedness.					
+299	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	300	When again, however, he fell asleep, he was brought out into the castle, where he awoke in great wonder, and felt deep regret at having left that delightful abode.					
+300	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	301	He then went humbly to the Old Man, worshipping him as a prophet.	the Old Man				Old Man
+301	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	302	Being asked whence he came, he told that he had been in the paradise described by Mohammed, relating all he had seen, and saying that he desired much to die and return thither.	Mohammed			Mohammed	
+302	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	303	The chief then named to him a great lord whom he wished him to kill.					
+303	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	304	The youth cheerfully obeyed, and if in the act he was taken and put to death, he suffered with exultation, believing that he was to go into the happy place.					
+304	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	305	If, after performing the deed, he escaped, the Old Man received him with the greatest honour, and when he wished to destroy another chief, employed him afresh, saying that he was sent into paradise.	the Old Man				Old
+305	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	306	Thus scarcely any person could escape being slain, when the Old Man of the Mountain desired it; 	the Old Man of the Mountain				Old ,Mountain
+306	1	PART 1	18	On the Castle of the Old Man of the Mountain, and how he trained and employed his Assassins	307	and many barons became vassals to him through the dread of thus losing their lives.					
+307	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	308	Having now told you of the Old Man of the Mountain and his assassins, you shall hear how he was killed.	the Old Man of the Mountain		Mountain		Old
+308	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	309	I had forgot to mention, that he had other old men placed under him, one of whom he sent into the country of Damascus, and the other into Kurdistan.		Damascus,Kurdistan	Damascus, Kurdistan		
+309	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	310	But now let us come to his destruction.					
+310	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	311	It was in 1262 that Alau, the Lord of the East, having heard of his wicked deeds, determined to destroy him.	Alau		East	Alau	Lord
+311	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	312	He sent his generals with a great body of men, who besieged the castle full three years, and then could only reduce it by famine.					
+312	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	313	Alaodin being taken, was killed, with all his people, and since that time there has been no assassin ; 	Alaodin		Alaodin		
+313	1	PART 1	19	How Alau took and killed the Old Man of the Mountain	314	and thus ended his dominion and his wickedness.					
+314	1	PART 1	20	Of a certain City named Sapurgan	315	When a man departs from that castle, he rides through beautiful hills covered with rich herbage, with fruits and all things in great abundance.					
+315	1	PART 1	20	Of a certain City named Sapurgan	316	The country extends to a journey of six days, and contains cities the inhabitants of which adore Mohammed.	Mohammed			Mohammed	
+316	1	PART 1	20	Of a certain City named Sapurgan	317	Yet sometimes you find a desert of fifty or sixty miles, without water, which men must carry with them.					
+317	1	PART 1	20	Of a certain City named Sapurgan	318	When the traveller has rode six days through the country now described, he finds a city called Sapurgan.		Sapurgan		Sapurgan	
+318	1	PART 1	20	Of a certain City named Sapurgan	319	It has great abundance of all things, among which are the finest melons in the world in great plenty, and they are preserved in this manner: The people cut them all round like cucumbers, and dry them in the sun, when they become sweeter than honey, and are sold through all the country.					
+319	1	PART 1	20	Of a certain City named Sapurgan	320	Here is fine hunting of beasts and birds.					
+320	1	PART 1	20	Of a certain City named Sapurgan	321	Now I will go on to another city named Balk.		Balk		Balk	
+321	1	PART 1	21	Of the City of Balk	322	Balk is a great and noble town, and was anciently still more so; 		Balk	Balk		
+322	1	PART 1	21	Of the City of Balk	323	but the Tartars have spoiled and wasted it, so that many beautiful houses and palaces of marble are now destroyed.					Tartars
+323	1	PART 1	21	Of the City of Balk	324	It was here, as I was told by the people, that Alexander took to wife the daughter of Darius.	Alexander,Darius		Darius	Alexander	
+324	1	PART 1	21	Of the City of Balk	325	The people revere Mohammed ; 	Mohammed		Mohammed		
+325	1	PART 1	21	Of the City of Balk	326	and at this point ends the dominion of the Eastern Tartars, this city being the boundary of Persia, between north-east and east.			Eastern Tartars, Persia		
+326	1	PART 1	21	Of the City of Balk	327	Now let us tell of another country named Dogana.		Dogana		Dogana	
+327	1	PART 1	21	Of the City of Balk	328	On leaving Balk, you ride two days between north-east and east, and find no habitation, because the people have all fled to the fortresses in the mountains for fear of wicked men, who lay waste the land.		Balk		Balk	
+328	1	PART 1	21	Of the City of Balk	329	There is no want of water or game, and lions are also seen.					
+329	1	PART 1	21	Of the City of Balk	330	No food is to be procured, but travellers must carry it both for themselves and their horses.					
+330	1	PART 1	22	Of the Castle of Taikan	331	When a man has rode these two days, he finds a castle called Taikan,where there is a great corn-market, and the country round is fine.		Taikan	Taikan		
+331	1	PART 1	22	Of the Castle of Taikan	332	The mountains towards the south are very high, and formed entirely of salt, which is the best in the world, and people come for it from a distance of thirty days' journey round.					
+332	1	PART 1	22	Of the Castle of Taikan	333	It is so hard, that it can be broken only by great iron hammers ; 					
+333	1	PART 1	22	Of the Castle of Taikan	334	and there is enough to supply the whole human race till the end of time.					
+334	1	PART 1	22	Of the Castle of Taikan	335	Departing from that city, you go three days north-east, through a fine country, well planted with grain and fruits.					
+335	1	PART 1	22	Of the Castle of Taikan	336	The people, who are followers of Mohammed, are wicked and murderous.	Mohammed		Mohammed		
+336	1	PART 1	22	Of the Castle of Taikan	337	They spend much time in the tavern, for they have abundance of good wine, well prepared.					
+337	1	PART 1	22	Of the Castle of Taikan	338	They wear nothing on their heads but a cord ten palms long wrapt round it.					
+338	1	PART 1	22	Of the Castle of Taikan	339	They are good hunters, and thus supply themselves with venison ; but have no clothing except the skins of animals.					
+339	1	PART 1	23	Of the City of Scassem	340	When a man travels three days, he finds a city named Scassem, which is on the plain, while the others are on the mountains, and through it flows a considerable river.		Scassem		Scassem	
+340	1	PART 1	23	Of the City of Scassem	341	There are here many porcupines, and when the hunters set their dogs upon them, the hogs collect together and push their spines against their assailants, and often hurt them severely.					
+341	1	PART 1	23	Of the City of Scassem	342	This Scassem is a large province, and the shepherds dwell in caverns on the mountains, which are easily formed, being wholly of earth, and make large handsome habitations.		Scassem			
+342	1	PART 1	23	Of the City of Scassem	343	 When a man leaves this city, he travels three days without finding a house, or any thing to eat or drink, being obliged to carry provisions with him, and he then enters the district of Badascian.		Badascian	Badascian		
+343	1	PART 1	24	Of the Province of Badascian	344	Badascian is a large province, whose people adore Mohammed, and have a language of their own.	Mohammed	Badascian	Badascian	Mohammed	
+344	1	PART 1	24	Of the Province of Badascian	345	It is governed by kings descended from Alexander and the daughter of Darius lord of Persia, and all these kings are called in Saracen Zulcarnem, which means in their language Alexander.	Alexander,Darius,Alexander	Persia	Darius, Persia	Alexander ,Saracen Zulcarnem	
+345	1	PART 1	24	Of the Province of Badascian	346	In this country occur the precious stones called balasiu, which are very beautiful and valuable.					
+346	1	PART 1	24	Of the Province of Badascian	347	They are found in the rocks of a mountain called Lighinan, and are cut out of very deep caverns, as is done by those who work silver mines.		Lighinan		Lighinan	
+347	1	PART 1	24	Of the Province of Badascian	348	Know, too, that the king makes them be worked out for himself, and no other man may cut out balasiu on that mountain, on pain of death.			Know		
+348	1	PART 1	24	Of the Province of Badascian	349	His majesty sends them as presents to other princes and great lords, either as homage, or in token of friendship, and he likewise sells them for gold and silver.					
+349	1	PART 1	24	Of the Province of Badascian	350	The prohibition is enforced that they may continue valuable ; 					
+350	1	PART 1	24	Of the Province of Badascian	351	for if all persons were allowed to dig for them, they would be quite depreciated.					
+351	1	PART 1	24	Of the Province of Badascian	352	You must likewise know, that in other mountains of the same country are found the stones of which ultramarine is made, and it is the finest and best in the world.					
+352	1	PART 1	24	Of the Province of Badascian	353	There are also lofty hills containing veins yielding silver in abundance.					
+353	1	PART 1	24	Of the Province of Badascian	354	The country is extremely cold, but it breeds very good horses, which run with great speed over these wild tracts without being shod with iron.					
+354	1	PART 1	24	Of the Province of Badascian	355	There are found also the falcons called sacri, which fly well and swiftly ; also those called lanier ; and there is abundant hunting of beasts and birds.					
+355	1	PART 1	24	Of the Province of Badascian	356	Wheat and good barley are plentiful ; 			Wheat		
+356	1	PART 1	24	Of the Province of Badascian	357	they have no oil of olives, but make it from sesamum and nuts.					
+357	1	PART 1	24	Of the Province of Badascian	358	This kingdom has many a narrow pass and strong post to secure it against the entrance of enemies, and the cities and castles are strongly built on high mountains.					
+358	1	PART 1	24	Of the Province of Badascian	359	The people are good archers and hunters, and mostly clad in the skins of beasts, on account of the scarcity of cloth.					
+359	1	PART 1	24	Of the Province of Badascian	360	The great ladies, however, wear from sixty to a hundred yards of bombasine wrapped round their body, in order that they may appear very fat, because the men delight in such a shape.					
+360	1	PART 1	24	Of the Province of Badascian	361	On the summits of the mountains the air is so pure and salubrious that the inhabitants of the towns and lower valleys, when attacked by fever or other inflammatory complaints, immediately remove thither, and in three or four days recover their health.					
+361	1	PART 1	24	Of the Province of Badascian	362	Marco Polo affirms, that he himself experienced its excellent effects ; 	Marco Polo			Marco	
+362	1	PART 1	24	Of the Province of Badascian	363	for after being confined nearly a year by sickness, he was advised to try change of air by ascending the hills, and he then immediately regained his strength.					
+363	1	PART 1	25	Of the Province of Pascia	364	You are to know that ten days south from Badascian is a province called Pascia.		Pascia	Badascian	Pascia	
+364	1	PART 1	25	Of the Province of Pascia	365	The people have a peculiar language ; 					
+365	1	PART 1	25	Of the Province of Pascia	366	they are worshippers of idols, and much skilled in enchantments and diabolical arts.					
+366	1	PART 1	25	Of the Province of Pascia	367	The men wear ear-rings and buckles of gold and silver, with pearls and precious stones.					
+367	1	PART 1	25	Of the Province of Pascia	368	They are a very artful and malicious people.					
+368	1	PART 1	25	Of the Province of Pascia	369	The province is extremely hot, and the people live upon flesh and rice.					
+369	1	PART 1	25	Of the Province of Pascia	370	Now let us leave it, and tell of another, which is distant from this seven days towards the south-east.					
+370	1	PART 1	26	Of the Province of Kesimur	371	Kesimur is inhabited by idolaters, who have a language of their own.		Kesimur	Kesimur		
+371	1	PART 1	26	Of the Province of Kesimur	372	They have a wonderful knowledge of the enchantments of devils, making their images speak, and by sorcery changing the seasons, causing great darkness, and doing other wonders which could not be believed unless they were seen.					
+372	1	PART 1	26	Of the Province of Kesimur	373	The idols of this province are the heads over all the others, and went down hence to the neighbouring countries.					
+373	1	PART 1	26	Of the Province of Kesimur	374	The people are meagre and of a brown complexion ; 					
+374	1	PART 1	26	Of the Province of Kesimur	375	but the females are very beautiful.					
+375	1	PART 1	26	Of the Province of Kesimur	376	They live on flesh and rice, and have a number of cities and castles.					
+376	1	PART 1	26	Of the Province of Kesimur	377	They have woods and deserts, and passes so strong that they have little dread of an invader: their king rules with great justice.					
+377	1	PART 1	26	Of the Province of Kesimur	378	In this country are hermits, who observe great abstinence in eating and drinking, and carefully abstain from all offences against their faith ; 					
+378	1	PART 1	26	Of the Province of Kesimur	379	and this is done through veneration of their gods.					
+379	1	PART 1	26	Of the Province of Kesimur	380	They have abbeys and monasteries, are held in much reverence by the people of the country, and live to a great age.					
+380	1	PART 1	26	Of the Province of Kesimur	381	The coral brought from our land is sold more readily there than in any other nation.					
+381	1	PART 1	26	Of the Province of Kesimur	382	From this place you may go to the sea of India, and if we went farther we should enter into that country ; 		sea of India	India		
+382	1	PART 1	26	Of the Province of Kesimur	383	but being to return that way, we will then describe it in due order, and now go back to Badascian.		Badascian	Badascian		
+383	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	384	When a man departs from Badascian, he goes twelve days between north-east and east, along a river which belongs to a brother of the lord of that land.		Badascian	Badascian		
+384	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	385	There are many castles, and a good number of inhabitants, who are valiant and adore Mohammed.	Mohammed			Mohammed	
+385	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	386	He then comes to a province named Vokhan, not very large, being only three days' journey in every direction.		Vokhan		Vokhan	
+386	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	387	The people are of the same description, and subject to the ruler of Badascian.		Badascian	Badascian		
+387	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	388	Wild beasts and birds of every kind for hunting are most abundant.			Wild		
+388	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	389	Having left this place, and travelled three days, always over mountains, he ascends to a district which is said to be the highest in the world.					
+389	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	390	Here he finds a plain between two vast hills, through which flows a very fine river, issuing from a large lake ; 					
+390	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	391	and it is the best pasturage in the world, for a lean animal becomes fat here in ten days.					
+391	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	392	All kinds of wild animals abound ; 					
+392	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	393	in particular, a species of sheep with horns of three, four, and even six palms long.					
+393	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	394	These are formed by the shepherds into large spoons, out of which they eat ; and are even employed in enclosing the places where they keep their cattle.					
+394	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	395	The hornsare heaped up in large quantities along the road, for the purpose of guiding travellers during winter, when it is covered with snow.					
+395	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	396	While a man passes for twelve days along this high plain, which is called Pamier,he sees neither habitation nor verdure, but must carry all his provisions along with him.				Pamier	
+396	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	397	No birds can live in this cold region; 					
+397	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	398	and I can even state that the fire does not burn so clear nor with the same colour as in other places, nor does it cook victuals so well.					
+398	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	399	Leaving this place, he has to go on forty days between north and north-east, and passes many rivers and deserts ; and in all this journey finds neither verdure nor habitation, but must carry all his provisions along with him.					
+399	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	400	This country is called Belor.		Belor	Belor		
+400	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	401	The people live in very lofty mountains.					
+401	1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	402	They are idolaters, extremely savage, violent, and cruel, subsist by hunting, and dress themselves in the skins of beasts.					
+402	1	PART 1	28	Of the Province of Cascar	403	Cascar was anciently a kingdom, but is now under the dominion of the great khan.	khan	Cascar		Cascar	
+403	1	PART 1	28	Of the Province of Cascar	404	The people adore Mohammed, and have cities and castles; 	Mohammed			Mohammed	
+404	1	PART 1	28	Of the Province of Cascar	405	they are situated between the north and east.					
+405	1	PART 1	28	Of the Province of Cascar	406	They subsist by merchandise and manufactures, having also fine gardens, vineyards, and orchards, with a good supply of silk.					
+406	1	PART 1	28	Of the Province of Cascar	407	The merchants, in carrying on their trade, go round the whole world ; 					
+407	1	PART 1	28	Of the Province of Cascar	408	but they are sordid and covetous, eating and drinking very poorly.					
+408	1	PART 1	28	Of the Province of Cascar	409	Some Nestorian Christians reside here, observing their own customs and laws.			Nestorian		
+409	1	PART 1	28	Of the Province of Cascar	410	The people have a language of their own ; 					
+410	1	PART 1	28	Of the Province of Cascar	411	and the province extends five days' journey.					
+411	1	PART 1	28	Of the Province of Cascar	412	Now let us leave it and speak of Samarcan.		Samarcan	Samarcan		
+412	1	PART 1	29	Of the City of Samarcan	413	Samarcan is a very great and noble city, lying to the south, inhabited by Christians and Saracens.		Samarcan	Samarcan, Saracens		Christians
+413	1	PART 1	29	Of the City of Samarcan	414	The people are governed by a nephew of the great khan, who, however, is not his friend, but is in open hostility against him.	khan				
+414	1	PART 1	29	Of the City of Samarcan	415	I have to tell you a great wonder which happened in this city.					
+415	1	PART 1	29	Of the City of Samarcan	416	You must know that not very long since, Ciagatai, brother to the great khan, became a Christian, and was lord of that and of many other countries.	Ciagatai,khan		Ciagatai, Christian		
+416	1	PART 1	29	Of the City of Samarcan	417	The believers of Samarcan rejoiced greatly at his conversion, and erected a large church in honour of it, bearing the name of St John the Baptist.	St John the Baptist	Samarcan	Samarcan		Baptist
+417	1	PART 1	29	Of the City of Samarcan	418	They took a large and fine stone belonging to the Saracens, and made it the base of a column, which rose in the middle of the edifice, and supported the whole roof.			Saracens		
+418	1	PART 1	29	Of the City of Samarcan	419	Now it came to pass that Ciagatai died, whereupon the Mohammedans, having been much enraged at this stone being taken for the use of the church, consulted with each other how to recover it by force.	Ciagatai			Ciagatai	
+419	1	PART 1	29	Of the City of Samarcan	420	This they could now easily do, being ten to one of their adversaries. 					
+420	1	PART 1	29	Of the City of Samarcan	421	Several of their elders went and told the Christians that they wished to receive back the slab, which had been formerly theirs.					
+421	1	PART 1	29	Of the City of Samarcan	422	The latter answered, that they would willingly restore it, but for the injury it would do to their building, and offered to pay a fair price for it.					
+422	1	PART 1	29	Of the City of Samarcan	423	The others replied, that they wished neither gold nor treasure, but must have their stone.					
+423	1	PART 1	29	Of the City of Samarcan	424	The government now belonged to the nephew of the great khan, who commanded that within two days it should be restored.	khan				
+424	1	PART 1	29	Of the City of Samarcan	425	When the Christians received that order, they were much grieved, and knew not what to do.					Christians
+425	1	PART 1	29	Of the City of Samarcan	426	They went, however, and with many tears implored John the Baptist to relieve them in this tribulation.				John	Baptist
+426	1	PART 1	29	Of the City of Samarcan	427	On the morning of the day when the stone was to be returned, the pillar, by the power of our Lord, rose up at least three palms, and supported itself as well as when the stone was beneath it, and has continued to do so till this day.					
+427	1	PART 1	29	Of the City of Samarcan	428	This was and still is accounted one of the greatest miracles that ever happened in the world.					
+428	1	PART 1	29	Of the City of Samarcan	429	Now let me tell you of a province which is called Yarcan.		Yarcan	Yarcan		
+429	1	PART 1	30	Of the Province of Yarcan	430	Yarcan is a province five days' journey in length.		Yarcan	Yarcan		
+430	1	PART 1	30	Of the Province of Yarcan	431	The people obey the law of Mohammed, but there are some Nestorian Christians; 	Mohammed		Mohammed, Nestorian		
+431	1	PART 1	30	Of the Province of Yarcan	432	they are subject to the nephew of the khan mentioned above.	khan				
+432	1	PART 1	30	Of the Province of Yarcan	433	All necessaries are in great abundance.					
+433	1	PART 1	30	Of the Province of Yarcan	434	Cotton is also grown, and the inhabitants are skilful artisans.			Cotton		
+434	1	PART 1	30	Of the Province of Yarcan	435	They suffer severely by swellings in the legs and in the throat, occasioned by the bad quality of the water.					
+435	1	PART 1	30	Of the Province of Yarcan	436	Finding nothing else worth mentioning, I shall go on to Cotan.		Cotan	Cotan		
+436	1	PART 1	31	Of the great Province of Cotan	437	Cotan is a province between north-east and east, and is eight days' journey in length.		Cotan	Cotan		
+437	1	PART 1	31	Of the great Province of Cotan	438	The people adore Mohammed ; 	Mohammed		Mohammed		
+438	1	PART 1	31	Of the great Province of Cotan	439	they have a number of cities and castles.					
+439	1	PART 1	31	Of the great Province of Cotan	440	The capital is a noble town, called by the name of the kingdom.					
+440	1	PART 1	31	Of the great Province of Cotan	441	They have all things in abundance, a large supply of silk, with vineyards and good orchards.					
+441	1	PART 1	31	Of the great Province of Cotan	442	They carry on merchandise and manufactures, but are not men at arms.					
+442	1	PART 1	32	Of the Province of Pein	443	Pein is a province five days' journey in length, between north-east and east.		Pein	Pein		
+443	1	PART 1	32	Of the Province of Pein	444	The people adore Mohammed, are subject to the great khan, and have a number of towns and castles.	Mohammed,khan			Mohammed	
+444	1	PART 1	32	Of the Province of Pein	445	The noblest city and capital is called by the name of the kingdom.					
+445	1	PART 1	32	Of the Province of Pein	446	Here is a river in which are found the stones named jasper and calcedony.					
+446	1	PART 1	32	Of the Province of Pein	447	The people are very well supplied with necessaries, and grow a good deal of silk.					
+447	1	PART 1	32	Of the Province of Pein	448	They live by merchandise and arts, and have a custom which I will now tell you.					
+448	1	PART 1	32	Of the Province of Pein	449	When a woman has a husband who has gone a journey, and is to be absent above twenty days, as soon as he has departed she takes another partner, being fully allowed  by usage to do so; 					
+449	1	PART 1	32	Of the Province of Pein	450	while the husband, in the place where he goes, takes another wife.					
+450	1	PART 1	32	Of the Province of Pein	451	Know that all the provinces now described from Cascar to the present, and still farther on, belong to Great Turkey.		Cascar,Great Turkey	Cascar, Great Turkey		
+451	1	PART 1	32	Of the Province of Pein	452	Now let us tell of a province named Ciarcian.		Ciarcian	Ciarcian		
+452	1	PART 1	33	Of the Province of Ciarcian	453	Ciarcian is a province of Great Turkey, lying between north-east and east, with a capital city of the same name.		Ciarcian,Great Turkey	Ciarcian, Great Turkey		
+453	1	PART 1	33	Of the Province of Ciarcian	454	The people adore Mohammed, and have a good number of towns and castles.	Mohammed			Mohammed	
+454	1	PART 1	33	Of the Province of Ciarcian	455	There is a river bringing jasper and calcedony, which, being of excellent quality, they take to sell in Cathay, and thus make great profit.		Cathay	Cathay		
+455	1	PART 1	33	Of the Province of Ciarcian	456	This province is sandy, as well as the whole road from Cotan hither ; and much of the water is bad and bitter, but in various places it is good.		sandy,Cotan	Cotan		
+456	1	PART 1	33	Of the Province of Ciarcian	457	When an enemy passes through the country, they flee with their wives, children, and cattle, two or three days' journey through the sand to places abounding in fine water and pasturage ; 					
+457	1	PART 1	33	Of the Province of Ciarcian	458	and no one can tell where they have gone, because the wind blowing the sand obliterates all traces of their march, and they thus escape the invader.					
+458	1	PART 1	33	Of the Province of Ciarcian	459	But when a friendly army passes through, they send away only the beasts, because the troops would take and eat them, without any payment.					
+459	1	PART 1	33	Of the Province of Ciarcian	460	After departing from Ciarcian, you go five days through the waste, finding the water bad and bitter, but occasionally sweet and good.		Ciarcian	Ciarcian		
+460	1	PART 1	33	Of the Province of Ciarcian	461	At the end of these five days you come to a city which lies at the commencement of the great desert, wherein provisions are laid in for its passage, and therefore I must tell you about it.					
+461	1	PART 1	34	Of the City and Desert of Lop	462	Lop is a large city at the entrance of the great desert bearing its name, and lying between the east and northeast.		Lop	Lop		
+462	1	PART 1	34	Of the City and Desert of Lop	463	It belongs to the khan, and the people adore Mohammed.	khan,Mohammed			Mohammed	
+463	1	PART 1	34	Of the City and Desert of Lop	464	You must know that those persons who wish to pass this tract rest in the city a week to refresh themselves and their cattle ; 					
+464	1	PART 1	34	Of the City and Desert of Lop	465	then, having taken a month's provisions and provender, they enter upon the desert, which I assure you is so extensive that if a man were to travel through its whole length, it would employ a year ; 					
+465	1	PART 1	34	Of the City and Desert of Lop	466	and even at its smallest breadth, a month is requisite.					
+466	1	PART 1	34	Of the City and Desert of Lop	467	It consists altogether of mountains and valleys of sand, and nothing is got to eat; 					
+467	1	PART 1	34	Of the City and Desert of Lop	468	but after travelling a day and a night, you find sweet water sufficient for from fifty to a hundred men, with their animals.					
+468	1	PART 1	34	Of the City and Desert of Lop	469	A larger body could not be supplied.					
+469	1	PART 1	34	Of the City and Desert of Lop	470	Thus, water is seen daily, or altogether in about twenty-eight places, and except in three or four it is good.					
+470	1	PART 1	34	Of the City and Desert of Lop	471	Beasts or birds there are none, because they could not find food; 					
+471	1	PART 1	34	Of the City and Desert of Lop	472	but there is a great wonder which I must now tell you.					
+472	1	PART 1	34	Of the City and Desert of Lop	473	When a party rides by night through this desert, and any one lags behind, or straggles from his companions through sleep or any other cause, when he seeks to return to them, he hears spirits speak to him in such a manner that they seem to be his comrades, and they frequently call him by name, and thus lead him out of his way so that he never regains it, and many persons are thus lost and perish.					
+473	1	PART 1	34	Of the City and Desert of Lop	474	I must tell you, too, that even by day you hear these voices of spirits, and even tambours, and many other instruments sounding.					
+474	1	PART 1	34	Of the City and Desert of Lop	475	They find it necessary, also, before going to rest at night, to fix an advanced signal, pointing out the course to be afterwards held ; 					
+475	1	PART 1	34	Of the City and Desert of Lop	476	likewise to attach a bell to each of the animals, that they may be more easily kept from straggling.					
+476	1	PART 1	34	Of the City and Desert of Lop	477	In this manner, amid much danger and fear, this desert is passed.					
+477	1	PART 1	34	Of the City and Desert of Lop	478	Now we must tell you of the countries that lie on the other side.					
+478	1	PART 1	35	Of the Province of Tangut and City of Sacchion	479	When you have rode thirty days through this desert, you find a city named Sacchion,which belongs to the khan.	khan	Sacchion		Sacchion	
+479	1	PART 1	35	Of the Province of Tangut and City of Sacchion	480	 The province is called Tangut,and the people are idolaters, mixed with some Nestorian Christians and Saracens.		Tangut	Nestorian, Saracens	Tangut	
+480	1	PART 1	35	Of the Province of Tangut and City of Sacchion	481	The first have languages of their own ; 					
+481	1	PART 1	35	Of the Province of Tangut and City of Sacchion	482	they subsist not by merchandise, but by the grain which they produce from the earth.					
+482	1	PART 1	35	Of the Province of Tangut and City of Sacchion	483	They have many abbeys and monasteries, all full of idols of various shapes, to which they offer frequent sacrifices and homage.					
+483	1	PART 1	35	Of the Province of Tangut and City of Sacchion	484	Every man who has children rears a sheep, and at a particular festival at the end of the year, leads them along with that animal into the presence of the god, to whom they all perform reverence.					
+484	1	PART 1	35	Of the Province of Tangut and City of Sacchion	485	They cook the sheep and offer it very humbly before the idol, leaving it while they make their prayers for the safety of their children.					
+485	1	PART 1	35	Of the Province of Tangut and City of Sacchion	486	They then take the meat and carry it to the house, or wherever they please, send for their relations, and eat it with great joy and respect.					
+486	1	PART 1	35	Of the Province of Tangut and City of Sacchion	487	They afterwards collect the bones, and preserve them with much diligence.					
+487	1	PART 1	35	Of the Province of Tangut and City of Sacchion	488	You must know likewise, that when any one of them dies, his body is burned, and after he is carried to the place for this last ceremony, they erect in the middle of the path a house of cane, covered with cloths of silk and gold.					
+488	1	PART 1	35	Of the Province of Tangut and City of Sacchion	489	When the dead man is laid before this ornamented house, they place before him wine and victuals, believing that he will be similarly honoured in the other world.					
+489	1	PART 1	35	Of the Province of Tangut and City of Sacchion	490	At the place of burning, too, they cut in paper, men, horses, camels, and coins of the size of bezarits, convinced that the deceased will possess all these things in the future state.					
+490	1	PART 1	35	Of the Province of Tangut and City of Sacchion	491	On this occasion, all the instruments in the land are sounded before the corpse.					
+491	1	PART 1	35	Of the Province of Tangut and City of Sacchion	492	I must tell you, too, that after death the relations send for the astrologer, who is informed of the day, month, and year of his nativity, and then divines, by his diabolical art, the day on which the burning ought to take place.					
+492	1	PART 1	35	Of the Province of Tangut and City of Sacchion	493	If it should be a week, a month, or six months, they keep it all that time, and never burn it till the appointed day.					
+493	1	PART 1	35	Of the Province of Tangut and City of Sacchion	494	During this interval, they deposit it in a large box covered with cloth, and so preserved with crocus and other spices that no stench arises.					
+494	1	PART 1	35	Of the Province of Tangut and City of Sacchion	495	Throughout this period, they place daily before the box meat and drink, and leave it there for some time, till they think he has eaten it.					
+495	1	PART 1	35	Of the Province of Tangut and City of Sacchion	496	These sorcerers, too, often tell the relations that the dead body must not be carried out by the main door, but by a private one, or even through a breach made in the wall.					
+496	1	PART 1	35	Of the Province of Tangut and City of Sacchion	497	All the idolaters in the world proceed in this manner.					
+497	1	PART 1	35	Of the Province of Tangut and City of Sacchion	498	Now I must go to another city which lies to the south, near the extremity of this desert.					
+498	1	PART 1	36	Of the City of Kamul	499	Kamul is a province, formerly a kingdom, containing cities and castles, with a capital of the same name.		Kamul	Kamul		
+499	1	PART 1	36	Of the City of Kamul	500	It stands between two deserts, the great one already described, and a smaller one, extending three days' journey.					
+500	1	PART 1	36	Of the City of Kamul	501	The people are all idolaters, and have a peculiar language ; 					
+501	1	PART 1	36	Of the City of Kamul	502	they live by the fruits of the earth, having enough to eat, and also to sell to the passenger.					
+502	1	PART 1	36	Of the City of Kamul	503	They are men of great gaiety, thinking of nothing but to sound musical instruments, to sing, dance, and delight their hearts. 					
+503	1	PART 1	36	Of the City of Kamul	504	When a stranger comes to lodge in a house, the master is highly pleased, and leaves him with his wife, desiring her to treat him in every respect as a husband, while he himself goes and spends two or three days elsewhere.					
+504	1	PART 1	36	Of the City of Kamul	505	All the men of the province proceed in this manner, and do not account it any disgrace.					
+505	1	PART 1	36	Of the City of Kamul	506	The women are handsome, gay, and fond of diversion.					
+506	1	PART 1	36	Of the City of Kamul	507	Now, when Mangou Khan reigned as sire of the Tartars, it was reported to him how the people of Kamul gave over their wives to strangers, when he sent orders that, under a severe penalty, travellers should not be henceforth entertained in this manner.	Mangou Khan	Kamul	Tartars	Mangou Khan ,Kamul	
+507	1	PART 1	36	Of the City of Kamul	508	When they received this injunction, they were greatly grieved, held a council, and did what I will now tell you.					
+508	1	PART 1	36	Of the City of Kamul	509	They made up a large present, and sent it to Mangou, praying that he would allow them to treat their wives according to the custom handed down to them by their ancestors, who, for this kindness to strangers, had gained the favour of their idols, and their corn and other crops had greatly multiplied.		Mangou	Mangou		
+509	1	PART 1	36	Of the City of Kamul	510	When he heard this message, he said, Since you are so bent on your own shame, let it be soù.					
+510	1	PART 1	36	Of the City of Kamul	511	He allowed them, therefore, to do as they pleased, and hence they have always maintained this custom.					
+511	1	PART 1	37	Of the Province of Ginghintalas	512	Ginghintalas is a province which is near the desert, between north and south, sixteen days' journey in extent, and subject to the great khan.	khan	Ginghintalas	Ginghintalas		
+512	1	PART 1	37	Of the Province of Ginghintalas	513	It contains cities, castles, and three descriptions of men, idolaters, adorers  of Mohammed, and Nestorian Christians.			Mohammed, Nestorian		
+513	1	PART 1	37	Of the Province of Ginghintalas	514	On the borders of it, towards the north, is a mountain containing a very abundant vein of copper and antimony.					
+514	1	PART 1	37	Of the Province of Ginghintalas	515	There is also one from which is made the salamander; 					
+515	1	PART 1	37	Of the Province of Ginghintalas	516	but do not suppose this is the animal so called, for no creature can live in fire, because it is compounded of the four elements.					
+516	1	PART 1	37	Of the Province of Ginghintalas	517	It is only through ignorance that the salamander is called an animal ; 					
+517	1	PART 1	37	Of the Province of Ginghintalas	518	and a Turk, named Zurficar, who was very learned, and governor of this province for three years under the great khan, being much employed in working the mines, gave me an account of it.	Zurficar,khan		Turk	Zurficar	
+518	1	PART 1	37	Of the Province of Ginghintalas	519	When this ore is taken from the mountain, and is broken, it strings together, and forms a thread like wool.					
+519	1	PART 1	37	Of the Province of Ginghintalas	520	Being then dried, pounded in a large mortar, and washed, there remains that thread of which I have spoken.					
+520	1	PART 1	37	Of the Province of Ginghintalas	521	Being then woven like wool, it forms cloth, which is dingy in colour at first, but when placed and left some time in the fire, it becomes white as snow, without dirt or stain.					
+521	1	PART 1	37	Of the Province of Ginghintalas	522	This is the truth of the salamander, and every thing else said about itis mere fable.					
+522	1	PART 1	37	Of the Province of Ginghintalas	523	I can tell you, too, that at Rome there is a cloth which the great khan sent to the pope as a costly present, and the sudarium of our Lord was placed within it.	khan,pope	Rome		Lord	Rome
+523	1	PART 1	37	Of the Province of Ginghintalas	524	Now let us tell you of other provinces to the south-east and east.					
+524	1	PART 1	38	Of the Province of Succiur	525	When you have departed from the province now described, you go ten days in the same direction.					
+525	1	PART 1	38	Of the Province of Succiur	526	In all that way there are few habitations, nor does any thing occur worth mentioning.					
+526	1	PART 1	38	Of the Province of Succiur	527	You then find a district called Succiur,with a capital of the same name.		Succiur		Succiur	
+527	1	PART 1	38	Of the Province of Succiur	528	The people are Christians, and idolaters, and under the great khan.	khan				
+528	1	PART 1	38	Of the Province of Succiur	529	All the three provinces last described belong to the general one named Tangut.		Tangut		Tangut	
+529	1	PART 1	38	Of the Province of Succiur	530	Through all its mountains, rhubarb is found in great abundance, and the merchants purchase and carry it over the whole world.					
+530	1	PART 1	38	Of the Province of Succiur	531	They cannot, however, take this road through the mountains with any animals but those accustomed to the country, because a poisonous plant grows there, which, when eaten, causes the hoofs to drop off ; 					
+531	1	PART 1	38	Of the Province of Succiur	532	but the native cattle, having learned its dangerous quality, carefully avoid it.					
+532	1	PART 1	38	Of the Province of Succiur	533	They live by the fruits of the earth, but attend little to merchandise.					
+533	1	PART 1	38	Of the Province of Succiur	534	Now I must tell you of another city.					
+534	1	PART 1	39	Of the Province of Canpicion	535	Canpicion is a great and noble town, chief and capital of the whole province of Tangut.		Canpicion,Tangut	Canpicion, Tangut		
+535	1	PART 1	39	Of the Province of Canpicion	536	The people are idolaters, and there are some who adore Mohammed, and also Christians who have three large and beautiful churches.	Mohammed			Mohammed	
+536	1	PART 1	39	Of the Province of Canpicion	537	The first have monasteries and abbeys according to their custom, with a very great number of idols, some of which, I assure you, are ten paces high, severally formed of wood, of earth, and of stone, all beautifully covered with gold and ivory.					
+537	1	PART 1	39	Of the Province of Canpicion	538	Their priests live more respectably than others, and guard themselves against luxury, though they do not hold it for a very great sin.					
+538	1	PART 1	39	Of the Province of Canpicion	539	They observe the lunar months like ours, and in one of them do not kill any beast or bird.					
+539	1	PART 1	39	Of the Province of Canpicion	540	For five days they eat no food that has had life, and live more strictly than usual.					
+540	1	PART 1	39	Of the Province of Canpicion	541	They take sometimes thirty wives, or as many as they have wealth to maintain, and give them a dowry in beasts, slaves, and money ; 					
+541	1	PART 1	39	Of the Province of Canpicion	542	but the first wife ranks always as the principal.					
+542	1	PART 1	39	Of the Province of Canpicion	543	If any of them do not please him, she may be divorced.					
+543	1	PART 1	39	Of the Province of Canpicion	544	They marry their cousins and even the wives of their father, and do not regard as sins many things which we account great ones ; 					
+544	1	PART 1	39	Of the Province of Canpicion	545	for they live like beasts : therefore let us leave them and go to the north.					
+545	1	PART 1	39	Of the Province of Canpicion	546	But I must tell you that Messeri Nicolo, Maffio, and Marco, remained in that city a year, on particular business which I need not enter into.	Messeri Nicolo, Maffio,Marco		Maffio	Messeri Nicolo ,Marco	
+546	1	PART 1	39	Of the Province of Canpicion	547	We shall now go sixty days northwards.					
+547	1	PART 1	40	Of the Province of Ezina	548	After riding twelve days, you come to a city named Ezina,which is at the northern extremity of the desert of sand, and still in Tangut.		Ezina,Tangut	Ezina, Tangut		
+548	1	PART 1	40	Of the Province of Ezina	549	The people, who are idolaters, breed camels and other beasts, and have falcons of different species and of good quality.					
+549	1	PART 1	40	Of the Province of Ezina	550	They live by the fruits of the earth and cattle, and are also employed in merchandise.					
+550	1	PART 1	40	Of the Province of Ezina	551	In this city, a man lays in provisions for forty days, during which time, travelling from Ezina northwards, there is neither habitation nor inns.		Ezina	Ezina		
+551	1	PART 1	40	Of the Province of Ezina	552	But the people, except during summer, remain in the valleys; 					
+552	1	PART 1	40	Of the Province of Ezina	553	and in the mountains they find a number of wild beasts, especially asses: there are also pine-forests.					
+553	1	PART 1	40	Of the Province of Ezina	554	At the end of these forty days they reach a northern province, and you shall hear what it is.					
+554	1	PART 1	41	Of the City of Karakorum	555	Karakorum is a city three miles in circuit,which was the first that the Tartars took when they issued from their country, and I am to tell you of their actions and manners, how they gained command, and spread themselves over the world.		Karakorum	Karakorum		Tartars
+555	1	PART 1	41	Of the City of Karakorum	556	You must know that they dwelt in the north, about Ciorcia, in which region are great plains, and no abode in cities or castles, but good pasturage, large rivers, and abundance of water.		Ciorcia		Ciorcia	
+556	1	PART 1	41	Of the City of Karakorum	557	They had no lords, yet paid tribute to the great sire, named in their language Unchan, whom we call Prester John, and who is spoken of over all the world.	Unchan,Prester John			Unchan ,John	
+557	1	PART 1	41	Of the City of Karakorum	558	They paid to him one beast out of every ten; 					
+558	1	PART 1	41	Of the City of Karakorum	559	but they multiplied so greatly, that he became afraid of them, and resolved to separate them into different countries; 					
+559	1	PART 1	41	Of the City of Karakorum	560	for which purpose he sent his barons among them.					
+560	1	PART 1	41	Of the City of Karakorum	561	The Tartars on hearing this were much grieved, and, holding a council, determined to flee through desert countries to the north, where he could not reach nor injure them.					Tartars
+561	1	PART 1	41	Of the City of Karakorum	562	They then ceased to obey or pay tribute to him,and remained thus for a long time.					
+562	1	PART 1	42	On Gengis, the first Khan of the Tartare	563	Now it happened that, about 1187, the Tartars appointed a king, who was named in their language Gengis Khan.	Gengis Khan			Gengis Khan	Tartars
+563	1	PART 1	42	On Gengis, the first Khan of the Tartare	564	He was a man of great worth, sense, and prowess; 					
+564	1	PART 1	42	On Gengis, the first Khan of the Tartare	565	and let me tell you, when he was elected, all the Tartars in the world that were scattered through those strange countries came and owned him as their lord.					Tartars
+565	1	PART 1	42	On Gengis, the first Khan of the Tartare	566	He maintained his power with great vigour, and the multitudes who ranged under his standard were almost innumerable.					
+566	1	PART 1	42	On Gengis, the first Khan of the Tartare	567	When he saw so numerous an army, he went conquering other countries, and made himself master of eight provinces ; 					
+567	1	PART 1	42	On Gengis, the first Khan of the Tartare	568	yet he neither injured nor robbed the people of any thing, but placing them under leaders in whom he could confide, led them on to other triumphs.					
+568	1	PART 1	42	On Gengis, the first Khan of the Tartare	569	Thus he overthrew, as you have heard, a multitude of nations ;					
+569	1	PART 1	42	On Gengis, the first Khan of the Tartare	570	 and seeing his good command and mildness, they cheerfully followed him, upon which he formed the design of subduing a great part of the world.					
+570	1	PART 1	42	On Gengis, the first Khan of the Tartare	571	In the year 1200, he sent a message to Prester John, asking his daughter to wife.	Prester John			John	
+571	1	PART 1	42	On Gengis, the first Khan of the Tartare	572	Hereupon that monarch was very indignant, and said,-What impudence is this in Gengis Khan?	Gengis Khan		Hereupon, Gengis Khan		
+572	1	PART 1	42	On Gengis, the first Khan of the Tartare	573	Knows he not that he is my man and my vassal?					
+573	1	PART 1	42	On Gengis, the first Khan of the Tartare	574	Return, and tell him that I would burn my daughter sooner than give her to him, and that he deserves to be put to death as a traitor and disloyal to his lord.			Return		
+574	1	PART 1	42	On Gengis, the first Khan of the Tartare	575	He then desired the messengers to depart forth with, and never return.					
+575	1	PART 1	42	On Gengis, the first Khan of the Tartare	576	They presently went away, and coming to their master, told him in order all that the other had said.					
+576	1	PART 1	43	His Battle with Prester John, and Victory over him	577	When Gengis Khan heard this boastful speech, his heart swelled, so that it almost burst within him ; 	Gengis Khan			Gengis Khan	
+577	1	PART 1	43	His Battle with Prester John, and Victory over him	578	for you must know he was a man of very great pride.					
+578	1	PART 1	43	His Battle with Prester John, and Victory over him	579	He then said to his minister, and to all about him, that he would not continue to hold the sovereignty, unless Prester John were made to pay more dearly for this villany than ever man did, and he must soon be made to see whether he was his vassal.	Prester John			John	
+579	1	PART 1	43	His Battle with Prester John, and Victory over him	580	Then he summoned round him the greatest army that ever was seen or heard of, and sent notice to Unchan that he must defend himself, as he was coming against him.	Unchan				
+580	1	PART 1	43	His Battle with Prester John, and Victory over him	581	When that prince knew certainly the approach of Gengis with so great a force, he made light of it, saying, they were not men-at-arms ; 	Gengis		Gengis		
+581	1	PART 1	43	His Battle with Prester John, and Victory over him	582	yet resolved that should he approach, he would do all in his power to take and put him to death.					
+582	1	PART 1	43	His Battle with Prester John, and Victory over him	583	He then ordered all his people to be prepared and summoned from many and strange parts,and a greater host and of more formidable aspect was never seen.					
+583	1	PART 1	43	His Battle with Prester John, and Victory over him	584	And why make a long story?					
+584	1	PART 1	43	His Battle with Prester John, and Victory over him	585	The khan, with all his people, came to a great and beautiful plain, named Tenduc, in Prester John's country, where he pitched his camp, and rejoiced greatly to hear that his enemy was coming, because it was an excellent situation for giving battle.	khan,Prester John	Tenduc		Tenduc ,John	
+585	1	PART 1	43	His Battle with Prester John, and Victory over him	586	He sent for his astrologers, who were Christian and Saracen, and required to know which would conquer in that battle, he or his antagonist.			Christian	Saracen	
+586	1	PART 1	43	His Battle with Prester John, and Victory over him	587	The latter could tell nothing of the truth ; 					
+587	1	PART 1	43	His Battle with Prester John, and Victory over him	588	but the former showed it openly; 					
+588	1	PART 1	43	His Battle with Prester John, and Victory over him	589	for they brought before him a cane, cut in the middle, and placed the two parts on different sides, and wrote the name of Gengis on one, and of Unchan on the other, telling him, that when they had made their enchantment, he whose cane should come above that of the other would conquer in battle.	Gengis,Unchan		Gengis, Unchan		
+589	1	PART 1	43	His Battle with Prester John, and Victory over him	590	He desired that this should be shown to him as soon as possible.					
+590	1	PART 1	43	His Battle with Prester John, and Victory over him	591	Then they took up the Psaltery, read certain portions, and performed their enchantment, when presently the cane on which was the name of Gengis, without any one touching it, joined the other, and mounted above it, and this was witnessed by all present.	Gengis		Gengis		Psaltery
+591	1	PART 1	43	His Battle with Prester John, and Victory over him	592	When he saw this, he was greatly rejoiced, and seeing that the Christians were men of truth, held them always in great honour.					
+592	1	PART 1	43	His Battle with Prester John, and Victory over him	593	Two days after, the armies engaged, and it was the greatest battle that ever was fought.					
+593	1	PART 1	43	His Battle with Prester John, and Victory over him	594	The slaughter was terrible on both sides; 					
+594	1	PART 1	43	His Battle with Prester John, and Victory over him	595	but at length Gengis conquered, his enemy was slain in the engagement, and he himself became master of all his land.	Gengis			Gengis	
+595	1	PART 1	43	His Battle with Prester John, and Victory over him	596	From that day he went on conquering many castles and provinces, and reigned six years ; 					
+596	1	PART 1	43	His Battle with Prester John, and Victory over him	597	but, at the end of that time, he besieged a fort, named Cangui, where he was wounded in the knee by an arrow, and died.		Cangui	Cangui		
+597	1	PART 1	43	His Battle with Prester John, and Victory over him	598	This was a great misfortune, for he was a brave and wise man.					
+598	1	PART 1	44	On the Khans who reigned after the Death of Gengis	599	After the death of Gengis, the next khan was Cui, the third Bacui, the fourth Alton, the fifth Mangou, the sixth Kublai,who is greater and more powerful than all the rest; 	Gengis,Cui,Bacui,Alton,Mangou,Kublai		Gengis	Cui ,Alton ,Kublai	
+599	1	PART 1	44	On the Khans who reigned after the Death of Gengis	600	for the other five together had not so much power as this Kublai ; 	Kublai		Kublai		
+600	1	PART 1	44	On the Khans who reigned after the Death of Gengis	601	nay, let me tell you, that all the emperors in the world, and all the Christian and Saracen kings, do not equal him, as is shown fully in our book.			Christian	Saracen	
+601	1	PART 1	44	On the Khans who reigned after the Death of Gengis	602	Now you must know that the great lords of the lineage of Gengis Khan are buried in a lofty mountain called Altai, and whenever the chief lords of the Tartars die, if it should be a hundred days' journey distant, they must be conveyed thither to be interred.	Gengis Khan	Altai		Altai	Gengis Khan ,Tartars
+602	1	PART 1	44	On the Khans who reigned after the Death of Gengis	603	I will tell you another striking wonder ; 					
+603	1	PART 1	44	On the Khans who reigned after the Death of Gengis	604	that when the bodies of the khans are carried to these mountains, the conductors put to the sword all the men whom they meet on the road, saying, Go and serve the great lord in the other world ;				Go	
+604	1	PART 1	44	On the Khans who reigned after the Death of Gengis	605	and they do the same to the horses, killing also for that purpose the best he has, You must know that when Mangou died, more than 20,000 men were slain, who had been met on the road when his body was removed to be buried.	Mangou			Mangou	
+605	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	606	Now since I have begun speaking of the Tartars, I will tell you many things about them.			Tartars		
+606	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	607	They abide during winter in plains and warm situations, where there is abundant herbage for their cattle; 					
+607	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	608	and in summer they retire to cool places on mountains and high valleys, where water abounds.					
+608	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	609	They have wooden houses covered with felt, of a round shape, which they convey with them wherever they go; 					
+609	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	610	for they have them so well bound with twigs as to be easily carried.					
+610	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	611	Whenever they take down and set up a house, the gate is always placed to the south.					
+611	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	612	They have waggons so well covered with black felt, that if it should rain the whole day, no water would reach any thing within ; 					
+612	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	613	and they are drawn by oxen and camels.					
+613	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	614	On the top they place their wives and children ; 					
+614	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	615	and I must tell you that the ladies buy, sell, and perform all the work necessary for their husbands, who do nothing but hunt, hawk, and go to war.					
+615	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	616	They live on flesh, milk, and the produce of hunting, and likewise on rats of Pharaoh, which are found here in great numbers.			Pharaoh		
+616	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	617	They eat also the flesh of camels, dogs, and indeed of every kind of animal, and drink mare's milk.					
+617	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	618	They shun the seduction of married females, as a most vile and shameful thing; 					
+618	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	619	and the wives are very faithful, performing extremely well the business of the household.					
+619	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	620	Every man may take as many as he pleases, even to a hundred, if he can maintain them ; 					
+620	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	621	yet they hold the first as the principal and most respectable.					
+621	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	622	They scruple not to marry their cousins, and if the father dies, the eldest son may take all his wives, except his own mother ; 					
+622	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	623	he marries also the widow of his deceased brother.					
+623	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	624	They celebrate their marriages by great festivals.					
+624	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	625	The Tartars, who believe in a deity of a sublime and heavenly nature, burn incense in censers to him, and pray that he may preserve them in health of mind and body.			Tartars		
+625	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	626	They have also one called Nacygai, whom they call their earthly god, who guards their children, cattle, and corn. 	Nacygai			Nacygai	
+626	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	627	They fashion him of felt and cloth, keep him in their house, and pay him great honour and reverence.					
+627	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	628	They make for him also a wife and children of cloth, placing the first on his left hand, and the latter in front.					
+628	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	629	Before eating, they take the fat meat and anoint his mouth with it; then lay bread before the door of his chamber.					
+629	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	630	Having done this, they say that their god and his family have had their share, and sit down to their own meals.					
+630	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	631	 I told you that they drink mare's milk, but it is in such a manner that it seems white wine, being of an agreeable taste, and called chemius.					
+631	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	632	The wealthy wear rich robes of gold and silk, with varied furs of the ermine, sable, and fox.					
+632	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	633	Their harness is beautiful and of great value; 					
+633	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	634	their arms are bows, swords, and clubs ; 					
+634	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	635	but the first is more used than the others, because they are excellent archers.					
+635	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	636	On their back they wear armour of buffalo and other very strong hides.					
+636	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	637	I will tell you the manner in which they maintain justice.					
+637	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	638	If a man has stolen an article of little value, they give him seven lashes, or seventeen, or twentyseven, going on thus always to three hundred and seven, and many die under them.					
+638	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	639	If he steals a horse or any thing else for which he deserves to die, he is cut through the middle with a sword; 					
+639	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	640	yet if he can pay nine times the value of what he has stolen, he is allowed to live.					
+640	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	641	Every lord or other man, who owns oxen or any cattle, makes them be marked with his seal, and then allows them to feed on the plains or among the mountains ; 					
+641	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	642	and whoever finds one straying brings it to him whose mark is upon it.					
+642	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	643	The sheep and lambs, however, are guarded by a shepherd.					
+643	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	644	Their cattle are all remarkably large, fat, and beautiful.					
+644	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	645	They have another wonderful custom which I had forgot; 					
+645	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	646	for when two men have one a son, the other a daughter, dead at the age of four, they marry them together, and represent the union by cards, which they set on fire, and when they see the flame and smoke ascending, they make great shouts and run backward and forward, saying that the dead are going to their children in the other world, and are to be husband and wife there.					
+646	1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	647	They do more, for they paint on cards the similitudes of men, horses, cloths, bezants, and harness, then burn them, and say that all these things will be possessed by their children in the other world.					
+647	1	PART 1	46	On their Wars, and the Order of their Armies	648	The Tartars are good men-at-arms in battle, capable of much endurance; 					
+648	1	PART 1	46	On their Wars, and the Order of their Armies	649	and they can go through more warlike toil than other men.					
+649	1	PART 1	46	On their Wars, and the Order of their Armies	650	Often, when necessary, one of them will remain a month without any food, except the milk of a mare and the flesh of animals killed by him in hunting, his horse feeding on the grass, without his needing to bring barley or straw.					
+650	1	PART 1	46	On their Wars, and the Order of their Armies	651	He is very obedient to his master, and when necessary will remain the whole night armed on horseback.					
+651	1	PART 1	46	On their Wars, and the Order of their Armies	652	They are the men in the world most capable of enduring fatigue and trouble, subsisting at the least expense, and best fitted for conquering lands and kingdoms.					
+652	1	PART 1	46	On their Wars, and the Order of their Armies	653	They arrange their armies in the following manner.					
+653	1	PART 1	46	On their Wars, and the Order of their Armies	654	When a Tartar lord goes to war, he has with him 100,000 men.					Tartar
+654	1	PART 1	46	On their Wars, and the Order of their Armies	655	He places a chief over every ten, every hundred, every thousand, every ten thousand, so that each officer, even the commander of the hundred thousand, has to deal only with ten persons;					
+655	1	PART 1	46	On their Wars, and the Order of their Armies	656	for he gives his orders to the chiefs of ten thousand, they to those of one thousand, they to those of a hundred ; 					
+656	1	PART 1	46	On their Wars, and the Order of their Armies	657	and thus every man answers to his captain.					
+657	1	PART 1	46	On their Wars, and the Order of their Armies	658	The hundred thousand is called a tut, and ten thousand a toman.	tut,toman				
+658	1	PART 1	46	On their Wars, and the Order of their Armies	659	When the armies are marching through plains and mountains, they send 200 men two days in advance, also behind and on each side, so that they cannot he attacked by surprise.					
+659	1	PART 1	46	On their Wars, and the Order of their Armies	660	And when they are marching a long way they carry no baggage, but merely two large leathern bags, in which they put their milk, and a little earthen pot for cooking their victuals.					
+660	1	PART 1	46	On their Wars, and the Order of their Armies	661	They take a small tent, under which they remain during rain.					
+661	1	PART 1	46	On their Wars, and the Order of their Armies	662	And I tell you also, that when necessary they ride full ten days without food, and without lighting a fire; 					
+662	1	PART 1	46	On their Wars, and the Order of their Armies	663	but piercing a vein of their horse, they drink his blood.					
+663	1	PART 1	46	On their Wars, and the Order of their Armies	664	They have likewise their milk dried into a species of paste, which, when about to use, they stir till it becomes liquid and can be drunk.					
+664	1	PART 1	46	On their Wars, and the Order of their Armies	665	When they go to battle with their enemies, they conquer in this manner: they apparently betake themselves to a shameful flight, for they have so trained their horses that they turn round and round like dogs.					
+665	1	PART 1	46	On their Wars, and the Order of their Armies	666	And when they are fleeing and hotly pursued, they fight as well as when they face the enemy ; 					
+666	1	PART 1	46	On their Wars, and the Order of their Armies	667	for in their swiftest flight they wheel about and discharge their arrows, which kill both men and horses of the opposite army, who, when they think their adversaries discomfited and vanquished, fall themselves one after the other.					
+667	1	PART 1	46	On their Wars, and the Order of their Armies	668	When the Tartars have thus made a great slaughter, they turn and rush on so violently, that they soon gain a complete triumph.					Tartars
+668	1	PART 1	46	On their Wars, and the Order of their Armies	669	All that I have told you here applies to the genuine Tartars ; 			Tartars		
+669	1	PART 1	46	On their Wars, and the Order of their Armies	670	but they are now much altered ; 					
+670	1	PART 1	46	On their Wars, and the Order of their Armies	671	those who live in Cathay have adopted the manners and customs of the idolaters ; 		Cathay	Cathay		
+671	1	PART 1	46	On their Wars, and the Order of their Armies	672	those in the Levant imitate the Saracens.		Levant	Saracens		Levant
+672	1	PART 1	46	On their Wars, and the Order of their Armies	673	I have said nothing here of the mighty acts of the great khan, the sire of all the Tartars, nor of his splendid imperial court ; 	khan		Tartars		
+673	1	PART 1	46	On their Wars, and the Order of their Armies	674	for these wonderful things are described elsewhere in this book.					
+674	1	PART 1	46	On their Wars, and the Order of their Armies	675	But let us now return to our route on the great plain where we were when we began to speak of their actions.					
+675	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	676	When you depart from Karakorum, and from Altai, where the khans are interred, as I have related above, you go northwards through a country which is called the plain of Bangu, and continues during a journey of forty days.		Karakorum,Altai,Bangu	Karakorum, Altai, Bangu		
+676	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	677	The inhabitants, who are called Mecri, and are very savage, live on the flesh of animals, chiefly deer, nay I assure you that they ride upon these animals.	Mecri			Mecri	
+677	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	678	Their customs resemble those of the Tartars, and they are subject to the great khan.	khan		Tartars		
+678	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	679	They have neither corn nor wine, but in summer abundance of beasts and birds for hunting and hawking ; 					
+679	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	680	though in winter none remain in the country on account of the intense cold.					
+680	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	681	After travelling these forty days you come to the ocean ; 					
+681	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	682	and there is found a mountain, where the peregrine falcons build their nests.					
+682	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	683	You must know this place contains neither men nor women, nor beasts, nor any birds, except one species, which is called barghenlac, on which the hawks feed.	`	barghenlac			
+683	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	684	They are of the size of partridges, have feet like parrots, and tails like swallows, and they fly very swiftly.					
+684	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	685	When the great khan wishes peregrine falcons, he sends thither for them. 	khan				
+685	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	686	In an island of that sea, too, are bred the gerfalcons; 					
+686	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	687	and I assure you the place is so far north, that the polestar remains behind, and is seen to the south.					
+687	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	688	Those birds are bred on that isle in such abundance, that the great khan obtains as many as he pleases; 	khan				
+688	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	689	while others are conveyed to Argon and other lords of the East.	Argon		Argon, East		
+689	1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	690	Now that I have told you of these northern provinces as far asthe ocean, let us return to Canpicion.		Canpicion	Canpicion		
+690	1	PART 1	48	On the great City of Erginul	691	When a man departs from that city, he goes five days eastward through a country where there are many spirits, who are often heard speaking during the night.					
+691	1	PART 1	48	On the great City of Erginul	692	You then find a kingdom called Erginul,belonging to the great khan, and included in the large province of Tangut.	khan	Erginul,Tangut	Tangut	Erginul	
+692	1	PART 1	48	On the great City of Erginul	693	There are a good many towns, the chief one bearing the same name ; 					
+693	1	PART 1	48	On the great City of Erginul	694	and the people are a mixture of Nestorian Christians, idolaters, and Mohammedans.			Nestorian Christians		
+694	1	PART 1	48	On the great City of Erginul	695	Proceeding thence south-east, you come into the country of Cathay, when you will find in the way a city named Singuy.		Cathay,Singuy	Cathay	Singuy	
+695	1	PART 1	48	On the great City of Erginul	696	There are a good many other towns, still in Tangut, and subject to the great khan; 	khan	Tangut	Tangut		
+696	1	PART 1	48	On the great City of Erginul	697	and the inhabitants are as above described.					
+697	1	PART 1	48	On the great City of Erginul	698	There are a vast number of wild oxen, as large as elephants, and very beautiful, their back being entirely covered with white and black hair, three palms long.					
+698	1	PART 1	48	On the great City of Erginul	699	These animals are also caught and tamed, when they do twice as much work as the common ox.					
+699	1	PART 1	48	On the great City of Erginul	700	This country, too, produces the best musk in the world, and I will describe the animal by which it is supplied.					
+700	1	PART 1	48	On the great City of Erginul	701	It is small, about the size of an antelope, which it resembles in the feet and tail, but has a soft thick hair like the stag, no horns, only four teeth, two above and two below, three inches long and very sharp.					
+701	1	PART 1	48	On the great City of Erginul	702	It is a beautiful creature; 					
+702	1	PART 1	48	On the great City of Erginul	703	and, on its being taken, there is found a bag between the skin and the flesh, containing a bloody imposthume, which, when the skin is cut through, is drawn out, and forms the musk whence issues so strong an odour.					
+703	1	PART 1	48	On the great City of Erginul	704	In this country it is very abundant, and of good quality.					
+704	1	PART 1	48	On the great City of Erginul	705	The people also raise plenty of corn,and engage in merchandise and manufactures.					
+705	1	PART 1	48	On the great City of Erginul	706	The region extends to a journey of full twentyfive days.					
+706	1	PART 1	48	On the great City of Erginul	707	There are pheasants twice as large as ours, with tails from seven to ten palms long.					
+707	1	PART 1	48	On the great City of Erginul	708	Others resemble ours; 					
+708	1	PART 1	48	On the great City of Erginul	709	and there are various birds, with finely coloured wings.					
+709	1	PART 1	48	On the great City of Erginul	710	The people, who are idolaters, are fat, with small noses, black hair, and no beard unless on the chin.					
+710	1	PART 1	48	On the great City of Erginul	711	The ladies have no hair except on the head, and are every way very handsome.					
+711	1	PART 1	48	On the great City of Erginul	712	The men are voluptuous, and are authorized by their law and usage to take as many wives as they can maintain.					
+712	1	PART 1	48	On the great City of Erginul	713	If a woman is beautiful, though of humble birth, a great baron readily espouses her, giving to her mother such a sum of money as may be agreed on.					
+713	1	PART 1	49	On the Province of Egrigaia	714	When a man departs from Erginul, and goes eight days castward, he finds a province of Tangut called Egrigaia, where there are cities and castles, and the chief one is named Calacian.	Calacian	Erginul,Tangut,Egrigaia	Erginul, Egrigaia, Calacian	Tangut	
+714	1	PART 1	49	On the Province of Egrigaia	715	The people are idolaters ; 					
+715	1	PART 1	49	On the Province of Egrigaia	716	yet there are three towns held by Nestorian Christians.					Nestorian Christians
+716	1	PART 1	49	On the Province of Egrigaia	717	They are subject to the great Tartar;			Tartar		
+717	1	PART 1	49	On the Province of Egrigaia	718	 and in this city is made cloth of camels' hair, the most beautiful and valuable in the world.					
+718	1	PART 1	49	On the Province of Egrigaia	719	There is a kind of wool whence they manufacture very fine white camlets in great quantities.					
+719	1	PART 1	49	On the Province of Egrigaia	720	These the merchants convey by many routes to Cathay and other parts throughout the world.		Cathay	Cathay		
+720	1	PART 1	49	On the Province of Egrigaia	721	Now let us go to Tenduc, in the territory of Prester John.	Prester John	Tenduc	Tenduc	John	
+721	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	722	Tenduc is a province towards the east,where there are cities and castles, and the chief one bears the same name.		Tenduc	Tenduc		
+722	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	723	The people belong to the great khan, like all those formerly subject to Prester John.	khan,Prester John			John	
+723	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	724	In this province there is a king named George, descended from that prince, and who indeed enjoys his power.	George			George	
+724	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	725	He holds the land under the khan, but only a part of that which was possessed by his ancestor.	khan				
+725	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	726	I assure you, however, that the khans have often given their daughters and female relations to the reigning kings of this line.					
+726	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	727	In this province are found the stones whence azure is made ; 					
+727	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	728	they are plentiful and good.					
+728	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	729	Camlets, too, are woven of camels' hair.			Camlets		
+729	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	730	The natives live on cattle and the fruits of the earth, and have likewise some merchandise and manufactures.					
+730	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	731	The Christians, as already mentioned, are masters of the land ;					
+731	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	732	but there are also idolaters and worshippers of Mohammed.	Mohammed		Mohammed		
+732	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	733	There is likewise a people called Argon, meaning in French Guasmul, that is, mixed of two different races.	Argon,Guasmul		Argon, French Guasmul		
+733	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	734	They are handsomer than the others, more prudent and commercial.					
+734	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	735	Know that in this province was the chief seat of Prester John, when he ruled over the Tartars and all the surrounding countries ;	Prester John			John	Tartars
+735	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	736	 and this George is the sixth in succession from him.	George			George	
+736	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	737	This, too, is the place which we in our country call Gog and Magog, but they call it Ung and Mungul ;		Gog and Magog,Ung and Mungul	Mungul	Gog ,Magog	
+737	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	738	and in each province was a different race of people,-in Ung were the Gog, and in Mungul dwelt the Tartars.		Ung,Mungul	Mungul		Gog ,Tartars
+738	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	739	When a man rides through that province seven days eastward towards Cathay, he finds many cities and castles.		Cathay		Cathay	
+739	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	740	 The inhabitants are Mohammedans, idolaters, and Christians ; 			Christians		
+740	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	741	they carry on trade, and manufacture fine gilded cloths, called nascisi, with various kinds of silk cloth, and are subject to the great khan.	khan				
+741	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	742	There is a city named Sindacui, with many manufactures of harness and trappings necessary for an army.		Sindacui		Sindacui	
+742	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	743	In the mountains of that country is a place named Idifu, where there is a very productive silver mine.		Idifu		Idifu	
+743	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	744	They have no want Of beasts and birds for hunting.					
+744	1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	745	Now let us depart from this province and its cities, and travel three days, when we shall find a town named Cianganor, in which is a fine palace of the great khan.	khan	Cianganor		Cianganor	
+745	1	PART 1	51	On the City of Chandu	746	Departing from this city, and travelling three days between north and north-east, you come to another named Chandu,built by Kublai, the great khan now reigning.	Kublai,khan	Chandu		Chandu ,Kublai	
+746	1	PART 1	51	On the City of Chandu	747	Here he has built a most magnificent palace.					

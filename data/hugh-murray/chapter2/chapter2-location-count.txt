@@ -1,0 +1,204 @@
+
+
+ ======================== Section 1 ========================
+{'great Armenia': 1, 'lesser Armenia': 1, 'Laias': 1, 'India': 1, 'Venice': 1, 'Pisa': 1, 'Genoa': 1, 'Turcomania': 1}
+
+
+ ======================== Section 2 ========================
+{'Turcomania': 1, 'Como': 1, ' Casserie': 1, 'Sevasto': 1, 'Eastern Tartars': 1, 'Armenia the Greater': 1}
+
+
+ ======================== Section 3 ========================
+{'Armenia the Greater': 1, 'Arzinga': 2, 'Argiron': 1, 'Darzizi': 1, 'Armenia': 2, 'Mosul': 1, 'Georgians': 1, 'Georgia': 1}
+
+
+ ======================== Section 4 ========================
+{'Georgia': 1, 'Iron Gate': 1, 'St Leonard': 1, 'Euphrates': 1, 'Genoa': 1, 'Herdil': 1, 'Geihon': 1, ' Kur': 1, 'Aras': 1, 'Teflis': 1, 'Armenia': 1}
+
+
+ ======================== Section 5 ========================
+{'Mosul': 2, 'Armenia': 1, 'Rome': 2, 'Bagdad': 1, ' India': 1, 'Cathay': 1, 'Baldach': 1}
+
+
+ ======================== Section 6 ========================
+{'Rome': 1, 'India': 2, 'Baldach': 4, 'Chisi': 2, 'Indian sea': 1, 'Bascra': 1}
+
+
+ ======================== Section 7 ========================
+{'Toris': 1, 'Yrac': 1, 'India': 1, ' Baldach': 1, ' Mosul': 1, ' Cremosor': 1}
+
+
+ ======================== Section 8 ========================
+{'Baldach': 1, 'Persia': 1}
+
+
+ ======================== Section 9 ========================
+{'Sava': 1, 'Bethlehem': 1, 'Balthazar': 1, ' Gaspar': 1, 'Melchior': 1, ' Castle of the Fire-worshippers': 1, 'Saba': 1, 'Ava': 1, 'Persia': 1}
+
+
+ ======================== Section 10 ========================
+{'Persia': 1, 'Casum': 1, 'Cardistan': 1, 'Lor': 1, 'Cielstan': 1, 'Istanit': 1, 'Cerazi': 1, 'Soucara': 1, 'Tonocain': 1, 'sea of India': 1, 'Chisi': 1, 'Curmosa': 1, 'Yasdi': 1}
+
+
+ ======================== Section 11 ========================
+{'Yasdi': 1, 'Creman': 1}
+
+
+ ======================== Section 12 ========================
+{'Creman': 2, 'Persia': 1}
+
+
+ ======================== Section 13 ========================
+{'Camandu': 1, 'Reobarle': 1, 'Ciagatai': 2, 'Great Armenia': 1, 'Badasian': 1, 'Pasciai': 1, 'Chesciemur': 1, 'India': 1, 'Dilivar': 1, 'Canosalmi': 1}
+
+
+ ======================== Section 14 ========================
+{'Formosa': 1, 'India': 2, 'Ruemedan Achomac': 1, 'Cormos': 2, 'Creman': 1, 'Reobarle': 1}
+
+
+ ======================== Section 15 ========================
+{'India': 1, 'Creman': 3, 'Cormos': 1, 'Cobinam': 1}
+
+
+ ======================== Section 16 ========================
+{'Cobinam': 1}
+
+
+ ======================== Section 17 ========================
+{'Cobinam': 1, 'Tonocain': 1, 'Persia': 1, 'Mulecte': 1}
+
+
+ ======================== Section 18 ========================
+{}
+
+
+ ======================== Section 19 ========================
+{'Damascus': 1, 'Kurdistan': 1}
+
+
+ ======================== Section 20 ========================
+{'Sapurgan': 1, 'Balk': 1}
+
+
+ ======================== Section 21 ========================
+{'Balk': 2, 'Dogana': 1}
+
+
+ ======================== Section 22 ========================
+{'Taikan': 1}
+
+
+ ======================== Section 23 ========================
+{'Scassem': 2, 'Badascian': 1}
+
+
+ ======================== Section 24 ========================
+{'Badascian': 1, 'Persia': 1, 'Lighinan': 1}
+
+
+ ======================== Section 25 ========================
+{'Pascia': 1}
+
+
+ ======================== Section 26 ========================
+{'Kesimur': 1, 'sea of India': 1, 'Badascian': 1}
+
+
+ ======================== Section 27 ========================
+{'Badascian': 2, 'Vokhan': 1, 'Belor': 1}
+
+
+ ======================== Section 28 ========================
+{'Cascar': 1, 'Samarcan': 1}
+
+
+ ======================== Section 29 ========================
+{'Samarcan': 2, 'Yarcan': 1}
+
+
+ ======================== Section 30 ========================
+{'Yarcan': 1, 'Cotan': 1}
+
+
+ ======================== Section 31 ========================
+{'Cotan': 1}
+
+
+ ======================== Section 32 ========================
+{'Pein': 1, 'Cascar': 1, 'Great Turkey': 1, 'Ciarcian': 1}
+
+
+ ======================== Section 33 ========================
+{'Ciarcian': 2, 'Great Turkey': 1, 'Cathay': 1, 'sandy': 1, 'Cotan': 1}
+
+
+ ======================== Section 34 ========================
+{'Lop': 1}
+
+
+ ======================== Section 35 ========================
+{'Sacchion': 1, 'Tangut': 1}
+
+
+ ======================== Section 36 ========================
+{'Kamul': 2, 'Mangou': 1}
+
+
+ ======================== Section 37 ========================
+{'Ginghintalas': 1, 'Rome': 1}
+
+
+ ======================== Section 38 ========================
+{'Succiur': 1, 'Tangut': 1}
+
+
+ ======================== Section 39 ========================
+{'Canpicion': 1, 'Tangut': 1}
+
+
+ ======================== Section 40 ========================
+{'Ezina': 2, 'Tangut': 1}
+
+
+ ======================== Section 41 ========================
+{'Karakorum': 1, 'Ciorcia': 1}
+
+
+ ======================== Section 42 ========================
+{}
+
+
+ ======================== Section 43 ========================
+{'Tenduc': 1, 'Cangui': 1}
+
+
+ ======================== Section 44 ========================
+{'Altai': 1}
+
+
+ ======================== Section 45 ========================
+{}
+
+
+ ======================== Section 46 ========================
+{'Cathay': 1, 'Levant': 1}
+
+
+ ======================== Section 47 ========================
+{'Karakorum': 1, 'Altai': 1, 'Bangu': 1, 'barghenlac': 1, 'Canpicion': 1}
+
+
+ ======================== Section 48 ========================
+{'Erginul': 1, 'Tangut': 2, 'Cathay': 1, 'Singuy': 1}
+
+
+ ======================== Section 49 ========================
+{'Erginul': 1, 'Tangut': 1, 'Egrigaia': 1, 'Cathay': 1, 'Tenduc': 1}
+
+
+ ======================== Section 50 ========================
+{'Tenduc': 1, 'Gog and Magog': 1, 'Ung and Mungul': 1, 'Ung': 1, 'Mungul': 1, 'Cathay': 1, 'Sindacui': 1, 'Idifu': 1, 'Cianganor': 1}
+
+
+ ======================== Section 51 ========================
+{'Chandu': 1}
