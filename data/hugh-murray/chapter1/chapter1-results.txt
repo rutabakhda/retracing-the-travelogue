@@ -1,0 +1,78 @@
+
+ ======================== allenNLP People ========================
+
+true positive = 114
+false positive = 72
+false negative = 119
+precision = 0.6129032258064516
+recall = 0.4892703862660944
+F1 score = 0.5441527446300716
+
+ ======================== allenNLP Location ========================
+
+true positive = 141
+false positive = 18
+false negative = 114
+precision = 0.8867924528301887
+recall = 0.5529411764705883
+F1 score = 0.6811594202898551
+
+ ======================== NLTK Location ========================
+
+true positive = 104
+false positive = 96
+false negative = 150
+precision = 0.52
+recall = 0.4094488188976378
+F1 score = 0.4581497797356829
+
+ ======================== NLTK Person ========================
+
+true positive = 74
+false positive = 60
+false negative = 161
+precision = 0.5522388059701493
+recall = 0.3148936170212766
+F1 score = 0.4010840108401085
+
+
+ ======================== Spacy Location ========================
+
+true positive = 98
+false positive = 42
+false negative = 151
+precision = 0.7
+recall = 0.39357429718875503
+F1 score = 0.5038560411311054
+
+ ======================== Spacy Person ========================
+
+true positive = 64
+false positive = 67
+false negative = 170
+precision = 0.48854961832061067
+recall = 0.27350427350427353
+F1 score = 0.3506849315068493
+
+
+ ======================== Standford Person ========================
+
+true positive = 81
+false positive = 83
+false negative = 153
+precision = 0.49390243902439024
+recall = 0.34615384615384615
+F1 score = 0.40703517587939697
+
+
+
+ ======================== Standford Location ========================
+
+true positive = 61
+false positive = 15
+false negative = 188
+precision = 0.8026315789473685
+recall = 0.24497991967871485
+F1 score = 0.37538461538461537
+
+
