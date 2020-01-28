@@ -23,7 +23,7 @@ from stanfordcorenlp import StanfordCoreNLP
 #from pycorenlp.corenlp import StanfordCoreNLP
 from nltk.tree import Tree
 from nltk.stem.wordnet import WordNetLemmatizer
-from nltk.corpus import wordnet as wn/
+from nltk.corpus import wordnet as wn
 from itertools import product
 import pandas as pd
 from pathlib import Path
