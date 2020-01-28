@@ -1,4 +1,4 @@
-Entity Name,,Type,Tag,Page No
+Entity Name,Alternative Name,Type,Tag,Page No
 ABASCIA,Abyssinia,kingdom of,Location,324
 ABASCIA,Abyssinia,The inhibitants converted by St Thomas,Location,325
 ABASCIA,Abyssinia,Its king defated the ruler of Adel (Aden),Location,326
@@ -80,7 +80,7 @@ Boodhism in Central Asia,,,,247
 Boodhism in Central Asia,,Extensively diffused through Japan,,275
 British Museum,,MSS,Location,
 British Museum,,of the Travels in,Location,"26, 37"
-Brius river,,,Location,158
+Brius ,,river,Location,158
 Bulgaria,,a country on the Volga,Location,96
 Burnes,,Sir Alexander,Person,"21, 249"
 Ca-cian-fu ,Ho-kien-fou,a city of cathay,Location,173
@@ -236,7 +236,7 @@ Karazan,,Its great snakes and serpents,Location,161
 Karazan,,Wicked custom of the inhabitants,Location,162
 Kardandan,,province of,Location,162
 Kardandan,,Magicians,,"163, 164"
-Kataia,,See Cathay,,
+Kataia,,See Cathay,Location,
 Kesimur ,Cashmere,a province of Northern India,Location,236
 Kesmacoran ,Mekran,a kingdom to the west of the Indus,Location,316
 Khoten,,a city of Turkestan,Location,18
@@ -278,7 +278,7 @@ Laias ,Aias,a city of Armenia the Lesser,Location,99101206
 Lar,,a provinee of India,Location,304
 Lin-gui,,city of,Location,175
 Lions,,trained to hunt,,130
-Litan rebels against Kublai,,and is slain,,"174, 175"
+Litan ,,rebels against Kublai and is slain,Person,"174, 175"
 Lochac ,Camaboia,province of,Location,279
 Lop,,"city, desert, and lake of",Location,245
 Louis,,"St, king of France, receives an embassy from the Tartars",Person,65
@@ -346,7 +346,7 @@ Persia,,"Excellence of its horses,ib",Location,
 Pi-an-fu,Pin-yang-fou,city of,Location,149
 Pin-gui ,Pi-tcheou,city of,Location,176
 Pipino,,his Latin translation of the Travels,Person,"26, 37"
-Polo,,"Marco, travels of, authenticity of the work",Location,14
+Polo,,"Marco, travels of, authenticity of the work",Person,14
 Polo,,"Nicolo and Maffio, their long residence in China",Person,90
 Polo,,Journey into the East and reception by Barka Khan,Person,96
 Polo,,Arrival at the court of Kublai,Person,98
@@ -402,6 +402,7 @@ Seilan ,Ceylon,Abounds in precious stones,Location,289290
 Semenat ,Sumnaut,a kingdom of India,Location,316
 Sergamon Borcam,,story of,,290291292
 Shamanism,,sidely diffused through Eastern Asia,,"73, 74, 86, 262"
+Shandu,,"imperial palace of, in Tartary",Location,122133
 Si-fan,,a people of Thibet,Organization,157
 Sin-din-fu,Tching-tou-fou,province and city of,Location,154172
 Sin-gui,,a city on the kiang(Yang-tse-kiang),Location,183
@@ -440,7 +441,7 @@ Tenduc,,a province of Eastern Tartary,Location,267
 Tenduc,,The chief seat of Prester John,Location,268
 Tenduc,,"Called Gog and Magog,ib",,
 Tents of  the great khan,,,,132
-Thibet,,the chief seat of Boodhism,Person,155-157
+Thibet,,the chief seat of Boodhism,Location,155-157
 Tholoman ,part of Yun-nan,province of,Location,170
 Ti-min-gui ,King-te-ching,poreelain manufactures of,,203
 Tin-gui,,city of,Location,180
