@@ -20,26 +20,33 @@
 #nlp.close() # Do not forget to close! The backend server will consume a lot memery.
 
 from stanfordcorenlp import StanfordCoreNLP
-from pycorenlp.corenlp import StanfordCoreNLP
+#from pycorenlp.corenlp import StanfordCoreNLP
 from nltk.tree import Tree
 from nltk.stem.wordnet import WordNetLemmatizer
-from nltk.corpus import wordnet as wn
+from nltk.corpus import wordnet as wn/
 from itertools import product
 import pandas as pd
 from pathlib import Path
+import json
 
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
 
-output = nlp.annotate(
-    text,
-    properties={
-        "outputFormat": "json",
-        "annotators": "depparse,ner,entitymentions,sentiment"
-    }
-)
-pprint(output)
+#sentence = 'Having described so many inland provinces, I will now enter upon India, with the wonderful objects in that region.'
+sentence = "I love me"
+output = nlp.annotate(sentence,properties={"annotators": "depparse"})
+#print(output)
 
-sentence = 'and first, of one named Zipangu.'
+res = json.dumps(output)
+print(type(res))
+print(res)
+print("================================")
+print(type(res['sentences']))
+print(res['sentences'])
+res_list = res['sentences']
+
+for item in res_list:
+    print(item)
+    print("************************")
 
 def extract_phrase(tree_str, label):
     phrases = []
