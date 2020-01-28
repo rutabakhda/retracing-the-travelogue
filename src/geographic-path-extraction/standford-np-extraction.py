@@ -18,6 +18,7 @@
 #nlp.close() # Do not forget to close! The backend server will consume a lot memery.
 
 from stanfordcorenlp import StanfordCoreNLP
+from pycorenlp.corenlp import StanfordCoreNLP
 from nltk.tree import Tree
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
@@ -26,6 +27,15 @@ import pandas as pd
 from pathlib import Path
 
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
+
+output = nlp.annotate(
+    text,
+    properties={
+        "outputFormat": "json",
+        "annotators": "depparse,ner,entitymentions,sentiment"
+    }
+)
+pprint(output)
 
 sentence = 'and first, of one named Zipangu.'
 
