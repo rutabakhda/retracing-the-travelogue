@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # from pathlib import Path
 # # Simple usage
 # from stanfordcorenlp import StanfordCoreNLP
@@ -70,7 +72,7 @@ datapath = Path(__file__).resolve().parents[2]
 # Input individual index files
 readfile = datapath / 'data/hugh-murray/chapter3/chapter3.csv'
 
-data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
+data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False,nrows=1)
 count = 0
 narrate_final_list = []
 narrate_flag_list = []
@@ -134,9 +136,9 @@ data['Is Travel'] = travel_flag_list
 data['Narrate Verbs'] = narrate_final_list
 data['Travel Verbs'] = travel_final_list
 
-writefile = datapath / 'data/hugh-murray/chapter3/chapter3-find-travel.csv'
+#writefile = datapath / 'data/hugh-murray/chapter3/chapter3-find-travel.csv'
 
-data.to_csv(writefile, sep='\t', encoding='latin1')
+#data.to_csv(writefile, sep='\t', encoding='latin1')
 
 
 nlp.close()
