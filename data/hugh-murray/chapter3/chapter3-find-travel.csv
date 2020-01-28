@@ -1,5 +1,5 @@
 	chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Person	Location	Is Narrate	Is Travel	Narrate Verbs	Travel Verbs
-0	3	PART 1	1	India and the Ships navigating thither	1	Having described so many inland provinces, I will now enter upon India, with the wonderful objects in that region.		India	1	0	describe	
+0	3	PART 1	1	India and the Ships navigating thither	1	Having described so many inland provinces, I will now enter upon India, with the wonderful objects in that region.		India	1	0	described	go
 1	3	PART 1	1	India and the Ships navigating thither	2	The ships in which the merchants navigate thither are made of fir, with only one deck, but many of them are divided beneath into sixty compartments, in each of which a person can be conveniently accommodated.			1	0	be	
 2	3	PART 1	1	India and the Ships navigating thither	3	They have one rudder and four masts ; 			0	0		
 3	3	PART 1	1	India and the Ships navigating thither	4	while some have two additional, which can be put up and taken down at pleasure.			1	0	be,put	
@@ -18,9 +18,9 @@
 16	3	PART 1	1	India and the Ships navigating thither	17	Ten small boats are also kept for fishing and various other services ; 			0	0		
 17	3	PART 1	1	India and the Ships navigating thither	18	two being attached to each bark.			1	0	be	
 18	3	PART 1	1	India and the Ships navigating thither	19	When the ships have sailed a year, and stand in need of repair, a fresh plank is fastened above the two others, then nailed and cemented, till they sometimes acquire a depth of six planks.			0	1		sail
-19	3	PART 1	1	India and the Ships navigating thither	20	Having thus described the merchant-vessels that go to India, I will tell you of the country itself ; 		India	1	0	describe,tell	
+19	3	PART 1	1	India and the Ships navigating thither	20	Having thus described the merchant-vessels that go to India, I will tell you of the country itself ; 		India	1	0	described,tell	go
 20	3	PART 1	1	India and the Ships navigating thither	21	but first I must mention the many isles in this sea lying to the eastward ; 			1	0	lie	
-21	3	PART 1	1	India and the Ships navigating thither	22	and first, of one named Zipangu.		Zipangu	1	0	name	
+21	3	PART 1	1	India and the Ships navigating thither	22	and first, of one named Zipangu.		Zipangu	1	0	named	
 22	3	PART 1	2	Island of Zipangu, and Tartar Expedition thither	23	This is a very large island, fifteen hundred miles from the continent.			0	0		
 23	3	PART 1	2	Island of Zipangu, and Tartar Expedition thither	24	The people are fair, handsome, and of agreeable manners.			0	0		
 24	3	PART 1	2	Island of Zipangu, and Tartar Expedition thither	25	They are idolaters, and live quite separate, entirely independent of all other nations.			0	0		

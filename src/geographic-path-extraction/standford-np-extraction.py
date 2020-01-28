@@ -31,22 +31,33 @@ import json
 
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
 
-#sentence = 'Having described so many inland provinces, I will now enter upon India, with the wonderful objects in that region.'
-sentence = "I love me"
-output = nlp.annotate(sentence,properties={"annotators": "depparse"})
+sentence = 'Having thus described the merchant-vessels that go to India, I will tell you of India itself; '
+#sentence = "I love me"
+output = nlp.annotate(sentence,properties={"outputFormat": "json","annotators": "depparse"})
 #print(output)
 
-res = json.dumps(output)
-print(type(res))
-print(res)
-print("================================")
-print(type(res['sentences']))
-print(res['sentences'])
-res_list = res['sentences']
-
-for item in res_list:
-    print(item)
-    print("************************")
+res = json.loads(output)
+res_dict = res['sentences'][0]
+#print(len(res_dict))
+#print("=================")
+dependencies = res_dict['enhancedDependencies']
+print(type(dependencies))
+print("=========================================")
+item_list = ["India" for item in dependencies if (item['governorGloss'] == 'go' and item['dependentGloss'] == 'India')]
+print(item_list)
+for item in dependencies:
+    print(item['governorGloss'])
+    print(item['dependentGloss'])
+    if (item['governorGloss'] == 'tell' and item['dependentGloss'] == 'India'):
+        print("Match found")
+    print("==================================")
+    #else:
+    #   print("Match not found")
+#for key,value in res_dict.items():
+#    print(key)
+#for item in res_list:
+#    print(item)
+#    print("************************")
 
 def extract_phrase(tree_str, label):
     phrases = []
@@ -59,6 +70,14 @@ def extract_phrase(tree_str, label):
                 phrases.append(t)
 
     return phrases
+
+#tree_str = nlp.parse(sentence)
+#print (tree_str)
+#nps = extract_phrase(tree_str, 'NP')
+#print (nps)
+#print("==============================")
+#print ('Constituency Parsing:', nlp.parse(sentence))
+
 
 def word_similarity(wordx,wordy):
     #wordx, wordy = "proceed", "enter"
