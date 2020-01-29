@@ -87,8 +87,8 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     print("recall = " + str(recall))
     print("F1 score = " + str(F1))
 
-    with open(datapath / 'data/hugh-murray/chapter2/chapter2-results.txt', 'a') as f:
-         f.write("\n ======================== Standford Location ========================")
+    with open(datapath / 'data/hugh-murray/chapter1/chapter1-results.txt', 'a') as f:
+         f.write("\n ======================== Gazetter Location ========================")
          f.write("\n")
          f.write("\ntrue positive = %s" % str(true_positive))
          f.write("\nfalse positive = %s" % str(false_positive))
@@ -101,11 +101,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
 
 
 datapath = Path(__file__).resolve().parents[2]
-readfile = datapath / 'data/hugh-murray/chapter2/chapter2-standford.csv' # Input individual index files
+readfile = datapath / 'data/hugh-murray/chapter1/chapter1-gazzeter.csv' # Input individual index files
 
-data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
+data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
 str1 = data['Location'].str.cat(sep=',')
-str2 = data['Standford Location'].str.cat(sep=',')
+str2 = data['Gazzeter Location'].str.cat(sep=',')
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
 #str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"

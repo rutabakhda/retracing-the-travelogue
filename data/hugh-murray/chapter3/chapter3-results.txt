@@ -70,3 +70,21 @@ false negative = 93
 precision = 0.675531914893617
 recall = 0.5772727272727273
 F1 score = 0.622549019607843
+
+ ======================== Gazetter Person ========================
+
+true positive = 69
+false positive = 15
+false negative = 139
+precision = 0.8214285714285714
+recall = 0.3317307692307692
+F1 score = 0.4726027397260274
+
+ ======================== Gazetter Location ========================
+
+true positive = 92
+false positive = 9
+false negative = 128
+precision = 0.9108910891089109
+recall = 0.41818181818181815
+F1 score = 0.573208722741433

@@ -31,26 +31,26 @@ import json
 
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
 
-sentence = 'Having thus described the merchant-vessels that go to India, I will tell you of India itself; '
+#sentence = 'Having thus described the merchant-vessels that go to India, I will tell you of India itself; '
 #sentence = "I love me"
-output = nlp.annotate(sentence,properties={"outputFormat": "json","annotators": "depparse"})
-#print(output)
-
-res = json.loads(output)
-res_dict = res['sentences'][0]
-#print(len(res_dict))
-#print("=================")
-dependencies = res_dict['enhancedDependencies']
-print(type(dependencies))
-print("=========================================")
-item_list = ["India" for item in dependencies if (item['governorGloss'] == 'go' and item['dependentGloss'] == 'India')]
-print(item_list)
-for item in dependencies:
-    print(item['governorGloss'])
-    print(item['dependentGloss'])
-    if (item['governorGloss'] == 'tell' and item['dependentGloss'] == 'India'):
-        print("Match found")
-    print("==================================")
+# output = nlp.annotate(sentence,properties={"outputFormat": "json","annotators": "depparse"})
+# #print(output)
+#
+# res = json.loads(output)
+# res_dict = res['sentences'][0]
+# #print(len(res_dict))
+# #print("=================")
+# dependencies = res_dict['enhancedDependencies']
+# print(type(dependencies))
+# print("=========================================")
+# item_list = ["India" for item in dependencies if (item['governorGloss'] == 'go' and item['dependentGloss'] == 'India')]
+# print(item_list)
+# for item in dependencies:
+#     print(item['governorGloss'])
+#     print(item['dependentGloss'])
+#     if (item['governorGloss'] == 'tell' and item['dependentGloss'] == 'India'):
+#         print("Match found")
+#     print("==================================")
     #else:
     #   print("Match not found")
 #for key,value in res_dict.items():
@@ -98,7 +98,7 @@ datapath = Path(__file__).resolve().parents[2]
 # Input individual index files
 readfile = datapath / 'data/hugh-murray/chapter3/chapter3.csv'
 
-data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False,nrows=1)
+data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
 count = 0
 narrate_final_list = []
 narrate_flag_list = []
@@ -126,11 +126,12 @@ for index,row in data.iterrows():
     narrate = []
     travel = []
 
-    for verb in base_verb:
+    for verb in verbs:
         #print("verb is %s =" % verb)
+        base_verb = WordNetLemmatizer().lemmatize(verb,'v')
         for item in narrate_list:
             #print(item)
-            score_narrate = word_similarity(verb,item)
+            score_narrate = word_similarity(base_verb,item)
             #print(score_narrate)
             if score_narrate > 0.5:
               narrate_flag = 1
@@ -139,7 +140,7 @@ for index,row in data.iterrows():
 
         for item in travel_list:
             #print(item)
-            score_travel = word_similarity(verb,item)
+            score_travel = word_similarity(base_verb,item)
             #print(score_travel)
             if score_travel > 0.5:
               travel_flag = 1
@@ -162,9 +163,9 @@ data['Is Travel'] = travel_flag_list
 data['Narrate Verbs'] = narrate_final_list
 data['Travel Verbs'] = travel_final_list
 
-#writefile = datapath / 'data/hugh-murray/chapter3/chapter3-find-travel.csv'
+writefile = datapath / 'data/hugh-murray/chapter3/chapter3-find-travel.csv'
 
-#data.to_csv(writefile, sep='\t', encoding='latin1')
+data.to_csv(writefile, sep='\t', encoding='latin1')
 
 
 nlp.close()
