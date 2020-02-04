@@ -87,25 +87,25 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     print("recall = " + str(recall))
     print("F1 score = " + str(F1))
 
-    with open(datapath / 'data/hugh-murray/chapter1/chapter1-results.txt', 'a') as f:
-         f.write("\n ======================== Gazetter Location ========================")
-         f.write("\n")
-         f.write("\ntrue positive = %s" % str(true_positive))
-         f.write("\nfalse positive = %s" % str(false_positive))
-         f.write("\nfalse negative = %s" % str(false_negative))
-         f.write("\nprecision = %s" % str(precision))
-         f.write("\nrecall = %s" % str(recall))
-         f.write("\nF1 score = %s" % str(F1))
-         f.write("\n")
-    return F1
+    # with open(datapath / 'data/hugh-murray/chapter1/chapter1-results.txt', 'a') as f:
+    #      f.write("\n ======================== Gazetter Location ========================")
+    #      f.write("\n")
+    #      f.write("\ntrue positive = %s" % str(true_positive))
+    #      f.write("\nfalse positive = %s" % str(false_positive))
+    #      f.write("\nfalse negative = %s" % str(false_negative))
+    #      f.write("\nprecision = %s" % str(precision))
+    #      f.write("\nrecall = %s" % str(recall))
+    #      f.write("\nF1 score = %s" % str(F1))
+    #      f.write("\n")
+    # return F1
 
 
 datapath = Path(__file__).resolve().parents[2]
-readfile = datapath / 'data/hugh-murray/chapter1/chapter1-gazzeter.csv' # Input individual index files
+readfile = datapath / 'data/hugh-murray/chapter2/chapter2-gazetter-combined.csv' # Input individual index files
 
 data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
-str1 = data['Location'].str.cat(sep=',')
-str2 = data['Gazzeter Location'].str.cat(sep=',')
+str1 = data['Person'].str.cat(sep=',')
+str2 = data['Gazzeter Person'].str.cat(sep=',')
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
 #str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"

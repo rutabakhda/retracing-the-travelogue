@@ -25,7 +25,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,4,24,Description of the Battle,"so that when he approached at dawn of day, the rebel was lying asleep in bed with a favourite wife, not having the least dread of his arrival, and, consequently, no guard on any side of the camp.",,
 1,PART 1,4,25,Description of the Battle,"Kublai then advanced, having a tower fixed upon four elephants, whereon were placed his ensigns, so that he could be seen by the whole army.",Kublai,
 1,PART 1,4,26,Description of the Battle,"His men, divided into bands of twenty thousand, surrounded in a moment the adverse force, each soldier having a footman on the crupper behind him, with a bow in his hand.",,
-1,PART 1,4,27,Description of the Battle,"When Nayan and his men saw their camp thus encircled by the khan and his host, they were seized with amaze ; ",Nayan,
+1,PART 1,4,27,Description of the Battle,"When Nayan and his men saw their camp thus encircled by the khan and his host, they were seized with amaze ; ","Nayan,khan",
 1,PART 1,4,28,Description of the Battle,"yet they ran to arms, formed themselves in order of battle, and were soon prepared to strike.",,
 1,PART 1,4,29,Description of the Battle,"Then began the beating on many instruments, and singing with loud voices;",,
 1,PART 1,4,30,Description of the Battle," for it is the custom of the Tartars, that until the horn termed naccar is winded the troops do not engage.",,
@@ -407,9 +407,9 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,27,406,The Twelve Governors of Provinces and their Duty,"These twelve barons are called in the Tartar language scieng, that is, the greater officers of state.",,
 1,PART 1,27,407,The Twelve Governors of Provinces and their Duty,"They order the army to go where and in what numbers they please, but all according to the commands of the great sire ; ",,
 1,PART 1,27,408,The Twelve Governors of Provinces and their Duty,and they do every other thing necessary for the provinces.,,
-1,PART 1,27,409,The Twelve Governors of Provinces and their Duty,"The palace in which they dwell is called scien, and is the largest in all the court; ",,scien
+1,PART 1,27,409,The Twelve Governors of Provinces and their Duty,"The palace in which they dwell is called scien, and is the largest in all the court; ",,
 1,PART 1,27,410,The Twelve Governors of Provinces and their Duty,they have the power of doing much good to any one whom they favour.,,
-1,PART 1,28,411,The Couriers of the Great Khan and their Stations,"I must now inform you, that from the city of Kambalu, many messengers are sent to divers provinces, and on all the roads they find, at every twenty-five miles, a post called jamb, where the imperial envoys are received.",,"Kambalu,jamb"
+1,PART 1,28,411,The Couriers of the Great Khan and their Stations,"I must now inform you, that from the city of Kambalu, many messengers are sent to divers provinces, and on all the roads they find, at every twenty-five miles, a post called jamb, where the imperial envoys are received.",,Kambalu
 1,PART 1,28,412,The Couriers of the Great Khan and their Stations,"At each is a large edifice, containing a bed covered with silk, and every thing useful and convenient for a traveller ; ",,
 1,PART 1,28,413,The Couriers of the Great Khan and their Stations,"so that if a king were to come, he would be well accommodated.",,
 1,PART 1,28,414,The Couriers of the Great Khan and their Stations,"Here, too, they find full 400 horses whom the prince has ordered to be always in waiting to convey them when sent into any quarter, along the principal roads.",,
@@ -1016,7 +1016,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,73,1015,"Of the City of Sin-gui, of Un-gui, and of Ughim",The city has 1600 stone bridges under which a galley might pass; ,,
 1,PART 1,73,1016,"Of the City of Sin-gui, of Un-gui, and of Ughim","and in the mountains adjacent grow rhubarb and ginger in such abundance, that for a Venetian grosso you may buy forty pounds of the latter, fresh and good.",,
 1,PART 1,73,1017,"Of the City of Sin-gui, of Un-gui, and of Ughim",Sin-gui has under it sixteen large cities of arts and trade.,,Sin-gui
-1,PART 1,73,1018,"Of the City of Sin-gui, of Un-gui, and of Ughim","Its name signifies the earth, and another large town near it is called heaven, and these appellations they derive from their great nobleness.",,heaven
+1,PART 1,73,1018,"Of the City of Sin-gui, of Un-gui, and of Ughim","Its name signifies the earth, and another large town near it is called heaven, and these appellations they derive from their great nobleness.",,
 1,PART 1,73,1019,"Of the City of Sin-gui, of Un-gui, and of Ughim","Now, let us depart from this place, and I will tell you of another city called Un-gui.",,Un-gui
 1,PART 1,73,1020,"Of the City of Sin-gui, of Un-gui, and of Ughim","It is a day's journey from Sin-gui, and is large and good, with merchandise and arts ; ",,Sin-gui
 1,PART 1,73,1021,"Of the City of Sin-gui, of Un-gui, and of Ughim",but there is nothing so remarkable about it as to be worth describing ; ,,
@@ -1031,7 +1031,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,74,1030,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace",And now I will tell you all its nobleness; ,,
 1,PART 1,74,1031,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace",for without doubt it is the largest city in the world.,,
 1,PART 1,74,1032,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace","And I will give you the account which was written by the Queen of Manji to Bayam, who conquered that kingdom, to be transmitted to his master, who thereby might be persuaded not to destroy it.",Bayam,Manji
-1,PART 1,74,1033,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace","And this letter contained the truth, as I Marco saw with my own eyes.",,
+1,PART 1,74,1033,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace","And this letter contained the truth, as I Marco saw with my own eyes.",Marco,
 1,PART 1,74,1034,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace","It related, that the city of Kin-sai is 100 miles in circumference, and has 12,000 stone bridges; ",,Kin-sai
 1,PART 1,74,1035,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace","and beneath the greater part of these a large ship might pass, and beneath the others a smaller one.",,
 1,PART 1,74,1036,"Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace",And you need not wonder there are so many bridges; ,,
@@ -1098,7 +1098,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,75,1097,Farther Particulars of that City,"These squares are each half a mile in length, and have in front the main street, forty paces wide, and reaching in a straight line from one end of the city to the other.",,
 1,PART 1,75,1098,Farther Particulars of that City,"Thus they are, altogether, two miles in circuit, and four miles distant from each other.",,
 1,PART 1,75,1099,Farther Particulars of that City,The street is crossed by many low and convenient bridges.,,
-1,PART 1,75,1100,Farther Particulars of that City,"Parallel to it, but on the opposite side to the squares, is a very large canal, and on its bank capacious warehouses, built of stone, to accommodate the merchants from India and other countries, and receive their goods; ",,
+1,PART 1,75,1100,Farther Particulars of that City,"Parallel to it, but on the opposite side to the squares, is a very large canal, and on its bank capacious warehouses, built of stone, to accommodate the merchants from India and other countries, and receive their goods; ",,India
 1,PART 1,75,1101,Farther Particulars of that City,this situation being chosen as convenient with regard to the market-squares.,,
 1,PART 1,75,1102,Farther Particulars of that City,"Each of these, on three days in every week, contains an assemblage of from 40,000 to 50,000 persons, who bring for sale every desirable article of provision.",,
 1,PART 1,75,1103,Farther Particulars of that City,"There appears abundance of all kinds of game, roebucks, stags, fallow-deer, hares, and rabbits, with partridges, pheasants, francolins, quails, common fowls, capons, ducks and geese almost innumerable ; ",,
@@ -1234,7 +1234,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,80,1233,Of the City of Fu-gui,But we will now go on to other matters.,,
 1,PART 1,81,1234,"Of the most noble Port of Zai-tun, and of Ti-min-gui","When one departs from Fu-gui, passes the river, and goes five days south-east, he finds cities and castles, where there is abundance of all things, woods, birds, and beasts, with the tree which bears camphor.",,Fu-gui
 1,PART 1,81,1235,"Of the most noble Port of Zai-tun, and of Ti-min-gui","The people are all idolaters, under the great khan and the jurisdiction of Fu-gui.",khan,Fu-gui
-1,PART 1,81,1236,"Of the most noble Port of Zai-tun, and of Ti-min-gui","At the end of the five days he finds a city called Zai-tun,which is a noble port, where all the ships of India arrive, and for one laden with pepper which comes from Alexandria to be sold throughout Christendom, there go to that city a hundred.",,
+1,PART 1,81,1236,"Of the most noble Port of Zai-tun, and of Ti-min-gui","At the end of the five days he finds a city called Zai-tun,which is a noble port, where all the ships of India arrive, and for one laden with pepper which comes from Alexandria to be sold throughout Christendom, there go to that city a hundred.",,"Zai-tun,Alexandria,Christendom"
 1,PART 1,81,1237,"Of the most noble Port of Zai-tun, and of Ti-min-gui","It is one of the two best ports in the world, and the most frequented by merchants and merchandise.",,
 1,PART 1,81,1238,"Of the most noble Port of Zai-tun, and of Ti-min-gui","Know, too, that the khan draws thence a large revenue, because all the ships from India pay upon their several kinds of goods, stones, and pearls, ten per cent, that is one in ten.",khan,India
 1,PART 1,81,1239,"Of the most noble Port of Zai-tun, and of Ti-min-gui","The ships take for their freight, on small merchandise, thirty per cent ; on pepper, forty-four ; on lignum, aloes, sandalwood, and other bulky articles, forty;",,
@@ -1245,7 +1245,7 @@ chapterNo,chapterTitle,sectionNo,SentenceNo,sectionTitle,sentence,Person,Locatio
 1,PART 1,81,1244,"Of the most noble Port of Zai-tun, and of Ti-min-gui",for a Venetian grosso you may purchase three cups of this most elegant ware.,,
 1,PART 1,81,1245,"Of the most noble Port of Zai-tun, and of Ti-min-gui",The people of Fu-gui have a language of their own.,,Fu-gui
 1,PART 1,81,1246,"Of the most noble Port of Zai-tun, and of Ti-min-gui","Now, I have told you of this kingdom, which is one of the nine, and the great khan draws from it as much duty and revenue as from that of Kin-sai.",khan,Kin-sai
-1,PART 1,81,1247,"Of the most noble Port of Zai-tun, and of Ti-min-gui","We have not told you of the nine kingdoms of Manji, but only of three, Manji, Kin-sai, and Fu-gui, and of these you have heard fully ; ",,"Manji, Manji, Kin-sai,Fu-gu"
+1,PART 1,81,1247,"Of the most noble Port of Zai-tun, and of Ti-min-gui","We have not told you of the nine kingdoms of Manji, but only of three, Manji, Kin-sai, and Fu-gui, and of these you have heard fully ; ",,"Manji, Manji, Kin-sai,Fu-gui"
 1,PART 1,81,1248,"Of the most noble Port of Zai-tun, and of Ti-min-gui","but the others I cannot now describe, because it would be too tedious, and our book has not yet treated of other things which I wish to write about ; ",,
 1,PART 1,81,1249,"Of the most noble Port of Zai-tun, and of Ti-min-gui","for I have to tell you of the Indians, who are well worthy of being known.",,
 1,PART 1,81,1250,"Of the most noble Port of Zai-tun, and of Ti-min-gui","Their country contains many wonderful things found in none of the other parts of the world, which it will be good and profitable to write.",,
