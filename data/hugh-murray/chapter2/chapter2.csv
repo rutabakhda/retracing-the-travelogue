@@ -12,20 +12,20 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,2,On Turcomania,11,"The two others are Armenians and Greeks, who dwell mingled in cities, and subsist by merchandise and manufactures ;",,
 1,PART 1,2,On Turcomania,12," they work carpets and crimson silk, the richest and most beautiful in the whole world.",,
 1,PART 1,2,On Turcomania,13,"They have many towns, of which the principal are Como, Casserie, and Sevasto.",,"Como, Casserie,Sevasto"
-1,PART 1,2,On Turcomania,14,They are subject to the Eastern Tartars.,,Eastern Tartars
+1,PART 1,2,On Turcomania,14,They are subject to the Eastern Tartars.,,
 1,PART 1,2,On Turcomania,15,"Now, let us leave them, and speak of Armenia the Greater.",,Armenia the Greater
 1,PART 1,3,On Armenia the Greater,16,"Armenia the Greater is a large country, and, at the entrance of it is a city called Arzinga, in which is made the best buckram in the world.",,"Armenia the Greater,Arzinga"
 1,PART 1,3,On Armenia the Greater,17,"There are several baths of warm spring water, the best and most beautiful any where to be found.",,
 1,PART 1,3,On Armenia the Greater,18,"There are many castles, and cities, among which the noblest is Arzinga, the seat of an archbishop, and the metropolis of the whole district; ",,Arzinga
 1,PART 1,3,On Armenia the Greater,19,there are also Argiron and Darzizi.,,"Argiron,Darzizi"
-1,PART 1,3,On Armenia the Greater,20,"I assure you the province is very large, and during the summer all the Tartars of the Levant reside here with their flocks and herds, on account of its rich pastures ;",,
+1,PART 1,3,On Armenia the Greater,20,"I assure you the province is very large, and during the summer all the Tartars of the Levant reside here with their flocks and herds, on account of its rich pastures ;",,Levant
 1,PART 1,3,On Armenia the Greater,21," but in winter they cannot remain because of the severe cold and snow, amid which the animals could not live.",,
 1,PART 1,3,On Armenia the Greater,22,"Now, in this Armenia is the ark of Noah on a great mountain.",Noah,Armenia
 1,PART 1,3,On Armenia the Greater,23,The circuit of its base cannot be traversed in less than two days ; ,,
 1,PART 1,3,On Armenia the Greater,24,"and the ascent is rendered impracticable by the snow on its summit, which never dissolves, but is increased by each successive fall.",,
 1,PART 1,3,On Armenia the Greater,25,"On the lower declivities, the melted snows cause an abundant vegetation, and afford rich pastures for the cattle which in summer resort thither from all the surrounding  countries.",,
 1,PART 1,3,On Armenia the Greater,26,"To the south-east it borders on a kingdom called Mosul, inhabited by Jacobite and Nestorian Christians, of whom we will mention more hereafter.",,Mosul
-1,PART 1,3,On Armenia the Greater,27,"On the north  it extends to the Georgians, and on that frontier is a fountain whence rises oil in such abundance that a hundred ships might be at once loaded with it.",,Georgians
+1,PART 1,3,On Armenia the Greater,27,"On the north  it extends to the Georgians, and on that frontier is a fountain whence rises oil in such abundance that a hundred ships might be at once loaded with it.",,
 1,PART 1,3,On Armenia the Greater,28,"It is not good for eating, but very fit for fuel, for anointing the camels in maladies of the skin, and for other purposes ; ",,
 1,PART 1,3,On Armenia the Greater,29,"for which reason people come from a great distance for it, and nothing else is burned in all this country.",,
 1,PART 1,3,On Armenia the Greater,30,"Now let us quit Armenia, and tell of Georgia.",,"Armenia,Georgia"
@@ -44,7 +44,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,4,On Georgia and its Productions,43,"There are many cities and castles, with silk in abundance, with which, added to gold, they make cloths the most beautiful that ever man saw.",,
 1,PART 1,4,On Georgia and its Productions,44,Here are the finest eagles in the world ; also victuals of every kind in abundance.,,
 1,PART 1,4,On Georgia and its Productions,45,"The province is full of great mountains, and of narrow passes, so that I can tell you the Tartars could never obtain the entire sovereignty of it.",,
-1,PART 1,4,On Georgia and its Productions,46,"There is a monastery called St Leonard, containing a great wonder, which I will now relate.",,St Leonard
+1,PART 1,4,On Georgia and its Productions,46,"There is a monastery called St Leonard, containing a great wonder, which I will now relate.",,
 1,PART 1,4,On Georgia and its Productions,47,"A large lake of water issues from a neighbouring mountain, in which, during the whole year, there is not found a fish great or small, except from the day before Lent down to the evening of Easter Sunday ; ",,
 1,PART 1,4,On Georgia and its Productions,48,"and during the whole of that time fishes are taken in great abundance, but none at any other.",,
 1,PART 1,4,On Georgia and its Productions,49,"And know that this sea of which I have spoken is seven hundred miles in circuit, and receives the Euphrates, one of the delights of paradise, and many other great rivers.",,Euphrates
@@ -108,7 +108,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,7,On Toris or Tauris,107,"It contains an abbot and many monks, who dress like the Carmelites.",,
 1,PART 1,7,On Toris or Tauris,108,"Unwilling to lead an idle life, they are constantly weaving woollen girdles, which they place on the altar of their saint during divine service ;",,
 1,PART 1,7,On Toris or Tauris,109,"and while going round the province to ask alms (as do their brethren of the Holy Ghost), they present these to their friends and persons of distinction, who value them as beneficial in the cure of rheumatism.",,
-1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,110,Now I am to tell you of a great miracle which happened between Baldach and Mosul in the year 1225.,,
+1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,110,Now I am to tell you of a great miracle which happened between Baldach and Mosul in the year 1225.,,"Baldach,Mosul"
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,111,"There was a caliph in the former who held the Christians in great hatred, as it is natural for all the Saracens in the world to do.",caliph,
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,112," He thought day and night how he might compel all those in his country to become converts, or else kill them.",,
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,113,"Many others concurred in that wicked purpose, and they agreed upon this plan : They found in the gospel a text saying that if a Christian had as much faith as a grain of mustard-seed and made his prayer to God, he would be able to join two mountains together.",,
@@ -148,13 +148,13 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,147,"nay, the caliph himself became a believer in the gospel, but secretly, and when he died, a cross was found round his neck; ",caliph,
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,148,"for which reason he was not buried in the same place with the other sovereigns, but in a tomb by himself.",,
 1,PART 1,8,On a certain Miracle of the Movement of a Mountain in that Region,149,Now let us leave Baldach and go to Persia.,,"Baldach,Persia"
-1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",150,"Persia is a very extensive province, anciently very rich and flourishing, but now in a great degree wasted and destroyed by the Tartars.",Persia,
+1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",150,"Persia is a very extensive province, anciently very rich and flourishing, but now in a great degree wasted and destroyed by the Tartars.",,Persia
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",151,"It contains a city called Sava, whence the three magi came to adore Jesus Christ when born at Bethlehem.",Jesus Christ,"Sava,Bethlehem"
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",152,"In that city are buried the three, in separate tombs, above which is a square house carefully preserved.",,
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",153,"Their hearts are still entire, with their hair and beards.",,
-1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",154,"One was named Balthazar, the other Gaspar, the third Melchior.",,"Balthazar, Gaspar,Melchior"
+1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",154,"One was named Balthazar, the other Gaspar, the third Melchior.",,
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",155,"Messer Marco inquired often in that city about these three magi, but no one could tell him any thing, except that they were ancient kings, who were there buried.",Messer Marco,
-1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",156,"They informed him, however, that three days' journey farther was a tower called the Castle of the Fire-worshippers, because the men there venerate fire, and for the following reason.",, Castle of the Fire-worshippers
+1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",156,"They informed him, however, that three days' journey farther was a tower called the Castle of the Fire-worshippers, because the men there venerate fire, and for the following reason.",,
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",157,"They say that anciently three kings of that country went to adore acertain prophet, newly born, and carried three offerings, gold, incense, and myrrh, to know if he were a king, a god, or a sage;",,
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",158," for they said that, if he took gold, he was a king; if incense, he wasa god; if myrrh, he was a sage.",,
 1,PART 1,9,"On the Province of Persia, and the Journey of the Magi",159,"They went in one after another, and though they were of different ages and fashions, he appeared to each of them exactly like himself.",,
@@ -217,7 +217,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",216,"They know the places so well, that they can ride during the thickest of it ; ",,
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",217,"and they are sometimes ten thousand in number, so that nothing found on the plain, man, beast, or any thing, can escape.",,
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",218,"They kill the old persons, and carry off the young to sell them for slaves.",,
-1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",219,"Their king is called Nogodar, and he went to the court of Ciagatai, who was the brother of the great khan, with 10,000 men, and remained with him, because his uncle was very powerful.","Nogodar,khan",Ciagatai
+1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",219,"Their king is called Nogodar, and he went to the court of Ciagatai, who was the brother of the great khan, with 10,000 men, and remained with him, because his uncle was very powerful.","Nogodar,khan,Ciagatai",
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",220,"During this stay, Nogodar committed a very great wickedness, and I will tell you what it was.",,
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",221,"He departed from his uncle Ciagatai, who was in Great Armenia, and took with him 10,000 of his people, who were very cruel, and marched by Badasian and through a province called Pasciai, and another called Chesciemur, losing many of his people and beasts, because the roads were narrow and very bad; ",,"Ciagatai,Great Armenia,Badasian,Pasciai,Chesciemur"
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",222,"and when they had passed all these provinces, they entered into India, on the borders of one called Dilivar.",,"India,Dilivar"
@@ -226,7 +226,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,13,"On Camandu, Reobarle, and the Karauna Robbers",225,"Having told you of this plain, and of the people who produced darkness in order to rob, I must also mention that Messer Marco himself was nearly taken by them amid this gloom, but though a number of his companions were captured, and either killed or sold as slaves, he himself escaped to a castle named Canosalmi.",Messer Marco,Canosalmi
 1,PART 1,14,On the City of Cormos,226,"That plain extends five days' journey southward, and you then come to a descent which continues twenty miles by a very bad and difficult road, full of wicked robbers.",,
 1,PART 1,14,On the City of Cormos,227,"You then approach the very beautiful plain of Formosa, watered by fine rivers, with plantations of the date-palm, and having the air filled with francolins, parrots, and other birds unknown to our climate.",,Formosa
-1,PART 1,14,On the City of Cormos,228,"You ride two days through it, and then arrive at the ocean, on which there is a city and fort named Cormos.",,
+1,PART 1,14,On the City of Cormos,228,"You ride two days through it, and then arrive at the ocean, on which there is a city and fort named Cormos.",,Cormos
 1,PART 1,14,On the City of Cormos,229,"The ships of India bring thither all kinds of spiceries, precious stones, and pearls, cloths of silk and gold, elephants' teeth, and many other articles.",,India
 1,PART 1,14,On the City of Cormos,230,"It is the capital of a kingdom, having many cities and castles under it, and the sovereign is called Ruemedan Achomac.",,Ruemedan Achomac
 1,PART 1,14,On the City of Cormos,231," The climate, however, is intensely hot, and extremely unhealthy, and when any foreign merchant dies, the king inherits all his property.",,
@@ -507,7 +507,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,36,Of the City of Kamul,506,"The women are handsome, gay, and fond of diversion.",,
 1,PART 1,36,Of the City of Kamul,507,"Now, when Mangou Khan reigned as sire of the Tartars, it was reported to him how the people of Kamul gave over their wives to strangers, when he sent orders that, under a severe penalty, travellers should not be henceforth entertained in this manner.",Mangou Khan,Kamul
 1,PART 1,36,Of the City of Kamul,508,"When they received this injunction, they were greatly grieved, held a council, and did what I will now tell you.",,
-1,PART 1,36,Of the City of Kamul,509,"They made up a large present, and sent it to Mangou, praying that he would allow them to treat their wives according to the custom handed down to them by their ancestors, who, for this kindness to strangers, had gained the favour of their idols, and their corn and other crops had greatly multiplied.",,Mangou
+1,PART 1,36,Of the City of Kamul,509,"They made up a large present, and sent it to Mangou, praying that he would allow them to treat their wives according to the custom handed down to them by their ancestors, who, for this kindness to strangers, had gained the favour of their idols, and their corn and other crops had greatly multiplied.",Mangou,
 1,PART 1,36,Of the City of Kamul,510,"When he heard this message, he said, Since you are so bent on your own shame, let it be soù.",,
 1,PART 1,36,Of the City of Kamul,511,"He allowed them, therefore, to do as they pleased, and hence they have always maintained this custom.",,
 1,PART 1,37,Of the Province of Ginghintalas,512,"Ginghintalas is a province which is near the desert, between north and south, sixteen days' journey in extent, and subject to the great khan.",khan,Ginghintalas
@@ -681,7 +681,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,680,though in winter none remain in the country on account of the intense cold.,,
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,681,After travelling these forty days you come to the ocean ; ,,
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,682,"and there is found a mountain, where the peregrine falcons build their nests.",,
-1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,683,"You must know this place contains neither men nor women, nor beasts, nor any birds, except one species, which is called barghenlac, on which the hawks feed.",`,barghenlac
+1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,683,"You must know this place contains neither men nor women, nor beasts, nor any birds, except one species, which is called barghenlac, on which the hawks feed.",`,
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,684,"They are of the size of partridges, have feet like parrots, and tails like swallows, and they fly very swiftly.",,
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,685,"When the great khan wishes peregrine falcons, he sends thither for them. ",khan,
 1,PART 1,47,On the Plains of Bangu and the extreme Parts of the North,686,"In an island of that sea, too, are bred the gerfalcons; ",,
@@ -712,7 +712,7 @@ chapterNo,chapterTitle,sectionNo,sectionTitle,sentenceNo,sentence,Person,Locatio
 1,PART 1,48,On the great City of Erginul,711,"The ladies have no hair except on the head, and are every way very handsome.",,
 1,PART 1,48,On the great City of Erginul,712,"The men are voluptuous, and are authorized by their law and usage to take as many wives as they can maintain.",,
 1,PART 1,48,On the great City of Erginul,713,"If a woman is beautiful, though of humble birth, a great baron readily espouses her, giving to her mother such a sum of money as may be agreed on.",,
-1,PART 1,49,On the Province of Egrigaia,714,"When a man departs from Erginul, and goes eight days castward, he finds a province of Tangut called Egrigaia, where there are cities and castles, and the chief one is named Calacian.",Calacian,"Erginul,Tangut,Egrigaia"
+1,PART 1,49,On the Province of Egrigaia,714,"When a man departs from Erginul, and goes eight days castward, he finds a province of Tangut called Egrigaia, where there are cities and castles, and the chief one is named Calacian.",Calacian,"Erginul,Tangut,Egrigaia,Calacian"
 1,PART 1,49,On the Province of Egrigaia,715,The people are idolaters ; ,,
 1,PART 1,49,On the Province of Egrigaia,716,yet there are three towns held by Nestorian Christians.,,
 1,PART 1,49,On the Province of Egrigaia,717,They are subject to the great Tartar;,,
