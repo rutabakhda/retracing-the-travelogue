@@ -35,7 +35,7 @@ st = StanfordNERTagger('../../tools/standford-nlp/stanford-ner-2018-10-16/classi
 tagger = StanfordPOSTagger(model_filename=str(model_file), path_to_jar=str(jar_file))
 
 # Input individual index files
-readfile = datapath / 'data/hugh-murray/chapter2/chapter2.csv'
+readfile = datapath / 'data/hugh-murray/chapter1/chapter1.csv'
 data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
 
 location_list = []
@@ -64,7 +64,7 @@ data['Standford Location'] = location_list
 data['Standford Person'] = person_list
 data['Stadnford Organization'] = organization_list
 
-writefile = datapath / 'data/hugh-murray/chapter2/chapter2-standford.csv'
+writefile = datapath / 'data/hugh-murray/chapter1/chapter1-standford.csv'
 
 data.to_csv(writefile, sep='\t', encoding='latin1')
 

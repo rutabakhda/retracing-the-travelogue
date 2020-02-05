@@ -5,7 +5,7 @@ import pandas as pd
 
 datapath = Path(__file__).resolve().parents[2]
 # Input individual index files
-readfile = datapath / 'data/hugh-murray/chapter2/chapter2.csv'
+readfile = datapath / 'data/hugh-murray/chapter3/chapter3.csv'
 data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
 
 predictor = Predictor.from_path(datapath / 'tools/fine-grained-ner-model-elmo-2018.12.21.tar.gz')
@@ -46,7 +46,7 @@ data['allenNLP Location'] = location_list
 data['allenNLP Person'] = person_list
 data['allenNLP organization'] = organization_list
 
-writefile = datapath / 'data/hugh-murray/chapter2/chapter2-allenNLP.csv'
+writefile = datapath / 'data/hugh-murray/chapter3/chapter3-allenNLP.csv'
 
 data.to_csv(writefile, sep='\t', encoding='latin1')
 
