@@ -37,3 +37,21 @@ false negative = 22
 precision = 0.9736842105263158
 recall = 0.8345864661654135
 F1 score = 0.8987854251012146
+
+ ======================== allenNLP Location with index ========================
+
+true positive = 108
+false positive = 25
+false negative = 62
+precision = 0.8120300751879699
+recall = 0.6352941176470588
+F1 score = 0.712871287128713
+
+ ======================== allenNLP Person with index ========================
+
+true positive = 82
+false positive = 73
+false negative = 6
+precision = 0.5290322580645161
+recall = 0.9318181818181818
+F1 score = 0.6748971193415638
