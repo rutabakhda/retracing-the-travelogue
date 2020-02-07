@@ -45,31 +45,40 @@ def split_into_sentences(text):
     sentences = [s.strip() for s in sentences]
     return sentences
 
-def convert_into_lines(file,new_data):
-        sentence_counter = 0
+def convert_into_lines(file,new_data,part,sentence_counter):
+
         textfile = open(datapath / 'results/hugh-murray/{}/OCR/{}-sections/'.format(part,part)/file, "r+")
         fulltext = textfile.read()
         splitted_text = split_into_sentences(fulltext)
 
+
         titledetails = file.split('.', 1)[0]
         titleno = titledetails.split('-', 1)[0]
         titlename = titledetails.split('-', 1)[1]
-
+        #print(file)
+        #print(titleno)
+        #print(titlename)
+        #print("==========================")
         new_row = {}
 
         for line in splitted_text:
             sentence_counter = sentence_counter + 1
             #print("{} section".format(titleno))
             #print(line)
-            new_row['chapterNo'] = 3
-            new_row['chapterTitle'] = 'PART 1'
-            new_row['sectionNo'] = titleno
-            new_row['sectionTitle'] = titlename
+            new_row['chapter No'] = part[-1]
+            new_row['chapter Title'] = part
+            new_row['section No'] = titleno
+            new_row['section Title'] = titlename
             new_row['sentence No'] = sentence_counter
             new_row['sentence'] = line
             new_data.loc[len(new_data)] = new_row
 
-        new_data.to_csv(datapath / 'results/hugh-murray/{}/processed/{}-original.csv'.format(part,part),sep='\t', encoding='utf-8', index=False)
+        outfile = datapath / 'results/hugh-murray/{}/processed/{}-original.csv'.format(part,part)
+        if os.path.exists(outfile):
+            os.remove(outfile)
+
+        new_data.to_csv(outfile,sep='\t', encoding='utf-8', index=False)
+        return sentence_counter
 
 def find_intermediate_chars(text, sub1, sub2):
     start = text.index(sub1) + len(sub1)
@@ -82,9 +91,8 @@ def nltk_splitting(text):
     return splitted_text
 
 
-#part = 'part1'
-
 book = ['part1','part2','part3']
+#book = ['part1']
 for part in book:
     if not os.path.exists(datapath / 'results/hugh-murray/{}/processed'.format(part)):
         os.makedirs(datapath / 'results/hugh-murray/{}/processed'.format(part))
@@ -92,9 +100,11 @@ for part in book:
     readsection = datapath / 'results/hugh-murray/{}/OCR/{}-sections/'.format(part,part)  # Datapath for Statement by Members
     new_data = pd.DataFrame(columns=['chapter No', 'chapter Title', 'section No', 'section Title','sentence No','sentence'])
 
+    sentence_counter = 0
+
     for root, dirs, files in walk(readsection):
         for file in files:
             if file.endswith(".txt"):
                 readfile = file
-                convert_into_lines(readfile,new_data)
+                sentence_counter = convert_into_lines(readfile,new_data,part,sentence_counter)
     print("{} processing have been completed".format(part))

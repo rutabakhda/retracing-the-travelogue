@@ -81,8 +81,8 @@ def images_to_text(part,image_counter):
 # Path of the scanned pdf
 datapath = Path(__file__).resolve().parents[2]
 
-book = ['part1','part2','part3']
-
+#book = ['part1','part2','part3']
+book = ['index']
 for part in book:
 
     readfile = datapath / 'data/hugh-murray/{}/{}.pdf'.format(part,part)  # Input individual index files
