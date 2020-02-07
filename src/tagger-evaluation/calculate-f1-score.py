@@ -88,7 +88,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     print("F1 score = " + str(F1))
 
     with open(datapath / 'data/hugh-murray/chapter3/chapter3-results-combined.txt', 'a') as f:
+<<<<<<< HEAD
         f.write("\n ======================== allenNLP Person with index ========================")
+=======
+        f.write("\n ======================== Gazzeter Location ========================")
+>>>>>>> d24deadf2a6f9fed869dd7c203e797b8cf0fb398
         f.write("\n")
         f.write("\ntrue positive = %s" % str(true_positive))
         f.write("\nfalse positive = %s" % str(false_positive))
@@ -101,11 +105,19 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
 
 
 datapath = Path(__file__).resolve().parents[2]
+<<<<<<< HEAD
 readfile = datapath / 'data/hugh-murray/chapter3/chapter3-gazetter-allenNLP.csv' # Input individual index files
 
 data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 str1 = data['Gazzeter Person'].str.cat(sep=',')
 str2 = data['allenNLP Person'].str.cat(sep=',')
+=======
+readfile = datapath / 'data/hugh-murray/chapter3/chapter3-gazetter-combined.csv' # Input individual index files
+
+data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
+str1 = data['Location'].str.cat(sep=',')
+str2 = data['Gazzeter Location'].str.cat(sep=',')
+>>>>>>> d24deadf2a6f9fed869dd7c203e797b8cf0fb398
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
 #str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"
