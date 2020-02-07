@@ -1,4 +1,6 @@
+#!/usr/bin/venv python3
 import os
+from pathlib import Path
 '''
 Finding and storing sections of each chapter into separate text files
 each text file contains the number and title of each section
@@ -41,19 +43,21 @@ def find_intermediate_chars(text, sub1, sub2):
 Each chapter is processed individually
 Chapter 1 has total of 81 sections
 '''
-basepath = os.path.dirname(os.path.abspath(__file__))
-datapath = basepath +'/data/hugh-murray/chapter3/'  # Datapath for Statement by Members
-readfile= 'chapter3-full-original.txt'
+# Path of the scanned pdf
+datapath = Path(__file__).resolve().parents[2]
+#book = ['part1','part2','part3']
+part = "part3"
+readfile = datapath / 'results/hugh-murray/{}/OCR/{}-full-corrected.txt'.format(part, part)
 
-textfile = open(datapath + readfile, "r+")
+textfile = open(readfile, "r+")
 fulltext = textfile.read()
 
 
 #Chapter 1 has 81 sections so range is from 1 to 82
 total_sections = 61
 
-if not os.path.exists(datapath+'chapter3-sections'):
-    os.makedirs(datapath+'chapter3-sections')
+if not os.path.exists(datapath / 'results/hugh-murray/{}/OCR/{}-sections'.format(part, part)):
+    os.makedirs(datapath / 'results/hugh-murray/{}/OCR/{}-sections'.format(part, part))
 
 #So it finds the content between 2 section numbers (in roman)
 for i in range(1,total_sections+1):
@@ -76,7 +80,7 @@ for i in range(1,total_sections+1):
     content = text.split('.', 1)[1].strip()
 
     # Section title will be used with section number as file name for ith section
-    newtextfile = open(datapath + "chapter3-sections/"+str(i)+"-"+title+".txt", "w+")
+    newtextfile = open(datapath / 'results/hugh-murray/{}/OCR/{}-sections/{}-{}.txt'.format(part, part,i,title), "w+")
 
     # section content will be stored as details
     newtextfile.write(content)

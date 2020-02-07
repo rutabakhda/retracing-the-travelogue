@@ -88,11 +88,9 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     print("F1 score = " + str(F1))
 
     with open(datapath / 'data/hugh-murray/chapter3/chapter3-results-combined.txt', 'a') as f:
-<<<<<<< HEAD
+
         f.write("\n ======================== allenNLP Person with index ========================")
-=======
-        f.write("\n ======================== Gazzeter Location ========================")
->>>>>>> d24deadf2a6f9fed869dd7c203e797b8cf0fb398
+
         f.write("\n")
         f.write("\ntrue positive = %s" % str(true_positive))
         f.write("\nfalse positive = %s" % str(false_positive))
@@ -115,7 +113,7 @@ str2 = data['allenNLP Person'].str.cat(sep=',')
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
 #str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"
-
+1111111111111111111
 print("========== Two lists to compare==========")
 print(str1)
 print(str2)
