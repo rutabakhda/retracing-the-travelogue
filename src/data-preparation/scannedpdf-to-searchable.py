@@ -16,7 +16,7 @@ https://pypi.org/project/pytesseract/
 #Explicit path for tesseract executable
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-def scannedpdf_to_images(readfile,part):
+def scannedpdf_to_images(readfile,part,author):
     '''
     Part #1 : Converting PDF to images
     '''
@@ -27,8 +27,8 @@ def scannedpdf_to_images(readfile,part):
     # One image per page of PDF
     image_counter = 1
 
-    if not os.path.exists(datapath /'results/hugh-murray/{}/OCR/{}-images'.format(part,part)):
-        os.makedirs(datapath /'results/hugh-murray/{}/OCR/{}-images'.format(part,part))
+    if not os.path.exists(datapath /'results/{}/{}/OCR/{}-images'.format(author,part,part)):
+        os.makedirs(datapath /'results/{}/{}/OCR/{}-images'.format(author,part,part))
 
     # Iterate through all the pages of PDF
     for page in pages:
@@ -36,7 +36,7 @@ def scannedpdf_to_images(readfile,part):
          filename = "page_" + str(image_counter) + ".jpg"
 
          # Save the image of the page in system
-         page.save(datapath /'results/hugh-murray/{}/OCR/{}-images/'.format(part,part) / filename, 'JPEG')
+         page.save(datapath /'results/{}/{}/OCR/{}-images/'.format(author,part,part) / filename, 'JPEG')
 
          # Increment the counter to update filename
          image_counter = image_counter + 1
@@ -44,7 +44,7 @@ def scannedpdf_to_images(readfile,part):
     return image_counter
 
 
-def images_to_text(part,image_counter):
+def images_to_text(image_counter,part,author):
     ''' 
     Part #2 - Recognizing text from the images using OCR 
     '''
@@ -57,14 +57,14 @@ def images_to_text(part,image_counter):
 
     # Open the file in append mode so that
     # All contents of all images are added to the same file
-    outfile = open(datapath /'results/hugh-murray/{}/OCR'.format(part)/outfile, "a")
+    outfile = open(datapath /'results/{}/{}/OCR'.format(author,part)/outfile, "a")
 
     # Iterate from 1 to total number of pages
     for i in range(1, totalpages + 1):
         filename = "page_" + str(i) + ".jpg"
 
         # Recognize the text as string in image using pytesserct
-        text = str(((pytesseract.image_to_string(Image.open(datapath /'results/hugh-murray/{}/OCR/{}-images'.format(part,part) /filename)))))
+        text = str(((pytesseract.image_to_string(Image.open(datapath /'results/{}/{}/OCR/{}-images'.format(author,part,part) /filename)))))
         text = text.replace('-\n', '')
 
         # Add processed text to text file
@@ -83,17 +83,18 @@ datapath = Path(__file__).resolve().parents[2]
 
 #book = ['part1','part2','part3']
 book = ['index']
+author = "henry-yule"
 for part in book:
 
     readfile = datapath / 'data/hugh-murray/{}/{}.pdf'.format(part,part)  # Input individual index files
     print(readfile)
-    if not os.path.exists(datapath /'results/hugh-murray/{}'.format(part)):
-        os.makedirs(datapath /'results/hugh-murray/{}'.format(part))
+    if not os.path.exists(datapath /'results/{}/{}'.format(author,part)):
+        os.makedirs(datapath /'results/{}/{}'.format(author,part))
 
-    if not os.path.exists(datapath /'results/hugh-murray/{}/OCR'.format(part)):
-        os.makedirs(datapath /'results/hugh-murray/{}/OCR'.format(part))
+    if not os.path.exists(datapath /'results/{}/{}/OCR'.format(author,part)):
+        os.makedirs(datapath /'results/{}/{}/OCR'.format(author,part))
 
-    image_counter = scannedpdf_to_images(readfile,part)
-    outfile = images_to_text(part,image_counter)
+    image_counter = scannedpdf_to_images(readfile,part,author)
+    outfile = images_to_text(image_counter,part,author)
     outfile.close()
     print("Processing for {} has been completed".format(part))

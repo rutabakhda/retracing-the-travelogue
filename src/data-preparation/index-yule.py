@@ -1,3 +1,4 @@
+#!/usr/bin/venv python3
 """
     Converts Index file by yule in csv after formatting.
 
@@ -74,11 +75,16 @@ def text_to_csv(textfile, csvfile):
             print("title = " + str(title))
             print('content = {0}'.format(str(content)))
             line = fp.readline()
-        new_data.to_csv(csvfile, encoding='utf-8-sig', index=False)
+        new_data.to_csv(csvfile, sep="\t",encoding='utf-8-sig', index=False)
 
 
-index_path = os.path.dirname(os.path.abspath(__file__)) + '/data/henry-yule/index/'
+part = "index"
+datapath = Path(__file__).resolve().parents[2]
+index_path = datapath / 'data/henry-yule/{}/'.format(part)
 
-textfile = index_path + '/index-yule.txt' # Input text file of Index
-csvfile = index_path + 'index.csv' # Output csv file for Index
+if not os.path.exists(datapath / 'results/henry-yule/{}/processed'.format(part)):
+    os.makedirs(datapath / 'results/henry-yule/{}/processed'.format(part))
+
+textfile = datapath / 'results/henry-yule/{}/OCR/{}-yule-fulltext.txt'.format(part,part) # Input text file of Index
+csvfile = datapath / 'results/henry-yule/{}/processed/{}-original.csv'.format(part,part) # Output csv file for Index
 text_to_csv(textfile,csvfile)
