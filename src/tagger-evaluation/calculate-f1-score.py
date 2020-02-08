@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import division
+from collections import Counter
 """
 Implementation of F1 score
 
@@ -73,9 +74,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     true_positive = len([x for x in true_positive_list if x is True])
     print("true positive = " + str(true_positive))
 
+    false_positive_list = [x for x in converted_list1 if x is None]
     false_positive = len([x for x in converted_list1 if x is None])
     print("false positive = " + str(false_positive))
 
+    false_negative_list = [x for x in convrted_list2 if x is None]
     false_negative = len([x for x in convrted_list2 if x is None])
     print("false negative = " + str(false_negative))
 
@@ -87,28 +90,56 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     print("recall = " + str(recall))
     print("F1 score = " + str(F1))
 
-    with open(datapath / 'data/hugh-murray/chapter3/chapter3-results-combined.txt', 'a') as f:
+    counter1 = Counter(converted_list1)
+    counter2 = Counter(converted_list2)
 
-        f.write("\n ======================== allenNLP Person with index ========================")
+    with open(datapath / 'results/hugh-murray/part1/NER/gazetteer-analysis.txt', 'a') as f:
+        f.write("\n ======================== PERSON ========================")
+        for i in range(1, len(converted_list1)):
+            f.write("\n%s" % str(converted_list1[i]))
+            f.write("\n%s" % str(converted_list2[i]))
+            f.write("\n")
+        f.write("\n")
+        f.write("\n")
+        f.write("\n%s" % str(counter1))
+        f.write("\n")
+        f.write("\n")
+        f.write("\n%s" % str(counter2))
 
-        f.write("\n")
-        f.write("\ntrue positive = %s" % str(true_positive))
-        f.write("\nfalse positive = %s" % str(false_positive))
-        f.write("\nfalse negative = %s" % str(false_negative))
-        f.write("\nprecision = %s" % str(precision))
-        f.write("\nrecall = %s" % str(recall))
-        f.write("\nF1 score = %s" % str(F1))
-        f.write("\n")
-        return F1
+
+
+
+
+
+
+
+        # f.write("\n ======================== true positive list ========================")
+        # f.write("\n")
+        # for item in true_positive_list:
+        #     f.write("\n%s" % str(item))
+        # f.write("\n")
+        #
+        # f.write("\n ======================== false positive list ========================")
+        # f.write("\n")
+        # for item in false_positive_list:
+        #     f.write("\n%s" % str(item))
+        # f.write("\n")
+        #
+        # f.write("\n ======================== false negative list ========================")
+        # f.write("\n")
+        # for item in false_negative_list:
+        #     f.write("\n%s" % str(item))
+        # f.write("\n")
+        # return F1
 
 
 datapath = Path(__file__).resolve().parents[2]
 
-readfile = datapath / 'data/hugh-murray/chapter3/chapter3-gazetter-allenNLP.csv' # Input individual index files
+readfile = datapath / 'results/hugh-murray/part1/NER/gazetteer.csv' # Input individual index files
 
 data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
-str1 = data['Gazzeter Person'].str.cat(sep=',')
-str2 = data['allenNLP Person'].str.cat(sep=',')
+str1 = data['Person'].str.cat(sep=',')
+str2 = data['Gazzeter Person'].str.cat(sep=',')
 
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
