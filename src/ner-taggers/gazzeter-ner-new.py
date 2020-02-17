@@ -32,8 +32,18 @@ def find_tag(df,series,common,series_type):
                 temp1 = df.loc[series.str.contains(entry, na=False)]
             elif series_type == "main":
                 temp1 = df.loc[series.isin([entry])]
-            #print(temp1)
-            tag = temp1['Tag'].iloc[0]
+            print(temp1)
+            if (len(temp1.index) > 1):
+                for index,row in temp1.iterrows():
+                    alt_list = row['Alternative Name'].split(",")
+                    alt_list = [item.strip() for item in alt_list]
+                    if entry in alt_list:
+                     #print(alt_list)
+                     tag = row['Tag']
+                     #print(tag)
+            else:
+                tag = temp1['Tag'].iloc[0]
+
             if tag == 'Person':
                 ner_person.append(entry)
 
@@ -44,7 +54,7 @@ def find_tag(df,series,common,series_type):
 
 def get_gazetteer_data(readfile_murray):
 
-    df_murray = pd.read_csv(readfile_murray, sep=',', encoding='latin1')
+    df_murray = pd.read_csv(readfile_murray, sep='\t', encoding='latin1')
     df_murray['Entity Name'] = df_murray['Entity Name'].apply(lambda s: s.strip())
 
     murray_list = df_murray['Entity Name'].unique().tolist()
@@ -102,6 +112,8 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
         common_onegram = find_common_tokens(sentence_onegram,murray_list)
         common_alternative_onegram = find_common_tokens(sentence_onegram,murray_alternative_list)
 
+        #print(common_alternative_onegram)
+
         common_bigram = find_common_tokens(sentence_bigram,murray_list)
         common_alternative_bigram =  find_common_tokens(sentence_bigram,murray_alternative_list)
 
@@ -132,8 +144,8 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
         [ner_person_main_1gram,ner_location_main_1gram] = find_tag(df_murray,df_murray['Entity Name'],common_onegram,"main")
         [ner_person_alternative_1gram,ner_location_alternative_1gram] = find_tag(df_murray,df_murray['Alternative Name'], common_alternative_onegram,"alternative")
 
-        print("==============================================")
-        print(ner_person_alternative_1gram)
+        #print("==============================================")
+        #print(ner_person_alternative_1gram)
 
         [ner_person_main_2gram,ner_location_main_2gram] = find_tag(df_murray,df_murray['Entity Name'],common_bigram,"main")
         [ner_person_alternative_2gram,ner_location_alternative_2gram] = find_tag(df_murray,df_murray['Alternative Name'], common_alternative_bigram,"alternative")
@@ -159,25 +171,25 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
 
 
 datapath = Path(__file__).resolve().parents[2]
-#book = ['part1','part2','part3']
-book = ['part3']
+book = ['part1','part2','part3']
+#book = ['part1']
 
 for part in book:
 
     readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
-    readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated.csv'
+    readfile_murray = datapath / 'results/murray-yule/index/processed/index-annotated-special.csv'
     df_murray,murray_list,murray_alternative_list = get_gazetteer_data(readfile_murray)
 
-    print(murray_alternative_list)
+    #print(murray_alternative_list)
 
     outdata = find_entities(data,df_murray,murray_list,murray_alternative_list)
 
     if not os.path.exists(datapath / 'results/hugh-murray/{}/ner'.format(part)):
        os.makedirs(datapath / 'results/hugh-murray/{}/ner'.format(part))
 
-    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-index.csv'.format(part)
+    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-yule-special-index.csv'.format(part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

@@ -87,17 +87,17 @@ def list_to_csv(list, dataframe1, dataframe2, common_words, unique_in_murray):
         new_row['Reference'] = reference
         new_data.loc[len(new_data)] = new_row
 
-    if not os.path.exists(datapath / 'results/murray-yule/index'):
-        os.makedirs(datapath / 'results/murray-yule/index')
+    if not os.path.exists(datapath / 'results/murray-yule/index/processed'):
+        os.makedirs(datapath / 'results/murray-yule/index/processed')
 
-    new_data.to_csv(datapath / "results/murray-yule/index/murray-yule-index.csv", sep='\t', encoding='utf-8-sig')
+    new_data.to_csv(datapath / "results/murray-yule/index/processed/index-annotated-special.csv", sep='\t', encoding='utf-8-sig')
 
 
 datapath = Path(__file__).resolve().parents[2]
 
 # Input individual index files
-readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated.csv'
-readfile_yule = datapath / 'results/henry-yule/index/processed/index-annotated-final.csv'
+readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated-special.csv'
+readfile_yule = datapath / 'results/henry-yule/index/processed/index-annotated-special.csv'
 
 # Reads csv of index and convert it into list with unique entities
 df_murray = pd.read_csv(readfile_murray, sep=',', encoding='utf-8-sig')

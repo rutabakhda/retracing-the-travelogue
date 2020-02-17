@@ -93,8 +93,8 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     counter1 = Counter(converted_list1)
     counter2 = Counter(converted_list2)
 
-    with open(datapath / 'results/hugh-murray/part3/NER/murray-index.txt', 'a') as f:
-        f.write("\n ======================== Person ========================")
+    with open(datapath / 'results/hugh-murray/part2/ner/murray-yule-special-index.txt', 'a') as f:
+        f.write("\n ======================== Location ========================")
         #for i in range(1, len(converted_list1)):
         #  f.write("\n%s" % str(converted_list1[i]))
         #  f.write("\n%s" % str(converted_list2[i]))
@@ -136,11 +136,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
 
 datapath = Path(__file__).resolve().parents[2]
 
-readfile = datapath / 'results/hugh-murray/part3/NER/gazetteer-murray-index.csv' # Input individual index files
+readfile = datapath / 'results/hugh-murray/part1/ner/gazetteer-murray-yule-special-index.csv' # Input individual index files
 
 data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
-str1 = data['Person'].str.cat(sep=',')
-str2 = data['Gazzeter Person'].str.cat(sep=',')
+str1 = data['Location'].str.cat(sep=',')
+str2 = data['Gazzeter Location'].str.cat(sep=',')
 
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
