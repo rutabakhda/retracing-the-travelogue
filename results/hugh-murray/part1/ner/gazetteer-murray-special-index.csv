@@ -1,7 +1,7 @@
 	Unnamed: 0	chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	sentence	Marco Location	Person	Location	Gazzeter Location	Gazzeter Person
 0	0	1	PART 1	1	1	Power and Magnificence of Kublai	Now I am to give you a wonderful account of the greatest king of the Tartars|s, still reigning, named Kublai, or lord of lords.	Kambalu	Kublai			
 1	1	1	PART 1	1	2	Power and Magnificence of Kublai	That name is assuredly well merited, since he is the most powerful in people, in lands, and in treasure, that is, or ever was, from the creation of Adam to the present day ; 	Kambalu	Adam			
-2	2	1	PART 1	1	3	Power and Magnificence of Kublai	Whosoever descends in the direct line from Gengis is entitled to be master of all the Tartars, and Kublai is the sixth great khan.	Kambalu	Gengis,Kublai			Gengis
+2	2	1	PART 1	1	3	Power and Magnificence of Kublai	Whosoever descends in the direct line from Gengis is entitled to be master of all the Tartars, and Kublai is the sixth great khan.	Kambalu	Gengis,Kublai			Gengis ,Khan
 3	3	1	PART 1	1	4	Power and Magnificence of Kublai	He began to reign in the year of our Lord 1256,and maintained the dominion by his valour, address, and wisdom.	Kambalu				
 4	4	1	PART 1	1	5	Power and Magnificence of Kublai	His brothers sought to oppose his succession, but by bravery and right he triumphed over them.	Kambalu				
 5	5	1	PART 1	1	6	Power and Magnificence of Kublai	From the beginning of his reign, forty-two years have elapsed to the present day, in the year 1298.	Kambalu				
@@ -12,7 +12,7 @@
 10	10	1	PART 1	2	11	Insurrection raised by Nayan	To him Nayan proposed to attack the monarch on one side, while he himself advanced on another, so that they might acquire the dominion over his whole territory.	Kambalu	Nayan			Nayan
 11	11	1	PART 1	2	12	Insurrection raised by Nayan	Kaidu declared himself well pleased, and promised to be ready at the time appointed.	Kambalu	Kaidu			Kaidu
 12	12	1	PART 1	2	13	Insurrection raised by Nayan	He could bring into the field 100,000 cavalry ; 	Kambalu				
-13	13	1	PART 1	2	14	Insurrection raised by Nayan	and those two assembled a mighty army on horseback and foot, and marched against the great khan.	Kambalu	Khan			
+13	13	1	PART 1	2	14	Insurrection raised by Nayan	and those two assembled a mighty army on horseback and foot, and marched against the great khan.	Kambalu	Khan			Khan
 14	14	1	PART 1	3	15	Kublai prepares to meet him	When Kublai learned these things, he was not at all alarmed, but declared, that he wished he might never wear a crown, nor hold sway over a kingdom, if he did not bring the traitors to an evil death.	Kambalu	Kublai			
 15	15	1	PART 1	3	16	Kublai prepares to meet him	He therefore made his whole army be prepared in twenty-two days, and so secretly, that nothing was known beyond his own council.	Kambalu				
 16	16	1	PART 1	3	17	Kublai prepares to meet him	He raised full 360,000 mounted soldiers, and 100,000 infantry ;	Kambalu				
@@ -20,16 +20,16 @@
 18	18	1	PART 1	3	19	Kublai prepares to meet him	 for if he could have assembled his whole host, the multitude would have been such as no man could have numbered.	Kambalu				
 19	19	1	PART 1	3	20	Kublai prepares to meet him	He then called his astrologers, and asked of them if he would be victorious ; 	Kambalu				
 20	20	1	PART 1	3	21	Kublai prepares to meet him	they answered, that he would do to his enemies according to his pleasure.	Kambalu				
-21	21	1	PART 1	4	22	Description of the Battle	The great khan having assembled these forces, took his departure, and in twenty days came to a vast plain, where Nayan had assembled all his troops, amounting to 400,000 warriors.	Kambalu	Khan,Nayan			Nayan
-22	22	1	PART 1	4	23	Description of the Battle	The khan took much care to scour the paths, and intercept all who could have carried the intelligence ; 	Kambalu	Khan			
+21	21	1	PART 1	4	22	Description of the Battle	The great khan having assembled these forces, took his departure, and in twenty days came to a vast plain, where Nayan had assembled all his troops, amounting to 400,000 warriors.	Kambalu	Khan,Nayan			Nayan ,Khan
+22	22	1	PART 1	4	23	Description of the Battle	The khan took much care to scour the paths, and intercept all who could have carried the intelligence ; 	Kambalu	Khan			Khan
 23	23	1	PART 1	4	24	Description of the Battle	so that when he approached at dawn of day, the rebel was lying asleep in bed with a favourite wife, not having the least dread of his arrival, and, consequently, no guard on any side of the camp.	Kambalu				
 24	24	1	PART 1	4	25	Description of the Battle	Kublai then advanced, having a tower fixed upon four elephants, whereon were placed his ensigns, so that he could be seen by the whole army.	Kambalu	Kublai			
 25	25	1	PART 1	4	26	Description of the Battle	His men, divided into bands of twenty thousand, surrounded in a moment the adverse force, each soldier having a footman on the crupper behind him, with a bow in his hand.	Kambalu				
-26	26	1	PART 1	4	27	Description of the Battle	When Nayan and his men saw their camp thus encircled by the khan and his host, they were seized with amaze ; 	Kambalu	Nayan,Khan			Nayan
+26	26	1	PART 1	4	27	Description of the Battle	When Nayan and his men saw their camp thus encircled by the khan and his host, they were seized with amaze ; 	Kambalu	Nayan,Khan			Nayan ,Khan
 27	27	1	PART 1	4	28	Description of the Battle	yet they ran to arms, formed themselves in order of battle, and were soon prepared to strike.	Kambalu				
 28	28	1	PART 1	4	29	Description of the Battle	Then began the beating on many instruments, and singing with loud voices;	Kambalu				
 29	29	1	PART 1	4	30	Description of the Battle	 for it is the custom of the Tartars, that until the horn termed naccar is winded the troops do not engage.	Kambalu				
-30	30	1	PART 1	4	31	Description of the Battle	But when that grand trumpet of the great khan was sounded, all the other performers began playing, and raising their voices very loud, making a noise that was truly most wonderful.	Kambalu	Khan			
+30	30	1	PART 1	4	31	Description of the Battle	But when that grand trumpet of the great khan was sounded, all the other performers began playing, and raising their voices very loud, making a noise that was truly most wonderful.	Kambalu	Khan			Khan
 31	31	1	PART 1	4	32	Description of the Battle	Then the two armies rushed against each other with sword, spear, and lance, while the footmen were prepared with bow and quiver.	Kambalu				
 32	32	1	PART 1	4	33	Description of the Battle	The battle was fierce and cruel; 	Kambalu				
 33	33	1	PART 1	4	34	Description of the Battle	the arrows filled the air like rain ; 	Kambalu				
@@ -39,29 +39,29 @@
 37	37	1	PART 1	4	38	Description of the Battle	Never, in our day, was there so hard and terrible a combat, nor so many assembled on one field, especially of horsemen ;	Kambalu				
 38	38	1	PART 1	4	39	Description of the Battle	 and the number who fell on both sides was fearful to behold.	Kambalu				
 39	39	1	PART 1	4	40	Description of the Battle	The battle continued from nine in the morning till midday ; 	Kambalu				
-40	40	1	PART 1	4	41	Description of the Battle	but the great khan at last remained master of the field.	Kambalu	Khan			
+40	40	1	PART 1	4	41	Description of the Battle	but the great khan at last remained master of the field.	Kambalu	Khan			Khan
 41	41	1	PART 1	4	42	Description of the Battle	When Nayan and his men saw that they could hold out no longer, they betook themselves to flight ; 	Kambalu	Nayan			Nayan
 42	42	1	PART 1	4	43	Description of the Battle	but it availed them nothing; 	Kambalu				
 43	43	1	PART 1	4	44	Description of the Battle	he was taken, and all his troops surrendered.	Kambalu				
 44	44	1	PART 1	5	45	The Death of Nayan	When that great monarch heard that Nayan was taken, he ordered him to be put to death in the manner I am now to tell you.	Kambalu	Nayan			Nayan
 45	45	1	PART 1	5	46	The Death of Nayan	He was wrapped in a carpet, and violently tossed to and fro till he died.	Kambalu				
 46	46	1	PART 1	5	47	The Death of Nayan	This mode was adopted, that, being of imperial lineage, his blood might not be shed on the ground, nor his cries ascend into the air.	Kambalu				
-47	47	1	PART 1	5	48	The Death of Nayan	When that battle was gained, four of his provinces paid tribute and homage to the great khan.	Kambalu	Khan			
+47	47	1	PART 1	5	48	The Death of Nayan	When that battle was gained, four of his provinces paid tribute and homage to the great khan.	Kambalu	Khan			Khan
 48	48	1	PART 1	5	49	The Death of Nayan	These were Cicorcia, Cauli, Bastol, and Suchintin.	Kambalu		Cicorcia, Cauli, Bastol,Suchintin		
 49	49	1	PART 1	6	50	Kublai silences the Mockery of the Jews and Saracens	"When themonarch had achieved this triumph, the Saracens, Pagans, Jews, and other generations of men who believe not in God, expressed wonder at the cross which the vanquished leader had carried on his standard, and said in derision of the Christians,-""see how the cross of your God has aided Nayan and his people."""	Kambalu	Nayan			Nayan
 50	50	1	PART 1	6	51	Kublai silences the Mockery of the Jews and Saracens	"They made such a noise on this subject, that it came to the ears of the prince, who was much displeased, and sending for the Christians, said to them,-""if your God did not assist Nayan, he acted with great justice, because he is a good and righteous God. Nayan was a traitor and rebel against his lord, and therefore God did well in not assisting himù."""	Kambalu	Nayan,Nayan			Nayan ,Nayan
 51	51	1	PART 1	6	52	Kublai silences the Mockery of the Jews and Saracens	"Then the Christians replied,-""O, great sire! thou hast spoken the truth, for the cross will aid nothing unjust, and he met only what he well deserved."""	Kambalu				
-52	52	1	PART 1	6	53	Kublai silences the Mockery of the Jews and Saracens	Having gained this victory, the great khan returned to his capital, Kambalu, with much festival and rejoicing.	Kambalu	Khan 	Kambalu	Kambalu	
+52	52	1	PART 1	6	53	Kublai silences the Mockery of the Jews and Saracens	Having gained this victory, the great khan returned to his capital, Kambalu, with much festival and rejoicing.	Kambalu	Khan 	Kambalu	Kambalu	Khan
 53	53	1	PART 1	6	54	Kublai silences the Mockery of the Jews and Saracens	When the other king, named Kaidu, heard how his ally had been worsted, he was struck with fear, and did not attempt to lead his army against the monarch.	Kambalu	Kaidu			Kaidu
 54	54	1	PART 1	6	55	Kublai silences the Mockery of the Jews and Saracens	Now you have seen how that prince went to battle,and for what cause, while on all other occasions he sent his son and his barons;	Kambalu				
 55	55	1	PART 1	6	56	Kublai silences the Mockery of the Jews and Saracens	but this war was of such magnitude that it seemed to deserve his own immediate presence. 	Kambalu				
-56	56	1	PART 1	7	57	His Opinions as to the Christian Religion	The grand khan, having obtained this splendid victory, returned with great pomp and triumph to his capital of Kambalu.	Kambalu	Khan	Kambalu	Kambalu	
+56	56	1	PART 1	7	57	His Opinions as to the Christian Religion	The grand khan, having obtained this splendid victory, returned with great pomp and triumph to his capital of Kambalu.	Kambalu	Khan	Kambalu	Kambalu	Khan
 57	57	1	PART 1	7	58	His Opinions as to the Christian Religion	He arrived there in November, and remained till after March, in which month our festival of Easter occurred.	Kambalu				
 58	58	1	PART 1	7	59	His Opinions as to the Christian Religion	Aware that this was one of our most solemn periods, he commanded all the Christians to attend him, bringing with them their book containing the four gospels.	Kambalu				
 59	59	1	PART 1	7	60	His Opinions as to the Christian Religion	He caused it, in a very respectful manner, to be repeatedly perfumed with incense, ordering all his nobles present to do the same.	Kambalu				
 60	60	1	PART 1	7	61	His Opinions as to the Christian Religion	Such was the custom upon each of the two great festivals of Easter and Christmas; 	Kambalu				
 61	61	1	PART 1	7	62	His Opinions as to the Christian Religion	and he followed the same course as that pursued by the Saracens, Jews, and idolaters.	Kambalu				
-62	62	1	PART 1	7	63	His Opinions as to the Christian Religion	"Being asked the reason of this conduct, he replied,-""there are four great prophets revered and worshipped by different classes of mankind. The Christians hold Christ as their divinity ; the Saracens, Mohammed ; the Jews, Moses; and the idolaters, Sogomombar Khan, their most distinguished idol. I honour and respect all the four, and seek aid from them, as any one of them may really be supreme in heavenù."""	Kambalu	Christ,Mohammed,Moses,Sogomombar Khan			
+62	62	1	PART 1	7	63	His Opinions as to the Christian Religion	"Being asked the reason of this conduct, he replied,-""there are four great prophets revered and worshipped by different classes of mankind. The Christians hold Christ as their divinity ; the Saracens, Mohammed ; the Jews, Moses; and the idolaters, Sogomombar Khan, their most distinguished idol. I honour and respect all the four, and seek aid from them, as any one of them may really be supreme in heavenù."""	Kambalu	Christ,Mohammed,Moses,Sogomombar Khan			Khan
 63	63	1	PART 1	7	64	His Opinions as to the Christian Religion	Yet, from the behaviour of his majesty towards the Christians, he evidently believed their faith the best and truest ; 	Kambalu				
 64	64	1	PART 1	7	65	His Opinions as to the Christian Religion	observing, that it enjoined nothing on its professors that was not full of virtue and holiness.	Kambalu				
 65	65	1	PART 1	7	66	His Opinions as to the Christian Religion	He would not indeed allow the cross to be borne before them in processions, because, as he said, on it so exalted a person had been nailed and put to death.	Kambalu				
@@ -81,8 +81,8 @@
 79	79	1	PART 1	7	80	His Opinions as to the Christian Religion	On witnessing this, I will interdict the exercise of their religion, and suffer myself to be baptized.	Kambalu				
 80	80	1	PART 1	7	81	His Opinions as to the Christian Religion	This example will be followed by all my nobility, and by my subjects in general ;	Kambalu				
 81	81	1	PART 1	7	82	His Opinions as to the Christian Religion	 so that the Christians in these regions will become more numerous than those inhabiting your own countryù.	Kambalu				
-82	82	1	PART 1	7	83	His Opinions as to the Christian Religion	From this language it evidently appears that had the pope sent out persons duly qualified to preach the gospel, the great khan would have embraced that faith, for which he certainly entertained a strong predilection.	Kambalu	Khan			
-83	83	1	PART 1	8	84	Rewards bestowed on his Soldiers	Now let us tell of the officers and barons of the great khan, and how he rewarded those who fought with him in the battle against Nayan.	Kambalu	Khan,Nayan			Nayan
+82	82	1	PART 1	7	83	His Opinions as to the Christian Religion	From this language it evidently appears that had the pope sent out persons duly qualified to preach the gospel, the great khan would have embraced that faith, for which he certainly entertained a strong predilection.	Kambalu	Khan			Khan
+83	83	1	PART 1	8	84	Rewards bestowed on his Soldiers	Now let us tell of the officers and barons of the great khan, and how he rewarded those who fought with him in the battle against Nayan.	Kambalu	Khan,Nayan			Nayan ,Khan
 84	84	1	PART 1	8	85	Rewards bestowed on his Soldiers	To those who commanded 100 men, he gave the command of 1000, and to those of 1000 that of 10,000 ; 	Kambalu				
 85	85	1	PART 1	8	86	Rewards bestowed on his Soldiers	"and he bestowed, according to their rank, tablets of gold or of silver, on all of which was written,-""By the might of the great God, and by the favour which he gave to our emperor : may that prince be blessed, and may all those who do not obey him die and be destroyedù."""	Kambalu				
 86	86	1	PART 1	8	87	Rewards bestowed on his Soldiers	Those who hold these documents enjoy certain privileges, with written instructions how they are to exercise their authority.	Kambalu				
@@ -92,7 +92,7 @@
 90	90	1	PART 1	8	91	Rewards bestowed on his Soldiers	They can take, whenever they please, and lead from place to place, the troops and horses of any prince or king; 	Kambalu				
 91	91	1	PART 1	8	92	Rewards bestowed on his Soldiers	and whoever dares to disobey in any thing their will and mandate, must die as a rebel to the sovereign.	Kambalu				
 92	92	1	PART 1	8	93	Rewards bestowed on his Soldiers	Now let us speak of the outward form and manners of this mighty prince.	Kambalu				
-93	93	1	PART 1	9	94	The Person of Kublai-His Wives, Concubines, and Sons	The great khan, lord of lords, named Kublai, is of a fine middle size, neither too tall nor too short; 	Kambalu	Khan,Kublai			
+93	93	1	PART 1	9	94	The Person of Kublai-His Wives, Concubines, and Sons	The great khan, lord of lords, named Kublai, is of a fine middle size, neither too tall nor too short; 	Kambalu	Khan,Kublai			Khan
 94	94	1	PART 1	9	95	The Person of Kublai-His Wives, Concubines, and Sons	he has a beautiful fresh complexion, and well-proportioned limbs.	Kambalu				
 95	95	1	PART 1	9	96	The Person of Kublai-His Wives, Concubines, and Sons	His colour is fair and vermeil like the rose, his eyes dark and fine, his nose well formed and placed.	Kambalu				
 96	96	1	PART 1	9	97	The Person of Kublai-His Wives, Concubines, and Sons	He has four ladies, who always rank as his wives ; 	Kambalu				
@@ -112,8 +112,8 @@
 110	110	1	PART 1	9	111	The Person of Kublai-His Wives, Concubines, and Sons	and the fathers feel highly gratified when their daughters are thus selected.	Kambalu				
 111	111	1	PART 1	9	112	The Person of Kublai-His Wives, Concubines, and Sons	If, says one, my daughter is born under an auspicious planet, his majesty can best fulfil her destiny by marrying her more nobly than I can do.	Kambalu				
 112	112	1	PART 1	9	113	The Person of Kublai-His Wives, Concubines, and Sons	On the contrary, if the young lady, by bad conduct or any misfortune, be found disqualified, he attributes the disappointment to her malignant stars.	Kambalu				
-113	113	1	PART 1	9	114	The Person of Kublai-His Wives, Concubines, and Sons	Know, too, that the great khan has by his wives twenty-two sons ; 	Kambalu	Khan			
-114	114	1	PART 1	9	115	The Person of Kublai-His Wives, Concubines, and Sons	the elder was named Gyngym Khan, and was to be lord of all the empire after his father ; 	Kambalu	Gyngym Khan			
+113	113	1	PART 1	9	114	The Person of Kublai-His Wives, Concubines, and Sons	Know, too, that the great khan has by his wives twenty-two sons ; 	Kambalu	Khan			Khan
+114	114	1	PART 1	9	115	The Person of Kublai-His Wives, Concubines, and Sons	the elder was named Gyngym Khan, and was to be lord of all the empire after his father ; 	Kambalu	Gyngym Khan			Khan
 115	115	1	PART 1	9	116	The Person of Kublai-His Wives, Concubines, and Sons	but he died, leaving a son named Temur, who in time will succeed ; 	Kambalu	Temur			Temur
 116	116	1	PART 1	9	117	The Person of Kublai-His Wives, Concubines, and Sons	he is a wise and good man, tried in many battles.	Kambalu				
 117	117	1	PART 1	9	118	The Person of Kublai-His Wives, Concubines, and Sons	The monarch has also twenty-five sons by his concubines; 	Kambalu				
@@ -125,7 +125,7 @@
 123	123	1	PART 1	10	124	His magnificent Palace in Kambalu	It is a complete square, a mile long on every side, so that the whole is four miles in circuit ; 	Kambalu				
 124	124	1	PART 1	10	125	His magnificent Palace in Kambalu	and in each angle is a very fine edifice, containing bows, arrows, cords, saddles, bridles, and all other implements of war.	Kambalu				
 125	125	1	PART 1	10	126	His magnificent Palace in Kambalu	In the middle of the wall between these four edifices are others, making altogether eight, filled with stores, and each containing only a single article.	Kambalu				
-126	126	1	PART 1	10	127	His magnificent Palace in Kambalu	Towards the south are five gates, the middle one very large, never opened nor shut unless when the great khan is to pass through ; 	Kambalu	Khan			
+126	126	1	PART 1	10	127	His magnificent Palace in Kambalu	Towards the south are five gates, the middle one very large, never opened nor shut unless when the great khan is to pass through ; 	Kambalu	Khan			Khan
 127	127	1	PART 1	10	128	His magnificent Palace in Kambalu	while on the other side is one by which all enter in common.	Kambalu				
 128	128	1	PART 1	10	129	His magnificent Palace in Kambalu	Within that wall is another, containing eight edifices similarly constructed ; 	Kambalu				
 129	129	1	PART 1	10	130	His magnificent Palace in Kambalu	in which is lodged the wardrobe of the sovereign.	Kambalu				
@@ -145,7 +145,7 @@
 143	143	1	PART 1	10	144	His magnificent Palace in Kambalu	When he hears of a beautiful tree, he causes it to be dug up, with all the roots and the earth round it, and to be conveyed to him on the backs of elephants, whence the eminence has been made verdant all over, and is called the green mountain.	Kambalu				
 144	144	1	PART 1	10	145	His magnificent Palace in Kambalu	On the top is a palace, also covered with verdure ; 	Kambalu				
 145	145	1	PART 1	10	146	His magnificent Palace in Kambalu	it and the trees are so lovely that all who look upon them feel delight and joy.	Kambalu				
-146	146	1	PART 1	10	147	His magnificent Palace in Kambalu	In the vicinity is another palace, where resides the grandson of the great khan, Temur, who is to reign after him, and who follows the same life and customs as his grandsire.	Kambalu	Khan,Temur			Temur
+146	146	1	PART 1	10	147	His magnificent Palace in Kambalu	In the vicinity is another palace, where resides the grandson of the great khan, Temur, who is to reign after him, and who follows the same life and customs as his grandsire.	Kambalu	Khan,Temur			Temur ,Khan
 147	147	1	PART 1	10	148	His magnificent Palace in Kambalu	He has already a golden bull and the imperial seal ;	Kambalu				
 148	148	1	PART 1	10	149	His magnificent Palace in Kambalu	 but he has no authority while his grandfather lives.	Kambalu				
 149	149	1	PART 1	11	150	Description of the City of Kambalu	Having described to you the palaces, I will tell you of the great city of Cathay, which contains them.	Kambalu		Cathay	Cathay	
@@ -168,9 +168,9 @@
 166	166	1	PART 1	12	167	The Suburbs-Merchants	Numerous merchants, likewise, bring more than a thousand wagons laden with grain; 	Kambalu				
 167	167	1	PART 1	12	168	The Suburbs-Merchants	and all who are within a hundred miles of the city come thither to purchase what they want.	Kambalu				
 168	168	1	PART 1	13	169	Wicked Administration of Achmac-Insurrection	I will hereafter particularly mention a council of twelve persons, having power to dispose at will of the lands, governments, and all things belonging to the state.	Kambalu				
-169	169	1	PART 1	13	170	Wicked Administration of Achmac-Insurrection	One of these, a Saracen, named Achmac, had acquired an extraordinary influence with the great khan ; 	Kambalu	Achmac,Khan			Achmac
+169	169	1	PART 1	13	170	Wicked Administration of Achmac-Insurrection	One of these, a Saracen, named Achmac, had acquired an extraordinary influence with the great khan ; 	Kambalu	Achmac,Khan			Achmac ,Khan
 170	170	1	PART 1	13	171	Wicked Administration of Achmac-Insurrection	indeed his master was so infatuated with him that he allowed him the most uncontrolled license.	Kambalu				
-171	171	1	PART 1	13	172	Wicked Administration of Achmac-Insurrection	It was even discovered after his death that he had employed spells to fascinate the khan, and compel him to give full credit to what was told him by his favourite, who was thus enabled to conduct public affairs according to his pleasure.	Kambalu	Khan			
+171	171	1	PART 1	13	172	Wicked Administration of Achmac-Insurrection	It was even discovered after his death that he had employed spells to fascinate the khan, and compel him to give full credit to what was told him by his favourite, who was thus enabled to conduct public affairs according to his pleasure.	Kambalu	Khan			Khan
 172	172	1	PART 1	13	173	Wicked Administration of Achmac-Insurrection	"He disposed of all the commands and public offices; passed sentence upon offenders; and when desirous to inflict an injury on any one whom he hated, needed only to go to the emperor and say, ""such a man has been guilty of an offence against your majesty, and deserves death."""	Kambalu				
 173	173	1	PART 1	13	174	Wicked Administration of Achmac-Insurrection	The monarch usually replied, do as you judge best, and Achmac then ordered him to be immediately executed.	Kambalu	Achmac			Achmac
 174	174	1	PART 1	13	175	Wicked Administration of Achmac-Insurrection	So manifest were the proofs of his influence, and of the sovereign's implicit reliance on his statements, that no one dared to contradict him on any occasion ; 	Kambalu				
@@ -191,12 +191,12 @@
 189	189	1	PART 1	13	190	Wicked Administration of Achmac-Insurrection	During a period of twenty-two years, he exercised this absolute authority.	Kambalu				
 190	190	1	PART 1	13	191	Wicked Administration of Achmac-Insurrection	At length the Kataians, natives of the country, unable to endure longer his multiplied acts of injustice and violation of domestic rights, began to devise means of bringing about his death and the overthrow of the government.	Kambalu				
 191	191	1	PART 1	13	192	Wicked Administration of Achmac-Insurrection	Among the leading persons in this plot was Chenku, a commander of 6000 men, in whose family his dissolute conduct had spread dishonour.	Kambalu	Chenku			
-192	192	1	PART 1	13	193	Wicked Administration of Achmac-Insurrection	He proposed the measure to one of his nation, named Vanku, who commanded 10,000 men, and suggested for its execution the period when the great khan, having completed his three months' residence in Kambalu, should have departed for his palace at Shandu, while his son Gengis had also retired to the place usually visited by him at that season.	Kambalu	Vanku,Khan,Gengis	Kambalu,Shandu	Kambalu, Shandu	Gengis
+192	192	1	PART 1	13	193	Wicked Administration of Achmac-Insurrection	He proposed the measure to one of his nation, named Vanku, who commanded 10,000 men, and suggested for its execution the period when the great khan, having completed his three months' residence in Kambalu, should have departed for his palace at Shandu, while his son Gengis had also retired to the place usually visited by him at that season.	Kambalu	Vanku,Khan,Gengis	Kambalu,Shandu	Kambalu, Shandu	Gengis ,Khan
 193	193	1	PART 1	13	194	Wicked Administration of Achmac-Insurrection	The charge of the city was then intrusted to Achmac, who communicated all affairs that occurred during his master's absence, and received the necessary instructions.	Kambalu	Achmac			Achmac
 194	194	1	PART 1	13	195	Wicked Administration of Achmac-Insurrection	Vanku and Chenku, having thus consulted together, imparted the design to some leading persons among the Kataians, and also to their friends in various other cities.	Kambalu	Vanku,Chenku			
 195	195	1	PART 1	13	196	Wicked Administration of Achmac-Insurrection	They formed an agreement, that on a certain day, immediately on perceiving a signal made by fire, they should rise and put to death all persons wearing beards. 	Kambalu				
 196	196	1	PART 1	13	197	Wicked Administration of Achmac-Insurrection	This distinction was made because they themselves naturally wanted this appendage, which characterized the Tartars, the Saracens, and the Christians.	Kambalu				
-197	197	1	PART 1	13	198	Wicked Administration of Achmac-Insurrection	The grand khan, having acquired the sovereignty of Kataia, not by any legitimate right, but solely by force of arms, placed no confidence in the natives, and therefore intrusted ail the provincial governments to Tartars, Saracens, Christians, and other foreigners belonging to his household.	Kambalu	Khan	Kataia	Kataia, Kataia	
+197	197	1	PART 1	13	198	Wicked Administration of Achmac-Insurrection	The grand khan, having acquired the sovereignty of Kataia, not by any legitimate right, but solely by force of arms, placed no confidence in the natives, and therefore intrusted ail the provincial governments to Tartars, Saracens, Christians, and other foreigners belonging to his household.	Kambalu	Khan	Kataia	Kataia, Kataia	Khan
 198	198	1	PART 1	13	199	Wicked Administration of Achmac-Insurrection	From this cause his reign was universally detested by the people, who found themselves treated as slaves by the Tartars, and still worse by the Saracens.	Kambalu				
 199	199	1	PART 1	13	200	Wicked Administration of Achmac-Insurrection	Vanku and Chenku, having thus arranged their plans, succeeded at night in entering the palace; 	Kambalu	Vanku,Chenku			
 200	200	1	PART 1	13	201	Wicked Administration of Achmac-Insurrection	when the former placed himself on one of the royal seats, made the apartment be lighted up, and sent a messenger to Achmac, then residing in the old city.	Kambalu	Achmac			Achmac
@@ -212,7 +212,7 @@
 210	210	1	PART 1	13	211	Wicked Administration of Achmac-Insurrection	but, seeing this catastrophe, he exclaimed that treason was at work, and presently discharged an arrow, which slew Vanku as he sat upon the throne.	Kambalu	Vanku			
 211	211	1	PART 1	13	212	Wicked Administration of Achmac-Insurrection	He then caused his men to seize the other, and despatched an order to the city to kill every one who should be found abroad.	Kambalu				
 212	212	1	PART 1	13	213	Wicked Administration of Achmac-Insurrection	The Kataians, however, seeing the conspiracy discovered, one of their chiefs killed, and the survivor a prisoner, remained in their houses, and could not make the concerted signals to the other towns.	Kambalu				
-213	213	1	PART 1	13	214	Wicked Administration of Achmac-Insurrection	Kogatai lost no time in sending messengers with a particular relation of these events to the khan, who, in reply, ordered him diligently to investigate the conspiracy, and to punish according to the degree of their guilt those found implicated in it.	Kambalu	Kogatai,Khan			Kogatai
+213	213	1	PART 1	13	214	Wicked Administration of Achmac-Insurrection	Kogatai lost no time in sending messengers with a particular relation of these events to the khan, who, in reply, ordered him diligently to investigate the conspiracy, and to punish according to the degree of their guilt those found implicated in it.	Kambalu	Kogatai,Khan			Kogatai ,Khan
 214	214	1	PART 1	13	215	Wicked Administration of Achmac-Insurrection	Next day, after receiving this command, he examined all the Kataians, and inflicted the punishment of death on the ringleaders.	Kambalu				
 215	215	1	PART 1	13	216	Wicked Administration of Achmac-Insurrection	Other cities known to have participated in the guilt suffered similar inflictions.	Kambalu				
 216	216	1	PART 1	13	217	Wicked Administration of Achmac-Insurrection	When his majesty returned to Kambalu, he inquired eagerly into the cause of this disturbance, and learned that the infamous Achmac and seven of his sons (the others being less culpable) had committed several enormities.	Kambalu	Achmac	Kambalu	Kambalu	Achmac
@@ -223,55 +223,55 @@
 221	221	1	PART 1	13	222	Wicked Administration of Achmac-Insurrection	Summoning them to his presence, he forbade the continuance of many practices enjoined in their law, ordering that in future their marriages should be arranged according to the Tartar custom ; 	Kambalu				
 222	222	1	PART 1	13	223	Wicked Administration of Achmac-Insurrection	and that, in killing animals for food, instead of cutting their throats, they should rip open the stomach.	Kambalu				
 223	223	1	PART 1	13	224	Wicked Administration of Achmac-Insurrection	Marco Polo was on the spot when these events took place.	Kambalu	Marco Polo			Polo
-224	224	1	PART 1	14	225	Guards of the Great Khan	When the great khan holds a court, he is guarded, on account of his excellency and honour, by 12,000 horsemen, who are called quiesitan, that is, faithful servants of their lord; 	Kambalu	Khan			
+224	224	1	PART 1	14	225	Guards of the Great Khan	When the great khan holds a court, he is guarded, on account of his excellency and honour, by 12,000 horsemen, who are called quiesitan, that is, faithful servants of their lord; 	Kambalu	Khan			Khan
 225	225	1	PART 1	14	226	Guards of the Great Khan	and this he does not from fear but regard to his high dignity.	Kambalu				
 226	226	1	PART 1	14	227	Guards of the Great Khan	Over these 12,000 are four captains, so that each commands 3000; 	Kambalu				
 227	227	1	PART 1	14	228	Guards of the Great Khan	and they keep guard in turn three days and three nights, eating and drinking at the expense of the prince.	Kambalu				
 228	228	1	PART 1	14	229	Guards of the Great Khan	Then they go away, and another party comes ; 	Kambalu				
 229	229	1	PART 1	14	230	Guards of the Great Khan	and so they proceed throughout the whole year.	Kambalu				
-230	230	1	PART 1	15	231	The Magnificence of his Festivals	When the khan wishes to celebrate a splendid festival, the tables are so arranged that his is much higher than the others, and he sits on the north, with his face toward the south.	Kambalu	Khan			
+230	230	1	PART 1	15	231	The Magnificence of his Festivals	When the khan wishes to celebrate a splendid festival, the tables are so arranged that his is much higher than the others, and he sits on the north, with his face toward the south.	Kambalu	Khan			Khan
 231	231	1	PART 1	15	232	The Magnificence of his Festivals	His first wife is seated beside him on the left, while, on the right, are his sons and nephews, and all those of imperial lineage, who are so stationed that their head is on a level with the feet of the monarch.	Kambalu				
 232	232	1	PART 1	15	233	The Magnificence of his Festivals	The barons sit still lower; 	Kambalu				
-233	233	1	PART 1	15	234	The Magnificence of his Festivals	while the ladies, daughters, and female relations of the khan are placed beneath the queen on the left side, and under them all the wives of the barons ; 	Kambalu	Khan			
+233	233	1	PART 1	15	234	The Magnificence of his Festivals	while the ladies, daughters, and female relations of the khan are placed beneath the queen on the left side, and under them all the wives of the barons ; 	Kambalu	Khan			Khan
 234	234	1	PART 1	15	235	The Magnificence of his Festivals	every class knows the spot where they ought to sit.	Kambalu				
 235	235	1	PART 1	15	236	The Magnificence of his Festivals	The tables are so arranged that the monarch can see all the company, who are very numerous ; 	Kambalu				
 236	236	1	PART 1	15	237	The Magnificence of his Festivals	and outside of that hall there eat more than 40,000 persons, who have come with presents or remarkable objects from foreign parts, and attend on the days when he holds a court or celebrates a marriage.	Kambalu				
 237	237	1	PART 1	15	238	The Magnificence of his Festivals	In the midst of this hall is a very large vessel of fine gold, containing wine, and on each side two smaller ones, whence the liquor is poured out into flagons, each containing fully enough for eight men ; 	Kambalu				
 238	238	1	PART 1	15	239	The Magnificence of his Festivals	and one of these is placed between every two guests, who have besides separate cups of gold to drink out of.	Kambalu				
-239	239	1	PART 1	15	240	The Magnificence of his Festivals	This supply of plate is of very great value, and indeed the khan has so many vessels of gold and silver that none without seeing could possibly believe it.	Kambalu	Khan			
+239	239	1	PART 1	15	240	The Magnificence of his Festivals	This supply of plate is of very great value, and indeed the khan has so many vessels of gold and silver that none without seeing could possibly believe it.	Kambalu	Khan			Khan
 240	240	1	PART 1	15	241	The Magnificence of his Festivals	At each door of the great hall, or of any part of the palace occupied by his majesty, stand two officers of gigantic height, holding in their hands staves, to prevent persons who enter from touching the threshold.	Kambalu				
 241	241	1	PART 1	15	242	The Magnificence of his Festivals	If any one chances to commit this offence, they take from him his garment, which he must redeem by a payment, or if they spare his dress, inflict at least a number of blows fixed by authority.	Kambalu				
 242	242	1	PART 1	15	243	The Magnificence of his Festivals	As strangers may not be aware of this prohibition, officers are appointed to warn them of it at the time of introduction.	Kambalu				
 243	243	1	PART 1	15	244	The Magnificence of his Festivals	Since, however, some of the company, on leaving the hall, may be so affected with liquor as to be unable to guard against the accident, it is not then severely punished.	Kambalu				
-244	244	1	PART 1	15	245	The Magnificence of his Festivals	Those who serve the khan at table are great barons, who hold their mouths carefully wrapped in rich towels of silk and gold, that their breath may not blow upon the dishes.	Kambalu	Khan			
+244	244	1	PART 1	15	245	The Magnificence of his Festivals	Those who serve the khan at table are great barons, who hold their mouths carefully wrapped in rich towels of silk and gold, that their breath may not blow upon the dishes.	Kambalu	Khan			Khan
 245	245	1	PART 1	15	246	The Magnificence of his Festivals	When he begins to drink, all the instruments, which are very numerous, are sounded, and while the cup is in his hand, the barons and others present fall on their knees, and make signs of great humility ; 	Kambalu				
 246	246	1	PART 1	15	247	The Magnificence of his Festivals	this is done every time he drinks, or when new viands are brought in.	Kambalu				
 247	247	1	PART 1	15	248	The Magnificence of his Festivals	These I shall not attempt to recount, since any one may believe that he will have the greatest variety of beasts and birds, wild and domestic, and of fishes in their season, and in the greatest abundance, prepared most delicately in various modes suitable to his magnificence and dignity.	Kambalu				
 248	248	1	PART 1	15	249	The Magnificence of his Festivals	Every baron or knight brings his wife, and she sits at table along with the other ladies.	Kambalu				
 249	249	1	PART 1	15	250	The Magnificence of his Festivals	 When the great sire has eaten, and the tables are removed, a number of jesters, players, and other witty persons perform various pieces, exciting much mirth and pleasure among the company, who then all depart and go to their homes.	Kambalu				
 250	250	1	PART 1	16	251	Great Festival at the King's Birthday	The Tartars celebrate a festival on the day of their nativity.	Kambalu				
-251	251	1	PART 1	16	252	Great Festival at the King's Birthday	The birthday of the khan is on the 28th September, and is the greatest of all, except that at the beginning of the year.	Kambalu	Khan			
+251	251	1	PART 1	16	252	Great Festival at the King's Birthday	The birthday of the khan is on the 28th September, and is the greatest of all, except that at the beginning of the year.	Kambalu	Khan			Khan
 252	252	1	PART 1	16	253	Great Festival at the King's Birthday	On this occasion he clothes himself in robes of beaten gold, and his twelve barons and 12,000 soldiers wear like him dresses of a uniform colour and shape ;	Kambalu				
 253	253	1	PART 1	16	254	Great Festival at the King's Birthday	 not that they are so costly, but similarly made of silk, gilded, and bound by a cincture of gold.	Kambalu				
 254	254	1	PART 1	16	255	Great Festival at the King's Birthday	Many have these robes adorned with precious stones and pearls, so as to be worth 10,000 golden bezants.	Kambalu				
-255	255	1	PART 1	16	256	Great Festival at the King's Birthday	The great khan, twelve times in the year, presents to those barons and knights robes of the same colour with his own; 	Kambalu	Khan			
+255	255	1	PART 1	16	256	Great Festival at the King's Birthday	The great khan, twelve times in the year, presents to those barons and knights robes of the same colour with his own; 	Kambalu	Khan			Khan
 256	256	1	PART 1	16	257	Great Festival at the King's Birthday	and this is what no lord in the world can do.	Kambalu				
 257	257	1	PART 1	16	258	Great Festival at the King's Birthday	On the day of his nativity, all the Tartars from every province of the world, who hold lands under him, celebrate a festival, and bring presents suited to their station.	Kambalu				
 258	258	1	PART 1	16	259	Great Festival at the King's Birthday	The same is done by every individual who asks from him any favour or office.	Kambalu				
 259	259	1	PART 1	16	260	Great Festival at the King's Birthday	He has twelve barons who bestow commands on such persons as they think proper.	Kambalu				
 260	260	1	PART 1	16	261	Great Festival at the King's Birthday	On that day, the Christians, Saracens, and all the races of men who are subject to him, make prayers to their gods that they will preserve, and grant him a long, healthy, and happy life.	Kambalu				
 261	261	1	PART 1	16	262	Great Festival at the King's Birthday	I will tell you no more of this festival, but of another which they celebrate at the beginning of the year, called the White Feast.	Kambalu				
-262	262	1	PART 1	17	263	Festival of the New Year	The Tartars begin their year in February,when the khan and his people celebrate a feast, where all, both men and women, are clothed in white robes.	Kambalu	Khan			
+262	262	1	PART 1	17	263	Festival of the New Year	The Tartars begin their year in February,when the khan and his people celebrate a feast, where all, both men and women, are clothed in white robes.	Kambalu	Khan			Khan
 263	263	1	PART 1	17	264	Festival of the New Year	They consider these as signifying joy and good fortune, and that hence all prosperity will happen to them throughout the year.	Kambalu				
 264	264	1	PART 1	17	265	Festival of the New Year	On that day, all who hold land or any dominion under him, make the most magnificent presents in their power, consisting of gold, silver, pearls, precious stones, and rich white cloths; 	Kambalu				
 265	265	1	PART 1	17	266	Festival of the New Year	so that, during the whole year, he may have abundance of treasures, and of the means of enjoying himself.	Kambalu				
 266	266	1	PART 1	17	267	Festival of the New Year	They present also more than 5000 camels, with about 100,000 beautiful white horses.	Kambalu				
 267	267	1	PART 1	17	268	Festival of the New Year	On that day, too, he is gratified with at least 5000 elephants covered with cloths of silk and gold, finely wrought with figures of beasts and birds, and each having on his back a box filled with vessels of gold and silver, and other things necessary for the feast.	Kambalu				
-268	268	1	PART 1	17	269	Festival of the New Year	They all pass before the great khan, and form the most brilliant spectacle ever seen in this world.	Kambalu	Khan			
+268	268	1	PART 1	17	269	Festival of the New Year	They all pass before the great khan, and form the most brilliant spectacle ever seen in this world.	Kambalu	Khan			Khan
 269	269	1	PART 1	17	270	Festival of the New Year	In the morning of that festal day, before the tables are spread, the kings, generals, counts, astrologers, physicians, falconers, and many other officers and rulers, repair to the hall of the sovereign, and those who are not admitted remain without the palace in a place where the monarch can fully see them.	Kambalu				
 270	270	1	PART 1	17	271	Festival of the New Year	They are in the following order :-Foremost, his sons, nephews, and others of his lineage, then kings, generals, and others according to their rank.	Kambalu				
 271	271	1	PART 1	17	272	Festival of the New Year	"As soon as each has taken his place, a great prelate rises and says, with a loud voice,""incline and adore ;""ù and presently all bend down, strike their foreheads on the earth, and make prayers to their master, adoring him as a god."	Kambalu				
-272	272	1	PART 1	17	273	Festival of the New Year	This they do four times, and then go to an altar, on which is written the name of the great khan.	Kambalu	Khan			
+272	272	1	PART 1	17	273	Festival of the New Year	This they do four times, and then go to an altar, on which is written the name of the great khan.	Kambalu	Khan			Khan
 273	273	1	PART 1	17	274	Festival of the New Year	Then, out of a beautiful box, they pour incense on that table in reverence of him, and return to their place ; 	Kambalu				
 274	274	1	PART 1	17	275	Festival of the New Year	they next make those rich and valuable presents which I have described.	Kambalu				
 275	275	1	PART 1	17	276	Festival of the New Year	When all these things have been done, and the prince has seen them all, the tables are placed, and they sit down, when the feast is ordered and celebrated in the manner already explained.	Kambalu				
@@ -312,7 +312,7 @@
 310	310	1	PART 1	22	311	Falconry and the Chase after Birds	When the monarch goes upon these excursions, he has with him four elephants, and a chamber prepared, covered within with cloth of beaten gold, and outwardly with lions' skins, where he keeps twelve of his very best gerfalcons, with twelve barons to amuse him by their society.	Kambalu				
 311	311	1	PART 1	22	312	Falconry and the Chase after Birds	"As the falconers ride by, they call, ""Sire, the birds are passing,""ù when he throws open the chamber, and seeing the object, selects the gerfalcons that please him, and sends them forth against the birds, few of which ever escape."	Kambalu				
 312	312	1	PART 1	22	313	Falconry and the Chase after Birds	Lying on his couch, he can view and enjoy the chase.	Kambalu				
-313	313	1	PART 1	22	314	Falconry and the Chase after Birds	Thus, I think, there is not, and never will be, any lord in the world, who has or can have so much diversion as the great khan.	Kambalu	Khan			
+313	313	1	PART 1	22	314	Falconry and the Chase after Birds	Thus, I think, there is not, and never will be, any lord in the world, who has or can have so much diversion as the great khan.	Kambalu	Khan			Khan
 314	314	1	PART 1	23	315	Magnificent Tents of the Great Khan	When this mighty monarch comes to one of his places, named Chaccia, he causes his tents to be pitched, with those of his sons and barons.	Kambalu		Chaccia		
 315	315	1	PART 1	23	316	Magnificent Tents of the Great Khan	These exceed 10,000 in number, and are very beautiful and rich.	Kambalu				
 316	316	1	PART 1	23	317	Magnificent Tents of the Great Khan	That in which he keeps his court is so large that 1000 knights can dwell in it; 	Kambalu				
@@ -331,7 +331,7 @@
 329	329	1	PART 1	23	330	Magnificent Tents of the Great Khan	beyond that distance they may do what they please.	Kambalu				
 330	330	1	PART 1	23	331	Magnificent Tents of the Great Khan	No person, too, of whatever condition, must, from March to October, take any game, but leave them to multiply their kind ;	Kambalu				
 331	331	1	PART 1	23	332	Magnificent Tents of the Great Khan	 so that hares and stags become so fearless as frequently to come up to men, yet are not taken.	Kambalu				
-332	332	1	PART 1	23	333	Magnificent Tents of the Great Khan	The great khan then returns to the city of Kambalu by the same road, hawking and sporting.	Kambalu	Khan	Kambalu	Kambalu	
+332	332	1	PART 1	23	333	Magnificent Tents of the Great Khan	The great khan then returns to the city of Kambalu by the same road, hawking and sporting.	Kambalu	Khan	Kambalu	Kambalu	Khan
 333	333	1	PART 1	24	334	Hunting Palace at Shandu in Tartary	At Shandu in Tartary, near the western frontier of China, he has built a very large palace of marble and other valuable stones.	Kambalu		Shandu,Tartary,China	Shandu, China	
 334	334	1	PART 1	24	335	Hunting Palace at Shandu in Tartary	The halls are gilded all over and wonderfully beautiful, and a space sixteen miles in circuit is surrounded by a wall, within which are fountains, rivers, and meadows.	Kambalu				
 335	335	1	PART 1	24	336	Hunting Palace at Shandu in Tartary	Here he finds stags, deer, and wild-goats to give for food to the falcons and gerfalcons, which he keeps in cages, and goes out once a-week to sport with them.	Kambalu				
@@ -340,13 +340,13 @@
 338	338	1	PART 1	24	339	Hunting Palace at Shandu in Tartary	The roof is of the same material, and so richly varnished that no water can penetrate.	Kambalu				
 339	339	1	PART 1	24	340	Hunting Palace at Shandu in Tartary	I assure you these canes are more than three palms thick, and from ten to fifteen paceslong.	Kambalu				
 340	340	1	PART 1	24	341	Hunting Palace at Shandu in Tartary	They are cut lengthways, from onc knot to the other, and then arranged so as to form the roof.	Kambalu				
-341	341	1	PART 1	24	342	Hunting Palace at Shandu in Tartary	The whole structure is so disposed that the khan, when he pleases, can order it to be taken down, for it is supported by more than 200 cords of silk.	Kambalu	Khan			
+341	341	1	PART 1	24	342	Hunting Palace at Shandu in Tartary	The whole structure is so disposed that the khan, when he pleases, can order it to be taken down, for it is supported by more than 200 cords of silk.	Kambalu	Khan			Khan
 342	342	1	PART 1	24	343	Hunting Palace at Shandu in Tartary	His majesty remains there three months of the year, June, July, and August, the situation being cool and agreeable ; 	Kambalu				
 343	343	1	PART 1	24	344	Hunting Palace at Shandu in Tartary	and during this period his palace of cane is set up, while all the rest of the year it is down.	Kambalu				
 344	344	1	PART 1	24	345	Hunting Palace at Shandu in Tartary	On the 28th of August, he departs thence, and for the following purpose :-There are a race of mares white as snow, with no mixture of any other colour, and in number 10,000, whose milk must not be drunk by any one who is not of imperial lineage.	Kambalu				
-345	345	1	PART 1	24	346	Hunting Palace at Shandu in Tartary	Only one other race of men can drink it, called Boriat, because they gained a victory for Gengis Khan.	Kambalu	Gengis Khan			Gengis
+345	345	1	PART 1	24	346	Hunting Palace at Shandu in Tartary	Only one other race of men can drink it, called Boriat, because they gained a victory for Gengis Khan.	Kambalu	Gengis Khan			Gengis ,Khan
 346	346	1	PART 1	24	347	Hunting Palace at Shandu in Tartary	When one of these white animals is passing, the Tartars pay respect to it as to a great lord, standing by to make way for it.	Kambalu				
-347	347	1	PART 1	24	348	Hunting Palace at Shandu in Tartary	The astrologers and idolaters, too, have told the khan, that on the 28th August this milk must be sprinkled through the air, and over the earth, that the spirits may drink plentifully, and may preserve all that belong to him, men, women, beasts, birds, and other things.	Kambalu	Khan			
+347	347	1	PART 1	24	348	Hunting Palace at Shandu in Tartary	The astrologers and idolaters, too, have told the khan, that on the 28th August this milk must be sprinkled through the air, and over the earth, that the spirits may drink plentifully, and may preserve all that belong to him, men, women, beasts, birds, and other things.	Kambalu	Khan			Khan
 348	348	1	PART 1	24	349	Hunting Palace at Shandu in Tartary	But there is a wonderful circumstance that I had forgotten.	Kambalu				
 349	349	1	PART 1	24	350	Hunting Palace at Shandu in Tartary	When the monarch remained in that palace, and there came on rain, fog, or any bad weather, he had skilful astronomers and enchanters, who made these mischiefs fly away from his palace, so that none of them could approach it.	Kambalu				
 350	350	1	PART 1	24	351	Hunting Palace at Shandu in Tartary	These wise men are called Tebet and Quesmur,they are idolaters, and more skilful in diabolical arts and enchantments than any other generation; 	Kambalu				
@@ -358,7 +358,7 @@
 356	356	1	PART 1	24	357	Hunting Palace at Shandu in Tartary	and the fact is real and true, without any lie.	Kambalu				
 357	357	1	PART 1	24	358	Hunting Palace at Shandu in Tartary	"These baksi, when the festivals of their idols come round, go to his majesty and say, "" Great sire, you know the feast of such an idol approaches, and are aware that he can cause bad weather and much mischief to your cattle and grain. We pray,therefore,that you will give us all the sheep with black heads,also incense, aloe-wood, and such and such other things."""	Kambalu				
 358	358	1	PART 1	24	359	Hunting Palace at Shandu in Tartary	We pray, therefore, that you will give us all the sheep with black heads, also incense, aloe-wood, and such and such other things‚Äù.	Kambalu				
-359	359	1	PART 1	24	360	Hunting Palace at Shandu in Tartary	This they tell to the barons, who repeat it to the khan, and he gives what they demand.	Kambalu	Khan			
+359	359	1	PART 1	24	360	Hunting Palace at Shandu in Tartary	This they tell to the barons, who repeat it to the khan, and he gives what they demand.	Kambalu	Khan			Khan
 360	360	1	PART 1	24	361	Hunting Palace at Shandu in Tartary	Then they goto the image and raise in his presence a delicious fragrance, with incense and spices, cook the flesh, and place it with bread before him.	Kambalu				
 361	361	1	PART 1	24	362	Hunting Palace at Shandu in Tartary	Thus every god has his day of commemoration in the same manner as our saints.	Kambalu				
 362	362	1	PART 1	24	363	Hunting Palace at Shandu in Tartary	They have also extensive abbeys and monasteries, one of which here resembles a little city, containing upwards of 2000 monks, who are clothed in a particular dress, which is handsomer than that of other men.	Kambalu				
@@ -370,7 +370,7 @@
 368	368	1	PART 1	24	369	Hunting Palace at Shandu in Tartary	 they would not take a wife for any thing in the world.	Kambalu				
 369	369	1	PART 1	24	370	Hunting Palace at Shandu in Tartary	They shave the head and beard, wear black and blue dresses of coarse canvass, sleep upon mats, and lead the hardest life of any men on earth.	Kambalu				
 370	370	1	PART 1	24	371	Hunting Palace at Shandu in Tartary	Their monasteries and their idols all bear the names of women.	Kambalu				
-371	371	1	PART 1	25	372	Palace at Cianganor	At Cianganor, too, three days' journey distant, the khan has a large palace, where he is fond of residing, because there are many lakes and rivers, as well as fine plains, abounding in cranes, pheasants, partridges, and other birds.	Kambalu	Khan	Cianganor	Cianganor	
+371	371	1	PART 1	25	372	Palace at Cianganor	At Cianganor, too, three days' journey distant, the khan has a large palace, where he is fond of residing, because there are many lakes and rivers, as well as fine plains, abounding in cranes, pheasants, partridges, and other birds.	Kambalu	Khan	Cianganor	Cianganor	Khan
 372	372	1	PART 1	25	373	Palace at Cianganor	Here, therefore, he has delightful hawking, and abundant exercise for his falcons and gerfalcons.	Kambalu				
 373	373	1	PART 1	25	374	Palace at Cianganor	There are five kinds of cranes which I must describe.	Kambalu				
 374	374	1	PART 1	25	375	Palace at Cianganor	The first are black like crows, and very large.	Kambalu				
@@ -379,9 +379,9 @@
 377	377	1	PART 1	25	378	Palace at Cianganor	The third species resemble ours.	Kambalu				
 378	378	1	PART 1	25	379	Palace at Cianganor	The fourth are small, and have in their ears very magnificent red and black feathers.	Kambalu				
 379	379	1	PART 1	25	380	Palace at Cianganor	The fifth are all gray, with handsome red and black heads, and are very large.	Kambalu				
-380	380	1	PART 1	25	381	Palace at Cianganor	Near this city is a village where the khan has ordered the erection of various small houses, in which are kept flocks of partridges,and he employs a number of men to guard these birds, so that they are in abundance;	Kambalu	Khan			
+380	380	1	PART 1	25	381	Palace at Cianganor	Near this city is a village where the khan has ordered the erection of various small houses, in which are kept flocks of partridges,and he employs a number of men to guard these birds, so that they are in abundance;	Kambalu	Khan			Khan
 381	381	1	PART 1	25	382	Palace at Cianganor	and whenever he comes into this palace,he finds as many as he desires.	Kambalu				
-382	382	1	PART 1	26	383	Paper Money-Immense Wealth of the Great Khan	With regard to the money of Kambalu, the great khan may be called a perfect alchymist, for he makes it himself.	Kambalu	Khan	Kambalu	Kambalu	
+382	382	1	PART 1	26	383	Paper Money-Immense Wealth of the Great Khan	With regard to the money of Kambalu, the great khan may be called a perfect alchymist, for he makes it himself.	Kambalu	Khan	Kambalu	Kambalu	Khan
 383	383	1	PART 1	26	384	Paper Money-Immense Wealth of the Great Khan	He orders people to collect the bark of a certain tree, whose leaves are eaten by the worms that spin silk.	Kambalu				
 384	384	1	PART 1	26	385	Paper Money-Immense Wealth of the Great Khan	The thin rind between the bark and the interior wood is taken, and from it cards are formed like those of paper, all black.	Kambalu				
 385	385	1	PART 1	26	386	Paper Money-Immense Wealth of the Great Khan	He then causes them to be cut into pieces, and each is declared worth respectively half a livre, a whole one, a silver grosso of Venice, and so on to the value of ten bezants.	Kambalu		Venice	Venice	
@@ -396,14 +396,14 @@
 394	394	1	PART 1	26	395	Paper Money-Immense Wealth of the Great Khan	In this manner the great sire possesses all the gold, silver, pearls, and precious stones in his dominions.	Kambalu				
 395	395	1	PART 1	26	396	Paper Money-Immense Wealth of the Great Khan	When any of the cards are torn or spoiled, the owner carries them to the place whence they were issued, and receives fresh ones, with a deduction of 3 per cent.	Kambalu				
 396	396	1	PART 1	26	397	Paper Money-Immense Wealth of the Great Khan	If a man wishes gold or silver to make plate, girdles, or other ornaments, he goes to the office, carrying a sufficient number of cards, and gives them in payment for the quantity which he requires.	Kambalu				
-397	397	1	PART 1	26	398	Paper Money-Immense Wealth of the Great Khan	 This is the reason why the khan has more treasure than any other lord in the world; 	Kambalu	Khan			
+397	397	1	PART 1	26	398	Paper Money-Immense Wealth of the Great Khan	 This is the reason why the khan has more treasure than any other lord in the world; 	Kambalu	Khan			Khan
 398	398	1	PART 1	26	399	Paper Money-Immense Wealth of the Great Khan	nay, all the princes in the world together have not an equal amount.	Kambalu				
 399	399	1	PART 1	27	400	The Twelve Governors of Provinces and their Duty	He has appointed twelve very great barons, who hold command over all things in the thirty-four provinces.	Kambalu				
 400	400	1	PART 1	27	401	The Twelve Governors of Provinces and their Duty	They reside in a palace within the city of Kambalu, large and beautiful, containing many halls and apartments ; 	Kambalu		Kambalu	Kambalu	
 401	401	1	PART 1	27	402	The Twelve Governors of Provinces and their Duty	and for every province there is an agent and a number of writers or notaries, having each a house to himself.	Kambalu				
 402	402	1	PART 1	27	403	The Twelve Governors of Provinces and their Duty	They manage all the provincial affairs according to the will and pleasure of the twelve barons.	Kambalu				
 403	403	1	PART 1	27	404	The Twelve Governors of Provinces and their Duty	The latter have power to appoint the lords of the provinces above mentioned ; 	Kambalu				
-404	404	1	PART 1	27	405	The Twelve Governors of Provinces and their Duty	and having chosen the one whom they judge best qualified, they name him to the great khan, who confirms him, and bestows a golden tablet corresponding to his command.	Kambalu	Khan			
+404	404	1	PART 1	27	405	The Twelve Governors of Provinces and their Duty	and having chosen the one whom they judge best qualified, they name him to the great khan, who confirms him, and bestows a golden tablet corresponding to his command.	Kambalu	Khan			Khan
 405	405	1	PART 1	27	406	The Twelve Governors of Provinces and their Duty	These twelve barons are called in the Tartar language scieng, that is, the greater officers of state.	Kambalu				
 406	406	1	PART 1	27	407	The Twelve Governors of Provinces and their Duty	They order the army to go where and in what numbers they please, but all according to the commands of the great sire ; 	Kambalu				
 407	407	1	PART 1	27	408	The Twelve Governors of Provinces and their Duty	and they do every other thing necessary for the provinces.	Kambalu				
@@ -421,7 +421,7 @@
 419	419	1	PART 1	28	420	The Couriers of the Great Khan and their Stations	Moreover, in the intervals between these stations, at every three miles, are erected villages of about forty houses, inhabited by foot-runners, also employed on these despatches.	Kambalu				
 420	420	1	PART 1	28	421	The Couriers of the Great Khan and their Stations	They wear a large girdle, set round with bells, which are heard at a great distance.	Kambalu				
 421	421	1	PART 1	28	422	The Couriers of the Great Khan and their Stations	When one of them receives a letter or packet, he runs full speed to the next village, where his approach being announced by the bells, another is ready to start and proceed to the next, and soon.	Kambalu				
-422	422	1	PART 1	28	423	The Couriers of the Great Khan and their Stations	By these pedestrian messengers the khan receives news in one day and night from places distant ten days' journey; in two, from those distant twenty ; and in ten, from those distant a hundred.	Kambalu	Khan			
+422	422	1	PART 1	28	423	The Couriers of the Great Khan and their Stations	By these pedestrian messengers the khan receives news in one day and night from places distant ten days' journey; in two, from those distant twenty ; and in ten, from those distant a hundred.	Kambalu	Khan			Khan
 423	423	1	PART 1	28	424	The Couriers of the Great Khan and their Stations	From them he exacts no tribute, but gives them horses and many other things.	Kambalu				
 424	424	1	PART 1	28	425	The Couriers of the Great Khan and their Stations	When his messengers go on horseback to carry intelligence into the provinces or bring tidings from distant parts, and, more especially, respecting any district that has rebelled, they ride in one day and night 200, 260, or even 300 miles ; 	Kambalu				
 425	425	1	PART 1	28	426	The Couriers of the Great Khan and their Stations	and when there are two, they receive two good horses, bind themselves round the head and body, and gallop fall speed from one station to the next at twentyfive miles' distance, where they find two others fresh and ready harnessed, on which they proceed with the same rapidity.	Kambalu				
@@ -453,7 +453,7 @@
 451	451	1	PART 1	29	452	The Care and Bounty of the Monarch towards his Subjects	This is done whenever the nature of the soil admits of plantation ; 	Kambalu				
 452	452	1	PART 1	29	453	The Care and Bounty of the Monarch towards his Subjects	but when the route lies through sandy deserts or over rocky mountains, he has ordered stones to be set up, or columns erected, to guide the traveller.	Kambalu				
 453	453	1	PART 1	29	454	The Care and Bounty of the Monarch towards his Subjects	Officers of rank are appointed, whose duty it is to take care that these matters be properly arranged, and the roads kept constantly in good order.	Kambalu				
-454	454	1	PART 1	29	455	The Care and Bounty of the Monarch towards his Subjects	Besides other motives, the great khan is influenced by the declaration of his soothsayers and astrologers, that those who plant trees receive long life as their reward.	Kambalu	Khan			
+454	454	1	PART 1	29	455	The Care and Bounty of the Monarch towards his Subjects	Besides other motives, the great khan is influenced by the declaration of his soothsayers and astrologers, that those who plant trees receive long life as their reward.	Kambalu	Khan			Khan
 455	455	1	PART 1	30	456	Liquor used for Wine in Cathay	You must know that the greater part of the people of Cathay drink a wine made of rice and many good spices, and prepare it in such a way that it is more agreeable to drink than any other liquid.	Kambalu		Cathay	Cathay	
 456	456	1	PART 1	30	457	Liquor used for Wine in Cathay	It is clear and beautiful, and it makes a man drunk sooner than any other wine, for it is extremely hot.	Kambalu				
 457	457	1	PART 1	31	458	Stones which are burnt instead of Wood	It may be observed, also, that throughout the whole province of Cathay, there are a kind of black stones cut from the mountains in veins, which burn like logs.	Kambalu		Cathay	Cathay	
@@ -491,7 +491,7 @@
 489	489	1	PART 1	33	490	Religion and Customs of the Tartars (Chinese)	and should any child treat his with disrespect, or neglect to assist them, there is a public tribunal having for its especial object to punish the crime of -filial ingratitude.	Kambalu				
 490	490	1	PART 1	33	491	Religion and Customs of the Tartars (Chinese)	Malefactors, when found guilty, after being apprehended and thrown into prison, are strangled ; 	Kambalu				
 491	491	1	PART 1	33	492	Religion and Customs of the Tartars (Chinese)	but such as remain till the expiry of three years, a time appointed by his majesty for a general release, are set at liberty, having however a brand fixed on one of the cheeks, by which they may be recognised.	Kambalu				
-492	492	1	PART 1	33	493	Religion and Customs of the Tartars (Chinese)	The great khan has prohibited all gambling and other species of fraud, to which this people are addicted beyond any other upon earth; 	Kambalu	Khan			
+492	492	1	PART 1	33	493	Religion and Customs of the Tartars (Chinese)	The great khan has prohibited all gambling and other species of fraud, to which this people are addicted beyond any other upon earth; 	Kambalu	Khan			Khan
 493	493	1	PART 1	33	494	Religion and Customs of the Tartars (Chinese)	"and as a reason for this prohibition, he tells them in his edict, "" I subdued you by the power of my sword, and consequently whatever you possess belongs of right to me; in gambling, therefore, you sport with my property."""	Kambalu				
 494	494	1	PART 1	33	495	Religion and Customs of the Tartars (Chinese)	Yet he does not, by the right thus claimed, take any thing on an arbitrary principle.	Kambalu				
 495	495	1	PART 1	33	496	Religion and Customs of the Tartars (Chinese)	The orderly and regular manner in which all ranks present themselves before him deserves notice.	Kambalu				
@@ -500,7 +500,7 @@
 498	498	1	PART 1	33	499	Religion and Customs of the Tartars (Chinese)	and having done so, he replaces the cover, and makes a bow.	Kambalu				
 499	499	1	PART 1	33	500	Religion and Customs of the Tartars (Chinese)	They usually take with them handsome buskins of white leather, and on reaching the court, before entering the hall, where they wait to be summoned by his majesty, put them on, giving those worn in walking to the care of the servants.	Kambalu				
 500	500	1	PART 1	33	501	Religion and Customs of the Tartars (Chinese)	This precaution is taken that they may not sully the beautiful carpets, curiously wrought with silk and gold, and exhibiting a variety of colours.	Kambalu				
-501	501	1	PART 1	34	502	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	I have now to inform you that the great khan having sent Messer Marco as his ambassador into the western provinces, he departed from Kambalu, and travelled in that direction full four months.	Pulisangan 	Khan,Messer Marco	Kambalu	Kambalu	
+501	501	1	PART 1	34	502	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	I have now to inform you that the great khan having sent Messer Marco as his ambassador into the western provinces, he departed from Kambalu, and travelled in that direction full four months.	Pulisangan 	Khan,Messer Marco	Kambalu	Kambalu	Khan
 502	502	1	PART 1	34	503	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	You shall now hear all that he saw on that journey going and returning.					
 503	503	1	PART 1	34	504	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	When a man leaves Kambalu and has gone ten miles, he finds a river called Pulisangan, which flows on to the ocean, and is crossed by many merchants with their goods.			Kambalu,Pulisangan	Kambalu, Pulisangan	
 504	504	1	PART 1	34	505	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	 Over it is a grand stone bridge, which has not its equal in the world ; 					
@@ -522,7 +522,7 @@
 520	520	1	PART 1	36	521	The Cities of Ta-in-fu and Pi-an-fu	The merchants are constantly carrying their goods from one to another, as fairs are successively held at each.					
 521	521	1	PART 1	36	522	The Cities of Ta-in-fu and Pi-an-fu	Five days' journey beyond the ten already mentioned, there is said to be another city still larger and handsomer, named Achbaluch, where are the limits of his majesty's hunting-ground, within which no person must sport, except princes of his family, and others whose names are inscribed on the grand falconer's list ; 			Achbaluch		
 522	522	1	PART 1	36	523	The Cities of Ta-in-fu and Pi-an-fu	beyond, all persons qualified by their rank have that liberty.					
-523	523	1	PART 1	36	524	The Cities of Ta-in-fu and Pi-an-fu	The khan scarcely ever follows the chase in this quarter; 		Khan			
+523	523	1	PART 1	36	524	The Cities of Ta-in-fu and Pi-an-fu	The khan scarcely ever follows the chase in this quarter; 		Khan			Khan
 524	524	1	PART 1	36	525	The Cities of Ta-in-fu and Pi-an-fu	hence the wild animals, especially hares, multiply to such a degree, as to cause the destruction of all the growing corn.					
 525	525	1	PART 1	36	526	The Cities of Ta-in-fu and Pi-an-fu	This having come to his knowledge, he was induced to repair thither with his whole court, and prodigious quantities of game were then taken.					
 526	526	1	PART 1	36	527	The Cities of Ta-in-fu and Pi-an-fu	Leaving Ta-in-fu, and riding westward full seven days through very fine districts, amid numerous merchants, you find a large town, named Pi-an-fu,supported by commerce and the silk manufacture.			Ta-in-fu,Pi-an-fu	Pi-an-fu	
@@ -563,7 +563,7 @@
 561	561	1	PART 1	39	562	The City of Quen-gian-fu	and the whole country is full of mulberries, producing abundance of silk.					
 562	562	1	PART 1	39	563	The City of Quen-gian-fu	The men are idolaters and live by labouring the ground, hunting, and hawking.					
 563	563	1	PART 1	39	564	The City of Quen-gian-fu	At the end of the eight days he comes to the noble city of Quen-gian-fu,capital of a kingdom anciently magnificent and powerful, and which had many noble and valiant kings.			 Quen-gian-fu	Quen-gian-fu	
-564	564	1	PART 1	39	565	The City of Quen-gian-fu	At present the crown is held by Mangalu, a son of the great khan.		Mangalu,Khan			Mangalu
+564	564	1	PART 1	39	565	The City of Quen-gian-fu	At present the crown is held by Mangalu, a son of the great khan.		Mangalu,Khan			Mangalu ,Khan
 565	565	1	PART 1	39	566	The City of Quen-gian-fu	That city is rich in merchandise and manufactures, particularly of implements for the supply of an army; 					
 566	566	1	PART 1	39	567	The City of Quen-gian-fu	likewise every thing necessary for the subsistence of man.					
 567	567	1	PART 1	39	568	The City of Quen-gian-fu	The people are all idolaters.					
@@ -586,7 +586,7 @@
 584	584	1	PART 1	42	585	The Province of Achalech-Manji	The capital, bearing the same name, was anciently very great and noble, governed by a mighty and wealthy sovereign.					
 585	585	1	PART 1	42	586	The Province of Achalech-Manji	He died, leaving three sons, who divided the city into three parts, and each enclosed his portion with a wall, which was within the great wall of twenty miles in circuit.					
 586	586	1	PART 1	42	587	The Province of Achalech-Manji	They ranked still as kings, and had ample possessions ; 					
-587	587	1	PART 1	42	588	The Province of Achalech-Manji	but the great khan overcame them, and took full possession of their territory.		Khan			
+587	587	1	PART 1	42	588	The Province of Achalech-Manji	but the great khan overcame them, and took full possession of their territory.		Khan			Khan
 588	588	1	PART 1	42	589	The Province of Achalech-Manji	Through the city, a large river of fresh water, abounding with fish, passes and flows on to the ocean, distant eighty or a hundred days' journey ; it is called Quian-su.			Quian-su		
 589	589	1	PART 1	42	590	The Province of Achalech-Manji	On that current is a very great number of cities and castles, and such a multitude of ships, as no one who has not seen could possibly believe.					
 590	590	1	PART 1	42	591	The Province of Achalech-Manji	Equally wonderful is the quantity of merchandise conveyed ; 					
@@ -595,7 +595,7 @@
 593	593	1	PART 1	42	594	The Province of Achalech-Manji	the upper part is supported by marble columns, and richly painted ; 					
 594	594	1	PART 1	42	595	The Province of Achalech-Manji	and upon it are many houses where merchants expose goods for sale ; 					
 595	595	1	PART 1	42	596	The Province of Achalech-Manji	but these are set up in the morning and taken down in the evening.					
-596	596	1	PART 1	42	597	The Province of Achalech-Manji	At one of them, larger than the others, stands the chamberlain of the khan, who receives the duty on the merchandise sold, which is worth annually a thousand golden bezants.		Khan			
+596	596	1	PART 1	42	597	The Province of Achalech-Manji	At one of them, larger than the others, stands the chamberlain of the khan, who receives the duty on the merchandise sold, which is worth annually a thousand golden bezants.		Khan			Khan
 597	597	1	PART 1	42	598	The Province of Achalech-Manji	The inhabitants are all idolaters ; 					
 598	598	1	PART 1	42	599	The Province of Achalech-Manji	and from that city a man goes five days' journey through castles, villages, and scattered houses.					
 599	599	1	PART 1	42	600	The Province of Achalech-Manji	The people subsist by agriculture, and the tract abounds with wild beasts.					
@@ -610,7 +610,7 @@
 608	608	1	PART 1	43	609	The Province of Achalech-Manji	Here are made camlets, and other cloths of silk and gold.					
 609	609	1	PART 1	43	610	The Province of Achalech-Manji	There are very skilful enchanters and astrologers, but extremely wicked men, who perform works of the devil, which it were unlawful to relate, they would strike with such amazement.					
 610	610	1	PART 1	43	611	The Province of Achalech-Manji	They have mastiff dogs as largeas asses, and excellent in taking wild animals.					
-611	611	1	PART 1	43	612	The Province of Achalech-Manji	This province was entirely destroyed by Mangou, the fifth great khan, in his wars; 		Mangou,Khan			Mangou
+611	611	1	PART 1	43	612	The Province of Achalech-Manji	This province was entirely destroyed by Mangou, the fifth great khan, in his wars; 		Mangou,Khan			Mangou ,Khan
 612	612	1	PART 1	43	613	The Province of Achalech-Manji	and its many villages and castles are all demolished.					
 613	613	1	PART 1	43	614	The Province of Achalech-Manji	Here grow large canes, fifteen paces long and four palms thick, while from one knot to the other is full three palms.					
 614	614	1	PART 1	43	615	The Province of Achalech-Manji	The merchants and travellers, who pass through that country in the night, take these canes and set them on fire, when they make such a loud crackling noise that lions, bears, and other destructive animals are terrified, and dare not approach.					
@@ -633,11 +633,11 @@
 631	631	1	PART 1	44	632	Another Part of Thibet	They live on the fruits of the earth, but mostly by hunting and falconry ; 					
 632	632	1	PART 1	44	633	Another Part of Thibet	and the country contains many of those animals which produce musk, and are called in the Tartar language gudderi.					
 633	633	1	PART 1	44	634	Another Part of Thibet	That sinful people have many good dogs,which they employ in the pursuit of wild animals.					
-634	634	1	PART 1	44	635	Another Part of Thibet	They have neither the cards nor money circulated by the great khan, but make money of salt.		Khan			
+634	634	1	PART 1	44	635	Another Part of Thibet	They have neither the cards nor money circulated by the great khan, but make money of salt.		Khan			Khan
 635	635	1	PART 1	44	636	Another Part of Thibet	They are poorly clad with the skins of beasts, canvass, and buckram ; 					
 636	636	1	PART 1	44	637	Another Part of Thibet	they have a language of their own, which they call Tebet.					
 637	637	1	PART 1	44	638	Another Part of Thibet	Now I will tell you of Kain-du.			Kain-du	Kain-du	
-638	638	1	PART 1	45	639	The Province of Kain-du	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great khan.	Brius River	Khan			
+638	638	1	PART 1	45	639	The Province of Kain-du	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great khan.	Brius River	Khan			Khan
 639	639	1	PART 1	45	640	The Province of Kain-du	It contains a number of cities and castles, with a lake, in which are found many pearls; 					
 640	640	1	PART 1	45	641	The Province of Kain-du	but the monarch forbids them, under a severe penalty, to be removed except for his own use ;					
 641	641	1	PART 1	45	642	The Province of Kain-du	 because, if any one were allowed to take them, they would become worth almost nothing.					
@@ -662,7 +662,7 @@
 660	660	1	PART 1	45	661	The Province of Kain-du	it flows on to the ocean.					
 661	661	1	PART 1	45	662	The Province of Kain-du	Now let us tell you of Caraian.			Caraian	Caraian	
 662	662	1	PART 1	46	663	The Province of Caraian	When a man has departed and crossed the river, he enters this province, which is large, and contains seven kingdoms extending westward.	Caraian, Yaci				
-663	663	1	PART 1	46	664	The Province of Caraian	The people are all idolaters, and under the dominion of the great khan.		Khan			
+663	663	1	PART 1	46	664	The Province of Caraian	The people are all idolaters, and under the dominion of the great khan.		Khan			Khan
 664	664	1	PART 1	46	665	The Province of Caraian	The king is a son of his, named Essetemur, and is great, rich, and powerful.		Essetemur			
 665	665	1	PART 1	46	666	The Province of Caraian	He is also brave and upright, ruling his country with much justice.					
 666	666	1	PART 1	46	667	The Province of Caraian	When the traveller has crossed the river, he passes, during a journey of five days, through a country where there is abundance of cities and castles, with many very good horses ; 					
@@ -680,7 +680,7 @@
 678	678	1	PART 1	46	679	The Province of Caraian	for the poor people go to the market and get it newly taken from the animal, put it in garlic sauce, then eat it; 					
 679	679	1	PART 1	46	680	The Province of Caraian	the rich likewise eat it raw, but previously cut into small pieces, and the sauce mixed with good spices.					
 680	680	1	PART 1	47	681	The Province of Caraian	When a man leaves Yaci, or Chiaci, and goes ten days westward, he finds the province of Karazan, with a capital of the same name.	Karazan		Yaci,Chiaci,Karazan	Yaci, Karazan	
-681	681	1	PART 1	47	682	The Province of Caraian	The people are all idolaters, and subject to the great khan; 		Khan			
+681	681	1	PART 1	47	682	The Province of Caraian	The people are all idolaters, and subject to the great khan; 		Khan			Khan
 682	682	1	PART 1	47	683	The Province of Caraian	the king is a son of that monarch, named Kogatin.		Kogatin			
 683	683	1	PART 1	47	684	The Province of Caraian	Gold dust is found in the river, and on the mountains in large pieces so abundantly that a bar is given for six of silver.					
 684	684	1	PART 1	47	685	The Province of Caraian	The porcelain, too, formerly described circulates for money, but is procured from India.			India		
@@ -700,11 +700,11 @@
 698	698	1	PART 1	47	699	The Province of Karazan and its great Serpents	Here, too, are very large horses, which are carried into India to be sold.			India		
 699	699	1	PART 1	47	700	The Province of Karazan and its great Serpents	They cut two or three nerves from the tail, so that they may not strike with it the man who rides, which is considered disgraceful.					
 700	700	1	PART 1	47	701	The Province of Karazan and its great Serpents	These people ride like the French, with long staffs, have arms covered with buffalo hide, and carry lances, spears, and poisoned arrows.					
-701	701	1	PART 1	47	702	The Province of Karazan and its great Serpents	Before the great khan conquered them they had a wicked custom, that when any stranger came to lodge with them who was agreeable, wise, and opulent, they killed him during the night by poison or some other mode.		Khan			
+701	701	1	PART 1	47	702	The Province of Karazan and its great Serpents	Before the great khan conquered them they had a wicked custom, that when any stranger came to lodge with them who was agreeable, wise, and opulent, they killed him during the night by poison or some other mode.		Khan			Khan
 702	702	1	PART 1	47	703	The Province of Karazan and its great Serpents	This was not out of enmity or with the view of taking his money, but because they imagined that his wisdom and other good qualities would thus remain with them.					
 703	703	1	PART 1	47	704	The Province of Karazan and its great Serpents	However, about thirty-five years ago, after that monarch conquered the country, he prohibited this crime, which, from fear of him, they no longer commit.					
 704	704	1	PART 1	47	705	The Province of Karazan and its great Serpents	Now let us tell of another province called Kardandan.			Kardandan	Kardandan	
-705	705	1	PART 1	48	706	The Province of Kardandan	When a man departs from Karazan, and travels to the westward, he enters a province named Kardandan, inhabited by idolaters, and subject to the great khan.	Kardanan,Vociam	Khan	Karazan,Kardandan	Karazan, Kardandan	
+705	705	1	PART 1	48	706	The Province of Kardandan	When a man departs from Karazan, and travels to the westward, he enters a province named Kardandan, inhabited by idolaters, and subject to the great khan.	Kardanan,Vociam	Khan	Karazan,Kardandan	Karazan, Kardandan	Khan
 706	706	1	PART 1	48	707	The Province of Kardandan	The chief city is called Vociam.			Vociam	Vociam	
 707	707	1	PART 1	48	708	The Province of Kardandan	All the people have their teeth, both upper and lower, covered with gold, which thus appear to be made of that metal.					
 708	708	1	PART 1	48	709	The Province of Kardandan	The men are soldiers, and regard nothing but war; 					
@@ -735,11 +735,11 @@
 733	733	1	PART 1	48	734	The Province of Kardandan	"This order is obeyed, when he says, ""he is pardoned, and will be immediately cured""."					
 734	734	1	PART 1	48	735	The Province of Kardandan	"The company then exclaim,""the spirit is on our side,"" and having eaten the sheep and drunk the pottage with great joy and festivity, they return to their homes."					
 735	735	1	PART 1	49	736	Of the great Battle fought between the Tartars and the King of Mien	Now I must mention a very great battle which was fought in the kingdom of Vociam, and you shall hear all how it happened.	Vociam		Vociam	Vociam	
-736	736	1	PART 1	49	737	Of the great Battle fought between the Tartars and the King of Mien	In the year of our Lord 1272, the great khan sent a mighty captain, named Nescardin, with 12,000 men, to defend the province of Caraian.		Khan,Nescardin	Caraian	Caraian	Nescardin
+736	736	1	PART 1	49	737	Of the great Battle fought between the Tartars and the King of Mien	In the year of our Lord 1272, the great khan sent a mighty captain, named Nescardin, with 12,000 men, to defend the province of Caraian.		Khan,Nescardin	Caraian	Caraian	Nescardin ,Khan
 737	737	1	PART 1	49	738	Of the great Battle fought between the Tartars and the King of Mien	He was a prudent man, very strong in arms and skilful in war ; 					
 738	738	1	PART 1	49	739	Of the great Battle fought between the Tartars and the King of Mien	and the soldiers with him were good and very brave warriors.					
 739	739	1	PART 1	49	740	Of the great Battle fought between the Tartars and the King of Mien	Now the King of Mien and of Bangala were afraid lest he should invade their territory ; 			Mien,Bangala	Mien, Bangala	
-740	740	1	PART 1	49	741	Of the great Battle fought between the Tartars and the King of Mien	yet they thought they were able to overcome and destroy the whole army in such a manner that the great khan might never feel inclined to send another into the same quarter.		Khan			
+740	740	1	PART 1	49	741	Of the great Battle fought between the Tartars and the King of Mien	yet they thought they were able to overcome and destroy the whole army in such a manner that the great khan might never feel inclined to send another into the same quarter.		Khan			Khan
 741	741	1	PART 1	49	742	Of the great Battle fought between the Tartars and the King of Mien	They assembled, therefore, 60,000 horse and foot, with 2000 elephants, each of which had on its back a castle well fortified and defended by twelve, fourteen, or sixteen men.					
 742	742	1	PART 1	49	743	Of the great Battle fought between the Tartars and the King of Mien	The King of Mien came with the above army to the city of Vociam, where was the array of the Tartars, and took post in a plain at the distance of three days' journey.			Mien,Vociam	Mien, Vociam	
 743	743	1	PART 1	49	744	Of the great Battle fought between the Tartars and the King of Mien	Nescardin was somewhat alarmed, considering how small a force he had in comparison with the host of the King of Mien; 		Nescardin	Mien	Mien	Nescardin
@@ -762,7 +762,7 @@
 760	760	1	PART 1	49	761	Of the great Battle fought between the Tartars and the King of Mien	When satisfied with pursuit, they returned to the wood to catch the elephants.					
 761	761	1	PART 1	49	762	Of the great Battle fought between the Tartars and the King of Mien	They endeavoured to stop the flight of these animals by cutting down the trees and laying them across; 					
 762	762	1	PART 1	49	763	Of the great Battle fought between the Tartars and the King of Mien	yet they are so intelligent, that the soldiers would not have succeeded but for the aid of some of the captives taken in battle, through whose means they were able to recover two hundred.					
-763	763	1	PART 1	49	764	Of the great Battle fought between the Tartars and the King of Mien	From this time the great khan began to employ elephants in his army, which he had not hither to done.		Khan			
+763	763	1	PART 1	49	764	Of the great Battle fought between the Tartars and the King of Mien	From this time the great khan began to employ elephants in his army, which he had not hither to done.		Khan			Khan
 764	764	1	PART 1	49	765	Of the great Battle fought between the Tartars and the King of Mien	Afterwards that monarch conquered the lands of Mien, and added them to his dominion.			Mien	Mien	
 765	765	1	PART 1	50	766	Of the great Battle fought between the Tartars and the King of Mien	When you have departed from the said province of Caraian, there begins a great descent, which continues for two days and a half;	Anniz		Caraian	Caraian	
 766	766	1	PART 1	50	767	Of the great Battle fought between the Tartars and the King of Mien	and in all this journey nothing occurs worthy of notice, except that there is a great space in which a market is held on certain days of the year.					
@@ -771,7 +771,7 @@
 769	769	1	PART 1	50	770	Of the great Battle fought between the Tartars and the King of Mien	None but those who bring the gold can penetrate into the countries where it is produced, so difficult and intricate are the roads. 					
 770	770	1	PART 1	50	771	Of the great Battle fought between the Tartars and the King of Mien	When a man has travelled these two days and a half, he comes to a district which is called Anniz, on the borders of India, towards the south, and then he goes for fifteen days through a region covered with woods filled with elephants, unicorns, and other savage beasts, but not containing any human habitation.			Anniz,India		
 771	771	1	PART 1	51	772	Of the City of Mien, and the most beautiful Tomb of the the King	At the termination of these wild and pathless tracts is a large and noble city called Mien, the capital of the province.	Mien		Mien	Mien	
-772	772	1	PART 1	51	773	Of the City of Mien, and the most beautiful Tomb of the the King	The people are all idolaters, with a language peculiar to themselves, and are subject to the great khan.		Khan			
+772	772	1	PART 1	51	773	Of the City of Mien, and the most beautiful Tomb of the the King	The people are all idolaters, with a language peculiar to themselves, and are subject to the great khan.		Khan			Khan
 773	773	1	PART 1	51	774	Of the City of Mien, and the most beautiful Tomb of the the King	About this city I will tell you a thing very remarkable.					
 774	774	1	PART 1	51	775	Of the City of Mien, and the most beautiful Tomb of the the King	There was anciently in it a rich and powerful king, who, being about to die, commanded that on his tomb should be erected two towers, one of gold, and the other of silver.					
 775	775	1	PART 1	51	776	Of the City of Mien, and the most beautiful Tomb of the the King	They are full ten paces high, and of a suitable thickness ; 					
@@ -780,21 +780,21 @@
 778	778	1	PART 1	51	779	Of the City of Mien, and the most beautiful Tomb of the the King	The other tower is similarly formed, but is coated with silver, and has silver bells.					
 779	779	1	PART 1	51	780	Of the City of Mien, and the most beautiful Tomb of the the King	By these buildings the king intentled to display his greatness and dignity, and they are the most beautiful and valuable to be seen in the world.					
 780	780	1	PART 1	51	781	Of the City of Mien, and the most beautiful Tomb of the the King	Between them he caused the sepulchre to be constructed, where he is now buried.					
-781	781	1	PART 1	51	782	Of the City of Mien, and the most beautiful Tomb of the the King	When the great khan conquered that city, he desired all the players and buffoons, of whom there were a great number in his court, to go and achieve the conquest, offering them a captain and some warlike aid.		Khan			
+781	781	1	PART 1	51	782	Of the City of Mien, and the most beautiful Tomb of the the King	When the great khan conquered that city, he desired all the players and buffoons, of whom there were a great number in his court, to go and achieve the conquest, offering them a captain and some warlike aid.		Khan			Khan
 782	782	1	PART 1	51	783	Of the City of Mien, and the most beautiful Tomb of the the King	The jesters willingly undertook the affair, and setting out with the proffered assistance, subdued this province of Mien.			Mien	Mien	
-783	783	1	PART 1	51	784	Of the City of Mien, and the most beautiful Tomb of the the King	When they came to that noble city, and saw these splendid edifices, they admired exceedingly, and sent to the great khan an account of their beauty, and of the manner in which they were constructed, asking if he wished them to be demolished, and the gold and silver sent to him.		Khan			
+783	783	1	PART 1	51	784	Of the City of Mien, and the most beautiful Tomb of the the King	When they came to that noble city, and saw these splendid edifices, they admired exceedingly, and sent to the great khan an account of their beauty, and of the manner in which they were constructed, asking if he wished them to be demolished, and the gold and silver sent to him.		Khan			Khan
 784	784	1	PART 1	51	785	Of the City of Mien, and the most beautiful Tomb of the the King	The monarch, on hearing this, commanded that they should not be destroyed, since the king had erected them to commemorate his greatness, and no Tartar touches any thing belonging to a dead man.					
 785	785	1	PART 1	51	786	Of the City of Mien, and the most beautiful Tomb of the the King	They were therefore to continue in the same condition as they now stood.					
 786	786	1	PART 1	51	787	Of the City of Mien, and the most beautiful Tomb of the the King	This province contains elephants, wild oxen large and beautiful, stags, deer, and other animals.					
 787	787	1	PART 1	51	788	Of the City of Mien, and the most beautiful Tomb of the the King	 Now, let me tell you of another which is called Bangala.			Bangala	Bangala	
-788	788	1	PART 1	52	789	Of the Province of Bangala	This is a province towards the south, which, in the year 1290, while I, Marco, was at the court of the great khan, was not yet conquered, but the army was there, ready to march for that purpose.	Bangala	Marco,Khan			
+788	788	1	PART 1	52	789	Of the Province of Bangala	This is a province towards the south, which, in the year 1290, while I, Marco, was at the court of the great khan, was not yet conquered, but the army was there, ready to march for that purpose.	Bangala	Marco,Khan			Khan
 789	789	1	PART 1	52	790	Of the Province of Bangala	It has a king and languages of its own, and the people are most wicked idolaters.					
 790	790	1	PART 1	52	791	Of the Province of Bangala	They are on the confines of India.			India		
 791	791	1	PART 1	52	792	Of the Province of Bangala	The barons and lords of that country have oxen as tall as elephants, but not so weighty ; and live on flesh and rice.					
 792	792	1	PART 1	52	793	Of the Province of Bangala	They have great abundance of silk, with which they carry on extensive manufactures ; also ginger, sugar, and many other costly spices.					
 793	793	1	PART 1	52	794	Of the Province of Bangala	This place is visited by numerous merchants, who purchase slaves, make them eunuchs, and then either sell or convey them to other places.					
 794	794	1	PART 1	53	795	Of the Province of Kangigu	Kangigu is a province towards the east, subject to a king; 	Kangigu		Kangigu	Kangigu	
-795	795	1	PART 1	53	796	Of the Province of Kangigu	the people are all idolaters; have a language of their own ; and owning the supremacy of the great khan, they pay him an annual tribute.		Khan			
+795	795	1	PART 1	53	796	Of the Province of Kangigu	the people are all idolaters; have a language of their own ; and owning the supremacy of the great khan, they pay him an annual tribute.		Khan			Khan
 796	796	1	PART 1	53	797	Of the Province of Kangigu	The king is so luxurious as to have 300 wives, for as soon as he hears of a beautiful woman in the country he takes her to himself.					
 797	797	1	PART 1	53	798	Of the Province of Kangigu	The people have much gold and many precious spices ; 					
 798	798	1	PART 1	53	799	Of the Province of Kangigu	but being far from the sea, their commodities do not bring the full value.					
@@ -803,7 +803,7 @@
 801	801	1	PART 1	53	802	Of the Province of Kangigu	In this manner they stain their neck, breast, hands, limbs, and indeed their whole person.					
 802	802	1	PART 1	53	803	Of the Province of Kangigu	This is considered extremely genteel, and the more any one is painted, the higher is his rank considered.					
 803	803	1	PART 1	53	804	Of the Province of Kangigu	Now let us tell you of another province named Amu.			Amu	Amu	
-804	804	1	PART 1	54	805	Of the Province of Amu	Amu is also a province towards the east, subject to the great khan.	Amu	Khan	Amu	Amu	
+804	804	1	PART 1	54	805	Of the Province of Amu	Amu is also a province towards the east, subject to the great khan.	Amu	Khan	Amu	Amu	Khan
 805	805	1	PART 1	54	806	Of the Province of Amu	The people are idolaters, live by pasturage and agriculture, and have a language of their own.					
 806	806	1	PART 1	54	807	Of the Province of Amu	The ladies wear on their arms and legs valuable bracelets of gold and silver, and the men have these still finer and rarer.					
 807	807	1	PART 1	54	808	Of the Province of Amu	They have good horses in considerable numbers, many of which the Indians purchase and sell again to much advantage.					
@@ -812,7 +812,7 @@
 810	810	1	PART 1	54	811	Of the Province of Amu	From Amu to Kangigu, are fifteen days, and thence to Bangala, which is the third province behind, are thirty days.			Amu,Kangigu,Bangala	Amu, Kangigu, Bangala	
 811	811	1	PART 1	54	812	Of the Province of Amu	Now let us come to another province, which is called Tholoman, and lies eight journeys from this to the east.			Tholoman	Tholoman	
 812	812	1	PART 1	55	813	Of the Province of Tholoman	Tholoman is a third province towards the east.	Tholoman		Tholoman	Tholoman	
-813	813	1	PART 1	55	814	Of the Province of Tholoman	All the - people are idolaters, have a language of their own, and are under the great khan.		Khan			
+813	813	1	PART 1	55	814	Of the Province of Tholoman	All the - people are idolaters, have a language of their own, and are under the great khan.		Khan			Khan
 814	814	1	PART 1	55	815	Of the Province of Tholoman	They are handsome, of rather a brown complexion, good men at arms, and have a number of cities, castles, and forts, on the top of very high mountains.					
 815	815	1	PART 1	55	816	Of the Province of Tholoman	When they die, the bodies are burned, and the bones which cannot be consumed are placed in chests and carried to the caverns of high mountains, where they are kept suspended, so that neither man nor beast can touch them.					
 816	816	1	PART 1	55	817	Of the Province of Tholoman	Gold is found here ; 					
@@ -821,7 +821,7 @@
 819	819	1	PART 1	55	820	Of the Province of Tholoman	the people live on flesh and rice, and have many good spices.					
 820	820	1	PART 1	56	821	Of the Province of Cyn-gui and its Lions	Cyn-gui is a province likewise situated towards the east, and when a man leaves Tholoman, he goes twelve days along a river, where there are towns and castles, but nothing else worth mentioning.	Cyn-gui,Singul		Cyn-gui,Tholoman	Cyn-gui, Tholoman	
 821	821	1	PART 1	56	822	Of the Province of Cyn-gui and its Lions	At the end of these twelve days, he finds the city Sinugul, very large and noble.			Sinugul	Sinugul	
-822	822	1	PART 1	56	823	Of the Province of Cyn-gui and its Lions	The inhabitants are all idolaters, and subject to the great khan.		Khan			
+822	822	1	PART 1	56	823	Of the Province of Cyn-gui and its Lions	The inhabitants are all idolaters, and subject to the great khan.		Khan			Khan
 823	823	1	PART 1	56	824	Of the Province of Cyn-gui and its Lions	They live by merchandise and arts, and weave cloths of the bark of trees, which make fine summer dresses.					
 824	824	1	PART 1	56	825	Of the Province of Cyn-gui and its Lions	They are good men at arms ; 					
 825	825	1	PART 1	56	826	Of the Province of Cyn-gui and its Lions	but they have no money except paper.					
@@ -836,70 +836,70 @@
 834	834	1	PART 1	56	835	Of the Province of Cyn-gui and its Lions	Meantime the man discharges arrows without ceasing, till the animal falls down dead, and thus one man and two spirited dogs are sufficient to kill a large lion.					
 835	835	1	PART 1	56	836	Of the Province of Cyn-gui and its Lions	The inhabitants of this province have a good deal of silk, and a great trade is carried on to all quarters along the river.					
 836	836	1	PART 1	57	837	Arrival at Sin-din-fu, and Journey back to Gin-gui	Continuing to journey on its banks for twelve days more, we discover a number of cities and castles.	Sin-din-fu,Gin-gui				
-837	837	1	PART 1	57	838	Arrival at Sin-din-fu, and Journey back to Gin-gui	The people are idolaters, subject to the great khan, and use paper money.		Khan			
+837	837	1	PART 1	57	838	Arrival at Sin-din-fu, and Journey back to Gin-gui	The people are idolaters, subject to the great khan, and use paper money.		Khan			Khan
 838	838	1	PART 1	57	839	Arrival at Sin-din-fu, and Journey back to Gin-gui	Some are good at arms, others are merchants and artificers.					
 839	839	1	PART 1	57	840	Arrival at Sin-din-fu, and Journey back to Gin-gui	At the end of the twelve days, the traveller comes to Sin-din-fu,of which mention has been made above.			Sin-din-fu	Sin-din-fu	
 840	840	1	PART 1	57	841	Arrival at Sin-din-fu, and Journey back to Gin-gui	He then rides seventy days through provinces and lands which we formerly went over, and have already described.					
 841	841	1	PART 1	57	842	Arrival at Sin-din-fu, and Journey back to Gin-gui	At the end of that period, he comes to Gin-gui, where we formerly were.			Gin-gui	Gin-gui	
 842	842	1	PART 1	58	843	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	From Gin-gui or Geo-gui a man travels four days, finding a variety of cities and castles.			Gin-gui,Geo-gui	Geo-gui, Gin-gui	
-843	843	1	PART 1	58	844	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	The people are great artificers and merchants, subject to the mighty khan, and use paper money.		Khan			
+843	843	1	PART 1	58	844	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	The people are great artificers and merchants, subject to the mighty khan, and use paper money.		Khan			Khan
 844	844	1	PART 1	58	845	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	At the end of the four days you come to Ca-cian-fu,a large and noble city, lying to the south, in the province of Cathay.			Ca-cian-fu,Cathay	Ca-cian-fu, Cathay	
 845	845	1	PART 1	58	846	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	The inhabitants are subject to the same monarch, are all idolaters, and burn the bodies of their dead.					
 846	846	1	PART 1	58	847	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	They have a good supply of silk, which they make into different kinds of cloth.					
 847	847	1	PART 1	58	848	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	A large river flows past it, along which great abundance of merchandise is conveyed to Kambalu, with which it is made to communicate by the digging of many canals.			Kambalu	Kambalu	
 848	848	1	PART 1	58	849	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	Now let us pass to another city called Cian-glu.			Cian-glu	Cian-glu	
-849	849	1	PART 1	58	850	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	The natives are idolaters, subject to the khan, use paper money, and burn the bodies of their dead.		Khan			
+849	849	1	PART 1	58	850	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	The natives are idolaters, subject to the khan, use paper money, and burn the bodies of their dead.		Khan			Khan
 850	850	1	PART 1	58	851	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	In that city, salt is made very extensively, and I will tell you how.					
 851	851	1	PART 1	58	852	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	There is a species of earth full of it, and they pile it up in heaps, upon which they throw a great quantity of water, to saturate it with the mineral.					
 852	852	1	PART 1	58	853	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	They next boil it in large cauldrons of iron, till it evaporates, and leaves a white and minute salt, which is exported to all the countries round.					
 853	853	1	PART 1	58	854	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	Five days' journey from Cian-glu is Cian-gli, where are many cities and castles.			Cian-glu,Cian-gli	Cian-glu, Cian-gli	
-854	854	1	PART 1	58	855	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	It is a town of Cathay, and the whole people are idolaters, subject to the khan, and use paper money.		Khan	Cathay	Cathay	
+854	854	1	PART 1	58	855	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	It is a town of Cathay, and the whole people are idolaters, subject to the khan, and use paper money.		Khan	Cathay	Cathay	Khan
 855	855	1	PART 1	58	856	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	Through the middle of that territory flows a great river, on which is conveyed much merchandise of various kinds.					
-856	856	1	PART 1	59	857	Condi-fu--Rebellion against the Great Khan	In departing from Cian-gli, we come in six days to Condi-fu,a great city, which the khan conquered by force of arms, but still it is the noblest in the province.	Condi-fu	Khan	Cian-gli,Condi-fu	Cian-gli, Condi-fu	
+856	856	1	PART 1	59	857	Condi-fu--Rebellion against the Great Khan	In departing from Cian-gli, we come in six days to Condi-fu,a great city, which the khan conquered by force of arms, but still it is the noblest in the province.	Condi-fu	Khan	Cian-gli,Condi-fu	Cian-gli, Condi-fu	Khan
 857	857	1	PART 1	59	858	Condi-fu--Rebellion against the Great Khan	There is a wonderful abundance of silk, as well as orchards with many delicate fruits, and the situation is delightful ;					
 858	858	1	PART 1	59	859	Condi-fu--Rebellion against the Great Khan	 it has also under it fifteen other cities of great importance and commerce, whence it derives high honour and dignity.					
-859	859	1	PART 1	59	860	Condi-fu--Rebellion against the Great Khan	In the year 1273, the khan gave to Litan, one of his barons, 70,000 horse to defend and secure that city; 		Khan,Litan			Litan
+859	859	1	PART 1	59	860	Condi-fu--Rebellion against the Great Khan	In the year 1273, the khan gave to Litan, one of his barons, 70,000 horse to defend and secure that city; 		Khan,Litan			Litan ,Khan
 860	860	1	PART 1	59	861	Condi-fu--Rebellion against the Great Khan	but when the said baron had remained some time in the country, he arranged with certain men to betray it, and rebel against his lord.					
-861	861	1	PART 1	59	862	Condi-fu--Rebellion against the Great Khan	When the khan knew this, he sent two of his commanders, Aguil and Mongatai, with many troops, against the traitor.		Khan,Aguil,Mongatai			
+861	861	1	PART 1	59	862	Condi-fu--Rebellion against the Great Khan	When the khan knew this, he sent two of his commanders, Aguil and Mongatai, with many troops, against the traitor.		Khan,Aguil,Mongatai			Khan
 862	862	1	PART 1	59	863	Condi-fu--Rebellion against the Great Khan	On their approach, the rebel went forth to meet them with his forces, consisting of a hundred thousand cavalry and many infantry, both of the country and of those he had brought with him ;					
 863	863	1	PART 1	59	864	Condi-fu--Rebellion against the Great Khan	 and there was a very great battle between him and those two chiefs.					
 864	864	1	PART 1	59	865	Condi-fu--Rebellion against the Great Khan	Litan was killed, with many others; 		Litan			Litan
-865	865	1	PART 1	59	866	Condi-fu--Rebellion against the Great Khan	and the khan caused all those who had been guilty to be put to death, and spared the lives of the rest.		Khan			
+865	865	1	PART 1	59	866	Condi-fu--Rebellion against the Great Khan	and the khan caused all those who had been guilty to be put to death, and spared the lives of the rest.		Khan			Khan
 866	866	1	PART 1	59	867	Condi-fu--Rebellion against the Great Khan	Now let us tell of another country named Sin-gui.			Sin-gui	Sin-gui	
 867	867	1	PART 1	60	868	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man has gone south from Condi-fu, he finds cities and castles, many animals of the chase and birds, with a vast abundance of all productions, and then comes to Sin-gui,which is noble, great, and beautiful, with much merchandise and many arts; 	Sin-gui,Lin-gui,Pin-gui,Cin-gui		Condi-fu,Sin-gui	Condi-fu, Sin-gui	
-868	868	1	PART 1	60	869	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the whole people are idolaters, subject to the khan, and use paper money.		Khan			
+868	868	1	PART 1	60	869	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the whole people are idolaters, subject to the khan, and use paper money.		Khan			Khan
 869	869	1	PART 1	60	870	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	They have a river which is of great utility, because the people of the country have divided the stream which comes from the south into two parts; 					
 870	870	1	PART 1	60	871	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	one goes eastward towards Manji, the other westward towards Cathay ; 			Manji,Cathay	Manji, Cathay	
 871	871	1	PART 1	60	872	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	and the land has thus a wonderful number of ships, though not of large size, with which they convey goods to other provinces, and bring thence an almost incredible quantity of merchandise.					
 872	872	1	PART 1	60	873	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man departs from Sin-gui and goes eight days to the south, he finds many rich cities and castles.			Sin-gui	Sin-gui	
-873	873	1	PART 1	60	874	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	The people are idolaters,subject to the khan ; 		Khan			
+873	873	1	PART 1	60	874	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	The people are idolaters,subject to the khan ; 		Khan			Khan
 874	874	1	PART 1	60	875	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	they burn the bodies of their dead, and use paper money.					
 875	875	1	PART 1	60	876	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	At the end of eight days he arrives at a town named Lin-gui,great and noble, with men-at-arms, and also arts and merchandise.			Lin-gui	Lin-gui	
 876	876	1	PART 1	60	877	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	Here are wild animals and every kind of provision in abundance.					
-877	877	1	PART 1	60	878	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When he departs from Lin-gui, he goes three days to the south, finding cities and castles under the powerful khan ; 		Khan	Lin-gui	Lin-gui	
+877	877	1	PART 1	60	878	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When he departs from Lin-gui, he goes three days to the south, finding cities and castles under the powerful khan ; 		Khan	Lin-gui	Lin-gui	Khan
 878	878	1	PART 1	60	879	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the people idolatrous, and burning the bodies of their dead.					
 879	879	1	PART 1	60	880	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	There is much excellent hunting of birds and beasts.					
 880	880	1	PART 1	60	881	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	At the end of these three days, he discovers a very good city named Pin-gui.			Pin-gui	Pin-gui	
 881	881	1	PART 1	60	882	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	The people have all things necessary for subsistence, raise much silk, and pay a large revenue to the sovereign.					
 882	882	1	PART 1	60	883	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	A great quantity of merchandise is laden here for the province of Manji.			 Manji	Manji	
 883	883	1	PART 1	60	884	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man has departed from Pin-gui, and travelled two days with his face to the south, through beautiful and rich countries, he finds the city of Cin-gui,very large, and full of merchandise and arts.			Pin-gui,Cin-gui	Pin-gui	
-884	884	1	PART 1	60	885	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	The people are wholly idolatrous, burn the bodies of their dead, their money is paper, and they are under the khan.		Khan			
+884	884	1	PART 1	60	885	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	The people are wholly idolatrous, burn the bodies of their dead, their money is paper, and they are under the khan.		Khan			Khan
 885	885	1	PART 1	60	886	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	They have much grain and grass.					
 886	886	1	PART 1	60	887	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man leaves Cin-gui, he finds cities, villages, and castles, with handsome dogs and good pasturage ; 			Cin-gui		
 887	887	1	PART 1	60	888	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the people being such as are above described.					
 888	888	1	PART 1	61	889	Of the great River Kara-moran	At the end of two days a man finds the great river called Kara-moran, coming from the lands of Prester John.	Kara-moran river	Prester John	Kara-moran		Prester John
 889	889	1	PART 1	61	890	Of the great River Kara-moran	It is full, broad, and so deep that a large ship can pass through its channel; 					
-890	890	1	PART 1	61	891	Of the great River Kara-moran	and there are on it full 15,000 vessels, all belonging to the khan, meant for conveying his goods when he goes to the islands of the sea, which is distant about a day's journey.		Khan			
+890	890	1	PART 1	61	891	Of the great River Kara-moran	and there are on it full 15,000 vessels, all belonging to the khan, meant for conveying his goods when he goes to the islands of the sea, which is distant about a day's journey.		Khan			Khan
 891	891	1	PART 1	61	892	Of the great River Kara-moran	And each of these ships requires fifteen mariners, and carries fifteen horses with their riders, provisions, and every thing else necessary for them.					
-892	892	1	PART 1	61	893	Of the great River Kara-moran	When a man passes that river, he enters the province of Manji, and I will tell you how it was conquered by the khan.		Khan	Manji	Manji	
-893	893	1	PART 1	62	894	Of the Province of Manji, and how it was made subject to the Great Khan	In the extensive province of Manji there was a lord and king named Facfur, who, excepting the great khan, was the mightiest sovereign in the world, the most powerful in money and people ;	Manji	Facfur,Khan	Manji	Manji	Facfur
+892	892	1	PART 1	61	893	Of the great River Kara-moran	When a man passes that river, he enters the province of Manji, and I will tell you how it was conquered by the khan.		Khan	Manji	Manji	Khan
+893	893	1	PART 1	62	894	Of the Province of Manji, and how it was made subject to the Great Khan	In the extensive province of Manji there was a lord and king named Facfur, who, excepting the great khan, was the mightiest sovereign in the world, the most powerful in money and people ;	Manji	Facfur,Khan	Manji	Manji	Facfur ,Khan
 894	894	1	PART 1	62	895	Of the Province of Manji, and how it was made subject to the Great Khan	 but the men are not good at arms, nor have horses trained to war, nor experience in battle and military operations, otherwise they would never have lost so strong a country.					
 895	895	1	PART 1	62	896	Of the Province of Manji, and how it was made subject to the Great Khan	All the lands are surrounded by waters so deep that they cannot be passed unless by bridges, and the chief cities are encompassed by broad ditches filled with water.					
-896	896	1	PART 1	62	897	Of the Province of Manji, and how it was made subject to the Great Khan	The khan, however, in the year of our Lord 1273,sent one of his barons, Bayam Cinqsan, which means Bayam with the Hundred Eyes: for the King of Manji had found out by astrology, that he could lose his kingdom only by a man having a hundred eyes.		Khan,Bayam Cinqsan,Bayam	Manji	Manji	Bayam ,Bayam
+896	896	1	PART 1	62	897	Of the Province of Manji, and how it was made subject to the Great Khan	The khan, however, in the year of our Lord 1273,sent one of his barons, Bayam Cinqsan, which means Bayam with the Hundred Eyes: for the King of Manji had found out by astrology, that he could lose his kingdom only by a man having a hundred eyes.		Khan,Bayam Cinqsan,Bayam	Manji	Manji	Bayam ,Bayam ,Khan
 897	897	1	PART 1	62	898	Of the Province of Manji, and how it was made subject to the Great Khan	This Bayam marched with a very great force, many ships, horse and foot, and came to the first city of Manji, called Koi-gan-zu, which we will presently describe.		Bayam	Manji,Koi-gan-zu	Manji, Koi-gan-zu	Bayam
 898	898	1	PART 1	62	899	Of the Province of Manji, and how it was made subject to the Great Khan	He called upon it to surrender ; 					
 899	899	1	PART 1	62	900	Of the Province of Manji, and how it was made subject to the Great Khan	but the people refused.					
-900	900	1	PART 1	62	901	Of the Province of Manji, and how it was made subject to the Great Khan	He then went to another city, which also refused, and so he passed five, leaving them behind, because he knew that the khan was sending a large additional force.		Khan			
+900	900	1	PART 1	62	901	Of the Province of Manji, and how it was made subject to the Great Khan	He then went to another city, which also refused, and so he passed five, leaving them behind, because he knew that the khan was sending a large additional force.		Khan			Khan
 901	901	1	PART 1	62	902	Of the Province of Manji, and how it was made subject to the Great Khan	He took, however, the sixth by storm, and then successively reduced other twelve ; 					
 902	902	1	PART 1	62	903	Of the Province of Manji, and how it was made subject to the Great Khan	after which he marched direct to the capital of the kingdom, called Kin-sai, where the king and queen resided.			Kin-sai	Kin-sai	
 903	903	1	PART 1	62	904	Of the Province of Manji, and how it was made subject to the Great Khan	When the monarch saw this great army, he was struck with such terror that he fled from the continent with many of his people, having 1000 ships, and sought refuge among the islands.					
@@ -916,38 +916,38 @@
 914	914	1	PART 1	63	915	Of the Piety and Justice of the King towards his Subjects	He maintained his kingdom in such justice, that no evil was done, and all commodities could be left unguarded except by the royal equity.					
 915	915	1	PART 1	63	916	Of the Piety and Justice of the King towards his Subjects	Now I have given you an account of the king ; 					
 916	916	1	PART 1	63	917	Of the Piety and Justice of the King towards his Subjects	I will tell you of the queen.					
-917	917	1	PART 1	63	918	Of the Piety and Justice of the King towards his Subjects	She was led to the great khan, who made her be honoured and served asa powerful sovereign ; 		Khan			
-918	918	1	PART 1	63	919	Of the Piety and Justice of the King towards his Subjects	but the king, her husband, never came out of the islands of the ocean, and died there, and thus the whole kingdom remained with the khan.		Khan			
+917	917	1	PART 1	63	918	Of the Piety and Justice of the King towards his Subjects	She was led to the great khan, who made her be honoured and served asa powerful sovereign ; 		Khan			Khan
+918	918	1	PART 1	63	919	Of the Piety and Justice of the King towards his Subjects	but the king, her husband, never came out of the islands of the ocean, and died there, and thus the whole kingdom remained with the khan.		Khan			Khan
 919	919	1	PART 1	63	920	Of the Piety and Justice of the King towards his Subjects	Now let us tell of the province of Manji, and the manners and customs of the people ; beginning with the city of Koi-gan-zu.			Manji,Koi-gan-zu	Manji, Koi-gan-zu	
 920	920	1	PART 1	64	921	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Koi-gan-zu is a great, rich, and noble city, at the entrance of the province of Manji, lying to the south.	Koi-gan-zu,Pau-chym,Chaym		Koi-gan-zu,Manji	Koi-gan-zu, Manji	
-921	921	1	PART 1	64	922	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The whole people are subject to the khan; 		Khan			
+921	921	1	PART 1	64	922	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The whole people are subject to the khan; 		Khan			Khan
 922	922	1	PART 1	64	923	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	they are idolaters, and burn the bodies of their dead.					
 923	923	1	PART 1	64	924	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	It lies on the river Kara-moran, and hence is full of ships ; 			Kara-moran		
 924	924	1	PART 1	64	925	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	for many merchants bring their commodities thither to be distributed throughout other cities.					
 925	925	1	PART 1	64	926	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	It is the capital of the province.					
 926	926	1	PART 1	64	927	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Here is made a very great quantity of salt, which is supplied thence to forty different towns; 					
-927	927	1	PART 1	64	928	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	the khan has a large revenue from this and other trades here carried on.		Khan			
+927	927	1	PART 1	64	928	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	the khan has a large revenue from this and other trades here carried on.		Khan			Khan
 928	928	1	PART 1	64	929	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	And now let me tell you of another city called Pau-chym.			Pau-chym	Pau-chym	
 929	929	1	PART 1	64	930	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	When a man departs from Koi-gan-zu, he goes a whole day along a causeway finely built of stone, and on each side is a large water, so that it is impossible to enter the province unless by this causeway.			Koi-gan-zu	Koi-gan-zu	
-930	930	1	PART 1	64	931	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	He then finds a city called Pau-chym ;all the people are idolaters, burn the bodies of their dead, and are under the great khan.		Khan	Pau-chym	Pau-chym	
+930	930	1	PART 1	64	931	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	He then finds a city called Pau-chym ;all the people are idolaters, burn the bodies of their dead, and are under the great khan.		Khan	Pau-chym	Pau-chym	Khan
 931	931	1	PART 1	64	932	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	They are artificers and merchants, have abundance of silk, and make much cloth of it mixed with gold, and thus earn a sufficient livelihood.					
-932	932	1	PART 1	64	933	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Through all that country the paper money of the khan is circulated.		Khan			
+932	932	1	PART 1	64	933	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Through all that country the paper money of the khan is circulated.		Khan			Khan
 933	933	1	PART 1	64	934	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	When a man sets out from Pau-chym, he travels a day and discovers a very large city named Chaym.			Pau-chym,Chaym	Pau-chym, Chaym	
 934	934	1	PART 1	64	935	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	There is great abundance of the necessaries of life ; 					
 935	935	1	PART 1	64	936	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	fish beyond measure, beasts and birds for sport in great numbers, so that for a Venetian silver grosso you may purchase three pheasants.					
 936	936	1	PART 1	65	937	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Tin-gui is a pretty agreeable city, a full day's journey from Chaym.	Tin-gui,Cyn-gui		Tin-gui, Chaym	Tin-gui, Chaym	
-937	937	1	PART 1	65	938	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The people are idolaters, subject to the khan, and use paper money ; 		Khan			
+937	937	1	PART 1	65	938	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The people are idolaters, subject to the khan, and use paper money ; 		Khan			Khan
 938	938	1	PART 1	65	939	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	they have merchandise and arts, and numerous ships belonging to them.					
 939	939	1	PART 1	65	940	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	It lies to the south-east, and on the left, nearly three days' journey to the eastward, is the ocean, where salt is made in great quantities.					
-940	940	1	PART 1	65	941	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Here is a city named Cyn-gui, large, rich, and noble, to which all the salt is brought, and the khan draws from it a revenue so wonderful that it could not be believed.		Khan	Cyn-gui	Cyn-gui	
+940	940	1	PART 1	65	941	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Here is a city named Cyn-gui, large, rich, and noble, to which all the salt is brought, and the khan draws from it a revenue so wonderful that it could not be believed.		Khan	Cyn-gui	Cyn-gui	Khan
 941	941	1	PART 1	66	942	Of the great City of Yan-gui	When a man leaves Tin-gui he proceeds a day towards the south-east,through a very fine country, finding towns and castles, and then comes to Yan-gui,a large and beautiful city, which has under it twenty-four, all good and of great trade.	Yan-gui		Tin-gui,Yan-gui	Tin-gui, Yan-gui	
-942	942	1	PART 1	66	943	Of the great City of Yan-gui	Its affairs are administered by one of the twelve barons of the khan ; 		Khan			
+942	942	1	PART 1	66	943	Of the great City of Yan-gui	Its affairs are administered by one of the twelve barons of the khan ; 		Khan			Khan
 943	943	1	PART 1	66	944	Of the great City of Yan-gui	Messer Marco Polo, of whom this book treats, governed it three years.		Messer Marco Polo			Polo
 944	944	1	PART 1	66	945	Of the great City of Yan-gui	Here are made many arms and other equipments for knights and men of war ; 					
 945	945	1	PART 1	66	946	Of the great City of Yan-gui	for in this place and around it numerous troops are quartered.					
 946	946	1	PART 1	66	947	Of the great City of Yan-gui	I will now tell you of two great provinces lying to the west, and as I shall have much to say, I will begin with Nan-ghin.			Nan-ghin	Nan-ghin	
 947	947	1	PART 1	67	948	Of the great City of Yan-gui	Nan-ghin is a province towards the west, belonging to Manji, and is very noble and rich.	Nan-ghin		Nan-ghin,Manji	Nan-ghin, Manji	
-948	948	1	PART 1	67	949	Of the great City of Nan-ghin	The people are idolaters, use paper money, and are subject to the great khan.		Khan			
+948	948	1	PART 1	67	949	Of the great City of Nan-ghin	The people are idolaters, use paper money, and are subject to the great khan.		Khan			Khan
 949	949	1	PART 1	67	950	Of the great City of Nan-ghin	They live by merchandise and arts, have silk in abundance, and make cloths of it interwoven with gold, in all fashions.					
 950	950	1	PART 1	67	951	Of the great City of Nan-ghin	They have an ample supply of every kind of grain and provisions ; 					
 951	951	1	PART 1	67	952	Of the great City of Nan-ghin	for the land is very fruitful.					
@@ -957,26 +957,26 @@
 955	955	1	PART 1	68	956	Of the City of Sa-yan-fu, and how it was taken	Sa-yan-fu is a large and magnificent city, having under it twelve others also great and noble; 	Sa-yan-fu		Sa-yan-fu		
 956	956	1	PART 1	68	957	Of the City of Sa-yan-fu, and how it was taken	it is the seat of many valuable arts and of much merchandize.					
 957	957	1	PART 1	68	958	Of the City of Sa-yan-fu, and how it was taken	The inhabitants are idolaters; 					
-958	958	1	PART 1	68	959	Of the City of Sa-yan-fu, and how it was taken	they use paper money, are subject to the khan, and burn the bodies of their dead.		Khan			
+958	958	1	PART 1	68	959	Of the City of Sa-yan-fu, and how it was taken	they use paper money, are subject to the khan, and burn the bodies of their dead.		Khan			Khan
 959	959	1	PART 1	68	960	Of the City of Sa-yan-fu, and how it was taken	This city held out three years after all the rest of the province had yielded to the conqueror, who besieged it with a mighty army ; 					
 960	960	1	PART 1	68	961	Of the City of Sa-yan-fu, and how it was taken	but he could approach it only on the side which lies to the north, because it was elsewhere surrounded by a large and deep lake, by which the besieged obtained abundance of provisions.					
-961	961	1	PART 1	68	962	Of the City of Sa-yan-fu, and how it was taken	 The army was therefore about to abandon the siege in much grief and wrath, and this news was just brought to the khan, when Messeri Nicolo, Maffio, and Marco Polo said, - we shall find a way by which the city shall be made to surrender.		Khan,Messeri Nicolo, Maffio,Marco Polo			Polo
+961	961	1	PART 1	68	962	Of the City of Sa-yan-fu, and how it was taken	 The army was therefore about to abandon the siege in much grief and wrath, and this news was just brought to the khan, when Messeri Nicolo, Maffio, and Marco Polo said, - we shall find a way by which the city shall be made to surrender.		Khan,Messeri Nicolo, Maffio,Marco Polo			Polo ,Khan
 962	962	1	PART 1	68	963	Of the City of Sa-yan-fu, and how it was taken	The monarch, who was most eagerly bent on its capture, readily listened.					
 963	963	1	PART 1	68	964	Of the City of Sa-yan-fu, and how it was taken	Then said the two brothers and their son Marco,-Great sire, we have with us in our train men who will make such an engine as will discharge large stones, which the citizens will not be able to endure, and will be obliged to yield.		Marco			
-964	964	1	PART 1	68	965	Of the City of Sa-yan-fu, and how it was taken	The khan was much rejoiced, and desired that they should execute their plan as soon as possible.		Khan			
+964	964	1	PART 1	68	965	Of the City of Sa-yan-fu, and how it was taken	The khan was much rejoiced, and desired that they should execute their plan as soon as possible.		Khan			Khan
 965	965	1	PART 1	68	966	Of the City of Sa-yan-fu, and how it was taken	Now, they had in their company a German and a Nestorian Christian who were skilful in such works, and made two or three machines sufficient to throw stones of 300 pounds weight.					
 966	966	1	PART 1	68	967	Of the City of Sa-yan-fu, and how it was taken	When these were conveyed to the army and set up, they appeared to the Tartars the greatest wonder of the world.					
 967	967	1	PART 1	68	968	Of the City of Sa-yan-fu, and how it was taken	They then began discharging stones into the city, which struck the houses, broke and destroyed every thing, and caused the utmost noise and alarm.					
 968	968	1	PART 1	68	969	Of the City of Sa-yan-fu, and how it was taken	When the inhabitants saw a calamity such as they had never witnessed before, they knew not what to think or say.					
 969	969	1	PART 1	68	970	Of the City of Sa-yan-fu, and how it was taken	They met in council, and concluded that they must be all killed, unless they submitted.					
 970	970	1	PART 1	68	971	Of the City of Sa-yan-fu, and how it was taken	They therefore intimated to the lord of the host that they would surrender on the same terms that others had done.					
-971	971	1	PART 1	68	972	Of the City of Sa-yan-fu, and how it was taken	This was agreed to, and Sa-yan-fu came under the power of the great khan, through the interposition of Messeri Nicolo, Maffio, and Marco ; 		Khan,Messeri Nicolo,Maffio,Marco	Sa-yan-fu		
+971	971	1	PART 1	68	972	Of the City of Sa-yan-fu, and how it was taken	This was agreed to, and Sa-yan-fu came under the power of the great khan, through the interposition of Messeri Nicolo, Maffio, and Marco ; 		Khan,Messeri Nicolo,Maffio,Marco	Sa-yan-fu		Khan
 972	972	1	PART 1	68	973	Of the City of Sa-yan-fu, and how it was taken	and it was not a small service, for this town and province are among the best in his possession, and he draws from them a great revenue.					
 973	973	1	PART 1	68	974	Of the City of Sa-yan-fu, and how it was taken	Now, we shall leave this subject and treat of a city called Sin-gui.			Sin-gui	Sin-gui	
 974	974	1	PART 1	69	975	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	When a man leaves Yan-gui and goes fifteen miles  south-east, he perceives a certain city named Sin-gui, which is not very extensive, but has great merchandise and much shipping.	Sin-gui,Kiang river		Yan-gui,Sin-gui	Yan-gui, Sin-gui	
-975	975	1	PART 1	69	976	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	The people are idolaters, use paper money, and are subject to the khan.		Khan			
+975	975	1	PART 1	69	976	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	The people are idolaters, use paper money, and are subject to the khan.		Khan			Khan
 976	976	1	PART 1	69	977	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	That city stands upon a river, named Kiang, which is the largest in the world ; being in some places ten miles broad, and upwards of a hundred days' journey in length.			Kiang	Kiang	
-977	977	1	PART 1	69	978	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Through it the inhabitants have a lucrative trade, which yields a large revenue to the khan.		Khan			
+977	977	1	PART 1	69	978	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Through it the inhabitants have a lucrative trade, which yields a large revenue to the khan.		Khan			Khan
 978	978	1	PART 1	69	979	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	And on account of the many cities on it, the ships navigating and the goods conveyed by means of it are more numerous and valuable than in all the rivers of Christendom and the adjacent seas beside.			Christendom		
 979	979	1	PART 1	69	980	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	I tell you I have seen at that city no fewer than 5000 ships sailing at once on its stream.					
 980	980	1	PART 1	69	981	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	For that river flows through sixteen provinces, and has more than two hundred great towns on its banks.					
@@ -985,21 +985,21 @@
 983	983	1	PART 1	69	984	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	They have ropes composed of cane for drawing them through the water ; 					
 984	984	1	PART 1	69	985	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	those belonging to the larger vessels are thick, and fifteen paces in length, being cloven at the end, and bound together in such a way as to make a cord 300 paces long.					
 985	985	1	PART 1	70	986	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Cai-gui is a small city towards the south-east,situated upon the bank of the above-mentioned river ; 	Cai-gui		Cai-gui	Cai-gui	
-986	986	1	PART 1	70	987	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	all the people are idolaters, subject to the khan, and use paper money.		Khan			
+986	986	1	PART 1	70	987	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	all the people are idolaters, subject to the khan, and use paper money.		Khan			Khan
 987	987	1	PART 1	70	988	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Here are collected large quantities of corn and rice ; 					
-988	988	1	PART 1	70	989	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	and there is a passage by water to the city of Kambalu and the court of the khan; 		Khan	Kambalu	Kambalu	
+988	988	1	PART 1	70	989	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	and there is a passage by water to the city of Kambalu and the court of the khan; 		Khan	Kambalu	Kambalu	Khan
 989	989	1	PART 1	70	990	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	grain from this place forms a considerable part of the provision required by his court.					
 990	990	1	PART 1	70	991	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	The monarch made this communication by digging long and deep canals from one river to another, and from lake to lake, so that a large ship may pass through.					
 991	991	1	PART 1	70	992	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	And by the side of this water-channel goes a road, so that you may take either the one or the other, as is most convenient.					
 992	992	1	PART 1	70	993	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	In the middle of that river, opposite the city, is an isle of rocks, on which is a monastery of idolaters, where there are 200 monks, who serve a very great number of gods.					
 993	993	1	PART 1	70	994	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	 Now, let us cross the river, and tell of a city named Cin-ghian-fu.			Cin-ghian-fu	Cin-ghian-fu	
-994	994	1	PART 1	71	995	Of the City of Cin-ghian-fu	Cin-ghian-fu is a city of Manji, and the peaple are such as we have already described, idolaters, and subjects of the great khan.	Cin-ghian-fu	Khan	Cin-ghian-fu,Manji	Cin-ghian-fu, Manji	
+994	994	1	PART 1	71	995	Of the City of Cin-ghian-fu	Cin-ghian-fu is a city of Manji, and the peaple are such as we have already described, idolaters, and subjects of the great khan.	Cin-ghian-fu	Khan	Cin-ghian-fu,Manji	Cin-ghian-fu, Manji	Khan
 995	995	1	PART 1	71	996	Of the City of Cin-ghian-fu	They are artificers, merchants, and hunters, raise much grain, and make cloths of silk and gold.					
-996	996	1	PART 1	71	997	Of the City of Cin-ghian-fu	Here are two churches of Nestorian Christians, formed in the year 1278 ; which happened because at that time the governor under the khan was a Nestorian, named Marsarchis, and he caused these two edifices to be built.		Khan,Marsarchis			
+996	996	1	PART 1	71	997	Of the City of Cin-ghian-fu	Here are two churches of Nestorian Christians, formed in the year 1278 ; which happened because at that time the governor under the khan was a Nestorian, named Marsarchis, and he caused these two edifices to be built.		Khan,Marsarchis			Khan
 997	997	1	PART 1	71	998	Of the City of Cin-ghian-fu	Now, let us go to the great city of Cin-ghin-gui.			Cin-ghin-gui		
 998	998	1	PART 1	72	999	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When a man leaves Cin-ghian-fu, and travels three or four days south-east, he always discovers cities and castles, with much merchandise ; 			Cin-ghian-fu	Cin-ghian-fu	
-999	999	1	PART 1	72	1000	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	the people are all idolaters, subject to the khan, and use paper money.	Cin-ghin-gui	Khan			
-1000	1000	1	PART 1	72	1001	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	Then he comes to the city of Cin-ghin-gui, great and noble, the people idolaters, and subject to the khan; 		Khan	Cin-ghin-gui		
+999	999	1	PART 1	72	1000	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	the people are all idolaters, subject to the khan, and use paper money.	Cin-ghin-gui	Khan			Khan
+1000	1000	1	PART 1	72	1001	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	Then he comes to the city of Cin-ghin-gui, great and noble, the people idolaters, and subject to the khan; 		Khan	Cin-ghin-gui		Khan
 1001	1001	1	PART 1	72	1002	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	they have abundance of provisions, produce and manufacture a vast quantity of silk.					
 1002	1002	1	PART 1	72	1003	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	And here I will tell you a wicked thing which the people of this city did, but it cost them dear.					
 1003	1003	1	PART 1	72	1004	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When Bayam, called the chief of the Hundred Eyes, conquered all the province, and took the capital itself, he sent a body of troops to reduce this place.		Bayam			Bayam
@@ -1008,7 +1008,7 @@
 1006	1006	1	PART 1	72	1007	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When Bayam the commander heard of this disloyal conduct, he sent an army who took the town, and put all the inhabitants to the sword.		Bayam			Bayam
 1007	1007	1	PART 1	72	1008	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	Now, let us go on, and I will tell you of another named Sin-gui.			Sin-gui	Sin-gui	
 1008	1008	1	PART 1	73	1009	Of the City of Sin-gui, of Un-gui, and of Ughim	Sin-gui is a very great and noble city.	Sin-gui,Un-gui,Ughiam		Sin-gui	Sin-gui	
-1009	1009	1	PART 1	73	1010	Of the City of Sin-gui, of Un-gui, and of Ughim	The people are idolaters, subject to the great khan, and use paper money.		Khan			
+1009	1009	1	PART 1	73	1010	Of the City of Sin-gui, of Un-gui, and of Ughim	The people are idolaters, subject to the great khan, and use paper money.		Khan			Khan
 1010	1010	1	PART 1	73	1011	Of the City of Sin-gui, of Un-gui, and of Ughim	Most of them live by merchandise and arts, raise much silk, make cloths of it interwoven with gold very costly and fine.					
 1011	1011	1	PART 1	73	1012	Of the City of Sin-gui, of Un-gui, and of Ughim	The town is forty miles in circuit, and the number of inhabitants is so great, that no person can count them, and if they were men-at-arms, those of the province of Manji would conquer the whole world; 			Manji	Manji	
 1012	1012	1	PART 1	73	1013	Of the City of Sin-gui, of Un-gui, and of Ughim	they are not so, however, but prudent merchants, and, as already observed, skilful in all the arts.					
@@ -1022,11 +1022,11 @@
 1020	1020	1	PART 1	73	1021	Of the City of Sin-gui, of Un-gui, and of Ughim	but there is nothing so remarkable about it as to be worth describing ; 					
 1021	1021	1	PART 1	73	1022	Of the City of Sin-gui, of Un-gui, and of Ughim	therefore we shall go on to delineate another called Ughim.			Ughim	Ughim	
 1022	1022	1	PART 1	73	1023	Of the City of Sin-gui, of Un-gui, and of Ughim	It is great and rich; 					
-1023	1023	1	PART 1	73	1024	Of the City of Sin-gui, of Un-gui, and of Ughim	the men are idolaters, subject to the great khan, use paper money, and have abundance of all things.		Khan			
+1023	1023	1	PART 1	73	1024	Of the City of Sin-gui, of Un-gui, and of Ughim	the men are idolaters, subject to the great khan, use paper money, and have abundance of all things.		Khan			Khan
 1024	1024	1	PART 1	73	1025	Of the City of Sin-gui, of Un-gui, and of Ughim	There is nothing else worth mentioning ; 					
 1025	1025	1	PART 1	73	1026	Of the City of Sin-gui, of Un-gui, and of Ughim	therefore I will go on to tell you of the noble city of Kin-sai, which is the capital of the kingdom of Manji.			Kin-sai,Manji	Kin-sai, Manji	
 1026	1026	1	PART 1	74	1027	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	When a man leaves Ughim, and goes three days, he observes many noble and rich cities and castles, with great merchandise.	Kin-sai,Gan-fu		Ughim	Ughim	
-1027	1027	1	PART 1	74	1028	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The people are all idolaters, subject to the khan, use paper money, and have abundant means of subsistence.		Khan			
+1027	1027	1	PART 1	74	1028	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The people are all idolaters, subject to the khan, use paper money, and have abundant means of subsistence.		Khan			Khan
 1028	1028	1	PART 1	74	1029	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	At the end of these three days, he finds a very noble city named Kin-sai,which means in our language the city of heaven.			Kin-sai	Kin-sai	
 1029	1029	1	PART 1	74	1030	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	And now I will tell you all its nobleness; 					
 1030	1030	1	PART 1	74	1031	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	for without doubt it is the largest city in the world.					
@@ -1049,11 +1049,11 @@
 1047	1047	1	PART 1	74	1048	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	In the middle of the lake are two islands, on one of which stands a palace, so wonderfully adorned that it seems worthy of belonging to the emperor.					
 1048	1048	1	PART 1	74	1049	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Whoever wishes to celebrate a marriage or other festival, goes thither, where he finds dishes, plates, and all implements necessary for the occasion.					
 1049	1049	1	PART 1	74	1050	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The city of Kin-sai contains many beautiful houses, and one great stone tower, to which the pedple convey all their property when the houses take fire, as often happens, because many of them are of wood.			Kin-sai	Kin-sai	
-1050	1050	1	PART 1	74	1051	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	They are idolaters, subject to the great khan, and use paper money.		Khan			
+1050	1050	1	PART 1	74	1051	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	They are idolaters, subject to the great khan, and use paper money.		Khan			Khan
 1051	1051	1	PART 1	74	1052	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	They eat the flesh of dogs and other beasts, such as no Christian would touch for the world, Qn each of the said 12,000 bridges, ten men keep guard day and night, so that no one may dare to raise a disturbance, or commit theft or homicide.					
 1052	1052	1	PART 1	74	1053	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	I will tell you another thing, that in the middle of the city is a mound, on which stands a tower, wherein is placed a wooden table, against which a man strikes with a hammer, so that it is heard to a great distance ; 					
 1053	1053	1	PART 1	74	1054	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	this he does when there is an alarm of fire, or any kind of danger or disturbance.					
-1054	1054	1	PART 1	74	1055	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The great khan causes that city to be most strongly guarded, because it is the capital of all the province of Manji, and he derives from it vast treasure and revenue ; 		Khan	Manji	Manji	
+1054	1054	1	PART 1	74	1055	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The great khan causes that city to be most strongly guarded, because it is the capital of all the province of Manji, and he derives from it vast treasure and revenue ; 		Khan	Manji	Manji	Khan
 1055	1055	1	PART 1	74	1056	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	he is likewise afraid of any revolt.					
 1056	1056	1	PART 1	74	1057	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	All the streets are paved with stones and bricks ; 					
 1057	1057	1	PART 1	74	1058	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and so are the high roads of Manji, on which account men may travel very pleasantly either on horseback or on foot.			Manji	Manji	
@@ -1062,12 +1062,12 @@
 1060	1060	1	PART 1	74	1061	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Twenty-five miles from thence is the ocean, between south and east ; 					
 1061	1061	1	PART 1	74	1062	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and there is a city named Gan-fu,which has a very fine port, with large ships, and much merchandise of immense value from India and other quarters.			Gan-fu,India	Gan-fu	
 1062	1062	1	PART 1	74	1063	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Past this city to the port flows a stately river, by which the ships can come up to it, and which runs thither from a great distance.					
-1063	1063	1	PART 1	74	1064	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The khan has divided the whole province of Manji into nine large kingdoms, all of which pay him annual tribute.		Khan	Manji	Manji	
+1063	1063	1	PART 1	74	1064	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The khan has divided the whole province of Manji into nine large kingdoms, all of which pay him annual tribute.		Khan	Manji	Manji	Khan
 1064	1064	1	PART 1	74	1065	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	In Gan-fu resides one of the kings, who has under him 140 cities.			Gan-fu	Gan-fu	
 1065	1065	1	PART 1	74	1066	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	I will tell you a thing you will much wonder at, that in this province there are 1200 towns, and in each a garrison amounting to 1000, 10,000, 20,000, and in some instances to 30,000 men.					
 1066	1066	1	PART 1	74	1067	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	But do not suppose these are all Tartar cavalry ; 					
 1067	1067	1	PART 1	74	1068	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	for part are infantry and sent from Cathay.			Cathay	Cathay	
-1068	1068	1	PART 1	74	1069	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	But the riches and profit which the khan derives from the province of Manji is so great that no mah could dare to mention it, nor would any one believe him; 		Khan	Manji	Manji	
+1068	1068	1	PART 1	74	1069	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	But the riches and profit which the khan derives from the province of Manji is so great that no mah could dare to mention it, nor would any one believe him; 		Khan	Manji	Manji	Khan
 1069	1069	1	PART 1	74	1070	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and therefore I shall be silent.					
 1070	1070	1	PART 1	74	1071	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	I will tell you, however, some of the customs of Manji.			Manji	Manji	
 1071	1071	1	PART 1	74	1072	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	One is, that whenever a boy or girl is born, the day, hour, and minute are written down, also the sign and planet under which the birth takes place, so that all may know their nativity.					
@@ -1093,7 +1093,7 @@
 1091	1091	1	PART 1	74	1092	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Thus the  governor of each city knows the names of every person  in it ; 					
 1092	1092	1	PART 1	74	1093	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and this practice is followed in all the towns of  Manji and Cathay.			Manji,Cathay	Manji, Cathay	
 1093	1093	1	PART 1	74	1094	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The same account is given of the  strangers who reside for a time in their houses, both when  they come and when they go ; 					
-1094	1094	1	PART 1	74	1095	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and by that means the great khan knows whoever arrives and departs, which  is of great advantage.		Khan			
+1094	1094	1	PART 1	74	1095	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	and by that means the great khan knows whoever arrives and departs, which  is of great advantage.		Khan			Khan
 1095	1095	1	PART 1	75	1096	Farther Particulars of that City	There are within the city ten principal squares or market-places,besides which, numberless shops run along the streets.	Kin-sai				
 1096	1096	1	PART 1	75	1097	Farther Particulars of that City	These squares are each half a mile in length, and have in front the main street, forty paces wide, and reaching in a straight line from one end of the city to the other.					
 1097	1097	1	PART 1	75	1098	Farther Particulars of that City	Thus they are, altogether, two miles in circuit, and four miles distant from each other.					
@@ -1141,7 +1141,7 @@
 1139	1139	1	PART 1	75	1140	Farther Particulars of that City	In their domestic relations, they show no jealousy or suspicion of their wives, but treat them with great respect.					
 1140	1140	1	PART 1	75	1141	Farther Particulars of that City	Any one would be held as infamous that should address indecent expressions to married women.					
 1141	1141	1	PART 1	75	1142	Farther Particulars of that City	They behave with cordiality to strangers who visit the city for commercial purposes, hospitably entertain them, and afford their best assistance in their business.					
-1142	1142	1	PART 1	75	1143	Farther Particulars of that City	On the other hand, they hate the very sight of soldiers, even the guards of the great khan; 		Khan			
+1142	1142	1	PART 1	75	1143	Farther Particulars of that City	On the other hand, they hate the very sight of soldiers, even the guards of the great khan; 		Khan			Khan
 1143	1143	1	PART 1	75	1144	Farther Particulars of that City	recollecting, that by their means they have been deprived of the government of their native sovereigns.					
 1144	1144	1	PART 1	75	1145	Farther Particulars of that City	On the lake above mentioned are a number of pleasure-barges, capable of holding from ten to twenty persons, being from fifteen to twenty paces long, with a broad level floor, and moving steadily through the water.					
 1145	1145	1	PART 1	75	1146	Farther Particulars of that City	Those who delight in this amusement, and propose to enjoy it, either with their ladies or companions, engage one of these barges, which they find always in the very best order, with seats, tables, and every thing necessary for an entertainment.					
@@ -1168,13 +1168,13 @@
 1166	1166	1	PART 1	75	1167	Farther Particulars of that City	When fatigued they retired into the groves on the margin of the lake, and, quitting their dresses, rushed into the water, when they swam sportively in different directions, the king remaining a spectator of the exhibition.					
 1167	1167	1	PART 1	75	1168	Farther Particulars of that City	Sometimes he had his repast provided beneath the dense foliage of one of these groves, and was there waited upon by the damsels.					
 1168	1168	1	PART 1	75	1169	Farther Particulars of that City	Thus he spent his time in this enervating society, profoundly ignorant of martial affairs ; 					
-1169	1169	1	PART 1	75	1170	Farther Particulars of that City	hence the grand khan, as already mentioned, was enabled to deprive him of his splendid possessions, and drive him with ignominy from his throne.		Khan			
+1169	1169	1	PART 1	75	1170	Farther Particulars of that City	hence the grand khan, as already mentioned, was enabled to deprive him of his splendid possessions, and drive him with ignominy from his throne.		Khan			Khan
 1170	1170	1	PART 1	75	1171	Farther Particulars of that City	All these particulars were related to me by a rich merchant of Kin-sai, who was then very old; 			Kin-sai	Kin-sai	
 1171	1171	1	PART 1	75	1172	Farther Particulars of that City	and, having been a confidential servant of King Facfur, was acquainted with every circumstance of his life.		Facfur			Facfur
 1172	1172	1	PART 1	75	1173	Farther Particulars of that City	He knew the palace in its former splendour, and desired me to come and take a view of it.					
 1173	1173	1	PART 1	75	1174	Farther Particulars of that City	Being then the residence of the khan's viceroy, the colonnades were preserved entire, but the chambers had been allowed to go to ruin,-only their foundations remaining visible.		Khan			
 1174	1174	1	PART 1	75	1175	Farther Particulars of that City	The walls, too, including the parks and gardens, had been left to decay, and no longer contained any trees or animals.					
-1175	1175	1	PART 1	76	1176	Revenues of the Great Khan from Kin-sai and Manji	I will now tell you of the large revenue which the khan draws from this city, and the territory under its jurisdiction, which is the ninth part of the province of Manji.	Kin-sai	Khan	Manji	Manji	
+1175	1175	1	PART 1	76	1176	Revenues of the Great Khan from Kin-sai and Manji	I will now tell you of the large revenue which the khan draws from this city, and the territory under its jurisdiction, which is the ninth part of the province of Manji.	Kin-sai	Khan	Manji	Manji	Khan
 1176	1176	1	PART 1	76	1177	Revenues of the Great Khan from Kin-sai and Manji	The salt of that country yields to him in the year eighty tomans of gold, and each toman is 70,000 saiks, which amount to 5,600,000, and each saik is worth more than a gold florin ; 					
 1177	1177	1	PART 1	76	1178	Revenues of the Great Khan from Kin-sai and Manji	and is not this most great and wonderful!					
 1178	1178	1	PART 1	76	1179	Revenues of the Great Khan from Kin-sai and Manji	In that country, too, there grows more sugar than in the whole world besides, and it yields a very large revenue.					
@@ -1185,14 +1185,14 @@
 1183	1183	1	PART 1	76	1184	Revenues of the Great Khan from Kin-sai and Manji	Now let us depart from this city of Kin-sai, and go to another called Tam-pin-gui.			Kin-sai,Tam-pin-gui	Kin-sai, Tam-pin-gui	
 1184	1184	1	PART 1	77	1185	Tam-pin-gui and other Cities	When a man departs from Kin-sai, and goes a day to the south-east, he finds always most pleasant houses and gardens, and all the means of living in great abundance.	Tam-pin-gui,Un-gui,Chen-gui,Cian-cian,Can-gui		Kin-sai	Kin-sai	
 1185	1185	1	PART 1	77	1186	Tam-pin-gui and other Cities	At the end of the day he discovers the city already named,which is very large and beautiful, and is dependent on Kin-sai.			Kin-sai	Kin-sai	
-1186	1186	1	PART 1	77	1187	Tam-pin-gui and other Cities	The people are subject to the khan, use paper money, are idolaters, and burn the bodies of their dead in the manner already described.		Khan			
+1186	1186	1	PART 1	77	1187	Tam-pin-gui and other Cities	The people are subject to the khan, use paper money, are idolaters, and burn the bodies of their dead in the manner already described.		Khan			Khan
 1187	1187	1	PART 1	77	1188	Tam-pin-gui and other Cities	They live by merchandise and arts, and have an ample supply of provisions.					
 1188	1188	1	PART 1	77	1189	Tam-pin-gui and other Cities	And when a man goes three days to the south-east, seeing very large cities and castles, and much trade, he comes to the city of Un-gui,under the government of Kin-sai, and otherwise like the former.			Un-gui,Kin-sai	Un-gui, Kin-sai	
 1189	1189	1	PART 1	77	1190	Tam-pin-gui and other Cities	When he departs from Un-gui and goes two days south-east, he every where perceives towns and castles, so that he seems to be going through a city.			Un-gui	Un-gui	
 1190	1190	1	PART 1	77	1191	Tam-pin-gui and other Cities	Every thing is in abundance ; 					
 1191	1191	1	PART 1	77	1192	Tam-pin-gui and other Cities	and here are the largest and longest canes in all the country, for know that some are four palms in circuit and fifteen paces long.					
 1192	1192	1	PART 1	77	1193	Tam-pin-gui and other Cities	At the end of the two days he comes to Chen-gui,which is large and beautiful.			Chen-gui	Chen-gui	
-1193	1193	1	PART 1	77	1194	Tam-pin-gui and other Cities	The people, who are idolaters, are under the great khan and the jurisdiction of Kin-sai, and have abundance of silk and provisions.		Khan	Kin-sai	Kin-sai	
+1193	1193	1	PART 1	77	1194	Tam-pin-gui and other Cities	The people, who are idolaters, are under the great khan and the jurisdiction of Kin-sai, and have abundance of silk and provisions.		Khan	Kin-sai	Kin-sai	Khan
 1194	1194	1	PART 1	77	1195	Tam-pin-gui and other Cities	In going four days south-east he finds citiesand castles, and all things in the utmost plenty.					
 1195	1195	1	PART 1	77	1196	Tam-pin-gui and other Cities	There are birds and beasts for the chase, with lions very large and fierce.					
 1196	1196	1	PART 1	77	1197	Tam-pin-gui and other Cities	Throughout all the province of Manji there are neither sheep nor lambs, but oxen, goats, and hogs in great variety.			Manji	Manji	
@@ -1211,7 +1211,7 @@
 1209	1209	1	PART 1	78	1210	The Kingdom of Fu-gui	When they go to war they cut their hair very close, and paint their faces an azure colour like the iron of a lance.					
 1210	1210	1	PART 1	78	1211	The Kingdom of Fu-gui	They fight all on foot except their chief ; 					
 1211	1211	1	PART 1	78	1212	The Kingdom of Fu-gui	and are the most cruel race in the world, because they go about the whole day killing men, drinking their blood, and eating their flesh.					
-1212	1212	1	PART 1	79	1213	Of the Cities of Que-lin-fu and Un-quem	In the middle of these seven days you come to a city called Que-lin-fu,which is very large and beautiful, subject to the great khan.	Que-lin-fu	Khan	Que-lin-fu	Que-lin-fu	
+1212	1212	1	PART 1	79	1213	Of the Cities of Que-lin-fu and Un-quem	In the middle of these seven days you come to a city called Que-lin-fu,which is very large and beautiful, subject to the great khan.	Que-lin-fu	Khan	Que-lin-fu	Que-lin-fu	Khan
 1213	1213	1	PART 1	79	1214	Of the Cities of Que-lin-fu and Un-quem	It has three bridges, the largest and most magnificent in the world; 					
 1214	1214	1	PART 1	79	1215	Of the Cities of Que-lin-fu and Un-quem	for each is a mile long and ten paces broad, and all supported by columns of marble.					
 1215	1215	1	PART 1	79	1216	Of the Cities of Que-lin-fu and Un-quem	The people live by merchandise and arts, and have abundance of silk and ginger.					
@@ -1220,11 +1220,11 @@
 1218	1218	1	PART 1	79	1219	Of the Cities of Que-lin-fu and Un-quem	They lay eggs like those of our hens, and are very good eating.					
 1219	1219	1	PART 1	79	1220	Of the Cities of Que-lin-fu and Un-quem	And in the remainder of the seven days' journey we discover many cities and castles, merchants and merchandise, and men of art.					
 1220	1220	1	PART 1	79	1221	Of the Cities of Que-lin-fu and Un-quem	There are lions, great and fierce, doing much injury to the passengers, who on this account cannot travel without imminent danger.					
-1221	1221	1	PART 1	79	1222	Of the Cities of Que-lin-fu and Un-quem	At the end of the journey is found a city called Un-quem, where there is made such a quantity of sugar, that the whole court of the khan is thence supplied, which is worth a vast treasure.		Khan	Un-quem	Un-quem	
+1221	1221	1	PART 1	79	1222	Of the Cities of Que-lin-fu and Un-quem	At the end of the journey is found a city called Un-quem, where there is made such a quantity of sugar, that the whole court of the khan is thence supplied, which is worth a vast treasure.		Khan	Un-quem	Un-quem	Khan
 1222	1222	1	PART 1	79	1223	Of the Cities of Que-lin-fu and Un-quem	Beyond it is the large city of Fu-gui, capital of this kingdom.			Fu-gui	Fu-gui	
 1223	1223	1	PART 1	80	1224	Of the Cities of Que-lin-fu and Un-quem	Fu-gui,as just stated, is the capital of the kingdom of Con-cha, which is one of the nine parts of Manji.	Fu-gui,Con-cha		Fu-gui,Con-cha,Manji	Fu-gui, Manji	
 1224	1224	1	PART 1	80	1225	Of the Cities of Que-lin-fu and Un-quem	In that city is much merchandise and art ; 					
-1225	1225	1	PART 1	80	1226	Of the Cities of Que-lin-fu and Un-quem	the people are idolatrous, and subject to the great khan.		Khan			
+1225	1225	1	PART 1	80	1226	Of the Cities of Que-lin-fu and Un-quem	the people are idolatrous, and subject to the great khan.		Khan			Khan
 1226	1226	1	PART 1	80	1227	Of the City of Fu-gui	He keeps there a strong army, because the towns and castles often revolt, and whenever they do so the troops hasten thither, take and destroy them.					
 1227	1227	1	PART 1	80	1228	Of the City of Fu-gui	Through the middle of that city flows a river a mile broad; 					
 1228	1228	1	PART 1	80	1229	Of the City of Fu-gui	here much sugar is made, and an extensive trade is carried on in precious atones and pearls, which are brought by merchants from India and its isles.			India		
@@ -1233,10 +1233,10 @@
 1231	1231	1	PART 1	80	1232	Of the City of Fu-gui	The people have abundance of all things necessary for subsistence ; fine gardens, with good fruit ; and the city is wonderfully well ordered in all respects.					
 1232	1232	1	PART 1	80	1233	Of the City of Fu-gui	But we will now go on to other matters.					
 1233	1233	1	PART 1	81	1234	Of the most noble Port of Zai-tun, and of Ti-min-gui	When one departs from Fu-gui, passes the river, and goes five days south-east, he finds cities and castles, where there is abundance of all things, woods, birds, and beasts, with the tree which bears camphor.	Zai-tun,Ti-min-gui		Fu-gui	Fu-gui	
-1234	1234	1	PART 1	81	1235	Of the most noble Port of Zai-tun, and of Ti-min-gui	The people are all idolaters, under the great khan and the jurisdiction of Fu-gui.		Khan	Fu-gui	Fu-gui	
+1234	1234	1	PART 1	81	1235	Of the most noble Port of Zai-tun, and of Ti-min-gui	The people are all idolaters, under the great khan and the jurisdiction of Fu-gui.		Khan	Fu-gui	Fu-gui	Khan
 1235	1235	1	PART 1	81	1236	Of the most noble Port of Zai-tun, and of Ti-min-gui	At the end of the five days he finds a city called Zai-tun,which is a noble port, where all the ships of India arrive, and for one laden with pepper which comes from Alexandria to be sold throughout Christendom, there go to that city a hundred.			Zai-tun,Alexandria,Christendom	Zai-tun	
 1236	1236	1	PART 1	81	1237	Of the most noble Port of Zai-tun, and of Ti-min-gui	It is one of the two best ports in the world, and the most frequented by merchants and merchandise.					
-1237	1237	1	PART 1	81	1238	Of the most noble Port of Zai-tun, and of Ti-min-gui	Know, too, that the khan draws thence a large revenue, because all the ships from India pay upon their several kinds of goods, stones, and pearls, ten per cent, that is one in ten.		Khan	India		
+1237	1237	1	PART 1	81	1238	Of the most noble Port of Zai-tun, and of Ti-min-gui	Know, too, that the khan draws thence a large revenue, because all the ships from India pay upon their several kinds of goods, stones, and pearls, ten per cent, that is one in ten.		Khan	India		Khan
 1238	1238	1	PART 1	81	1239	Of the most noble Port of Zai-tun, and of Ti-min-gui	The ships take for their freight, on small merchandise, thirty per cent ; on pepper, forty-four ; on lignum, aloes, sandalwood, and other bulky articles, forty;					
 1239	1239	1	PART 1	81	1240	Of the most noble Port of Zai-tun, and of Ti-min-gui	so that merchants, between the freight and the duty, pay a full half of all commodities brought into that port.					
 1240	1240	1	PART 1	81	1241	Of the most noble Port of Zai-tun, and of Ti-min-gui	Those of this country are all idolaters, and have great abundance of every thing necessary for the human body.					
@@ -1244,7 +1244,7 @@
 1242	1242	1	PART 1	81	1243	Of the most noble Port of Zai-tun, and of Ti-min-gui	 they are of porcelain, and are manufactured in no other part of the earth besides that city; 					
 1243	1243	1	PART 1	81	1244	Of the most noble Port of Zai-tun, and of Ti-min-gui	for a Venetian grosso you may purchase three cups of this most elegant ware.					
 1244	1244	1	PART 1	81	1245	Of the most noble Port of Zai-tun, and of Ti-min-gui	The people of Fu-gui have a language of their own.			Fu-gui	Fu-gui	
-1245	1245	1	PART 1	81	1246	Of the most noble Port of Zai-tun, and of Ti-min-gui	Now, I have told you of this kingdom, which is one of the nine, and the great khan draws from it as much duty and revenue as from that of Kin-sai.		Khan	Kin-sai	Kin-sai	
+1245	1245	1	PART 1	81	1246	Of the most noble Port of Zai-tun, and of Ti-min-gui	Now, I have told you of this kingdom, which is one of the nine, and the great khan draws from it as much duty and revenue as from that of Kin-sai.		Khan	Kin-sai	Kin-sai	Khan
 1246	1246	1	PART 1	81	1247	Of the most noble Port of Zai-tun, and of Ti-min-gui	We have not told you of the nine kingdoms of Manji, but only of three, Manji, Kin-sai, and Fu-gui, and of these you have heard fully ; 			Manji, Manji, Kin-sai,Fu-gui	Manji, Manji, Kin-sai, Fu-gui	
 1247	1247	1	PART 1	81	1248	Of the most noble Port of Zai-tun, and of Ti-min-gui	but the others I cannot now describe, because it would be too tedious, and our book has not yet treated of other things which I wish to write about ; 					
 1248	1248	1	PART 1	81	1249	Of the most noble Port of Zai-tun, and of Ti-min-gui	for I have to tell you of the Indians, who are well worthy of being known.					

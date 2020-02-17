@@ -97,12 +97,12 @@ datapath = Path(__file__).resolve().parents[2]
 
 # Input individual index files
 readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated.csv'
-readfile_yule = datapath / 'results/henry-yule/index/processed/index-corrected.csv'
+readfile_yule = datapath / 'results/henry-yule/index/processed/index-annotated-final.csv'
 
 # Reads csv of index and convert it into list with unique entities
 df_murray = pd.read_csv(readfile_murray, sep=',', encoding='utf-8-sig')
 murray_list = df_murray['Entity Name'].unique().tolist()
-df_yule = pd.read_csv(readfile_yule, sep='\t', encoding='utf-8-sig')
+df_yule = pd.read_csv(readfile_yule, sep=',', encoding='latin1')
 yule_list = df_yule['Entity Name'].unique().tolist()
 
 # Combining lists with unique values

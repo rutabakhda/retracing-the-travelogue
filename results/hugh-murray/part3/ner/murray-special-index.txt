@@ -1,0 +1,17 @@
+
+ ======================== Person ========================
+ precision = 0.8672566371681416 
+ recall = 0.46226415094339623
+ F1 score = 0.6030769230769231
+
+
+ true positive = 98 
+ false positive = 15
+ false negative = 114
+
+
+
+Counter({'Argon': 27, 'Khan': 26, None: 15, 'Kaidu': 13, 'Nogai': 10, 'Toctai': 10, 'Abaga': 9, 'Acomat': 9, 'Alau': 9, 'Barka': 8, 'Mohammed': 8, 'Casan': 7, 'Totamangu': 7, 'Quiacatu': 4, 'Adam': 3, 'Baidu': 3, 'Barak': 3, 'Kublai': 3, 'Marco': 3, 'Acomat Soldan': 2, 'Boga': 2, 'Gengis Khan': 2, 'Marco Polo': 2, 'Messer St Thomas': 2, 'Soldan': 2, 'St Thomas': 2, 'Tolobuga': 2, 'Abatan': 1, 'Aigiarm': 1, 'Alexander': 1, 'Asciar': 1, 'Ciagatai': 1, 'Conci': 1, 'Elcidai': 1, 'Gengis': 1, 'George': 1, 'Jesudar': 1, 'Maffio': 1, 'Mohammedan': 1, 'Mongutemur': 1, 'Mungletemur': 1, 'Nacigai': 1, 'Nicolo': 1, 'Nicolo Polo': 1, 'Nomogan': 1, 'Patu': 1, 'Prester John': 1, 'Sain': 1, 'Samagar': 1, 'Sendemain': 1, 'Senderbandi Davar': 1, 'Sergamon Borcam': 1, 'Soldan Acomat': 1, 'Taga': 1, 'Tegana': 1, 'Tiar Oulatai': 1, 'Toctar': 1, 'Togan': 1, 'Totamongur': 1, 'Vonsanicin': 1, 'soldan': 1})
+
+
+Counter({None: 114, 'Khan': 29, 'Argon': 28, 'Kaidu': 14, 'Acomat': 12, 'Alau': 9, 'Casan': 8, 'Seilan': 4, 'Gengis': 3, 'Marco Polo': 2, 'Ciagatai': 1, 'Conci': 1, 'Nicolo Polo': 1, 'Prester John': 1})

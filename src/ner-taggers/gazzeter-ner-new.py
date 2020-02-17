@@ -73,7 +73,7 @@ def preprocessing(sentence):
 def special_preprocessing(sentence):
     sentence = sentence.replace(" and", " ")
     sentence = sentence.replace("The", "the")
-    sentence = sentence.replace(" khan","Khan")
+    sentence = sentence.replace(" khan"," Khan")
     return sentence
 
 
@@ -89,8 +89,10 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
 
     for index,row in data.iterrows():
         sentence = row['sentence']
-
+        #sentence = "and those two assembled a mighty army on horseback and foot, and marched against the great khan."
         sentence = preprocessing(sentence)
+        sentence = special_preprocessing(sentence)
+
         sentence_onegram = convert(sentence)
         sentence_onegram = [item.strip() for item in sentence_onegram]
 
@@ -130,6 +132,9 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
         [ner_person_main_1gram,ner_location_main_1gram] = find_tag(df_murray,df_murray['Entity Name'],common_onegram,"main")
         [ner_person_alternative_1gram,ner_location_alternative_1gram] = find_tag(df_murray,df_murray['Alternative Name'], common_alternative_onegram,"alternative")
 
+        print("==============================================")
+        print(ner_person_alternative_1gram)
+
         [ner_person_main_2gram,ner_location_main_2gram] = find_tag(df_murray,df_murray['Entity Name'],common_bigram,"main")
         [ner_person_alternative_2gram,ner_location_alternative_2gram] = find_tag(df_murray,df_murray['Alternative Name'], common_alternative_bigram,"alternative")
 
@@ -154,7 +159,8 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
 
 
 datapath = Path(__file__).resolve().parents[2]
-book = ['part1','part2','part3']
+#book = ['part1','part2','part3']
+book = ['part3']
 
 for part in book:
 
@@ -164,12 +170,14 @@ for part in book:
     readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated.csv'
     df_murray,murray_list,murray_alternative_list = get_gazetteer_data(readfile_murray)
 
+    print(murray_alternative_list)
+
     outdata = find_entities(data,df_murray,murray_list,murray_alternative_list)
 
     if not os.path.exists(datapath / 'results/hugh-murray/{}/ner'.format(part)):
-        os.makedirs(datapath / 'results/hugh-murray/{}/ner'.format(part))
+       os.makedirs(datapath / 'results/hugh-murray/{}/ner'.format(part))
 
-    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-special-preprocessed.csv'.format(part)
+    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-index.csv'.format(part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

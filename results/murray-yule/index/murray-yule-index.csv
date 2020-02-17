@@ -1,696 +1,696 @@
 ﻿	Entity Name	Alternative Name	Tag	Reference
 0	ABASCIA	Abyssinia	Location	Murray
-1	Abacan			Yule
-2	Abaji			Yule
-3	Abaka	Abaga		Yule
-4	Abano			Yule
-5	Abash	Habsh		Yule
-6	Abba Gregory			Yule
-7	Abbott			Yule
-8	Abdul Kuri Mejid			Yule
-9	Abdul Kuri islands			Yule
-10	Abher			Yule
-11	Abnús			Yule
-12	Abraha			Yule
-13	Abraiaman			Yule
-14	Abu Nasr Mohammed IX			Yule
-15	Abubakr			Yule
-16	Abulfeda			Yule
-17	Abulfiez Khan			Yule
-18	Abu’l Abbas Ahmed VII			Yule
-19	Abyssinia	Abash		Yule
-20	Acbalec 	Acbaluc ,Cheng-ting fu		Yule
-21	Acbalec Manzi			Yule
-22	Accambale			Yule
+1	Abacan		Person	Yule
+2	Abaji		Person	Yule
+3	Abaka	Abaga	Person	Yule
+4	Abano		Person	Yule
+5	Abash	Habsh	Location	Yule
+6	Abba Gregory		No	Yule
+7	Abbott		No	Yule
+8	Abdul Kuri Mejid		No	Yule
+9	Abdul Kuri islands		Location	Yule
+10	Abher		No	Yule
+11	Abnús		No	Yule
+12	Abraha		Person	Yule
+13	Abraiaman		No	Yule
+14	Abu Nasr Mohammed IX		Person	Yule
+15	Abubakr		No	Yule
+16	Abulfeda		Person	Yule
+17	Abulfiez Khan		Person	Yule
+18	Abul Abbas Ahmed VII		Person	Yule
+19	Abyssinia	Abash	Location	Yule
+20	Acbalec 	Acbaluc ,Cheng-ting fu	No	Yule
+21	Acbalec Manzi		Location	Yule
+22	Accambale		Person	Yule
 23	Achalech-Manji		Location	Murray
-24	Achar			Yule
-25	Achin			Yule
+24	Achar		No	Yule
+25	Achin		Location	Yule
 26	Achmac		Person	Murray
-27	Achmath			Yule
+27	Achmath		No	Yule
 28	Acomat		Person	Murray
-29	Acomat Soldan	Ahmad Sultan		Yule
-30	Acorn bread			Yule
-31	Acqui			Yule
+29	Acomat Soldan	Ahmad Sultan	Person	Yule
+30	Acorn bread		No	Yule
+31	Acqui		Person	Yule
 32	Acre		Location	Murray,Yule
-33	Adam			Yule
+33	Adam		Person	Yule
 34	Adam's Peak		Location	Murray
-35	Adamodana			Yule
-36	Adam’s Apple			Yule
-37	Adel			Yule
+35	Adamodana		Location	Yule
+36	Adams Apple		No	Yule
+37	Adel		No	Yule
 38	Aden		Location	Murray,Yule
-39	Adoration of the Emperor			Yule
-40	Aegae			Yule
-41	Aepyornis and its eggs			Yule
-42	Afghans			Yule
-43	Africa			Yule
-44	Agassiz			Yule
-45	Agathocles			Yule
-46	Agha Ali Sháh			Yule
-47	Aghrukji	Ukuruji		Yule
-48	Agricola			Yule
-49	Aguil			Yule
-50	Ahmad	Achmath		Yule
-51	Ahwaz			Yule
-52	Ai-lao 	 Nan-chao		Yule
-53	Aidhab			Yule
-54	Aidhej			Yule
-55	Aijaruc			Yule
-56	Aikah Nowin			Yule
-57	Ajmir			Yule
-58	Ak Bulák salt mines			Yule
-59	Ak-khoja			Yule
-60	Akbar and Kúblái			Yule
-61	Akhaltziké	Western Georgia		Yule
-62	Akhtuba River			Yule
-63	Aksarai			Yule
-64	Aksu River			Yule
-65	Aktár			Yule
-66	Aktásh Valley			Yule
-67	Al Biruni			Yule
-68	Alacou			Yule
-69	Alamút			Yule
-70	Alan country			Yule
-71	Alans			Yule
+39	Adoration of the Emperor		No	Yule
+40	Aegae		No	Yule
+41	Aepyornis and its eggs		No	Yule
+42	Afghans		No	Yule
+43	Africa		Location	Yule
+44	Agassiz		No	Yule
+45	Agathocles		No	Yule
+46	Agha Ali Sháh		No	Yule
+47	Aghrukji	Ukuruji	No	Yule
+48	Agricola		No	Yule
+49	Aguil		No	Yule
+50	Ahmad	Achmath	Person	Yule
+51	Ahwaz		No	Yule
+52	Ai-lao 	 Nan-chao	No	Yule
+53	Aidhab		No	Yule
+54	Aidhej		No	Yule
+55	Aijaruc		Person	Yule
+56	Aikah Nowin		Person	Yule
+57	Ajmir		No	Yule
+58	Ak Bulák salt mines		No	Yule
+59	Ak-khoja		No	Yule
+60	Akbar and Kúblái		No	Yule
+61	Akhaltziké	Western Georgia	Location	Yule
+62	Akhtuba River		Location	Yule
+63	Aksarai		Location	Yule
+64	Aksu River		Location	Yule
+65	Aktár		No	Yule
+66	Aktásh Valley		Location	Yule
+67	Al Biruni		No	Yule
+68	Alacou		Person	Yule
+69	Alamút		Location	Yule
+70	Alan country		Location	Yule
+71	Alans		No	Yule
 72	Alaodin		Person	Murray
-73	Alaone			Yule
-74	Alarm Tower			Yule
+73	Alaone		No	Yule
+74	Alarm Tower		Location	Yule
 75	Alau		Person	Murray,Yule
-76	Albenigaras			Yule
-77	Alboquerque			Yule
-78	Alchemy			Yule
-79	Aleppo			Yule
-80	Alexander III			Yule
-81	Alexander IV			Yule
-82	Alexander the Great			Yule
-83	Alexandria			Yule
-84	Alidada			Yule
-85	Alihaiya			Yule
-86	Alinak			Yule
-87	Alligator			Yule
-88	Almalik			Yule
-89	Almanacs			Yule
-90	Almonds			Yule
-91	Aloes			Yule
+76	Albenigaras		No	Yule
+77	Alboquerque		No	Yule
+78	Alchemy		No	Yule
+79	Aleppo		No	Yule
+80	Alexander III		Person	Yule
+81	Alexander IV		Person	Yule
+82	Alexander the Great		Person	Yule
+83	Alexandria		Location	Yule
+84	Alidada		No	Yule
+85	Alihaiya		No	Yule
+86	Alinak		No	Yule
+87	Alligator		No	Yule
+88	Almalik		No	Yule
+89	Almanacs		No	Yule
+90	Almonds		No	Yule
+91	Aloes		No	Yule
 92	Altai Mountains		Location	Murray,Yule
-93	Altun–Khan			Yule
-94	Alá‘uddin	Alaodin		Yule
-95	Al–Ramni			Yule
-96	Amazons			Yule
-97	Ambergris			Yule
-98	Amda Zion			Yule
-99	Ament			Yule
-100	Amhara			Yule
-101	Amien			Yule
-102	Amita Buddha			Yule
-103	Ammianus Marcellinus			Yule
-104	Amoy			Yule
+93	AltunKhan		Person	Yule
+94	AlRamni		No	Yule
+95	Aláuddin	Alaodin	Person	Yule
+96	Amazons		No	Yule
+97	Ambergris		No	Yule
+98	Amda Zion		Person	Yule
+99	Ament		No	Yule
+100	Amhara		No	Yule
+101	Amien		Location	Yule
+102	Amita Buddha		No	Yule
+103	Ammianus Marcellinus		No	Yule
+104	Amoy		No	Yule
 105	Amu	Bamoo	Location	Murray,Yule
-106	Ananda			Yule
-107	Anaurahta			Yule
-108	Ancestor Worship			Yule
-109	Anchors			Yule
-110	Andaman	Angamanain		Yule
-111	Andragiri			Yule
-112	Andreas			Yule
-113	Andrew			Yule
+106	Ananda		Person	Yule
+107	Anaurahta		Person	Yule
+108	Ancestor Worship		No	Yule
+109	Anchors		No	Yule
+110	Andaman	Angamanain	Location	Yule
+111	Andragiri		No	Yule
+112	Andreas		Person	Yule
+113	Andrew		Person	Yule
 114	Angaman Islands	Andaman	Location	Murray
-115	Angamanain			Yule
-116	Angan			Yule
-117	Angkor			Yule
-118	Ani in Armenia			Yule
-119	Animal Patterns			Yule
-120	Anin			Yule
-121	Annals of the Indo–Chinese States			Yule
-122	Anselmo			Yule
-123	Antioch			Yule
-124	Antongil Bay			Yule
-125	Anár			Yule
-126	Aotonomoff			Yule
-127	Apples of Paradise	Konars		Yule
-128	Apricots			Yule
-129	Apushka	Apusca		Yule
-130	Arab geography			Yule
-131	Arababni			Yule
-132	Arabi	Arabs		Yule
-133	Arabia			Yule
-134	Arabic character			Yule
-135	Arakan			Yule
-136	Aram	Harám		Yule
+115	Angamanain		Location	Yule
+116	Angan		No	Yule
+117	Angkor		No	Yule
+118	Ani in Armenia		No	Yule
+119	Animal Patterns		No	Yule
+120	Anin		Location	Yule
+121	Annals of the IndoChinese States		No	Yule
+122	Anselmo		No	Yule
+123	Antioch		No	Yule
+124	Antongil Bay		Location	Yule
+125	Anár		No	Yule
+126	Aotonomoff		Person	Yule
+127	Apples of Paradise	Konars	No	Yule
+128	Apricots		No	Yule
+129	Apushka	Apusca	Person	Yule
+130	Arab geography		Location	Yule
+131	Arababni		No	Yule
+132	Arabi	Arabs	No	Yule
+133	Arabia		No	Yule
+134	Arabic character		No	Yule
+135	Arakan		No	Yule
+136	Aram	Harám	Location	Yule
 137	Ararat		Location	Murray,Yule
-138	Arblasts			Yule
-139	Arbre Sol			Yule
-140	Arcali			Yule
-141	Architectural remains in Indo–China			Yule
-142	Ardeshír			Yule
-143	Ardeshír Bábekán			Yule
-144	Areca			Yule
-145	Arezzo			Yule
-146	Argaeus			Yule
-147	Argali			Yule
-148	Arghún			Yule
+138	Arblasts		No	Yule
+139	Arbre Sol		No	Yule
+140	Arcali		No	Yule
+141	Architectural remains in IndoChina		No	Yule
+142	Ardeshír		No	Yule
+143	Ardeshír Bábekán		Person	Yule
+144	Areca		No	Yule
+145	Arezzo		No	Yule
+146	Argaeus		No	Yule
+147	Argali		No	Yule
+148	Arghún		Person	Yule
 149	Argiron	Erzeroum	Location	Murray
 150	Argon		Person	Murray
-151	Argons	Arghún		Yule
-152	Arii			Yule
-153	Arikbuga			Yule
-154	Arimaspia			Yule
-155	Arimaspian gold			Yule
-156	Ariora–Keshimur			Yule
-157	Ariosto			Yule
-158	Aripo			Yule
-159	Aristotle			Yule
-160	Arjish	Arzizi		Yule
-161	Arkasun Noian			Yule
-162	Armenia			Yule
+151	Argons	Arghún	No	Yule
+152	Arii		No	Yule
+153	Arikbuga		Person	Yule
+154	Arimaspia		No	Yule
+155	Arimaspian gold		No	Yule
+156	ArioraKeshimur		No	Yule
+157	Ariosto		No	Yule
+158	Aripo		No	Yule
+159	Aristotle		No	Yule
+160	Arjish	Arzizi	No	Yule
+161	Arkasun Noian		No	Yule
+162	Armenia		Location	Yule
 163	Armenia the Greater		Location	Murray
 164	Armenia the Lesser		Location	Murray
-165	Armenian Christians			Yule
-166	Armenians			Yule
-167	Armillary Zodiacal Sphere			Yule
-168	Armour of boiled leather			Yule
-169	Arms of Kerman			Yule
-170	Arredon 			Yule
-171	Arrow Divination			Yule
-172	Arrows			Yule
-173	Artacki			Yule
-174	Arts			Yule
-175	Aru			Yule
-176	Arucki			Yule
-177	Aruk			Yule
-178	Arulun Tsaghan Balghasun	Chagan–Nor		Yule
-179	Arya Chakravarti			Yule
-180	Aryavartta			Yule
+165	Armenian Christians		No	Yule
+166	Armenians		No	Yule
+167	Armillary Zodiacal Sphere		No	Yule
+168	Armour of boiled leather		No	Yule
+169	Arms of Kerman		No	Yule
+170	Arredon 		No	Yule
+171	Arrow Divination		No	Yule
+172	Arrows		No	Yule
+173	Artacki		No	Yule
+174	Arts		No	Yule
+175	Aru		No	Yule
+176	Arucki		No	Yule
+177	Aruk		No	Yule
+178	Arulun Tsaghan Balghasun	ChaganNor	No	Yule
+179	Arya Chakravarti		No	Yule
+180	Aryavartta		No	Yule
 181	Arzinga		Location	Murray,Yule
-182	Arziron	Erzrum		Yule
-183	Arzizi	Arjísh		Yule
-184	Asbestos			Yule
+182	Arziron	Erzrum	Location	Yule
+183	Arzizi	Arjísh	Location	Yule
+184	Asbestos		No	Yule
 185	Ascelin		Person	Murray
-186	Asceticism of the Sensin			Yule
-187	Asedin Soldan 	Ghaiassuddin Balban		Yule
-188	Ashar 	Asciar		Yule
-189	Ashishin			Yule
-190	Ashod			Yule
-191	Ashurada			Yule
-192	Asikan			Yule
-193	Asoka			Yule
-194	Assai 			Yule
-195	Assassins	Ashishin		Yule
-196	Asses			Yule
-197	Asterius			Yule
-198	Astrakhan	Gittarchan		Yule
-199	Astrolabe			Yule
-200	Astrology			Yule
-201	Astronomical instruments			Yule
-202	Atabegs			Yule
-203	Atjeh			Yule
-204	Atkinson’s Narratives			Yule
-205	Atlas			Yule
-206	Attalus			Yule
-207	At–Thaibi family			Yule
-208	Auberoche			Yule
-209	Audh	Oudh		Yule
-210	Aufat			Yule
-211	Augury			Yule
-212	Aung Khan	Unc Can		Yule
-213	Aurangzib			Yule
-214	Aurora			Yule
-215	Aussa			Yule
-216	Avarian			Yule
-217	Avebury			Yule
-218	Avicenna’s classification of Iron			Yule
-219	Axum			Yule
-220	Ayas	Layas		Yule
-221	Ayuthia			Yule
-222	Azure			Yule
-223	Aás			Yule
-224	Aëtius			Yule
+186	Asceticism of the Sensin		No	Yule
+187	Asedin Soldan 	Ghaiassuddin Balban	No	Yule
+188	Ashar 	Asciar	Person	Yule
+189	Ashishin		No	Yule
+190	Ashod		Person	Yule
+191	Ashurada		No	Yule
+192	Asikan		Person	Yule
+193	Asoka		No	Yule
+194	Assai 		Location	Yule
+195	Assassins	Ashishin	No	Yule
+196	Asses		No	Yule
+197	Asterius		No	Yule
+198	Astrakhan	Gittarchan	No	Yule
+199	Astrolabe		No	Yule
+200	Astrology		No	Yule
+201	Astronomical instruments		No	Yule
+202	Atabegs		No	Yule
+203	Atjeh		No	Yule
+204	Atkinsons Narratives		No	Yule
+205	Atlas		No	Yule
+206	Attalus		No	Yule
+207	AtThaibi family		No	Yule
+208	Auberoche		No	Yule
+209	Audh	Oudh	No	Yule
+210	Aufat		No	Yule
+211	Augury		No	Yule
+212	Aung Khan	Unc Can	No	Yule
+213	Aurangzib		No	Yule
+214	Aurora		No	Yule
+215	Aussa		No	Yule
+216	Avarian		No	Yule
+217	Avebury		No	Yule
+218	Avicennas classification of Iron		No	Yule
+219	Axum		No	Yule
+220	Ayas	Layas	No	Yule
+221	Ayuthia		No	Yule
+222	Azure		No	Yule
+223	Aás		No	Yule
+224	Aëtius		Person	Yule
 225	Baatau		Person	Murray
-226	Baba Buzurg			Yule
-227	Baber			Yule
-228	Baboons			Yule
-229	Babylon			Yule
-230	Babylonish garments			Yule
-231	Baccanor			Yule
-232	Bacon			Yule
-233	Bacsi			Yule
-234	Bactria			Yule
-235	Bacu			Yule
-236	Badakhshan	Badashan		Yule
+226	Baba Buzurg		No	Yule
+227	Baber		Location	Yule
+228	Baboons		No	Yule
+229	Babylon		Location	Yule
+230	Babylonish garments		No	Yule
+231	Baccanor		No	Yule
+232	Bacon		No	Yule
+233	Bacsi		No	Yule
+234	Bactria		No	Yule
+235	Bacu		Location	Yule
+236	Badakhshan	Badashan	Location	Yule
 237	Badascia 	Badakshan	Location	Murray
-238	Badger			Yule
-239	Badghís			Yule
-240	Badruddín Lú-lú			Yule
-241	Badáún			Yule
+238	Badger		No	Yule
+239	Badghís		No	Yule
+240	Badruddín Lú-lú		No	Yule
+241	Badáún		No	Yule
 242	Bagdad		Location	Murray
-243	Baghdad	Baudas		Yule
-244	Bagratidae			Yule
-245	Bagration–Mukransky			Yule
-246	Bahar			Yule
-247	Bahrein			Yule
-248	Bahrámábád			Yule
-249	Bahránjird Village			Yule
-250	Bahá-uddin Ayaz			Yule
-251	Bahá-ul-hakh			Yule
-252	Bahárak			Yule
-253	Baiberdon			Yule
-254	Baiburt	Paipurth		Yule
-255	Baidu Khan			Yule
-256	Bailo			Yule
+243	Baghdad	Baudas	Location	Yule
+244	Bagratidae		No	Yule
+245	BagrationMukransky		Person	Yule
+246	Bahar		No	Yule
+247	Bahrein		No	Yule
+248	Bahrámábád		No	Yule
+249	Bahránjird 		Location	Yule
+250	Bahá-uddin Ayaz		No	Yule
+251	Bahá-ul-hakh		Person	Yule
+252	Bahárak		Location	Yule
+253	Baiberdon		No	Yule
+254	Baiburt	Paipurth	Location	Yule
+255	Baidu Khan		Person	Yule
+256	Bailo		No	Yule
 257	Baiothony		Person	Murray
-258	Bakhshi	Bacsi		Yule
-259	Bakhtyáris of Luristán			Yule
+258	Bakhshi	Bacsi	No	Yule
+259	Bakhtyáris of Luristán		No	Yule
 260	Baksi		Person	Murray
 261	Baku		Location	Murray,Yule
-262	Balas rubies			Yule
-263	Bala–Sagun			Yule
-264	Baldac			Yule
+262	Balas rubies		No	Yule
+263	BalaSagun		No	Yule
+264	Baldac		Location	Yule
 265	Baldach 	Bagdad	Location	Murray
-266	Baldwin II			Yule
-267	Bali			Yule
+266	Baldwin II		No	Yule
+267	Bali		Location	Yule
 268	Balk	Balkh	Location	Murray
-269	Balkh	Balc		Yule
-270	Balkhash Lake			Yule
-271	Ballads			Yule
-272	Ballard			Yule
-273	Balor			Yule
-274	Balthazar			Yule
-275	Bamboo 			Yule
-276	Bamian			Yule
-277	Bamm			Yule
-278	Bandar Abbás	Bandar–Abbási		Yule
-279	Bandith			Yule
+269	Balkh	Balc	Location	Yule
+270	Balkhash		Location	Yule
+271	Ballads		No	Yule
+272	Ballard		No	Yule
+273	Balor		No	Yule
+274	Balthazar		Person	Yule
+275	Bamboo 		No	Yule
+276	Bamian		No	Yule
+277	Bamm		No	Yule
+278	Bandar Abbás	BandarAbbási	No	Yule
+279	Bandith		No	Yule
 280	Bangala	Bengal	Location	Murray,Yule
 281	Bangu	Eastern Siberia	Location	Murray
-282	Banzaroff			Yule
-283	Baptism			Yule
-284	Bara			Yule
-285	Barac 	Borrak		Yule
-286	Baradaeus			Yule
-287	Barbaro			Yule
-288	Barbarossa			Yule
-289	Barberino			Yule
-290	Bardesir			Yule
-291	Bardshír			Yule
-292	Bargu	Barguchin Tugrum		Yule
-293	Barguzinsk			Yule
-294	Barin			Yule
-295	Bark			Yule
-296	Barka	Barca		Yule
+282	Banzaroff		No	Yule
+283	Baptism		No	Yule
+284	Bara		No	Yule
+285	Barac 	Borrak	Person	Yule
+286	Baradaeus		Person	Yule
+287	Barbaro		No	Yule
+288	Barbarossa		No	Yule
+289	Barberino		No	Yule
+290	Bardesir		No	Yule
+291	Bardshír		No	Yule
+292	Bargu	Barguchin Tugrum	No	Yule
+293	Barguzinsk		No	Yule
+294	Barin		Location	Yule
+295	Bark		No	Yule
+296	Barka	Barca	Person	Yule
 297	Barka khan		Person	Murray
-298	Barkul			Yule
-299	Barlaam and Josaphat			Yule
-300	Barley			Yule
-301	Baroch			Yule
+298	Barkul		No	Yule
+299	Barlaam and Josaphat		No	Yule
+300	Barley		No	Yule
+301	Baroch		Location	Yule
 302	Barons		Person	Murray,Yule
-303	Barozzi			Yule
-304	Barros			Yule
-305	Barsauma	St. Barsamo		Yule
-306	Barskul	Barscol		Yule
-307	Bartizan			Yule
-308	Barus			Yule
+303	Barozzi		No	Yule
+304	Barros		No	Yule
+305	Barsauma	St. Barsamo	No	Yule
+306	Barskul	Barscol	Location	Yule
+307	Bartizan		No	Yule
+308	Barus		No	Yule
 309	Bascra 	Bussora	Location	Murray
-310	Bashai	Pashai		Yule
-311	Bashkirds			Yule
-312	Bashpah			Yule
-313	Basma			Yule
-314	Basra 	Bastra		Yule
-315	Bathang			Yule
-316	Baths			Yule
-317	Batigala			Yule
-318	Batochina			Yule
-319	Bats			Yule
-320	Battas of Sumatra			Yule
-321	Batthala			Yule
-322	Battles			Yule
-323	Baudas			Yule
-324	Bavaria			Yule
-325	Bawárij			Yule
+310	Bashai	Pashai	No	Yule
+311	Bashkirds		No	Yule
+312	Bashpah		Person	Yule
+313	Basma		No	Yule
+314	Basra 	Bastra	No	Yule
+315	Bathang		No	Yule
+316	Baths		No	Yule
+317	Batigala		No	Yule
+318	Batochina		No	Yule
+319	Bats		No	Yule
+320	Battas of Sumatra		No	Yule
+321	Batthala		No	Yule
+322	Battles		No	Yule
+323	Baudas		Location	Yule
+324	Bavaria		Location	Yule
+325	Bawárij		No	Yule
 326	Bayam		Person	Murray
-327	Bayan			Yule
-328	Bayan 	Baian		Yule
-329	Bayan Chingsian			Yule
-330	Bayezid Ilderim			Yule
-331	Bdellium			Yule
-332	Beads			Yule
-333	Bears			Yule
-334	Beast and bird patterns			Yule
-335	Beaten gold			Yule
-336	Beaujeu			Yule
-337	Beauty of — Georgians			Yule
-338	Beds			Yule
-339	Beef			Yule
-340	Bejas of the Red Sea Coast			Yule
-341	Belgutai			Yule
-342	Bell at Cambaluc			Yule
-343	Bellal Rajas			Yule
+327	Bayan		Person	Yule
+328	Bayan 	Baian	Person	Yule
+329	Bayan Chingsian		Person	Yule
+330	Bayezid Ilderim		Person	Yule
+331	Bdellium		No	Yule
+332	Beads		No	Yule
+333	Bears		No	Yule
+334	Beast and bird patterns		No	Yule
+335	Beaten gold		No	Yule
+336	Beaujeu		No	Yule
+337	Beauty of  Georgians		No	Yule
+338	Beds		No	Yule
+339	Beef		No	Yule
+340	Bejas of the Red Sea Coast		No	Yule
+341	Belgutai		No	Yule
+342	Bell at Cambaluc		No	Yule
+343	Bellal Rajas		No	Yule
 344	Belor 	Beloor	Location	Murray
-345	Benares			Yule
-346	Bendocquedar			Yule
-347	Benedict XII			Yule
-348	Bengal	Bangala		Yule
-349	Beni Búya dynasty			Yule
-350	Benjamin of Tudela			Yule
-351	Benzoin			Yule
-352	Berard			Yule
-353	Berbera			Yule
-354	Berchet			Yule
-355	Bereké			Yule
-356	Bernier			Yule
-357	Bettelar			Yule
-358	Bezant			Yule
-359	Bhamó			Yule
-360	Bhartpúr			Yule
-361	Bhattis			Yule
-362	Bháwalpúr			Yule
-363	Bianco’s			Yule
-364	Biar			Yule
-365	Bibars Bundúkdári			Yule
-366	Bielo Osero			Yule
-367	Bilúchis			Yule
-368	Binh Thuan	Champa		Yule
-369	Binkin			Yule
-370	Bintang	Pentam		Yule
-371	Birch-bark vessels			Yule
-372	Bird-hunts			Yule
-373	Birdwood			Yule
-374	Birhors of Chuta Nagpúr			Yule
-375	Birthday			Yule
-376	Bir–Pandi			Yule
-377	Bishbalik	Urumtsi		Yule
-378	Bishop			Yule
-379	Bitter bread			Yule
-380	Blac			Yule
-381	Black Crane	Kará Togorü		Yule
-382	Blacker			Yule
-383	Blaeuw			Yule
-384	Blochmann			Yule
-385	Block-books			Yule
-386	Block-printing in Persia.			Yule
-387	Blood-sucking			Yule
-388	Boar’s tusks			Yule
-389	Bode			Yule
-390	Bodhisatva Avalok			Yule
-391	Bodleian MS. of Polo			Yule
-392	Boeach			Yule
-393	Boemond			Yule
-394	Boga	Buka		Yule
-395	Boghra Khan			Yule
-396	Bohea country			Yule
-397	Bohra			Yule
-398	Boikoff			Yule
+345	Benares		No	Yule
+346	Bendocquedar		No	Yule
+347	Benedict XII		No	Yule
+348	Bengal	Bangala	Location	Yule
+349	Beni Búya dynasty		No	Yule
+350	Benjamin of Tudela		No	Yule
+351	Benzoin		No	Yule
+352	Berard		No	Yule
+353	Berbera		Location	Yule
+354	Berchet		No	Yule
+355	Bereké		Person	Yule
+356	Bernier		No	Yule
+357	Bettelar		No	Yule
+358	Bezant		No	Yule
+359	Bhamó		Location	Yule
+360	Bhartpúr		No	Yule
+361	Bhattis		No	Yule
+362	Bháwalpúr		No	Yule
+363	Biancos		No	Yule
+364	Biar		No	Yule
+365	Bibars Bundúkdári		No	Yule
+366	Bielo Osero		No	Yule
+367	Bilúchis		No	Yule
+368	Binh Thuan	Champa	No	Yule
+369	Binkin		No	Yule
+370	Bintang	Pentam	No	Yule
+371	Birch-bark vessels		No	Yule
+372	Bird-hunts		No	Yule
+373	Birdwood		No	Yule
+374	Birhors of Chuta Nagpúr		No	Yule
+375	Birthday		No	Yule
+376	BirPandi		No	Yule
+377	Bishbalik	Urumtsi	No	Yule
+378	Bishop		No	Yule
+379	Bitter bread		No	Yule
+380	Blac		No	Yule
+381	Black Crane	Kará Togorü	No	Yule
+382	Blacker		No	Yule
+383	Blaeuw		No	Yule
+384	Blochmann		No	Yule
+385	Block-books		No	Yule
+386	Block-printing in Persia.		No	Yule
+387	Blood-sucking		No	Yule
+388	Boars tusks		No	Yule
+389	Bode		No	Yule
+390	Bodhisatva Avalok		No	Yule
+391	Bodleian MS. of Polo		No	Yule
+392	Boeach		No	Yule
+393	Boemond		No	Yule
+394	Boga	Buka	Person	Yule
+395	Boghra Khan		Person	Yule
+396	Bohea 		Location	Yule
+397	Bohra		No	Yule
+398	Boikoff		No	Yule
 399	Bokhara		Location	Murray,Yule
-400	Boleyn			Yule
-401	Bolgana			Yule
-402	Bolgarskoye	Uspenskoye		Yule
-403	Bolghar	Bolgara		Yule
-404	Bolivar			Yule
-405	Bolor			Yule
-406	Bombay			Yule
-407	Bonaparte			Yule
-408	Bonga			Yule
-409	Bonheur			Yule
+400	Boleyn		No	Yule
+401	Bolgana		No	Yule
+402	Bolgarskoye	Uspenskoye	No	Yule
+403	Bolghar	Bolgara	Location	Yule
+404	Bolivar		No	Yule
+405	Bolor		No	Yule
+406	Bombay		No	Yule
+407	Bonaparte		No	Yule
+408	Bonga		No	Yule
+409	Bonheur		No	Yule
 410	Boni		Person	Murray
-411	Boniface VIII			Yule
-412	Bonin			Yule
-413	Bonoccio di Mestro			Yule
-414	Bonpos			Yule
-415	Bonvalot			Yule
-416	Bonús			Yule
+411	Boniface VIII		No	Yule
+412	Bonin		No	Yule
+413	Bonoccio di Mestro		No	Yule
+414	Bonpos		No	Yule
+415	Bonvalot		No	Yule
+416	Bonús		No	Yule
 417	Boodhism in Central Asia			Murray
-418	Book of Marco Polo			Yule
-419	Bore in Hang-chau Estuary			Yule
-420	Bormans			Yule
-421	Born			Yule
-422	Borneo			Yule
-423	Boro Bodor			Yule
-424	Borrak			Yule
-425	Borùs			Yule
-426	Bostam			Yule
-427	Bouqueran			Yule
-428	Bourne			Yule
-429	Boxwood forests in Georgia			Yule
-430	Bra			Yule
-431	Bracelets			Yule
-432	Bragadino			Yule
-433	Brahmanical thread			Yule
-434	Brahmans	Abraiaman		Yule
-435	Brahma’s temple			Yule
-436	Brahuis			Yule
-437	Brakhimof			Yule
-438	Brambanan			Yule
-439	Bran	Tibetan tsamba		Yule
-440	Brazil wood			Yule
-441	Bread			Yule
-442	Brephung monastery			Yule
-443	Bretschneider			Yule
-444	Brichu	Brius		Yule
-445	Bridges of Pulisanghin			Yule
-446	Brine-wells			Yule
+418	Book of Marco Polo		No	Yule
+419	Bore in Hang-chau Estuary		No	Yule
+420	Bormans		No	Yule
+421	Born		No	Yule
+422	Borneo		No	Yule
+423	Boro Bodor		No	Yule
+424	Borrak		Person	Yule
+425	Borùs		No	Yule
+426	Bostam		No	Yule
+427	Bouqueran		No	Yule
+428	Bourne		No	Yule
+429	Boxwood forests in Georgia		No	Yule
+430	Bra		No	Yule
+431	Bracelets		No	Yule
+432	Bragadino		No	Yule
+433	Brahmanical thread		No	Yule
+434	Brahmans	Abraiaman	No	Yule
+435	Brahmas temple		No	Yule
+436	Brahuis		No	Yule
+437	Brakhimof		No	Yule
+438	Brambanan		No	Yule
+439	Bran	Tibetan tsamba	No	Yule
+440	Brazil wood		No	Yule
+441	Bread		No	Yule
+442	Brephung monastery		No	Yule
+443	Bretschneider		No	Yule
+444	Brichu	Brius	Location	Yule
+445	Bridges of Pulisanghin		No	Yule
+446	Brine-wells		No	Yule
 447	British Museum		Location	Murray
-448	Brius	Kin-sha Kiang		Yule
+448	Brius	Kin-sha Kiang	Location	Yule
 449	Brius 		Location	Murray
-450	Brown			Yule
-451	Bruce’s Abyssinian Chronology			Yule
-452	Brunetto Latini’s Book			Yule
-453	Brunhilda			Yule
-454	Bruun			Yule
-455	Bucephala			Yule
-456	Bucephalus			Yule
-457	Buckrams			Yule
-458	Buddha			Yule
-459	Buddhism			Yule
-460	Buddhist Decalogue			Yule
-461	Buffaloes in Anin			Yule
-462	Buffet and vessels of Kúblái’s table			Yule
-463	Buka	Boga		Yule
-464	Buka Bosha			Yule
-465	Bularguji	Bularguchi		Yule
+450	Brown		No	Yule
+451	Bruces Abyssinian Chronology		No	Yule
+452	Brunetto Latinis Book		No	Yule
+453	Brunhilda		No	Yule
+454	Bruun		No	Yule
+455	Bucephala		No	Yule
+456	Bucephalus		No	Yule
+457	Buckrams		No	Yule
+458	Buddha		No	Yule
+459	Buddhism		No	Yule
+460	Buddhist Decalogue		No	Yule
+461	Buffaloes in Anin		No	Yule
+462	Buffet and vessels of Kúbláis table		No	Yule
+463	Buka	Boga	Location	Yule
+464	Buka Bosha		No	Yule
+465	Bularguji	Bularguchi	No	Yule
 466	Bulgaria		Location	Murray,Yule
-467	Bulughán	Bolgana		Yule
-468	Bundúkdár			Yule
-469	Bundúkdári			Yule
-470	Buraets			Yule
-471	Burma	Ava		Yule
-472	Burnell			Yule
+467	Bulughán	Bolgana	Person	Yule
+468	Bundúkdár		No	Yule
+469	Bundúkdári		Person	Yule
+470	Buraets		No	Yule
+471	Burma	Ava	Person	Yule
+472	Burnell		No	Yule
 473	Burnes		Person	Murray
-474	Burning the Dead			Yule
-475	Burrough			Yule
-476	Burton			Yule
-477	Bushell			Yule
-478	Butchers			Yule
-479	Butiflis	Mutfili		Yule
-480	Butler			Yule
-481	Buyid dynasty			Yule
-482	Báb-ul-abwáh			Yule
-483	Bálti			Yule
-484	Bátú			Yule
-485	Bír-dhúl			Yule
-486	Búkú Khan			Yule
-487	Búrkán Káldún			Yule
+474	Burning the Dead		No	Yule
+475	Burrough		No	Yule
+476	Burton		No	Yule
+477	Bushell		Person	Yule
+478	Butchers		No	Yule
+479	Butiflis	Mutfili	No	Yule
+480	Butler		No	Yule
+481	Buyid dynasty		No	Yule
+482	Báb-ul-abwáh		No	Yule
+483	Bálti		No	Yule
+484	Bátú		Person	Yule
+485	Bír-dhúl		No	Yule
+486	Búkú Khan		Location	Yule
+487	Búrkán Káldún		No	Yule
 488	Ca-cian-fu 	Ho-kien-fou	Location	Murray
-489	Caaju			Yule
-490	Cabs			Yule
-491	Cacanfu	Hokiang-fu		Yule
-492	Cachanfu	P’uchau-fu		Yule
-493	Cachar Modun			Yule
-494	Cachilpatnam			Yule
-495	Caesalpinia			Yule
-496	Caesarea of Cappadocia	Casaria Kaisaríya		Yule
+489	Caaju		Location	Yule
+490	Cabs		Location	Yule
+491	Cacanfu	Hokiang-fu	Location	Yule
+492	Cachanfu	Puchau-fu	Location	Yule
+493	Cachar Modun		No	Yule
+494	Cachilpatnam		No	Yule
+495	Caesalpinia		No	Yule
+496	Caesarea of Cappadocia	Casaria Kaisaríya	No	Yule
 497	Cai-gui	Qua-tcheou	Location	Murray
-498	Caichu			Yule
-499	Caidu			Yule
-500	Caiju			Yule
-501	Cail	Káyal		Yule
-502	Caindu	K’ien-ch’ang		Yule
-503	Caingan	Ciangan		Yule
-504	Cairo			Yule
-505	Caiton			Yule
-506	Cala Ataperistan	Kala’ Atishparastán		Yule
-507	Calachan	Kalaján		Yule
+498	Caichu		Location	Yule
+499	Caidu		Person	Yule
+500	Caiju		No	Yule
+501	Cail	Káyal	Location	Yule
+502	Caindu	Kien-chang	Location	Yule
+503	Caingan	Ciangan	No	Yule
+504	Cairo		Location	Yule
+505	Caiton		Location	Yule
+506	Cala Ataperistan	Kala Atishparastán	Location	Yule
+507	Calachan	Kalaján	No	Yule
 508	Calacian		Location	Murray
-509	Calaiate			Yule
-510	Calamanz			Yule
-511	Calamina			Yule
+509	Calaiate		Location	Yule
+510	Calamanz		No	Yule
+511	Calamina		Location	Yule
 512	Calatu 	Kalhat	Location	Murray
-513	Caldwell			Yule
-514	Calendar			Yule
+513	Caldwell		No	Yule
+514	Calendar		No	Yule
 515	Cali	Kael	Location	Murray
-516	Calicut			Yule
-517	Calif			Yule
-518	Caligine			Yule
+516	Calicut		Location	Yule
+517	Calif	Khalif^	Person	Yule
+518	Caligine		No	Yule
 519	Camabaia	Cambay	Location	Murray
-520	Camadi	 Dakiánús		Yule
+520	Camadi	 Dakiánús	No	Yule
 521	Camandu		Location	Murray
-522	Cambaluc	Khanbaligh		Yule
-523	Cambay	Cambaet		Yule
-524	Cambuscan			Yule
-525	Camel-bird			Yule
-526	Camels			Yule
-527	Camexu			Yule
-528	Camlets	cammellotti		Yule
-529	Camoens			Yule
-530	Camphor  trees in Fo-kien	Laurus Camphora		Yule
-531	Campichu	Kanchau		Yule
-532	Camul	Kamul		Yule
+522	Cambaluc	Khanbaligh	Location	Yule
+523	Cambay	Cambaet	Location	Yule
+524	Cambuscan		No	Yule
+525	Camel-bird		No	Yule
+526	Camels		No	Yule
+527	Camexu		No	Yule
+528	Camlets	cammellotti	No	Yule
+529	Camoens		No	Yule
+530	Camphor  trees in Fo-kien	Laurus Camphora	No	Yule
+531	Campichu	Kanchau	Location	Yule
+532	Camul	Kamul	Location	Yule
 533	Can-giu 	Kiang-chan-fui	Location	Murray
-534	Canal			Yule
-535	Canale			Yule
-536	Cananor			Yule
-537	Cananore			Yule
-538	Canara			Yule
-539	Cancamum			Yule
-540	Canes			Yule
-541	Cannibalism			Yule
-542	Cannibals			Yule
-543	Canonical Hours			Yule
+534	Canal		No	Yule
+535	Canale		No	Yule
+536	Cananor		Location	Yule
+537	Cananore		No	Yule
+538	Canara		No	Yule
+539	Cancamum		No	Yule
+540	Canes		No	Yule
+541	Cannibalism		No	Yule
+542	Cannibals		No	Yule
+543	Canonical Hours		No	Yule
 544	Canpicion 	Kan-tcheou	Location	Murray
-545	Cansay			Yule
-546	Canton			Yule
-547	Cape Comorin			Yule
-548	Cappadocian horses			Yule
-549	Capus			Yule
-550	Caracoron	Kará Korum		Yule
+545	Cansay	Kinsay	Location	Yule
+546	Canton		No	Yule
+547	Cape Comorin		No	Yule
+548	Cappadocian horses		No	Yule
+549	Capus		No	Yule
+550	Caracoron	Kará Korum	Location	Yule
 551	Caraian		Location	Murray
-552	Carajan 	Caraian		Yule
-553	Caramoran River 	Hwang–Ho		Yule
-554	Carans			Yule
-555	Caraonas 	Karaunahs		Yule
-556	Carats			Yule
-557	Cardinal’s Wit			Yule
-558	Caribs			Yule
-559	Carpets			Yule
+552	Carajan 	Caraian	Location	Yule
+553	Caramoran River 	HwangHo	Location	Yule
+554	Carans		No	Yule
+555	Caraonas 	Karaunahs	Location	Yule
+556	Carats		No	Yule
+557	Cardinals Wit		No	Yule
+558	Caribs		No	Yule
+559	Carpets		No	Yule
 560	Carpini		Person	Murray
-561	Carriages			Yule
-562	Carrion			Yule
-563	Carts			Yule
+561	Carriages		No	Yule
+562	Carrion		No	Yule
+563	Carts		No	Yule
 564	Casan	Ghazan	Person	Murray,Yule
-565	Casaria	Caesarea of Cappadocia		Yule
-566	Cascar	Kashgar		Yule
+565	Casaria	Caesarea of Cappadocia	No	Yule
+566	Cascar	Kashgar	Location	Yule
 567	Cascar 	Cashgar	Location	Murray
-568	Casem			Yule
-569	Caspian Sea 	Sea of Ghel,sea of Ghelan		Yule
-570	Cassay			Yule
-571	Cassia			Yule
-572	Castaldi			Yule
-573	Castambol			Yule
-574	Castelli			Yule
-575	Casvin	Kazvín		Yule
-576	Catalan Navy			Yule
+568	Casem		Location	Yule
+569	Caspian Sea 	Sea of Ghel,sea of Ghelan	Location	Yule
+570	Cassay		Location	Yule
+571	Cassia		No	Yule
+572	Castaldi		No	Yule
+573	Castambol		No	Yule
+574	Castelli		No	Yule
+575	Casvin	Kazvín	Location	Yule
+576	Catalan Navy		No	Yule
 577	Cathay	Kataia	Location	Murray,Yule
-578	Catholics			Yule
-579	Cators 	chakors		Yule
-580	Cats in China			Yule
-581	Cat’s Head Tablet			Yule
-582	Caucasian Wall			Yule
-583	Caugigu			Yule
-584	Caulking			Yule
-585	Cauly			Yule
-586	Causeway			Yule
-587	Cauterising children’s heads			Yule
-588	Cave-houses			Yule
-589	Cavo de Eli			Yule
+578	Catholics		No	Yule
+579	Cators 	chakors	No	Yule
+580	Cats in China		No	Yule
+581	Cats Head Tablet		No	Yule
+582	Caucasian Wall		No	Yule
+583	Caugigu		No	Yule
+584	Caulking		No	Yule
+585	Cauly		No	Yule
+586	Causeway		No	Yule
+587	Cauterising childrens heads		No	Yule
+588	Cave-houses		No	Yule
+589	Cavo de Eli		No	Yule
 590	Caya-fu		Location	Murray
-591	Cayu (Kao-yu)			Yule
-592	Ca’ Polo			Yule
-593	Celtic Church			Yule
-594	Census			Yule
-595	Ceremonial of Mongol Court			Yule
-596	Ceylon	Seilan		Yule
-597	Chachan	Charchan		Yule
-598	Chagatai	Sigatay		Yule
-599	Chaghan–Kuren			Yule
-600	Chaghan–Nor 	White Lake		Yule
-601	Chaghán-Jáng			Yule
-602	Chairs			Yule
-603	Chalcedony and jasper			Yule
-604	Chalukya Malla kings			Yule
-605	Champa	Chamba		Yule
-606	Chandra Banu			Yule
+591	Cayu (Kao-yu)		No	Yule
+592	Ca Polo		No	Yule
+593	Celtic Church		No	Yule
+594	Census		No	Yule
+595	Ceremonial of Mongol Court		No	Yule
+596	Ceylon	Seilan	Location	Yule
+597	Chachan	Charchan	No	Yule
+598	Chagatai	Sigatay	Person	Yule
+599	ChaghanKuren		No	Yule
+600	ChaghanNor 	White Lake	No	Yule
+601	Chaghán-Jáng		No	Yule
+602	Chairs		No	Yule
+603	Chalcedony and jasper		No	Yule
+604	Chalukya Malla kings		No	Yule
+605	Champa	Chamba	Location	Yule
+606	Chandra Banu		No	Yule
 607	Chandu		Location	Murray,Yule
-608	Chang K’ien			Yule
-609	Chang Te-hui			Yule
-610	Chang Yao			Yule
-611	Chang-chau 	Chinginju		Yule
-612	Chang-shan	Chanshan		Yule
-613	Chang-y	Chenchu		Yule
-614	Changan			Yule
-615	Changgan	Chang-ngan		Yule
-616	Chaohien			Yule
-617	Chaotong			Yule
-618	Chapu			Yule
-619	Characters			Yule
-620	Charchan	Chachan of Johnson		Yule
-621	Charcoal			Yule
-622	Charities			Yule
+608	Chang Kien		No	Yule
+609	Chang Te-hui		No	Yule
+610	Chang Yao		No	Yule
+611	Chang-chau 	Chinginju	Location	Yule
+612	Chang-shan	Chanshan	No	Yule
+613	Chang-y	Chenchu	No	Yule
+614	Changan		No	Yule
+615	Changgan	Chang-ngan	No	Yule
+616	Chaohien		No	Yule
+617	Chaotong		No	Yule
+618	Chapu		No	Yule
+619	Characters		No	Yule
+620	Charchan	Chachan of Johnson	No	Yule
+621	Charcoal		No	Yule
+622	Charities		No	Yule
 623	Charlemagne		Person	Murray
-624	Charles VIII			Yule
-625	Chau dynasty			Yule
-626	Chaucer			Yule
-627	Chaul			Yule
+624	Charles VIII		No	Yule
+625	Chau dynasty		No	Yule
+626	Chaucer		No	Yule
+627	Chaul		No	Yule
 628	Chaym	Kao-yeou	Location	Murray
-629	Cheapness in China			Yule
-630	Cheetas			Yule
-631	Cheh-kiang			Yule
-632	Cheinan			Yule
+629	Cheapness in China		No	Yule
+630	Cheetas		No	Yule
+631	Cheh-kiang		Location	Yule
+632	Cheinan		Location	Yule
 633	Chen-gui 	Yen-tcheou-fou	Location	Murray
-634	Chenchau			Yule
-635	Chenching	Cochin–China		Yule
-636	Chenchu	Chang-y		Yule
-637	Cheu			Yule
-638	Chibai and Chiban			Yule
-639	Chichiklik Pass			Yule
-640	Chien-ch’ang	Caindu		Yule
-641	Chihli			Yule
-642	Chilaw			Yule
-643	Chiliánwála			Yule
-644	Chilu-ku			Yule
-645	Chin			Yule
+634	Chenchau		No	Yule
+635	Chenching	CochinChina	No	Yule
+636	Chenchu	Chang-y	Person	Yule
+637	Cheu		No	Yule
+638	Chibai and Chiban		No	Yule
+639	Chichiklik Pass		No	Yule
+640	Chien-chang	Caindu	No	Yule
+641	Chihli		Location	Yule
+642	Chilaw		No	Yule
+643	Chiliánwála		Location	Yule
+644	Chilu-ku		Person	Yule
+645	Chin		Location	Yule
 646	China		Location	Murray,Yule
-647	Chinangli	T’sinan-fu		Yule
-648	Chinchau			Yule
-649	Chinese			Yule
+647	Chinangli	Tsinan-fu	No	Yule
+648	Chinchau		No	Yule
+649	Chinese		No	Yule
 650	Chinese empire		Organization	Murray
 651	Chinese navigation to India			Murray
-652	Ching-hoang tower at Hangchau-fu			Yule
-653	Chinghian-fu	Chinkiang-fu		Yule
-654	Chinghiz Khan			Yule
-655	Chinghiz Tora			Yule
-656	Chinginju 	Chang-chau		Yule
-657	Chingintalas			Yule
-658	Chingkim			Yule
-659	Chingsang			Yule
-660	Chingting-fu 	Acbaluc		Yule
-661	Chingtsu			Yule
-662	Chinju	Tinju		Yule
-663	Chinju 	Tinju		Yule
-664	Chinuchi			Yule
-665	Chipangu	Japan		Yule
+652	Ching-hoang tower at Hangchau-fu		No	Yule
+653	Chinghian-fu	Chinkiang-fu	No	Yule
+654	Chinghiz Khan		Person	Yule
+655	Chinghiz Tora		No	Yule
+656	Chinginju 	Chang-chau	No	Yule
+657	Chingintalas		Location	Yule
+658	Chingkim		Person	Yule
+659	Chingsang		No	Yule
+660	Chingting-fu 	Acbaluc	No	Yule
+661	Chingtsu		Person	Yule
+662	Chinju	Tinju	No	Yule
+663	Chinju 	Tinju	No	Yule
+664	Chinuchi		Person	Yule
+665	Chipangu	Japan	Location	Yule
 666	Chisi 	Kishm	Location	Murray
-667	Chitral			Yule
-668	Cho-chau 	Juju		Yule
-669	Chola			Yule
-670	Chonka	Fo-kien		Yule
-671	Chonkwé			Yule
-672	Chorcha			Yule
-673	Christian			Yule
-674	Christianity			Yule
-675	Christians			Yule
-676	Chronology and chronological data discussed			Yule
-677	Chrysostom			Yule
-678	Chuchu			Yule
-679	Chughis			Yule
-680	Chung-tu			Yule
-681	Chungkwé			Yule
-682	Chung–Kiang			Yule
-683	Churches			Yule
-684	Churchin			Yule
-685	Cháo Naiman Sumé Khotan			Yule
-686	Ch’ang Ch’un			Yule
-687	Ch’ang Te 			Yule
-688	Ch’eng-ting fu			Yule
-689	Ch’êng-Tsu	Yung-lo		Yule
-690	Ch’êng-tu	Sze-ch’wan		Yule
-691	Ch’êngtu-fu	Sindafu		Yule
+667	Chitral		No	Yule
+668	Cho-chau 	Juju	No	Yule
+669	Chola		No	Yule
+670	Chonka	Fo-kien	Location	Yule
+671	Chonkwé		No	Yule
+672	Chorcha		No	Yule
+673	Christian		No	Yule
+674	Christianity		No	Yule
+675	Christians		No	Yule
+676	Chronology and chronological data discussed		No	Yule
+677	Chrysostom		No	Yule
+678	Chuchu		No	Yule
+679	Chughis		No	Yule
+680	Chung-tu		Location	Yule
+681	Chungkwé		Location	Yule
+682	ChungKiang		No	Yule
+683	Churches		No	Yule
+684	Churchin		No	Yule
+685	Chang Chun		Location	Yule
+686	Chang Te 		No	Yule
+687	Cheng-ting fu		No	Yule
+688	Chêng-Tsu	Yung-lo	Person	Yule
+689	Chêng-tu	Sze-chwan	No	Yule
+690	Chêngtu-fu	Sindafu	No	Yule
+691	Cháo Naiman Sumé Khotan		No	Yule
 692	Ciagatai	Zagatai	Person	Murray
 693	Cian-cian 	Kiu-tcheou	Location	Murray
 694	Cian-gli 	Te-tcheou	Location	Murray
@@ -698,2827 +698,2827 @@
 696	Cianba 	Tsiompa	Location	Murray
 697	Cianganor		Location	Murray
 698	Ciarcian 	Karashehr	Location	Murray
-699	Cielstan			Yule
+699	Cielstan		No	Yule
 700	Cin-ghian-fu	Tchin-kiang-fou	Location	Murray
-701	Cinnamon			Yule
-702	Circumcision of Socotrans			Yule
-703	Cirophanes			Yule
-704	Civet			Yule
+701	Cinnamon		No	Yule
+702	Circumcision of Socotrans		No	Yule
+703	Cirophanes		No	Yule
+704	Civet		No	Yule
 705	Clemenfu 	Tai-yuen-fou	Location	Murray
-706	Clement IV			Yule
+706	Clement IV		Person	Yule
 707	Clement IV.		Person	Murray
-708	Cloves			Yule
-709	Coal 			Yule
-710	Cobbler			Yule
+708	Cloves		No	Yule
+709	Coal 		No	Yule
+710	Cobbler		No	Yule
 711	Cobi	Shamo	Location	Murray
 712	Cobinam 	Khubees	Location	Murray
-713	Cobinan	Koh–Banán		Yule
-714	Cocachin	Kúkáchin		Yule
-715	Cochin–China			Yule
-716	Coco Islands			Yule
-717	Coco-nut 			Yule
-718	Cocos Islands			Yule
-719	Coeur de Lion			Yule
-720	Coffins			Yule
-721	Cogachin	Hukaji		Yule
-722	Cogatai			Yule
-723	Cogatal			Yule
-724	Coiganju	Hwaingan-fu		Yule
+713	Cobinan	KohBanán	No	Yule
+714	Cocachin	Kúkáchin	Person	Yule
+715	CochinChina		Location	Yule
+716	Coco Islands		No	Yule
+717	Coco-nut 		No	Yule
+718	Cocos Islands		No	Yule
+719	Coeur de Lion		No	Yule
+720	Coffins		No	Yule
+721	Cogachin	Hukaji	Person	Yule
+722	Cogatai		Person	Yule
+723	Cogatal		Person	Yule
+724	Coiganju	Hwaingan-fu	No	Yule
 725	Coilac		Location	Murray
 726	Coilon		Location	Murray
-727	Coilum	Kollam		Yule
-728	Coilumin			Yule
-729	Coins of Cilician Armenia			Yule
-730	Coja	Koja		Yule
-731	Cold			Yule
-732	Coleridge			Yule
-733	Coloman			Yule
-734	Colon			Yule
-735	Colossal Buddhas			Yule
-736	Columbum			Yule
-737	Columbus			Yule
-738	Comania			Yule
+727	Coilum	Kollam	Location	Yule
+728	Coilumin		No	Yule
+729	Coins of Cilician Armenia		No	Yule
+730	Coja	Koja	Person	Yule
+731	Cold		No	Yule
+732	Coleridge		No	Yule
+733	Coloman		Location	Yule
+734	Colon		No	Yule
+735	Colossal Buddhas		No	Yule
+736	Columbum		No	Yule
+737	Columbus		Person	Yule
+738	Comania		Location	Yule
 739	Comari		Comorin	Murray,Yule
-740	Combermere			Yule
-741	Compartments			Yule
-742	Compass			Yule
-743	Competitive Examinations in beauty			Yule
-744	Conchi			Yule
+740	Combermere		No	Yule
+741	Compartments		No	Yule
+742	Compass		No	Yule
+743	Competitive Examinations in beauty		No	Yule
+744	Conchi		Person	Yule
 745	Conci		Person	Murray
-746	Concubines			Yule
+746	Concubines		No	Yule
 747	Condi-fu 	Tsi-nan-fou	Location	Murray
-748	Condor			Yule
-749	Condur and Sondur			Yule
-750	Conia			Yule
-751	Conjeveram			Yule
-752	Conjurers			Yule
-753	Conosalmi 	Kamasal		Yule
-754	Constantinople			Yule
-755	Convents			Yule
-756	Cookery			Yule
-757	Cooper			Yule
-758	Copper			Yule
-759	Coral			Yule
-760	Corea	Kauli		Yule
+748	Condor		Location	Yule
+749	Condur and Sondur		Location	Yule
+750	Conia		No	Yule
+751	Conjeveram		No	Yule
+752	Conjurers		No	Yule
+753	Conosalmi 	Kamasal	No	Yule
+754	Constantinople		Location	Yule
+755	Convents		No	Yule
+756	Cookery		No	Yule
+757	Cooper		No	Yule
+758	Copper		No	Yule
+759	Coral		No	Yule
+760	Corea	Kauli	No	Yule
 761	Cormos 	Ormus	Location	Murray
-762	Corn			Yule
-763	Coromandel	Maabar		Yule
-764	Corsairs			Yule
-765	Corte del Milione			Yule
+762	Corn		No	Yule
+763	Coromandel	Maabar	No	Yule
+764	Corsairs		No	Yule
+765	Corte del Milione		No	Yule
 766	Corvino		Person	Murray
-767	Cosmography			Yule
-768	Cotan			Yule
+767	Cosmography		No	Yule
+768	Cotan		Location	Yule
 769	Cotan 	Khoten	Location	Murray
-770	Cotton			Yule
-771	Counts in Vokhan			Yule
+770	Cotton		No	Yule
+771	Counts in Vokhan		No	Yule
 772	Couriers of the great khan			Murray
-773	Courts of Justice			Yule
-774	Cow-dung			Yule
-775	Cowell			Yule
-776	Cowries 			Yule
-777	Cramoisy			Yule
-778	Cranes			Yule
-779	Crawford			Yule
+773	Courts of Justice		No	Yule
+774	Cow-dung		No	Yule
+775	Cowell		No	Yule
+776	Cowries 		No	Yule
+777	Cramoisy		No	Yule
+778	Cranes		No	Yule
+779	Crawford		No	Yule
 780	Creman	Carmania	Location	Murray
-781	Cremation			Yule
-782	Cremesor			Yule
-783	Crocodiles			Yule
-784	Cross			Yule
-785	Crossbows			Yule
-786	Cruelties			Yule
+781	Cremation		No	Yule
+782	Cremesor		Location	Yule
+783	Crocodiles		No	Yule
+784	Cross		No	Yule
+785	Crossbows		No	Yule
+786	Cruelties		No	Yule
 787	Crusca MS. of the Travels		Person	Murray
-788	Cubeb pepper			Yule
-789	Cubits			Yule
-790	Cublay			Yule
-791	Cucintana			Yule
-792	Cudgel			Yule
-793	Cuiju	Kwei-chau		Yule
-794	Cuinet			Yule
-795	Cuirbouly			Yule
-796	Cuju			Yule
+788	Cubeb pepper		No	Yule
+789	Cubits		No	Yule
+790	Cublay		Person	Yule
+791	Cucintana		No	Yule
+792	Cudgel		No	Yule
+793	Cuiju	Kwei-chau	Location	Yule
+794	Cuinet		No	Yule
+795	Cuirbouly		No	Yule
+796	Cuju		No	Yule
 797	Cun-chin		Location	Murray
-798	Cuncun 	Han–Chung		Yule
-799	Cunningham			Yule
-800	Cups			Yule
-801	Curds and Curdistan			Yule
-802	Currency			Yule
-803	Current			Yule
-804	Currents			Yule
-805	Curtains			Yule
-806	Curzola Island			Yule
-807	Curzon			Yule
-808	Customs			Yule
-809	Cutch pirates			Yule
-810	Cuxstac			Yule
-811	Cuy Khan	Kuyuk		Yule
+798	Cuncun 	HanChung	Location	Yule
+799	Cunningham		Person	Yule
+800	Cups		No	Yule
+801	Curds and Curdistan		No	Yule
+802	Currency		No	Yule
+803	Current		No	Yule
+804	Currents		No	Yule
+805	Curtains		No	Yule
+806	Curzola Island		Location	Yule
+807	Curzon		No	Yule
+808	Customs		No	Yule
+809	Cutch pirates		No	Yule
+810	Cuxstac		No	Yule
+811	Cuy Khan	Kuyuk	Person	Yule
 812	Cuyne	Kuynuk	Person	Murray
-813	Cycle			Yule
+813	Cycle		No	Yule
 814	Cyn-gui		Location	Murray
-815	Cypresses			Yule
-816	Cyprus			Yule
-817	Cyrus			Yule
-818	Da Gama			Yule
-819	Dabul			Yule
-820	Dagroian			Yule
-821	Dailiu	Tali		Yule
-822	Dakiánus			Yule
-823	Dalai Lama			Yule
-824	Dalivar			Yule
-825	Dalmian			Yule
-826	Damas			Yule
-827	Damascus			Yule
-828	Damasks			Yule
-829	Damghan			Yule
-830	Dancing dervishes			Yule
-831	Dancing girls			Yule
+815	Cypresses		No	Yule
+816	Cyprus		No	Yule
+817	Cyrus		No	Yule
+818	Da Gama		Person	Yule
+819	Dabul		No	Yule
+820	Dagroian		Location	Yule
+821	Dailiu	Tali	No	Yule
+822	Dakiánus		Location	Yule
+823	Dalai Lama		Person	Yule
+824	Dalivar		Location	Yule
+825	Dalmian		No	Yule
+826	Damas		No	Yule
+827	Damascus		Location	Yule
+828	Damasks		No	Yule
+829	Damghan		No	Yule
+830	Dancing dervishes		No	Yule
+831	Dancing girls		No	Yule
 832	Dandolo		Person	Murray,Yule
-833	Dantapura			Yule
-834	Dante			Yule
-835	Darah			Yule
-836	Dariel			Yule
-837	Darius			Yule
-838	Dark Ocean of the South			Yule
-839	Darkness			Yule
-840	Darwaz			Yule
-841	Darábjird			Yule
-842	Darúná			Yule
-843	Dasht			Yule
-844	Dasht-i-Lut 	Tali		Yule
-845	Dashtistan tribe and district			Yule
-846	Dashtáb			Yule
-847	Dates (chronology) in Polo’s book			Yule
-848	Daughters of Marco Polo			Yule
-849	David			Yule
-850	Davids			Yule
-851	Davis			Yule
-852	Dawaro			Yule
-853	Daya			Yule
-854	Daïtu			Yule
-855	De Barros			Yule
+833	Dantapura		No	Yule
+834	Dante		No	Yule
+835	Darah		No	Yule
+836	Dariel		No	Yule
+837	Darius		Person	Yule
+838	Dark Ocean of the South		No	Yule
+839	Darkness		No	Yule
+840	Darwaz		No	Yule
+841	Darábjird		No	Yule
+842	Darúná		No	Yule
+843	Dasht		No	Yule
+844	Dasht-i-Lut 	Tali	No	Yule
+845	Dashtistan tribe and district		No	Yule
+846	Dashtáb		No	Yule
+847	Dates (chronology) in Polos book		No	Yule
+848	Daughters of Marco Polo		No	Yule
+849	David		Person	Yule
+850	Davids		No	Yule
+851	Davis		No	Yule
+852	Dawaro		No	Yule
+853	Daya		No	Yule
+854	Daïtu		Location	Yule
+855	De Barros		No	Yule
 856	De Guignes			Murray
-857	De la Croix			Yule
-858	Dead			Yule
-859	Debt			Yule
-860	Decimal organisation of Tartar armies			Yule
-861	Decius			Yule
-862	Degháns			Yule
-863	Deh Bakri			Yule
-864	Dehánah			Yule
-865	Delhi			Yule
-866	Demoiselle Crane			Yule
-867	Deogir			Yule
-868	Derbend			Yule
-869	Deserts			Yule
-870	Deserts of Kerman or of Lút			Yule
-871	Desgodins			Yule
-872	Despina Khatun			Yule
-873	Devadási			Yule
-874	Devapattan			Yule
-875	Devil trees			Yule
-876	Devil-dancing			Yule
-877	Devils			Yule
-878	Devéria			Yule
-879	Dhafar	Dofar		Yule
-880	Dhúlkarnain			Yule
-881	Dialects			Yule
-882	Diamonds in India			Yule
-883	Diláwar			Yule
-884	Dimitri II			Yule
-885	Dinh Tiên-hwàng			Yule
-886	Dinár of Red Gold			Yule
-887	Diocletian			Yule
-888	Dir			Yule
-889	Dirakht-i-Fazl			Yule
-890	Dirakht-i-Kush			Yule
-891	Dirhem–Kub			Yule
-892	Diráwal			Yule
-893	Dish of Sakya or of Adam			Yule
-894	Diu City			Yule
-895	Diul–Sind			Yule
-896	Divination by twigs or arrows			Yule
-897	Dixan			Yule
-898	Dizabulus			Yule
-899	Dizful River			Yule
-900	Djaya			Yule
-901	Doctors at Kinsay			Yule
-902	Dofar			Yule
-903	Dog-headed races			Yule
-904	Dog-sledging in Far North			Yule
-905	Dogana			Yule
-906	Doghábah River			Yule
+857	De la Croix		No	Yule
+858	Dead		No	Yule
+859	Debt		No	Yule
+860	Decimal organisation of Tartar armies		No	Yule
+861	Decius		Person	Yule
+862	Degháns		No	Yule
+863	Deh Bakri		No	Yule
+864	Dehánah		Location	Yule
+865	Delhi		Location	Yule
+866	Demoiselle Crane		No	Yule
+867	Deogir		No	Yule
+868	Derbend		No	Yule
+869	Deserts		No	Yule
+870	Deserts of Kerman or of Lút		Location	Yule
+871	Desgodins		No	Yule
+872	Despina Khatun		No	Yule
+873	Devadási		No	Yule
+874	Devapattan		No	Yule
+875	Devil trees		No	Yule
+876	Devil-dancing		No	Yule
+877	Devils		No	Yule
+878	Devéria		No	Yule
+879	Dhafar	Dofar	No	Yule
+880	Dhúlkarnain		No	Yule
+881	Dialects		No	Yule
+882	Diamonds in India		No	Yule
+883	Diláwar		No	Yule
+884	Dimitri II		Person	Yule
+885	Dinh Tiên-hwàng		Person	Yule
+886	Dinár of Red Gold		No	Yule
+887	Diocletian		No	Yule
+888	Dir		Location	Yule
+889	Dirakht-i-Fazl		No	Yule
+890	Dirakht-i-Kush		No	Yule
+891	DirhemKub		No	Yule
+892	Diráwal		Location	Yule
+893	Dish of Sakya or of Adam		No	Yule
+894	Diu 		Location	Yule
+895	DiulSind		No	Yule
+896	Divination by twigs or arrows		No	Yule
+897	Dixan		No	Yule
+898	Dizabulus		No	Yule
+899	Dizful River		lo0	Yule
+900	Djaya		No	Yule
+901	Doctors at Kinsay		No	Yule
+902	Dofar		No	Yule
+903	Dog-headed races		No	Yule
+904	Dog-sledging in Far North		No	Yule
+905	Dogana		No	Yule
+906	Doghábah River		Location	Yule
 907	Dogs			Murray,Yule
-908	Dolfino			Yule
-909	Dolonnúr			Yule
+908	Dolfino		No	Yule
+909	Dolonnúr		No	Yule
 910	Dominican friars			Murray
-911	Dominicans			Yule
+911	Dominicans		No	Yule
 912	Dor		Person	Murray
-913	Dorah Pass			Yule
-914	Doria			Yule
-915	Dorjé			Yule
-916	Douglas			Yule
-917	Doyley			Yule
-918	Dragoian	Ta-hua-Mien		Yule
-919	Drawers			Yule
-920	Dreams			Yule
-921	Drums			Yule
-922	Du Bose			Yule
+913	Dorah Pass		No	Yule
+914	Doria		No	Yule
+915	Dorjé		No	Yule
+916	Douglas		No	Yule
+917	Doyley		No	Yule
+918	Dragoian	Ta-hua-Mien	Location	Yule
+919	Drawers		No	Yule
+920	Dreams		No	Yule
+921	Drums		No	Yule
+922	Du Bose		No	Yule
 923	Du Halde's estimate of the revenues of China			Murray
-924	Dua Khan			Yule
-925	Ducat			Yule
-926	Dudley			Yule
-927	Duel			Yule
+924	Dua Khan		Person	Yule
+925	Ducat		No	Yule
+926	Dudley		No	Yule
+927	Duel		No	Yule
 928	Dufar	Dofar	Location	Murray
-929	Dufour			Yule
-930	Duhalde			Yule
-931	Dukuz Khatun			Yule
-932	Dulcarnon	Zulkarnain		Yule
-933	Dulites			Yule
-934	Dumas			Yule
-935	Dumb trade			Yule
-936	Duncan			Yule
-937	Duplicates in geography			Yule
-938	Durga Temple			Yule
-939	Dursamand			Yule
-940	Dust-storms			Yule
-941	Duties			Yule
-942	Dutthagamini			Yule
-943	Dwara Samudra			Yule
-944	Dzegun-tala			Yule
-945	Dzungaria			Yule
-946	Dárápur			Yule
-947	Dínár			Yule
-948	Dürer’s Map of Venice			Yule
-949	D’Alboquerque			Yule
-950	D’Anghieria			Yule
-951	D’Anville’s Map			Yule
-952	D’Avezac			Yule
-953	D’Ely			Yule
-954	D’Evreux			Yule
-955	D’Orléans			Yule
-956	Eagle mark on shoulder of Georgian kings			Yule
-957	Eagle-wood			Yule
-958	Eagles			Yule
-959	Earth honoured			Yule
-960	East			Yule
-961	Ebony 			Yule
-962	Edkins			Yule
-963	Edward I			Yule
-964	Edward II			Yule
-965	Effeminacy			Yule
-966	Eggs of Ruc and Aepyornis			Yule
-967	Egrigaia			Yule
+929	Dufour		No	Yule
+930	Duhalde		No	Yule
+931	Dukuz Khatun		No	Yule
+932	Dulcarnon	Zulkarnain	No	Yule
+933	Dulites		No	Yule
+934	Dumas		No	Yule
+935	Dumb trade		No	Yule
+936	Duncan		No	Yule
+937	Duplicates in geography		No	Yule
+938	Durga Temple		No	Yule
+939	Dursamand		No	Yule
+940	Dust-storms		No	Yule
+941	Duties		No	Yule
+942	Dutthagamini		Person	Yule
+943	Dwara Samudra		No	Yule
+944	Dzegun-tala		No	Yule
+945	Dzungaria		No	Yule
+946	DAlboquerque		No	Yule
+947	DAnghieria		No	Yule
+948	DAnvilles Map		No	Yule
+949	DAvezac		No	Yule
+950	DEly		No	Yule
+951	DEvreux		No	Yule
+952	DOrléans		Person	Yule
+953	Dárápur		No	Yule
+954	Dínár		No	Yule
+955	Dürers Map of Venice		No	Yule
+956	Eagle mark on shoulder of Georgian kings		No	Yule
+957	Eagle-wood		No	Yule
+958	Eagles		No	Yule
+959	Earth honoured		No	Yule
+960	East		No	Yule
+961	Ebony 		No	Yule
+962	Edkins		No	Yule
+963	Edward I		No	Yule
+964	Edward II		No	Yule
+965	Effeminacy		No	Yule
+966	Eggs of Ruc and Aepyornis		No	Yule
+967	Egrigaia		Location	Yule
 968	Egrigaia 	Ninghia	Location	Murray
 969	Eighurs		Location	Murray
-970	Ela	cardamom		Yule
-971	Elchidai			Yule
-972	Elenovka			Yule
-973	Elephantiasis			Yule
+970	Ela	cardamom	No	Yule
+971	Elchidai		No	Yule
+972	Elenovka		No	Yule
+973	Elephantiasis		No	Yule
 974	Elephants			Murray,Yule
 975	Eli	Dely	Location	Murray,Yule
-976	Elias			Yule
-977	Elixir vitae of the Jogis			Yule
-978	Elliot			Yule
-979	Emad			Yule
-980	Embroidery of silk at Kerman			Yule
-981	Empoli			Yule
-982	Enchanters			Yule
-983	Enchantments			Yule
-984	Engano Island			Yule
-985	Engineering feat			Yule
-986	Engineers			Yule
-987	England			Yule
-988	English trade and character in Asia			Yule
-989	Enlightenment			Yule
-990	Erculin			Yule
-991	Erdeni Tso	Erdenidsu		Yule
-992	Eremites 	Rishis		Yule
+976	Elias		No	Yule
+977	Elixir vitae of the Jogis		No	Yule
+978	Elliot		No	Yule
+979	Emad		No	Yule
+980	Embroidery of silk at Kerman		No	Yule
+981	Empoli		No	Yule
+982	Enchanters		No	Yule
+983	Enchantments		No	Yule
+984	Engano Island		No	Yule
+985	Engineering feat		No	Yule
+986	Engineers		No	Yule
+987	England		Location	Yule
+988	English trade and character in Asia		No	Yule
+989	Enlightenment		No	Yule
+990	Erculin		No	Yule
+991	Erdeni Tso	Erdenidsu	No	Yule
+992	Eremites 	Rishis	No	Yule
 993	Erginul		Location	Murray
-994	Erguiul			Yule
-995	Erivan			Yule
-996	Ermine			Yule
-997	Erzinjan			Yule
-998	Erzrum	Arziron		Yule
+994	Erguiul		Location	Yule
+995	Erivan		No	Yule
+996	Ermine		No	Yule
+997	Erzinjan		Location	Yule
+998	Erzrum	Arziron	No	Yule
 999	Escier 	Shaher	Location	Murray
-1000	Esher	Shehr		Yule
-1001	Essentemur	Isentimur		Yule
-1002	Etchmiadzin Monastery			Yule
-1003	Ethiopia and India			Yule
-1004	Ethiopian sheep			Yule
-1005	Etiquette of the Mongol Court			Yule
-1006	Etymologies			Yule
-1007	Etzina			Yule
-1008	Eunuchs			Yule
+1000	Esher	Shehr	Location	Yule
+1001	Essentemur	Isentimur	Person	Yule
+1002	Etchmiadzin Monastery		No	Yule
+1003	Ethiopia and India		No	Yule
+1004	Ethiopian sheep		No	Yule
+1005	Etiquette of the Mongol Court		No	Yule
+1006	Etymologies		No	Yule
+1007	Etzina		No	Yule
+1008	Eunuchs		No	Yule
 1009	Euphrates		Location	Murray,Yule
 1010	Europeans			Murray
-1011	Euxine			Yule
-1012	Evelyn’s /Diary/			Yule
-1013	Execution of Princes of the Blood			Yule
-1014	Eyircayá			Yule
+1011	Euxine		Location	Yule
+1012	Evelyns /Diary/		No	Yule
+1013	Execution of Princes of the Blood		No	Yule
+1014	Eyircayá		No	Yule
 1015	Ezina		Location	Murray
-1016	Facen			Yule
+1016	Facen		No	Yule
 1017	Facfur		Person	Murray
-1018	Faghfur	Facfur		Yule
-1019	Faizabad in Badakhshan			Yule
-1020	Fakanúr			Yule
-1021	Fakata			Yule
-1022	Fakhruddin Ahmad			Yule
-1023	Falconers			Yule
+1018	Faghfur	Facfur	Person	Yule
+1019	Faizabad in Badakhshan		No	Yule
+1020	Fakanúr		No	Yule
+1021	Fakata		No	Yule
+1022	Fakhruddin Ahmad		Person	Yule
+1023	Falconers		No	Yule
 1024	Falconry in China			Murray
-1025	Falcons			Yule
-1026	Famine			Yule
-1027	Fan Wen-hu			Yule
-1028	Fan-ching			Yule
-1029	Fanchan Lake			Yule
-1030	Fandaraina			Yule
-1031	Fansur			Yule
-1032	Fansuri camphor			Yule
-1033	Fariab			Yule
-1034	Faro of Constantinople			Yule
-1035	Farriers			Yule
-1036	Fars			Yule
-1037	Fashiyah			Yule
-1038	Fassa			Yule
-1039	Fasting days			Yule
-1040	Fattan			Yule
-1041	Fatten			Yule
-1042	Fausto			Yule
-1043	Fazl			Yule
-1044	Feili			Yule
-1045	Female attendants on Chinese Emperors			Yule
-1046	Ferlec			Yule
-1047	Fernandez			Yule
-1048	Ferrier			Yule
+1025	Falcons		No	Yule
+1026	Famine		No	Yule
+1027	Fan Wen-hu		No	Yule
+1028	Fan-ching		No	Yule
+1029	Fanchan Lake		Location	Yule
+1030	Fandaraina		No	Yule
+1031	Fansur		Location	Yule
+1032	Fansuri camphor		No	Yule
+1033	Fariab		No	Yule
+1034	Faro of Constantinople		No	Yule
+1035	Farriers		No	Yule
+1036	Fars		No	Yule
+1037	Fashiyah		No	Yule
+1038	Fassa		No	Yule
+1039	Fasting days		No	Yule
+1040	Fattan		No	Yule
+1041	Fatten		No	Yule
+1042	Fausto		No	Yule
+1043	Fazl		No	Yule
+1044	Feili		No	Yule
+1045	Female attendants on Chinese Emperors		No	Yule
+1046	Ferlec		Location	Yule
+1047	Fernandez		No	Yule
+1048	Ferrier		No	Yule
 1049	Festivals			Murray,Yule
-1050	Fiag			Yule
-1051	Filial Piety in China			Yule
-1052	Filippi			Yule
-1053	Finn			Yule
-1054	Fiordelisa			Yule
-1055	Firando Island			Yule
-1056	Firdús			Yule
-1057	Firdúsí			Yule
-1058	Fire			Yule
+1050	Fiag		Location	Yule
+1051	Filial Piety in China		No	Yule
+1052	Filippi		No	Yule
+1053	Finn		No	Yule
+1054	Fiordelisa		Person	Yule
+1055	Firando Island		Location	Yule
+1056	Firdús		Location	Yule
+1057	Firdúsí		No	Yule
+1058	Fire		No	Yule
 1059	Fire worshippers (Guebres) in Persia		Person	Murray
-1060	Fire-Pao			Yule
-1061	Fire-baptism			Yule
-1062	Fire-worship			Yule
-1063	Firishta			Yule
-1064	Fish miracle in Georgia			Yule
-1065	Fish-oil			Yule
-1066	Florin			Yule
-1067	Flour	Sago		Yule
-1068	Flückiger			Yule
+1060	Fire-Pao		No	Yule
+1061	Fire-baptism		No	Yule
+1062	Fire-worship		No	Yule
+1063	Firishta		No	Yule
+1064	Fish miracle in Georgia		No	Yule
+1065	Fish-oil		No	Yule
+1066	Florin		No	Yule
+1067	Flour	Sago	No	Yule
+1068	Flückiger		No	Yule
 1069	Fo-kien		Location	Murray,Yule
-1070	Fog			Yule
-1071	Folin 	Byzantine Empire		Yule
-1072	Fondaco			Yule
-1073	Foot-mark on Adam’s Peak			Yule
-1074	Foot-posts in Cathay			Yule
-1075	Forg			Yule
-1076	Formosa			Yule
-1077	Forsyth			Yule
-1078	Fortune			Yule
-1079	Foundlings			Yule
-1080	Four-horned sheep			Yule
-1081	Fowls with hair			Yule
-1082	Foxes			Yule
-1083	Fozlán			Yule
-1084	Fracastoro			Yule
+1070	Fog		No	Yule
+1071	Folin 	Byzantine Empire	No	Yule
+1072	Fondaco		No	Yule
+1073	Foot-mark on Adams Peak		No	Yule
+1074	Foot-posts in Cathay		No	Yule
+1075	Forg		No	Yule
+1076	Formosa		Location	Yule
+1077	Forsyth		No	Yule
+1078	Fortune		No	Yule
+1079	Foundlings		No	Yule
+1080	Four-horned sheep		No	Yule
+1081	Fowls with hair		No	Yule
+1082	Foxes		No	Yule
+1083	Fozlán		No	Yule
+1084	Fracastoro		No	Yule
 1085	Frampton		Person	Murray
-1086	Franciscan converts			Yule
-1087	Francolin (darráj of the Persians			Yule
-1088	Frankincense			Yule
-1089	Frederic II			Yule
-1090	French			Yule
-1091	French Expedition up the Kamboja River			Yule
+1086	Franciscan converts		No	Yule
+1087	Francolin (darráj of the Persians		No	Yule
+1088	Frankincense		No	Yule
+1089	Frederic II		Person	Yule
+1090	French		No	Yule
+1091	French Expedition up the Kamboja River		No	Yule
 1092	French Geographical Society			Murray
-1093	French mission and missionaries in China			Yule
-1094	Frenchmen			Yule
-1095	Frere			Yule
-1096	Froissart			Yule
-1097	Fu-chau	Fo-kien		Yule
+1093	French mission and missionaries in China		No	Yule
+1094	Frenchmen		No	Yule
+1095	Frere		No	Yule
+1096	Froissart		No	Yule
+1097	Fu-chau	Fo-kien	Location	Yule
 1098	Fu-gui	Concha	Location	Murray
-1099	Fuen ho 	Fen ho		Yule
-1100	Funeral rites			Yule
-1101	Fungul			Yule
-1102	Furs			Yule
-1103	Fusang			Yule
-1104	Fuyang			Yule
-1105	Fuzo			Yule
-1106	Gabala			Yule
-1107	Gagry			Yule
-1108	Gaisue			Yule
-1109	Galingale			Yule
-1110	Galletti			Yule
-1111	Galley-slaves not usual in Middle Ages			Yule
-1112	Galleys of the Middle Ages			Yule
-1113	Gambling			Yule
-1114	Game			Yule
-1115	Game Laws			Yule
+1099	Fuen ho 	Fen ho	Location	Yule
+1100	Funeral rites		No	Yule
+1101	Fungul		Location	Yule
+1102	Furs		No	Yule
+1103	Fusang		Location	Yule
+1104	Fuyang		Location	Yule
+1105	Fuzo		No	Yule
+1106	Gabala		No	Yule
+1107	Gagry		No	Yule
+1108	Gaisue		No	Yule
+1109	Galingale		No	Yule
+1110	Galletti		No	Yule
+1111	Galley-slaves not usual in Middle Ages		No	Yule
+1112	Galleys of the Middle Ages		No	Yule
+1113	Gambling		No	Yule
+1114	Game		No	Yule
+1115	Game Laws		No	Yule
 1116	Gan-fu 	Ning-po	Location	Murray
-1117	Gan-p’u			Yule
-1118	Ganapati Kings			Yule
-1119	Gandar			Yule
-1120	Gandhára			Yule
-1121	Ganfu			Yule
-1122	Ganja			Yule
-1123	Gantanpouhoa			Yule
-1124	Gantûr			Yule
-1125	Gardenia			Yule
-1126	Gardner			Yule
-1127	Garmsir			Yule
-1128	Garnier			Yule
-1129	Garrisons			Yule
-1130	Gat-pauls			Yule
-1131	Gate of Iron			Yule
-1132	Gates			Yule
-1133	Gauenispola 			Yule
+1117	Gan-pu		No	Yule
+1118	Ganapati Kings		No	Yule
+1119	Gandar		Person	Yule
+1120	Gandhára		No	Yule
+1121	Ganfu		lo0	Yule
+1122	Ganja		No	Yule
+1123	Gantanpouhoa		Person	Yule
+1124	Gantûr		No	Yule
+1125	Gardenia		No	Yule
+1126	Gardner		No	Yule
+1127	Garmsir		No	Yule
+1128	Garnier		No	Yule
+1129	Garrisons		No	Yule
+1130	Gat-pauls		No	Yule
+1131	Gate of Iron		No	Yule
+1132	Gates		No	Yule
+1133	Gauenispola 		Location	Yule
 1134	Gaui	Pariahs of Southern India		Murray
-1135	Gaur			Yule
-1136	Gauristan			Yule
-1137	Gavraz villages			Yule
-1138	Gazaria			Yule
-1139	Gedrosi			Yule
-1140	Gelath in Imeretia			Yule
-1141	Genealogy of Polos			Yule
+1135	Gaur		No	Yule
+1136	Gauristan		No	Yule
+1137	Gavraz villages		No	Yule
+1138	Gazaria		No	Yule
+1139	Gedrosi		No	Yule
+1140	Gelath in Imeretia		No	Yule
+1141	Genealogy of Polos		No	Yule
 1142	Gengis		Person	Murray
-1143	Genoa			Yule
-1144	Genoese			Yule
-1145	Gentile Plural names converted into local singulars			Yule
+1143	Genoa		Location	Yule
+1144	Genoese		No	Yule
+1145	Gentile Plural names converted into local singulars		No	Yule
 1146	Geo-gui	Gin-gui,Tso-tcheou	Location	Murray
 1147	Geographical Society of Paris			Murray
-1148	Geographical Text of Polo’s Book constantly quoted			Yule
-1149	George	Jirjis		Yule
+1148	Geographical Text of Polos Book constantly quoted		No	Yule
+1149	George	Jirjis	Person	Yule
 1150	Georgia		Location	Murray,Yule
-1151	Gerfalcons	Shonkár		Yule
-1152	Gerini			Yule
-1153	German Follower of the Polos			Yule
-1154	Ghaissuddin Balban 	Asedin Soldan		Yule
-1155	Ghel			Yule
-1156	Ghellé	Gílí		Yule
-1157	Ghes			Yule
-1158	Ghiuju			Yule
-1159	Ghiyas ed-din			Yule
-1160	Ghori			Yule
-1161	Gháran 			Yule
-1162	Gházán	Casan		Yule
-1163	Ghúr			Yule
-1164	Giglioli			Yule
-1165	Gilgit			Yule
-1166	Gill			Yule
-1167	Ginao			Yule
-1168	Gindanes of Herodotus			Yule
-1169	Ginger			Yule
+1151	Gerfalcons	Shonkár	No	Yule
+1152	Gerini		No	Yule
+1153	German Follower of the Polos		No	Yule
+1154	Ghaissuddin Balban 	Asedin Soldan	Person	Yule
+1155	Ghel		Location	Yule
+1156	Ghellé	Gílí	No	Yule
+1157	Ghes		No	Yule
+1158	Ghiuju		No	Yule
+1159	Ghiyas ed-din		Person	Yule
+1160	Ghori		Location	Yule
+1161	Gháran 		Person	Yule
+1162	Gházán	Casan	Person	Yule
+1163	Ghúr		No	Yule
+1164	Giglioli		Person	Yule
+1165	Gilgit		No	Yule
+1166	Gill		Location	Yule
+1167	Ginao		No	Yule
+1168	Gindanes of Herodotus		No	Yule
+1169	Ginger		No	Yule
 1170	Ginghintalas 	Barkoul	Location	Murray
-1171	Giraffes			Yule
-1172	Girardo			Yule
-1173	Girdkuh			Yule
-1174	Girls			Yule
-1175	Gittarchan			Yule
-1176	Glaza	Ayas		Yule
-1177	Gleemen and jugglers			Yule
-1178	Goa			Yule
-1179	Gobernador			Yule
-1180	Gog and Magog	Ung and Mungul		Yule
-1181	Gogo			Yule
+1171	Giraffes		No	Yule
+1172	Girardo		No	Yule
+1173	Girdkuh		No	Yule
+1174	Girls		No	Yule
+1175	Gittarchan		No	Yule
+1176	Glaza	Ayas	No	Yule
+1177	Gleemen and jugglers		No	Yule
+1178	Goa		Location	Yule
+1179	Gobernador		No	Yule
+1180	Gog and Magog	Ung and Mungul	No	Yule
+1181	Gogo		No	Yule
 1182	Golconda		Location	Murray
-1183	Golconda diamond mines			Yule
-1184	Gold			Yule
-1185	Gold and silver towers of Mien			Yule
-1186	Gold dust in Tibet			Yule
-1187	Golden King and Prester John			Yule
-1188	Gomispola			Yule
-1189	Gomushtapah			Yule
-1190	Gomuti palm			Yule
-1191	Gondophares			Yule
-1192	Gordon’s “Ever Victorious Army”			Yule
-1193	Gordun Sháh			Yule
-1194	Goriosan			Yule
-1195	Goshawks			Yule
-1196	Gothia	Crimean		Yule
-1197	Govy			Yule
-1198	Goza			Yule
+1183	Golconda diamond mines		No	Yule
+1184	Gold		No	Yule
+1185	Gold and silver towers of Mien		No	Yule
+1186	Gold dust in Tibet		No	Yule
+1187	Golden King and Prester John		No	Yule
+1188	Gomispola		No	Yule
+1189	Gomushtapah		No	Yule
+1190	Gomuti palm		No	Yule
+1191	Gondophares		Person	Yule
+1192	Gordons Ever Victorious Army		No	Yule
+1193	Gordun Sháh		No	Yule
+1194	Goriosan		No	Yule
+1195	Goshawks		No	Yule
+1196	Gothia	Crimean	No	Yule
+1197	Govy		No	Yule
+1198	Goza		No	Yule
 1199	Gozurat		Location	Murray,Yule
-1200	Goës			Yule
-1201	Goître at Yarkand			Yule
-1202	Grail			Yule
-1203	Granaries			Yule
-1204	Grapes in Shan-si			Yule
-1205	Grass-cloths			Yule
-1206	Grasso			Yule
-1207	Great			Yule
-1208	Great Bear	Meistre		Yule
+1200	Goës		No	Yule
+1201	Goître at Yarkand		No	Yule
+1202	Grail		No	Yule
+1203	Granaries		No	Yule
+1204	Grapes in Shan-si		No	Yule
+1205	Grass-cloths		No	Yule
+1206	Grasso		No	Yule
+1207	Great		No	Yule
+1208	Great Bear	Meistre	No	Yule
 1209	Great wall of China		Location	Murray
-1210	Greece			Yule
-1211	Greek fire			Yule
-1212	Greeks			Yule
-1213	Green			Yule
-1214	Gregorieff			Yule
-1215	Gregory X			Yule
+1210	Greece		No	Yule
+1211	Greek fire		No	Yule
+1212	Greeks		No	Yule
+1213	Green		No	Yule
+1214	Gregorieff		Person	Yule
+1215	Gregory X		Person	Yule
 1216	Gregory X.		Person	Murray
-1217	Grenard			Yule
-1218	Grioni			Yule
-1219	Groat			Yule
-1220	Groot			Yule
-1221	Grote			Yule
-1222	Grueber and Dorville			Yule
-1223	Gryphon			Yule
-1224	Guasmul	Basmul		Yule
-1225	Guchluk			Yule
-1226	Gudar 			Yule
-1227	Gudran			Yule
-1228	Guebers			Yule
-1229	Guilds of craftsmen at Kinsay			Yule
-1230	Guinea-fowl			Yule
-1231	Guions			Yule
-1232	Gujáh			Yule
-1233	Gumish–Khának			Yule
-1234	Gunpowder			Yule
-1235	Gurgan			Yule
-1236	Gur–Khan of Karacathay			Yule
-1237	Gutturals			Yule
-1238	Guzerat	Gozurat		Yule
-1239	Gíl			Yule
-1240	Göring			Yule
-1241	Haast			Yule
-1242	Habsh	Abash		Yule
-1243	Habíb-ullah of Khotan			Yule
-1244	Hadhramaut 	Sessania Adrumetorum		Yule
-1245	Hadiah			Yule
-1246	Haffer			Yule
-1247	Hai-nan			Yule
-1248	Hairy men in Sumatra			Yule
-1249	Hajji Mahomed			Yule
-1250	Hakeddin			Yule
-1251	Half-breeds			Yule
-1252	Hamd Allah Mastaufi			Yule
-1253	Hamilton			Yule
-1254	Hammer–Purgstall on Marco Polo			Yule
-1255	Hamza Pantsúri			Yule
-1256	Hamza of Ispahan			Yule
-1257	Hamúm Arabs			Yule
-1258	Han Yu			Yule
-1259	Han dynasty			Yule
-1260	Han-chung	Cuncun		Yule
-1261	Han-kau			Yule
-1262	Hanbury			Yule
-1263	Hang-chau fu			Yule
-1264	Hanjam			Yule
-1265	Hansi			Yule
-1266	Harhaura			Yule
-1267	Harlez			Yule
-1268	Harran			Yule
-1269	Harshadeva			Yule
-1270	Harsuddi			Yule
-1271	Haru			Yule
-1272	Hashíshín			Yule
-1273	Hasik			Yule
-1274	Hassan			Yule
-1275	Hassán Kalá			Yule
-1276	Hastings			Yule
-1277	Hatan			Yule
-1278	Haunted deserts			Yule
-1279	Havret			Yule
-1280	Hawks			Yule
-1281	Hayton I.	Hethum		Yule
-1282	Hazbana			Yule
-1283	Hazáras			Yule
-1284	He-lung Kiang			Yule
-1285	Heat			Yule
-1286	Heaven			Yule
-1287	Hedin			Yule
-1288	Hei-shui	Mongol Etsina)		Yule
-1289	Heibak			Yule
-1290	Height			Yule
-1291	Heikel			Yule
-1292	Hel			Yule
-1293	Helena			Yule
-1294	Helli			Yule
-1295	Hemp of Kwei-chau			Yule
-1296	Henry II			Yule
-1297	Henry III			Yule
-1298	Heraclius			Yule
-1299	Herat			Yule
-1300	Hereditary trades			Yule
-1301	Hereford			Yule
-1302	Hermenia			Yule
-1303	Hermits of Kashmir			Yule
-1304	Herodotus			Yule
-1305	Hethum			Yule
-1306	Hiai 	Kiai-chau,Caichu		Yule
-1307	Hides			Yule
-1308	Hili			Yule
-1309	Hill-people of Fo-kien			Yule
-1310	Hinaur			Yule
-1311	Hind			Yule
-1312	Hindu character			Yule
-1313	Hindus			Yule
-1314	Hing-hwa			Yule
-1315	Hippopotamus’ teeth			Yule
-1316	Hips			Yule
-1317	Hirth			Yule
-1318	Hiuan–Tsung			Yule
-1319	Hiuen Tsang			Yule
-1320	Ho-nhi			Yule
+1217	Grenard		No	Yule
+1218	Grioni		No	Yule
+1219	Groat		No	Yule
+1220	Groot		No	Yule
+1221	Grote		No	Yule
+1222	Grueber and Dorville		No	Yule
+1223	Gryphon		No	Yule
+1224	Guasmul	Basmul	No	Yule
+1225	Guchluk		No	Yule
+1226	Gudar 		No	Yule
+1227	Gudran		No	Yule
+1228	Guebers		No	Yule
+1229	Guilds of craftsmen at Kinsay		No	Yule
+1230	Guinea-fowl		No	Yule
+1231	Guions		No	Yule
+1232	Gujáh		Person	Yule
+1233	GumishKhának		No	Yule
+1234	Gunpowder		No	Yule
+1235	Gurgan		Person	Yule
+1236	GurKhan of Karacathay		No	Yule
+1237	Gutturals		No	Yule
+1238	Guzerat	Gozurat	Location	Yule
+1239	Gíl		Location	Yule
+1240	Göring		No	Yule
+1241	Haast		No	Yule
+1242	Habsh	Abash	Location	Yule
+1243	Habíb-ullah of Khotan		No	Yule
+1244	Hadhramaut 	Sessania Adrumetorum	No	Yule
+1245	Hadiah		No	Yule
+1246	Haffer		No	Yule
+1247	Hai-nan		Location	Yule
+1248	Hairy men in Sumatra		No	Yule
+1249	Hajji Mahomed		No	Yule
+1250	Hakeddin		No	Yule
+1251	Half-breeds		Person	Yule
+1252	Hamd Allah Mastaufi		No	Yule
+1253	Hamilton		No	Yule
+1254	HammerPurgstall on Marco Polo		No	Yule
+1255	Hamza Pantsúri		No	Yule
+1256	Hamza of Ispahan		No	Yule
+1257	Hamúm Arabs		No	Yule
+1258	Han Yu		No	Yule
+1259	Han dynasty		No	Yule
+1260	Han-chung	Cuncun	No	Yule
+1261	Han-kau		No	Yule
+1262	Hanbury		No	Yule
+1263	Hang-chau fu		Location	Yule
+1264	Hanjam		No	Yule
+1265	Hansi		No	Yule
+1266	Harhaura		No	Yule
+1267	Harlez		No	Yule
+1268	Harran		No	Yule
+1269	Harshadeva		Person	Yule
+1270	Harsuddi		No	Yule
+1271	Haru		No	Yule
+1272	Hashíshín		No	Yule
+1273	Hasik		No	Yule
+1274	Hassan		Person	Yule
+1275	Hassán Kalá		No	Yule
+1276	Hastings		No	Yule
+1277	Hatan		No	Yule
+1278	Haunted deserts		No	Yule
+1279	Havret		No	Yule
+1280	Hawks		No	Yule
+1281	Hayton I.	Hethum	Person	Yule
+1282	Hazbana		Person	Yule
+1283	Hazáras		Location	Yule
+1284	He-lung Kiang		No	Yule
+1285	Heat		No	Yule
+1286	Heaven		Location	Yule
+1287	Hedin		No	Yule
+1288	Hei-shui	Mongol Etsina)	Location	Yule
+1289	Heibak		No	Yule
+1290	Height		No	Yule
+1291	Heikel		No	Yule
+1292	Hel		No	Yule
+1293	Helena		Person	Yule
+1294	Helli		No	Yule
+1295	Hemp of Kwei-chau		No	Yule
+1296	Henry II		Person	Yule
+1297	Henry III		Person	Yule
+1298	Heraclius		No	Yule
+1299	Herat		No	Yule
+1300	Hereditary trades		No	Yule
+1301	Hereford		No	Yule
+1302	Hermenia		Location	Yule
+1303	Hermits of Kashmir		No	Yule
+1304	Herodotus		No	Yule
+1305	Hethum		Location	Yule
+1306	Hiai 	Kiai-chau,Caichu	No	Yule
+1307	Hides		No	Yule
+1308	Hili		Location	Yule
+1309	Hill-people of Fo-kien		No	Yule
+1310	Hinaur		No	Yule
+1311	Hind		No	Yule
+1312	Hindu character		No	Yule
+1313	Hindus		No	Yule
+1314	Hing-hwa		No	Yule
+1315	Hippopotamus teeth		No	Yule
+1316	Hips		No	Yule
+1317	Hirth		No	Yule
+1318	HiuanTsung		Person	Yule
+1319	Hiuen Tsang		Person	Yule
+1320	Ho-nhi		No	Yule
 1321	Hoang-ho		Location	Murray
-1322	Hochau			Yule
-1323	Hochung-fu	Cachanfu		Yule
-1324	Hodgson			Yule
-1325	Hoernle			Yule
-1326	Hojos			Yule
-1327	Hokien-fu	Cacanfu		Yule
-1328	Hokow			Yule
-1329	Holcombe			Yule
-1330	Hollingworth			Yule
-1331	Holy Sepulchre			Yule
-1332	Homeritae			Yule
-1333	Homi-cheu			Yule
-1334	Hondius map			Yule
-1335	Hooker			Yule
+1322	Hochau		Location	Yule
+1323	Hochung-fu	Cachanfu	Location	Yule
+1324	Hodgson		No	Yule
+1325	Hoernle		No	Yule
+1326	Hojos		No	Yule
+1327	Hokien-fu	Cacanfu	No	Yule
+1328	Hokow		No	Yule
+1329	Holcombe		Location	Yule
+1330	Hollingworth		No	Yule
+1331	Holy Sepulchre		No	Yule
+1332	Homeritae		No	Yule
+1333	Homi-cheu		No	Yule
+1334	Hondius map		No	Yule
+1335	Hooker		No	Yule
 1336	Hoolaku		Person	Murray
-1337	Horiad	Oirad		Yule
-1338	Hormuz	Hormos		Yule
-1339	Hormuzdia			Yule
-1340	Horns of Ovis Poli			Yule
-1341	Horoscopes			Yule
+1337	Horiad	Oirad	No	Yule
+1338	Hormuz	Hormos	Location	Yule
+1339	Hormuzdia		No	Yule
+1340	Horns of Ovis Poli		No	Yule
+1341	Horoscopes		No	Yule
 1342	Horsburgh		Person	Murray
-1343	Horse-posts and Post-houses			Yule
-1344	Horse-stealing			Yule
-1345	Horses			Yule
-1346	Hosie			Yule
-1347	Hospitals			Yule
-1348	Hostelries			Yule
-1349	Hot springs in Armenia			Yule
-1350	Hounds			Yule
-1351	Hours			Yule
-1352	Hsi Hsia dynasty			Yule
-1353	Hu-chau fu	Vuju		Yule
-1354	Hui-hui			Yule
-1355	Hukaji 	Hogáchi		Yule
-1356	Hukwan-hien			Yule
-1357	Hullukluk			Yule
-1358	Human fat			Yule
-1359	Humboldt			Yule
-1360	Humáyún			Yule
-1361	Hun-ho	Sanghin 		Yule
-1362	Hundred Eyes			Yule
-1363	Hung Hao			Yule
-1364	Hungary			Yule
+1343	Horse-posts and Post-houses		No	Yule
+1344	Horse-stealing		No	Yule
+1345	Horses		No	Yule
+1346	Hosie		No	Yule
+1347	Hospitals		No	Yule
+1348	Hostelries		No	Yule
+1349	Hot springs in Armenia		No	Yule
+1350	Hounds		No	Yule
+1351	Hours		No	Yule
+1352	Hsi Hsia dynasty		No	Yule
+1353	Hu-chau fu	Vuju	No	Yule
+1354	Hui-hui		No	Yule
+1355	Hukaji 	Hogáchi	Person	Yule
+1356	Hukwan-hien		No	Yule
+1357	Hullukluk		Location	Yule
+1358	Human fat		No	Yule
+1359	Humboldt		No	Yule
+1360	Humáyún		Person	Yule
+1361	Hun-ho	Sanghin 	Location	Yule
+1362	Hundred Eyes		No	Yule
+1363	Hung Hao		Person	Yule
+1364	Hungary		Location	Yule
 1365	Huns invade Europe			Murray
-1366	Hunting equipment and Expedition			Yule
-1367	Hunáwar	Onore		Yule
-1368	Hutton			Yule
-1369	Hwa-chau			Yule
-1370	Hwai River			Yule
-1371	Hwai-lu			Yule
-1372	Hwai-ngan-fu	Coiganju		Yule
-1373	Hwan-ho			Yule
-1374	Hwang-ho	Yellow River		Yule
-1375	Hyena			Yule
-1376	Hyrcania			Yule
-1377	Húlakú Khan	Alau		Yule
-1378	Iabadiu			Yule
-1379	Ibn Batuta 			Yule
-1380	Ibn Fozlán			Yule
-1381	Ibn-al-Furát			Yule
-1382	Ichin-hien			Yule
-1383	Ichthyophagous cattle and people			Yule
-1384	Icon Amlac			Yule
+1366	Hunting equipment and Expedition		No	Yule
+1367	Hunáwar	Onore	No	Yule
+1368	Hutton		No	Yule
+1369	Hwa-chau		No	Yule
+1370	Hwai River		Location	Yule
+1371	Hwai-lu		No	Yule
+1372	Hwai-ngan-fu	Coiganju	No	Yule
+1373	Hwan-ho		No	Yule
+1374	Hwang-ho	Yellow River	Location	Yule
+1375	Hyena		No	Yule
+1376	Hyrcania		No	Yule
+1377	Húlakú Khan	Alau	Person	Yule
+1378	Iabadiu		No	Yule
+1379	Ibn Batuta 		Person	Yule
+1380	Ibn Fozlán		No	Yule
+1381	Ibn-al-Furát		No	Yule
+1382	Ichin-hien		No	Yule
+1383	Ichthyophagous cattle and people		No	Yule
+1384	Icon Amlac		Person	Yule
 1385	Iconium		Location	Murray,Yule
-1386	Idolatry (Buddhism) and Idolaters			Yule
-1387	Idols			Yule
-1388	Ieu			Yule
-1389	Ifat			Yule
-1390	Ig			Yule
-1391	Igba Zion			Yule
-1392	Ilchi			Yule
-1393	Ilchigadai Khan			Yule
-1394	Ilija			Yule
-1395	Ilkhan			Yule
-1396	Ilyáts			Yule
-1397	Im Thurn			Yule
-1398	Imáms of the Ismailites			Yule
-1399	Incense			Yule
-1400	India			Yule
-1401	Indian drugs to prolong life			Yule
-1402	Indies			Yule
-1403	Indifference			Yule
-1404	Indigo			Yule
-1405	Indo–China			Yule
-1406	Indragiri 			Yule
-1407	Infants			Yule
-1408	Ingushes of Caucasus			Yule
-1409	Innocent IV			Yule
+1386	Idolatry (Buddhism) and Idolaters		No	Yule
+1387	Idols		No	Yule
+1388	Ieu		No	Yule
+1389	Ifat		No	Yule
+1390	Ig		No	Yule
+1391	Igba Zion		Person	Yule
+1392	Ilchi		Location	Yule
+1393	Ilchigadai Khan		Person	Yule
+1394	Ilija		No	Yule
+1395	Ilkhan		No	Yule
+1396	Ilyáts		No	Yule
+1397	Im Thurn		No	Yule
+1398	Imáms of the Ismailites		No	Yule
+1399	Incense		No	Yule
+1400	India		Location	Yule
+1401	Indian drugs to prolong life		No	Yule
+1402	Indies		No	Yule
+1403	Indifference		No	Yule
+1404	Indigo		No	Yule
+1405	IndoChina		No	Yule
+1406	Indragiri 		Location	Yule
+1407	Infants		No	Yule
+1408	Ingushes of Caucasus		No	Yule
+1409	Innocent IV		No	Yule
 1410	Innocent IV.		Person	Murray
-1411	Inscription			Yule
-1412	Insult			Yule
-1413	Intramural interment prohibited			Yule
-1414	Invulnerability			Yule
-1415	Irghai			Yule
-1416	Irish			Yule
-1417	Iron			Yule
-1418	Iron Gate	Derbend Pass		Yule
-1419	Irtish			Yule
-1420	Isaac			Yule
-1421	Isabel			Yule
-1422	Isabeni			Yule
-1423	Isentemur	Sentemur		Yule
-1424	Ish			Yule
-1425	Ish-Káshm			Yule
-1426	Iskandar			Yule
-1427	Islands			Yule
+1411	Inscription		No	Yule
+1412	Insult		No	Yule
+1413	Intramural interment prohibited		No	Yule
+1414	Invulnerability		No	Yule
+1415	Irghai		No	Yule
+1416	Irish		No	Yule
+1417	Iron		No	Yule
+1418	Iron Gate	Derbend Pass	No	Yule
+1419	Irtish		lo0	Yule
+1420	Isaac		Person	Yule
+1421	Isabel		Person	Yule
+1422	Isabeni		No	Yule
+1423	Isentemur	Sentemur	Person	Yule
+1424	Ish		No	Yule
+1425	Ish-Káshm		No	Yule
+1426	Iskandar		No	Yule
+1427	Islands		No	Yule
 1428	Islands of the Oriental Archipelago		Location	Murray
-1429	Isle d’Orleans			Yule
-1430	Isle of Rubies	Ceylon		Yule
-1431	Ismailites			Yule
+1429	Isle dOrleans		No	Yule
+1430	Isle of Rubies	Ceylon	No	Yule
+1431	Ismailites		No	Yule
 1432	Ismalies	Assassins	Person	Murray
-1433	Ismaïl			Yule
-1434	Ispahan 	Istanit		Yule
-1435	Israel in China			Yule
-1436	Iteration			Yule
-1437	Ivongo			Yule
-1438	Ivory trade			Yule
-1439	Izzuddin Muzaffar			Yule
-1440	I’tsing			Yule
-1441	Jacinth			Yule
-1442	Jacobite Christians			Yule
-1443	Jacobs			Yule
-1444	Jade stone (jasper) of Khotan			Yule
-1445	Jaeschke			Yule
-1446	Jaffa			Yule
-1447	Jaipál			Yule
-1448	Jaláluddín of Khwarizm			Yule
-1449	Jamaluddin			Yule
-1450	Jambi River			Yule
-1451	James of Aragon			Yule
-1452	Jamáluddín-al-Thaibi			Yule
-1453	Jamúi Khátún			Yule
-1454	Jangama sect			Yule
-1455	Janibeg			Yule
+1433	Ismaïl		No	Yule
+1434	Ispahan 	Istanit	No	Yule
+1435	Israel in China		No	Yule
+1436	Iteration		No	Yule
+1437	Ivongo		No	Yule
+1438	Ivory trade		No	Yule
+1439	Izzuddin Muzaffar		Person	Yule
+1440	Itsing		No	Yule
+1441	Jacinth		No	Yule
+1442	Jacobite Christians		No	Yule
+1443	Jacobs		No	Yule
+1444	Jade stone (jasper) of Khotan		No	Yule
+1445	Jaeschke		No	Yule
+1446	Jaffa		No	Yule
+1447	Jaipál		No	Yule
+1448	Jaláluddín of Khwarizm		No	Yule
+1449	Jamaluddin		Person	Yule
+1450	Jambi River		Location	Yule
+1451	James of Aragon		Person	Yule
+1452	Jamáluddín-al-Thaibi		Person	Yule
+1453	Jamúi Khátún		Person	Yule
+1454	Jangama sect		No	Yule
+1455	Janibeg		Person	Yule
 1456	Japan		Location	Murray,Yule
-1457	Japanese paper-money			Yule
-1458	Jaroslawl			Yule
-1459	Jaspar 	Gaspar		Yule
-1460	Jasper and chalcedony			Yule
-1461	Jatolic			Yule
-1462	Jauchau			Yule
+1457	Japanese paper-money		No	Yule
+1458	Jaroslawl		No	Yule
+1459	Jaspar 	Gaspar	No	Yule
+1460	Jasper and chalcedony		No	Yule
+1461	Jatolic		No	Yule
+1462	Jauchau		No	Yule
 1463	Java		Location	Murray,Yule
-1464	Jawa			Yule
-1465	Jaya–Sinhavarman II			Yule
-1466	Jazirah			Yule
-1467	Jaúzgún			Yule
-1468	Jehangír	Jehan		Yule
-1469	Jenkinson			Yule
-1470	Jerusalem			Yule
-1471	Jerún 	Zarun		Yule
-1472	Jesuit maps			Yule
-1473	Jesujabus			Yule
-1474	Jews			Yule
-1475	Jibal			Yule
-1476	Jibal-ul-Thabúl			Yule
-1477	Jiruft			Yule
-1478	Jogis	Chughi		Yule
-1479	John XXII			Yule
-1480	Johnson			Yule
-1481	Johnston			Yule
-1482	Johore			Yule
+1464	Jawa		No	Yule
+1465	JayaSinhavarman II		Person	Yule
+1466	Jazirah		No	Yule
+1467	Jaúzgún		Person	Yule
+1468	Jehangír	Jehan	Person	Yule
+1469	Jenkinson		No	Yule
+1470	Jerusalem		Location	Yule
+1471	Jerún 	Zarun	Location	Yule
+1472	Jesuit maps		No	Yule
+1473	Jesujabus		No	Yule
+1474	Jews		No	Yule
+1475	Jibal		No	Yule
+1476	Jibal-ul-Thabúl		No	Yule
+1477	Jiruft		No	Yule
+1478	Jogis	Chughi	No	Yule
+1479	John XXII		Person	Yule
+1480	Johnson		Person	Yule
+1481	Johnston		No	Yule
+1482	Johore		Person	Yule
 1483	Jomard			Murray
-1484	Jon	Jihon		Yule
-1485	Jor-fattan	Baliapatan		Yule
-1486	Jordanus			Yule
-1487	Josephus			Yule
-1488	Jubb			Yule
-1489	Judi			Yule
-1490	Jugglers			Yule
-1491	Juggling extraordinary			Yule
-1492	Juji			Yule
-1493	Juju	Cho-chau		Yule
-1494	Julman			Yule
-1495	Junghuhn			Yule
-1496	Junks			Yule
-1497	Jupár			Yule
-1498	Justice			Yule
-1499	Justinian			Yule
-1500	Juzgána			Yule
-1501	Juzgána 	Dogana		Yule
-1502	Jájnagar			Yule
-1503	Jámisfulah	Gauenispola		Yule
-1504	Kaan			Yule
-1505	Kaans			Yule
-1506	Kabul			Yule
-1507	Kadapah			Yule
-1508	Kafchi-kúe			Yule
-1509	Kahn-i-Panchur			Yule
+1484	Jon	Jihon	Location	Yule
+1485	Jor-fattan	Baliapatan	No	Yule
+1486	Jordanus		No	Yule
+1487	Josephus		No	Yule
+1488	Jubb		No	Yule
+1489	Judi		No	Yule
+1490	Jugglers		No	Yule
+1491	Juggling extraordinary		No	Yule
+1492	Juji		Person	Yule
+1493	Juju	Cho-chau	No	Yule
+1494	Julman		No	Yule
+1495	Junghuhn		No	Yule
+1496	Junks		No	Yule
+1497	Jupár		No	Yule
+1498	Justice		No	Yule
+1499	Justinian		Person	Yule
+1500	Juzgána		Location	Yule
+1501	Juzgána 	Dogana	Location	Yule
+1502	Jájnagar		No	Yule
+1503	Jámisfulah	Gauenispola	No	Yule
+1504	Kaan		Person	Yule
+1505	Kaans		No	Yule
+1506	Kabul		Location	Yule
+1507	Kadapah		No	Yule
+1508	Kafchi-kúe		No	Yule
+1509	Kahn-i-Panchur		No	Yule
 1510	Kaidu		Person	Murray
-1511	Kaidu Khan	Caidu Khan		Yule
-1512	Kaifung-fu			Yule
-1513	Kaikhosru I. and III			Yule
-1514	Kaikhátu	Kiacatu		Yule
-1515	Kaikus			Yule
+1511	Kaidu Khan	Caidu Khan	Person	Yule
+1512	Kaifung-fu		Location	Yule
+1513	Kaikhosru I. and III		No	Yule
+1514	Kaikhátu	Kiacatu	Person	Yule
+1515	Kaikus		No	Yule
 1516	Kain-du		Location	Murray
-1517	Kaipingfu 	Keibung		Yule
-1518	Kairat-ul-Arab			Yule
-1519	Kais			Yule
-1520	Kaisaríya	Caesaraea		Yule
-1521	Kajjala			Yule
-1522	Kakateya			Yule
-1523	Kakhyens			Yule
-1524	Kakula			Yule
-1525	Kalajan	Calachan		Yule
-1526	Kalantan			Yule
-1527	Kala’ Atishparastan	Cala Ataperistan		Yule
-1528	Kala’ Safed			Yule
-1529	Kalchi			Yule
-1530	Kales Devar			Yule
-1531	Kalgan			Yule
-1532	Kalhát 	Kalhátú		Yule
-1533	Kalidása			Yule
-1534	Kalinga			Yule
-1535	Kalinjar			Yule
-1536	Kalámúr			Yule
-1537	Kamasal 	Conosalmi		Yule
-1538	Kambala			Yule
+1517	Kaipingfu 	Keibung	Location	Yule
+1518	Kairat-ul-Arab		No	Yule
+1519	Kais		No	Yule
+1520	Kaisaríya	Caesaraea	No	Yule
+1521	Kajjala		Person	Yule
+1522	Kakateya		No	Yule
+1523	Kakhyens		No	Yule
+1524	Kakula		No	Yule
+1525	Kalajan	Calachan	No	Yule
+1526	Kalantan		No	Yule
+1527	Kala Atishparastan	Cala Ataperistan	No	Yule
+1528	Kala Safed		No	Yule
+1529	Kalchi		No	Yule
+1530	Kales Devar		Person	Yule
+1531	Kalgan		Location	Yule
+1532	Kalhát 	Kalhátú	Location	Yule
+1533	Kalidása		No	Yule
+1534	Kalinga		No	Yule
+1535	Kalinjar		No	Yule
+1536	Kalámúr		No	Yule
+1537	Kamasal 	Conosalmi	No	Yule
+1538	Kambala		Person	Yule
 1539	Kambalu 	Pe-king	Location	Murray
-1540	Kamboja	Chinla		Yule
-1541	Kambáyat 	Cambay		Yule
-1542	Kampar			Yule
+1540	Kamboja	Chinla	No	Yule
+1541	Kambáyat 	Cambay	Location	Yule
+1542	Kampar		Location	Yule
 1543	Kamul 	Khamil,Hamil	Location	Murray,Yule
-1544	Kamál Malik			Yule
-1545	Kamárah			Yule
-1546	Kanauj			Yule
-1547	Kanbalu Island			Yule
-1548	Kancháu 	Campichu		Yule
-1549	Kandahár			Yule
-1550	Kandy			Yule
-1551	Kanerkes			Yule
-1552	Kang-hi			Yule
+1544	Kamál Malik		No	Yule
+1545	Kamárah		No	Yule
+1546	Kanauj		No	Yule
+1547	Kanbalu Island		Location	Yule
+1548	Kancháu 	Campichu	No	Yule
+1549	Kandahár		Location	Yule
+1550	Kandy		No	Yule
+1551	Kanerkes		Location	Yule
+1552	Kang-hi		Person	Yule
 1553	Kangigu		Location	Murray
-1554	Kank			Yule
-1555	Kanp’u	Ganpu		Yule
-1556	Kansan			Yule
-1557	Kansuh			Yule
-1558	Kanát-ul-Shám 	Conosalmi		Yule
-1559	Kao Hoshang			Yule
-1560	Kao-yu 	Cayu		Yule
-1561	Kao–Tsung			Yule
-1562	Kapilavastu			Yule
-1563	Kapukada			Yule
+1554	Kank		No	Yule
+1555	Kanpu	Ganpu	Location	Yule
+1556	Kansan		No	Yule
+1557	Kansuh		No	Yule
+1558	Kanát-ul-Shám 	Conosalmi	No	Yule
+1559	Kao Hoshang		No	Yule
+1560	Kao-yu 	Cayu	No	Yule
+1561	KaoTsung		Person	Yule
+1562	Kapilavastu		No	Yule
+1563	Kapukada		No	Yule
 1564	Karakorum		Location	Murray,Yule
 1565	Karamoran 	Hoang-ho	Location	Murray
-1566	Karanút			Yule
-1567	Karaunahs	Caraonas		Yule
+1566	Karanút		No	Yule
+1567	Karaunahs	Caraonas	Location	Yule
 1568	Karazan		Location	Murray
-1569	Karaún Jidun			Yule
+1569	Karaún Jidun		No	Yule
 1570	Kardandan		Location	Murray
-1571	Karens			Yule
-1572	Karmathian			Yule
-1573	Karnúl			Yule
-1574	Karra-Mánikpúr			Yule
-1575	Karrah			Yule
-1576	Kartazonon			Yule
-1577	Kará Hulun			Yule
-1578	Kará Khoja			Yule
-1579	Karájáng 	Carajan		Yule
-1580	Karákhitaian Empire			Yule
-1581	Karákásh 	black jade		Yule
-1582	Karámúren	Caramoran		Yule
-1583	Karáni	vulgo Cranny		Yule
-1584	Kasaidi Arabs			Yule
-1585	Kashan			Yule
-1586	Kashmiris			Yule
-1587	Kasia			Yule
-1588	Kasyapa Buddha			Yule
-1589	Kataghan			Yule
+1571	Karens		No	Yule
+1572	Karmathian		No	Yule
+1573	Karnúl		No	Yule
+1574	Karra-Mánikpúr		No	Yule
+1575	Karrah		No	Yule
+1576	Kartazonon		No	Yule
+1577	Kará Hulun		No	Yule
+1578	Kará Khoja		No	Yule
+1579	Karájáng 	Carajan	No	Yule
+1580	Karákhitaian Empire		No	Yule
+1581	Karákásh 	black jade	Location	Yule
+1582	Karámúren	Caramoran	No	Yule
+1583	Karáni	vulgo Cranny	No	Yule
+1584	Kasaidi Arabs		No	Yule
+1585	Kashan		No	Yule
+1586	Kashmiris		No	Yule
+1587	Kasia		No	Yule
+1588	Kasyapa Buddha		No	Yule
+1589	Kataghan		No	Yule
 1590	Kataia		Location	Murray
-1591	Katar pirates			Yule
-1592	Katif			Yule
-1593	Kattiawár			Yule
-1594	Kaulam			Yule
-1595	Kaulam–Malé			Yule
-1596	Kauli	Cauly		Yule
-1597	Kaunchi	Conchi		Yule
-1598	Kavváyi			Yule
-1599	Kayten			Yule
-1600	Kazan			Yule
-1601	Kazbek			Yule
-1602	Kazvín	Casvin		Yule
-1603	Kazáwinah			Yule
-1604	Kaïkobad I. and III			Yule
-1605	Keary			Yule
-1606	Kehran			Yule
-1607	Keiaz tribe			Yule
-1608	Keibung 	Kaipingfu		Yule
-1609	Kelinfu	Kienning-fu		Yule
-1610	Kemenfu			Yule
-1611	Kenjanfu 	Si-ngan fu		Yule
-1612	Keraits			Yule
-1613	Kerala			Yule
-1614	Keria			Yule
-1615	Keriza River			Yule
-1616	Kermán			Yule
-1617	Kerulen  valley			Yule
-1618	Keshican	Keshikten		Yule
+1591	Katar pirates		No	Yule
+1592	Katif		No	Yule
+1593	Kattiawár		No	Yule
+1594	Kaulam		No	Yule
+1595	KaulamMalé		No	Yule
+1596	Kauli	Cauly	No	Yule
+1597	Kaunchi	Conchi	Location	Yule
+1598	Kavváyi		No	Yule
+1599	Kayten		No	Yule
+1600	Kazan		No	Yule
+1601	Kazbek		No	Yule
+1602	Kazvín	Casvin	No	Yule
+1603	Kazáwinah		No	Yule
+1604	Kaïkobad I. and III		No	Yule
+1605	Keary		No	Yule
+1606	Kehran		No	Yule
+1607	Keiaz tribe		No	Yule
+1608	Keibung 	Kaipingfu	No	Yule
+1609	Kelinfu	Kienning-fu	Location	Yule
+1610	Kemenfu		Location	Yule
+1611	Kenjanfu 	Si-ngan fu	Location	Yule
+1612	Keraits		Location	Yule
+1613	Kerala		Location	Yule
+1614	Keria		Location	Yule
+1615	Keriza River		Location	Yule
+1616	Kermán		Location	Yule
+1617	Kerulen  valley		Location	Yule
+1618	Keshican	Keshikten	No	Yule
 1619	Kesimur 	Cashmere	Location	Murray
-1620	Kesmacoran	Kij Makrán		Yule
+1620	Kesmacoran	Kij Makrán	No	Yule
 1621	Kesmacoran 	Mekran	Location	Murray
-1622	Keuyung Kwan			Yule
-1623	Khakán			Yule
-1624	Khalif	Calif		Yule
-1625	Khambavati	Cambay		Yule
-1626	Khanabad 	Dogana		Yule
-1627	Khanfu			Yule
-1628	Khanikoff			Yule
-1629	Khanoolla			Yule
-1630	Khansâ			Yule
-1631	Kharesem			Yule
-1632	Khato-tribe			Yule
-1633	Khavailu	Hwo-lu h’ien		Yule
-1634	Khazars			Yule
-1635	Khilak			Yule
-1636	Khimka			Yule
-1637	Khinsa			Yule
-1638	Khitan			Yule
-1639	Khmer			Yule
-1640	Khodabanda			Yule
-1641	Khojas			Yule
-1642	Khorasan			Yule
-1643	Khormuzda			Yule
-1644	Khotan	Cotan		Yule
+1622	Keuyung Kwan		Location	Yule
+1623	Khakán		No	Yule
+1624	Khalif	Calif	Person	Yule
+1625	Khambavati	Cambay	Location	Yule
+1626	Khanabad 	Dogana	Location	Yule
+1627	Khanfu		Location	Yule
+1628	Khanikoff		Location	Yule
+1629	Khanoolla		Location	Yule
+1630	Khansâ		Location	Yule
+1631	Kharesem		Location	Yule
+1632	Khato-tribe		Location	Yule
+1633	Khavailu	Hwo-lu hien	No	Yule
+1634	Khazars		No	Yule
+1635	Khilak		No	Yule
+1636	Khimka		No	Yule
+1637	Khinsa		Location	Yule
+1638	Khitan		No	Yule
+1639	Khmer		No	Yule
+1640	Khodabanda		No	Yule
+1641	Khojas		No	Yule
+1642	Khorasan		No	Yule
+1643	Khormuzda		No	Yule
+1644	Khotan	Cotan	Location	Yule
 1645	Khoten		Location	Murray
-1646	Khumbavati	Cambay		Yule
-1647	Khumdán			Yule
-1648	Khusrú			Yule
-1649	Khutuktai Setzen			Yule
-1650	Khwarizm			Yule
-1651	Khán Bádshah of Khotan			Yule
-1652	Khánbalík			Yule
-1653	Khátún-gol			Yule
-1654	Kia Tsing			Yule
-1655	Kia-k’ing			Yule
-1656	Kiacatu			Yule
-1657	Kiahing	Ciangan		Yule
-1658	Kiai — or Hiai-chau	Caichu		Yule
-1659	Kiakhta			Yule
-1660	Kiang			Yule
-1661	Kiang-mai			Yule
-1662	Kiang-su			Yule
-1663	Kiang-suy	Kiang-shui		Yule
-1664	Kiangka			Yule
-1665	Kiangshan			Yule
-1666	Kiangsi			Yule
-1667	Kiangtheu			Yule
-1668	Kiang–Ché			Yule
-1669	Kiang–Hung			Yule
-1670	Kiang–Tung			Yule
-1671	Kiao-chi	Tungking		Yule
+1646	Khumbavati	Cambay	No	Yule
+1647	Khumdán		No	Yule
+1648	Khusrú		Person	Yule
+1649	Khutuktai Setzen		No	Yule
+1650	Khwarizm		No	Yule
+1651	Khán Bádshah of Khotan		Person	Yule
+1652	Khánbalík		Location	Yule
+1653	Khátún-gol		Location	Yule
+1654	Kia Tsing		Person	Yule
+1655	Kia-king		Person	Yule
+1656	Kiacatu		No	Yule
+1657	Kiahing	Ciangan	No	Yule
+1658	Kiai  or Hiai-chau	Caichu	No	Yule
+1659	Kiakhta		No	Yule
+1660	Kiang		Location	Yule
+1661	Kiang-mai		No	Yule
+1662	Kiang-su		No	Yule
+1663	Kiang-suy	Kiang-shui	No	Yule
+1664	Kiangka		No	Yule
+1665	Kiangshan		No	Yule
+1666	Kiangsi		No	Yule
+1667	Kiangtheu		No	Yule
+1668	KiangChé		Location	Yule
+1669	KiangHung		Location	Yule
+1670	KiangTung		No	Yule
+1671	Kiao-chi	Tungking	No	Yule
 1672	Kiaproth			Murray
-1673	Kichau Castle			Yule
-1674	Kieh–Ch’a			Yule
-1675	Kien-chau			Yule
-1676	Kien-kwé			Yule
-1677	Kien-lung			Yule
-1678	Kien-ning fu	Kelinfu		Yule
-1679	Kiepert			Yule
+1673	Kichau Castle		No	Yule
+1674	KiehCha		No	Yule
+1675	Kien-chau		No	Yule
+1676	Kien-kwé		No	Yule
+1677	Kien-lung		Person	Yule
+1678	Kien-ning fu	Kelinfu	No	Yule
+1679	Kiepert		No	Yule
 1680	Kiev		Location	Murray
-1681	Kij–Makrán	Kesmacoran		Yule
-1682	Kila’-i-Gabr			Yule
-1683	Kilimanchi River			Yule
-1684	Kiming shan Mountains			Yule
-1685	Kin			Yule
-1686	Kin-hwa fu			Yule
+1681	KijMakrán	Kesmacoran	Location	Yule
+1682	Kila-i-Gabr		Location	Yule
+1683	Kilimanchi 		Location	Yule
+1684	Kiming shan Mountains		Location	Yule
+1685	Kin		No	Yule
+1686	Kin-hwa fu		No	Yule
 1687	Kin-sai	Quin-sai,Hang-tcheou-fou	Location	Murray
-1688	Kin-sha Kiang			Yule
-1689	Kincha			Yule
-1690	King of the Abraiaman			Yule
-1691	King-tê-chên			Yule
-1692	Kings of Maabar			Yule
-1693	Kingsmill			Yule
-1694	Kinki			Yule
-1695	Kinsay	King-szé		Yule
-1696	Kinshan			Yule
-1697	Kinto			Yule
-1698	Kin–Chi			Yule
-1699	Kipchak	Ponent		Yule
+1688	Kin-sha Kiang		Location	Yule
+1689	Kincha		Location	Yule
+1690	King of the Abraiaman		No	Yule
+1691	King-tê-chên		No	Yule
+1692	Kings of Maabar		No	Yule
+1693	Kingsmill		No	Yule
+1694	Kinki		No	Yule
+1695	Kinsay	King-szé	Location	Yule
+1696	Kinshan		Location	Yule
+1697	Kinto		Person	Yule
+1698	KinChi		No	Yule
+1699	Kipchak	Ponent	Location	Yule
 1700	Kirghiz		Organization	Murray,Yule
-1701	Kirghiz Kazak			Yule
-1702	Kiria			Yule
-1703	Kirk			Yule
-1704	Kis			Yule
-1705	Kishik			Yule
-1706	Kishm	Casem		Yule
-1707	Kistna			Yule
-1708	Kitubuka			Yule
-1709	Kiu-chau			Yule
-1710	Kiulan	Quilon		Yule
-1711	Kizil Irmak			Yule
-1712	Kizil River			Yule
-1713	Kneeling oxen			Yule
-1714	Ko-li-ki-sze			Yule
-1715	Kobad			Yule
-1716	Kobdo			Yule
+1701	Kirghiz Kazak		No	Yule
+1702	Kiria		No	Yule
+1703	Kirk		Person	Yule
+1704	Kis		Location	Yule
+1705	Kishik		Location	Yule
+1706	Kishm	Casem	Location	Yule
+1707	Kistna		Location	Yule
+1708	Kitubuka		Person	Yule
+1709	Kiu-chau		No	Yule
+1710	Kiulan	Quilon	Location	Yule
+1711	Kizil 		Location	Yule
+1712	Kizil Irmak		No	Yule
+1713	Kneeling oxen		No	Yule
+1714	Ko-li-ki-sze		No	Yule
+1715	Kobad		No	Yule
+1716	Kobdo		No	Yule
 1717	Kogatai		Person	Murray
-1718	Koh–Banán	Cobinan		Yule
+1718	KohBanán	Cobinan	Location	Yule
 1719	Koi-gan-zu 	Hoai-ngan-fou	Location	Murray
-1720	Koja	Coja		Yule
-1721	Kokcha 			Yule
-1722	Kolastri			Yule
-1723	Kolkhoi of Ptolemy			Yule
-1724	Kollam			Yule
-1725	Koloman			Yule
-1726	Kolyma			Yule
-1727	Komár			Yule
-1728	Kondachi			Yule
-1729	Konkan			Yule
-1730	Konár tree			Yule
-1731	Koresh king			Yule
-1732	Kosakio			Yule
-1733	Kosseir			Yule
-1734	Kotcheres			Yule
-1735	Kotlogh			Yule
-1736	Kotlogh Shah			Yule
+1720	Koja	Coja	Person	Yule
+1721	Kokcha 		Person	Yule
+1722	Kolastri		No	Yule
+1723	Kolkhoi of Ptolemy		No	Yule
+1724	Kollam		Location	Yule
+1725	Koloman		Location	Yule
+1726	Kolyma		No	Yule
+1727	Komár		No	Yule
+1728	Kondachi		No	Yule
+1729	Konkan		Location	Yule
+1730	Konár tree		No	Yule
+1731	Koresh king		Person	Yule
+1732	Kosakio		Person	Yule
+1733	Kosseir		No	Yule
+1734	Kotcheres		No	Yule
+1735	Kotlogh		Person	Yule
+1736	Kotlogh Shah		Person	Yule
 1737	Kotou			Murray
-1738	Kotrobah Island			Yule
-1739	Kouyunjik			Yule
-1740	Kozlov			Yule
-1741	Ku-kwan			Yule
-1742	Kuang-chou			Yule
+1738	Kotrobah 		Location	Yule
+1739	Kouyunjik		No	Yule
+1740	Kozlov		Person	Yule
+1741	Ku-kwan		No	Yule
+1742	Kuang-chou		Location	Yule
 1743	Kublai Khan		Person	Murray
-1744	Kuché character			Yule
-1745	Kuhistan			Yule
-1746	Kukin-Tána			Yule
-1747	Kukju	Genkju		Yule
-1748	Kuku–Khotan	Blue Town		Yule
-1749	Kulasaikera			Yule
-1750	Kuláb			Yule
-1751	Kulán			Yule
-1752	Kumhari			Yule
-1753	Kumiz			Yule
-1754	Kummájar			Yule
-1755	Kumár			Yule
-1756	Kunduz			Yule
-1757	Kunduz–Baghlán			Yule
-1758	Kung-ki-cheng	Fei-ch’eng		Yule
-1759	Kunguráts			Yule
-1760	Kuniyah 	Conia		Yule
-1761	Kunlun			Yule
-1762	Kurd dynasty			Yule
-1763	Kurdistan	Curdistan		Yule
+1744	Kuché character		No	Yule
+1745	Kuhistan		Location	Yule
+1746	Kukin-Tána		No	Yule
+1747	Kukju	Genkju	Person	Yule
+1748	KukuKhotan	Blue Town	Location	Yule
+1749	Kulasaikera		No	Yule
+1750	Kuláb		No	Yule
+1751	Kulán		Person	Yule
+1752	Kumhari		No	Yule
+1753	Kumiz		No	Yule
+1754	Kummájar		No	Yule
+1755	Kumár		No	Yule
+1756	Kunduz		No	Yule
+1757	KunduzBaghlán		No	Yule
+1758	Kung-ki-cheng	Fei-cheng	No	Yule
+1759	Kunguráts		Location	Yule
+1760	Kuniyah 	Conia	No	Yule
+1761	Kunlun		No	Yule
+1762	Kurd dynasty		No	Yule
+1763	Kurdistan	Curdistan	Location	Yule
 1764	Kurds		Person	Murray,Yule
-1765	Kuria Maria Islands			Yule
-1766	Kuridai			Yule
-1767	Kurmishi			Yule
-1768	Kurshids of Lùristán			Yule
-1769	Kus			Yule
-1770	Kushluk			Yule
-1771	Kutan			Yule
-1772	Kutchluk Khan	Buddhist		Yule
-1773	Kutuktemur			Yule
-1774	Kutulun			Yule
-1775	Kuwinji			Yule
+1765	Kuria Maria Islands		No	Yule
+1766	Kuridai		Person	Yule
+1767	Kurmishi		No	Yule
+1768	Kurshids of Lùristán		No	Yule
+1769	Kus		No	Yule
+1770	Kushluk		No	Yule
+1771	Kutan		Person	Yule
+1772	Kutchluk Khan	Buddhist	Person	Yule
+1773	Kutuktemur		Person	Yule
+1774	Kutulun		Person	Yule
+1775	Kuwinji		No	Yule
 1776	Kuyuk Khan		Person	Murray,Yule
-1777	Kwa-chau	Caiju		Yule
-1778	Kwan Hsien			Yule
-1779	Kwansinfu			Yule
-1780	Kwawa			Yule
-1781	Kwei-chau	Cuiju		Yule
-1782	Kwei-hwa-ch’eng			Yule
-1783	Kweilei River			Yule
-1784	Kyung-sang province			Yule
-1785	Káfirs of Hindu Kush			Yule
-1786	Káil			Yule
-1787	Kálikút			Yule
-1788	Káshgar	Cascar		Yule
-1789	Káveri River			Yule
-1790	Káveripattanam			Yule
-1791	Káyal			Yule
-1792	Káïn	Gháín		Yule
-1793	Kúbenán	Cobinan		Yule
-1794	Kúblái	Cublay		Yule
-1795	Kúkachin			Yule
-1796	Kúnbúrn Monastery			Yule
-1797	Kúreh-i-Ardeshír	Kuwáshír		Yule
-1798	K’ien-ch’ang			Yule
-1799	K’ing-yüan	Ning-po		Yule
-1800	Lac (Wallachia			Yule
-1801	Ladies of Kinsay			Yule
-1802	Ladies’ dresses in Badakhshan			Yule
-1803	Lagong			Yule
-1804	Lahore	Dalivar		Yule
-1805	Lahsa			Yule
+1777	Kwa-chau	Caiju	No	Yule
+1778	Kwan Hsien		No	Yule
+1779	Kwansinfu		No	Yule
+1780	Kwawa		No	Yule
+1781	Kwei-chau	Cuiju	No	Yule
+1782	Kwei-hwa-cheng		No	Yule
+1783	Kweilei 		Location	Yule
+1784	Kyung-sang 		Location	Yule
+1785	Kien-chang		Location	Yule
+1786	King-yüan	Ning-po	No	Yule
+1787	Káfirs of Hindu Kush		No	Yule
+1788	Káil		Location	Yule
+1789	Kálikút		Location	Yule
+1790	Káshgar	Cascar	Location	Yule
+1791	Káveri River		No	Yule
+1792	Káveripattanam		No	Yule
+1793	Káyal		Location	Yule
+1794	Káïn	Gháín	Location	Yule
+1795	Kúbenán	Cobinan	No	Yule
+1796	Kúblái	Cublay	Person	Yule
+1797	Kúkachin		Location	Yule
+1798	Kúnbúrn Monastery		No	Yule
+1799	Kúreh-i-Ardeshír	Kuwáshír	No	Yule
+1800	Lac	Wallachia	Location	Yule
+1801	Ladies of Kinsay		No	Yule
+1802	Ladies dresses in Badakhshan		No	Yule
+1803	Lagong		No	Yule
+1804	Lahore	Dalivar	Location	Yule
+1805	Lahsa		No	Yule
 1806	Laias 	Aias	Location	Murray
-1807	Lake			Yule
-1808	Laknaoti			Yule
-1809	Lakshamana Deva			Yule
-1810	Lamas of Tibetan Buddhism			Yule
-1811	Lambri			Yule
-1812	Lan Ki Hien	Nan–Che-hien		Yule
-1813	Lan-tsang kiang	Mekong		Yule
-1814	Lances of Sago Palm			Yule
-1815	Lanchang			Yule
-1816	Land of Darkness			Yule
-1817	Langdarma			Yule
-1818	Langting Balghasun			Yule
-1819	Languages used in Mongol Court and administration			Yule
-1820	Lanja Bálús			Yule
-1821	Lanka	Ceylon		Yule
-1822	Lanner Falcons			Yule
-1823	Lan–Ho			Yule
-1824	Laos			Yule
-1825	Lao–Kiun			Yule
+1807	Lake		No	Yule
+1808	Laknaoti		No	Yule
+1809	Lakshamana Deva		Person	Yule
+1810	Lamas of Tibetan Buddhism		No	Yule
+1811	Lambri		Location	Yule
+1812	Lan Ki Hien	NanChe-hien	No	Yule
+1813	Lan-tsang kiang	Mekong	Location	Yule
+1814	Lances of Sago Palm		No	Yule
+1815	Lanchang		Location	Yule
+1816	Land of Darkness		No	Yule
+1817	Langdarma		No	Yule
+1818	Langting Balghasun		No	Yule
+1819	Languages used in Mongol Court and administration		No	Yule
+1820	Lanja Bálús		No	Yule
+1821	Lanka	Ceylon	Location	Yule
+1822	Lanner Falcons		No	Yule
+1823	LanHo		No	Yule
+1824	Laos		Location	Yule
+1825	LaoKiun		Person	Yule
 1826	Lar		Location	Murray,Yule
-1827	Latin version of Polo’s Book			Yule
-1828	Latins			Yule
-1829	Latsé			Yule
-1830	Lauredano			Yule
-1831	Lawek			Yule
-1832	Laxities of marriage customs			Yule
-1833	Layard			Yule
-1834	Layas			Yule
-1835	Le Strange			Yule
-1836	Leather			Yule
-1837	Leaves			Yule
-1838	Lecomte on Chinese war vessels			Yule
-1839	Lembeser			Yule
-1840	Lenzin			Yule
-1841	Leon I			Yule
-1842	Leon II			Yule
-1843	Leon III			Yule
-1844	Leon VI			Yule
-1845	Leopards			Yule
-1846	Lepechin			Yule
-1847	Leung Shan			Yule
-1848	Levant			Yule
-1849	Lew-sha			Yule
-1850	Lewchew			Yule
-1851	Lewis			Yule
-1852	Lewis XI. and XII. (France)			Yule
-1853	Leyes			Yule
-1854	Lhása			Yule
-1855	Li H’ien			Yule
-1856	Li Yuan-hao			Yule
-1857	Li-kiang fu			Yule
-1858	Liampo	Ningpo		Yule
-1859	Liang			Yule
-1860	Liang-chau in Kansuh			Yule
-1861	Liao dynasty			Yule
-1862	Liao-tong			Yule
-1863	Libanos			Yule
-1864	Licinius			Yule
-1865	Lidé	Liti		Yule
-1866	Lieuli Ho			Yule
-1867	Lign-aloes 			Yule
-1868	Ligor			Yule
+1827	Latin version of Polos Book		No	Yule
+1828	Latins		No	Yule
+1829	Latsé		No	Yule
+1830	Lauredano		No	Yule
+1831	Lawek		No	Yule
+1832	Laxities of marriage customs		No	Yule
+1833	Layard		Person	Yule
+1834	Layas		Location	Yule
+1835	Le Strange		No	Yule
+1836	Leather		No	Yule
+1837	Leaves		No	Yule
+1838	Lecomte on Chinese war vessels		No	Yule
+1839	Lembeser		No	Yule
+1840	Lenzin		No	Yule
+1841	Leon I		Person	Yule
+1842	Leon II		Person	Yule
+1843	Leon III		Person	Yule
+1844	Leon VI		Person	Yule
+1845	Leopards		No	Yule
+1846	Lepechin		Person	Yule
+1847	Leung Shan		Person	Yule
+1848	Levant		No	Yule
+1849	Lew-sha		No	Yule
+1850	Lewchew		No	Yule
+1851	Lewis		No	Yule
+1852	Lewis XI. and XII		Person	Yule
+1853	Leyes		Location	Yule
+1854	Lhása		Location	Yule
+1855	Li Hien		Person	Yule
+1856	Li Yuan-hao		Person	Yule
+1857	Li-kiang fu		No	Yule
+1858	Liampo	Ningpo	No	Yule
+1859	Liang		No	Yule
+1860	Liang-chau in Kansuh		No	Yule
+1861	Liao dynasty		No	Yule
+1862	Liao-tong		No	Yule
+1863	Libanos		No	Yule
+1864	Licinius		Person	Yule
+1865	Lidé	Liti	No	Yule
+1866	Lieuli Ho		No	Yule
+1867	Lign-aloes 		No	Yule
+1868	Ligor		No	Yule
 1869	Lin-gui		Location	Murray
-1870	Lin-ngan	Hang-chau		Yule
-1871	Lin-ngan in Yun-nan			Yule
-1872	Lin-t’sing chau			Yule
-1873	Lindley			Yule
-1874	Lindsay			Yule
-1875	Linju			Yule
-1876	Lintching-y			Yule
-1877	Lion and Sun			Yule
+1870	Lin-ngan	Hang-chau	No	Yule
+1871	Lin-ngan in Yun-nan		No	Yule
+1872	Lin-tsing chau		No	Yule
+1873	Lindley		No	Yule
+1874	Lindsay		No	Yule
+1875	Linju		No	Yule
+1876	Lintching-y		No	Yule
+1877	Lion and Sun		No	Yule
 1878	Lions			Murray,Yule
-1879	Lion’s Head Tablets			Yule
-1880	Lisbon			Yule
-1881	Lissu			Yule
-1882	Litai			Yule
+1879	Lions Head Tablets		No	Yule
+1880	Lisbon		No	Yule
+1881	Lissu		Location	Yule
+1882	Litai		Location	Yule
 1883	Litan 		Person	Murray
-1884	Lithang			Yule
-1885	Little Orphan Rock			Yule
-1886	Litán			Yule
-1887	Liu Pang			Yule
-1888	Liu Pei	Luo Pé		Yule
-1889	Livres of gold			Yule
-1890	Lo			Yule
-1891	Lob			Yule
-1892	Locac			Yule
+1884	Lithang		No	Yule
+1885	Little Orphan Rock		No	Yule
+1886	Litán		No	Yule
+1887	Liu Pang		Person	Yule
+1888	Liu Pei	Luo Pé	No	Yule
+1889	Livres of gold		No	Yule
+1890	Lo		No	Yule
+1891	Lob		No	Yule
+1892	Locac		Location	Yule
 1893	Lochac 	Camaboia	Location	Murray
-1894	Lockhart			Yule
-1895	Lolo tribes			Yule
-1896	Longevity of Brahmins and Jogis			Yule
-1897	Longfellow			Yule
+1894	Lockhart		No	Yule
+1895	Lolo tribes		No	Yule
+1896	Longevity of Brahmins and Jogis		No	Yule
+1897	Longfellow		No	Yule
 1898	Lop		Location	Murray,Yule
-1899	Lophaburi			Yule
-1900	Loping			Yule
-1901	Lor			Yule
-1902	Lord			Yule
+1899	Lophaburi		No	Yule
+1900	Loping		No	Yule
+1901	Lor		Location	Yule
+1902	Lord		No	Yule
 1903	Louis		Person	Murray
-1904	Loups cerviers 			Yule
-1905	Low castes			Yule
-1906	Lowatong River			Yule
-1907	Loyang			Yule
-1908	Lu-tzu tribe			Yule
-1909	Lubbies			Yule
-1910	Lubán			Yule
-1911	Lubán-Jáwi			Yule
-1912	Lubán-Shehri			Yule
-1913	Lucky and unlucky hours and days			Yule
-1914	Luddur Deo			Yule
-1915	Luh-ho-ta Pagoda			Yule
-1916	Lukon–Kiao	Hun-ho		Yule
-1917	Lukyn Port			Yule
-1918	Lung-yin			Yule
-1919	Lusignan			Yule
-1920	Lynxes			Yule
-1921	Lájwurd mines			Yule
-1922	Löss			Yule
-1923	Lúristan	Lor		Yule
-1924	Lút			Yule
-1925	Ma Twan-lin			Yule
-1926	Ma-t’eu	Matu		Yule
+1904	Loups cerviers 		No	Yule
+1905	Low castes		No	Yule
+1906	Lowatong 		Location	Yule
+1907	Loyang		Location	Yule
+1908	Lu-tzu 		Location	Yule
+1909	Lubbies		No	Yule
+1910	Lubán		No	Yule
+1911	Lubán-Jáwi		No	Yule
+1912	Lubán-Shehri		No	Yule
+1913	Lucky and unlucky hours and days		No	Yule
+1914	Luddur Deo		No	Yule
+1915	Luh-ho-ta Pagoda		No	Yule
+1916	LukonKiao	Hun-ho	Location	Yule
+1917	Lukyn 		Location	Yule
+1918	Lung-yin		No	Yule
+1919	Lusignan		No	Yule
+1920	Lynxes		No	Yule
+1921	Lájwurd mines		No	Yule
+1922	Löss		No	Yule
+1923	Lúristan	Lor	Location	Yule
+1924	Lút		Location	Yule
+1925	Ma Twan-lin		No	Yule
+1926	Ma-teu	Matu	No	Yule
 1927	Maabar		Location	Murray
-1928	Maaden			Yule
-1929	Maatum			Yule
-1930	Macartney’s Map			Yule
-1931	Macgregor			Yule
-1932	Maclagan			Yule
+1928	Maaden		No	Yule
+1929	Maatum		No	Yule
+1930	Macartneys Map		No	Yule
+1931	Macgregor		Person	Yule
+1932	Maclagan		Person	Yule
 1933	Madagascar		Location	Murray,Yule
-1934	Madar–Des			Yule
-1935	Madjgars			Yule
-1936	Madras			Yule
-1937	Madura			Yule
-1938	Maestro			Yule
-1939	Magadha			Yule
-1940	Magadoxo			Yule
-1941	Magapatana			Yule
-1942	Magi			Yule
-1943	Magic			Yule
-1944	Magical darkness 			Yule
-1945	Magnet			Yule
-1946	Magyars			Yule
-1947	Mahar Amlàk			Yule
-1948	Mahavan			Yule
-1949	Mahmudiah Canal			Yule
-1950	Mahmúd Kalháti			Yule
-1951	Mahmúd of Ghazni			Yule
-1952	Mahomed	Mahommet		Yule
-1953	Mahomedan revolts in China			Yule
-1954	Mahomedans	Saracens		Yule
-1955	Mailapúr			Yule
+1934	MadarDes		Location	Yule
+1935	Madjgars		No	Yule
+1936	Madras		Location	Yule
+1937	Madura		Location	Yule
+1938	Maestro		No	Yule
+1939	Magadha		Location	Yule
+1940	Magadoxo		Location	Yule
+1941	Magapatana		Location	Yule
+1942	Magi		No	Yule
+1943	Magic		No	Yule
+1944	Magical darkness 		No	Yule
+1945	Magnet		No	Yule
+1946	Magyars		No	Yule
+1947	Mahar Amlàk		Person	Yule
+1948	Mahavan		No	Yule
+1949	Mahmudiah Canal		Location	Yule
+1950	Mahmúd Kalháti		Person	Yule
+1951	Mahmúd of Ghazni		Person	Yule
+1952	Mahomed	Mahommet	Person	Yule
+1953	Mahomedan revolts in China		No	Yule
+1954	Mahomedans	Saracens	No	Yule
+1955	Mailapúr		Location	Yule
 1956	Mailla's translation of the Chinese History			Murray
-1957	Maiman			Yule
-1958	Maitreya Buddha			Yule
-1959	Majapahit			Yule
-1960	Majar	Menjar		Yule
-1961	Major			Yule
-1962	Makdashan			Yule
-1963	Malabar			Yule
+1957	Maiman		No	Yule
+1958	Maitreya Buddha		No	Yule
+1959	Majapahit		Location	Yule
+1960	Majar	Menjar	No	Yule
+1961	Major		No	Yule
+1962	Makdashan		Location	Yule
+1963	Malabar		Location	Yule
 1964	Malacca			Murray,Yule
-1965	Malaiur			Yule
-1966	Malasgird			Yule
-1967	Malay Peninsula			Yule
-1968	Malayo			Yule
-1969	Malcolm			Yule
-1970	Maldive Islands			Yule
+1965	Malaiur		Location	Yule
+1966	Malasgird		No	Yule
+1967	Malay Peninsula		Location	Yule
+1968	Malayo		No	Yule
+1969	Malcolm		Person	Yule
+1970	Maldive 		Location	Yule
 1971	Male and Female		Location	Murray
-1972	Male and Female Islands			Yule
-1973	Malifattan			Yule
-1974	Malik al Dháhir			Yule
-1975	Malli			Yule
-1976	Malpiero			Yule
-1977	Malte–Brun			Yule
-1978	Malwa			Yule
-1979	Malé in Burma			Yule
-1980	Mal–Amir			Yule
-1981	Mamaseni			Yule
-1982	Mamre			Yule
-1983	Man			Yule
-1984	Manchu dynasty			Yule
-1985	Mancopa			Yule
-1986	Mandalé in Burma			Yule
-1987	Mandarin language			Yule
-1988	Mangalai			Yule
-1989	Mangalore			Yule
+1972	Male and Female 		Location	Yule
+1973	Malifattan		No	Yule
+1974	Malik al Dháhir		Person	Yule
+1975	Malli		No	Yule
+1976	Malpiero		No	Yule
+1977	MalteBrun		No	Yule
+1978	Malwa		No	Yule
+1979	MalAmir		No	Yule
+1980	Malé in Burma		No	Yule
+1981	Mamaseni		No	Yule
+1982	Mamre		No	Yule
+1983	Man		No	Yule
+1984	Manchu dynasty		No	Yule
+1985	Mancopa		No	Yule
+1986	Mandalé in Burma		No	Yule
+1987	Mandarin language		No	Yule
+1988	Mangalai		Person	Yule
+1989	Mangalore		Person	Yule
 1990	Mangalu		Person	Murray
-1991	Mangla and Nebila Islands			Yule
-1992	Mangonels made by Polos for attack of Saianfu			Yule
+1991	Mangla and Nebila 		Location	Yule
+1992	Mangonels made by Polos for attack of Saianfu		No	Yule
 1993	Mangou		Person	Murray
-1994	Mangu	Mangkú		Yule
-1995	Mangu–Temur 	Mungultemur		Yule
+1994	Mangu	Mangkú	Person	Yule
+1995	ManguTemur 	Mungultemur	Person	Yule
 1996	Manji		Location	Murray,Yule
-1997	Manjushri			Yule
-1998	Manjáník	Manjaniki		Yule
-1999	Manphul			Yule
-2000	Mansur Shah			Yule
-2001	Mantzé			Yule
-2002	Manuel			Yule
-2003	Manufactures			Yule
-2004	Manuscripts of Polo’s Book			Yule
-2005	Manzi	Facfur		Yule
-2006	Map			Yule
-2007	Mapillas			Yule
-2008	Maps			Yule
-2009	Mar Sarghis			Yule
-2010	Marabia			Yule
-2011	Marah Silu			Yule
-2012	Marash			Yule
-2013	Maratha			Yule
-2014	Mardin	Merdin		Yule
-2015	Mare’s milk			Yule
-2016	Margaritone			Yule
-2017	Marignolli			Yule
-2018	Market days			Yule
-2019	Markets in Kinsay			Yule
-2020	Marks of Silver			Yule
-2021	Marriage customs in Khotan			Yule
+1997	Manjushri		Location	Yule
+1998	Manjáník	Manjaniki	Person	Yule
+1999	Manphul		No	Yule
+2000	Mansur Shah		Person	Yule
+2001	Mantzé		No	Yule
+2002	Manuel		Person	Yule
+2003	Manufactures		No	Yule
+2004	Manuscripts of Polos Book		No	Yule
+2005	Manzi	Facfur	Location	Yule
+2006	Map		No	Yule
+2007	Mapillas		No	Yule
+2008	Maps		No	Yule
+2009	Mar Sarghis		No	Yule
+2010	Marabia		Location	Yule
+2011	Marah Silu		No	Yule
+2012	Marash		No	Yule
+2013	Maratha		No	Yule
+2014	Mardin	Merdin	No	Yule
+2015	Mares milk		No	Yule
+2016	Margaritone		No	Yule
+2017	Marignolli		Person	Yule
+2018	Market days		No	Yule
+2019	Markets in Kinsay		No	Yule
+2020	Marks of Silver		No	Yule
+2021	Marriage customs in Khotan		No	Yule
 2022	Marsden		Person	Murray
-2023	Marsden’s edition of Polo			Yule
-2024	Martin			Yule
+2023	Marsdens edition of Polo		No	Yule
+2024	Martin		Person	Yule
 2025	Martini		Person	Murray,Yule
-2026	Martyrs			Yule
-2027	Mashhad	Meshed		Yule
-2028	Mashiz			Yule
-2029	Maskat			Yule
-2030	Mastiff Dogs			Yule
-2031	Mastiffs of Tibet			Yule
-2032	Mastodon			Yule
+2026	Martyrs		No	Yule
+2027	Mashhad	Meshed	Location	Yule
+2028	Mashiz		No	Yule
+2029	Maskat		No	Yule
+2030	Mastiff Dogs		No	Yule
+2031	Mastiffs of Tibet		No	Yule
+2032	Mastodon		No	Yule
 2033	Masulipatam		Location	Murray,Yule
-2034	Mas’ud II			Yule
-2035	Mas’udi			Yule
-2036	Matchlocks			Yule
-2037	Mati Dhivaja			Yule
-2038	Matityna	Martinique		Yule
-2039	Matitánana			Yule
-2040	Maundevile			Yule
-2041	Maung Maorong			Yule
-2042	Mauro			Yule
-2043	Mausul	Mosul		Yule
-2044	Mausul 			Yule
-2045	Mayers			Yule
-2046	Mayhew			Yule
-2047	Mazandéran			Yule
-2048	Ma’bar	Maabar		Yule
-2049	Medressehs at Sivas			Yule
-2050	Mekhitar			Yule
-2051	Mekong River 	Lan-tsang kiang		Yule
-2052	Mekrán			Yule
-2053	Mekránis			Yule
-2054	Melchior			Yule
-2055	Melibar			Yule
+2034	Masud II		No	Yule
+2035	Masudi		No	Yule
+2036	Matchlocks		No	Yule
+2037	Mati Dhivaja		No	Yule
+2038	Matityna	Martinique	No	Yule
+2039	Matitánana		No	Yule
+2040	Maundevile		No	Yule
+2041	Maung Maorong		Location	Yule
+2042	Mauro		Location	Yule
+2043	Mausul	Mosul	Location	Yule
+2044	Mausul 		Location	Yule
+2045	Mayers		No	Yule
+2046	Mayhew		No	Yule
+2047	Mazandéran		Location	Yule
+2048	Mabar	Maabar	Location	Yule
+2049	Medressehs at Sivas		No	Yule
+2050	Mekhitar		No	Yule
+2051	Mekong 	Lan-tsang kiang	Location	Yule
+2052	Mekrán		No	Yule
+2053	Mekránis		No	Yule
+2054	Melchior		No	Yule
+2055	Melibar		Location	Yule
 2056	Melibar 	Malabar	Location	Murray
-2057	Melic			Yule
-2058	Melons			Yule
-2059	Menangkabau			Yule
-2060	Mendoza			Yule
-2061	Menezes			Yule
-2062	Mengki			Yule
-2063	Menjar 	Májar		Yule
-2064	Menuvair and Grosvair			Yule
-2065	Merghuz Boirúk Khan			Yule
-2066	Merkit 	Mecrit		Yule
-2067	Meshid	Mashhad		Yule
-2068	Messengers			Yule
-2069	Mexico			Yule
-2070	Meyer			Yule
-2071	Miafarakain			Yule
-2072	Miau-tzu			Yule
+2057	Melic		No	Yule
+2058	Melons		No	Yule
+2059	Menangkabau		No	Yule
+2060	Mendoza		No	Yule
+2061	Menezes		No	Yule
+2062	Mengki		Person	Yule
+2063	Menjar 	Májar	No	Yule
+2064	Menuvair and Grosvair		No	Yule
+2065	Merghuz Boirúk Khan		Person	Yule
+2066	Merkit 	Mecrit	No	Yule
+2067	Meshid	Mashhad	No	Yule
+2068	Messengers		No	Yule
+2069	Mexico		No	Yule
+2070	Meyer		Person	Yule
+2071	Miafarakain		No	Yule
+2072	Miau-tzu		No	Yule
 2073	Mien		Location	Murray,Yule
-2074	Mikado			Yule
-2075	Military engines of the Middle Ages			Yule
-2076	Milk			Yule
-2077	Million			Yule
-2078	Millione			Yule
-2079	Millioni			Yule
-2080	Milne			Yule
-2081	Min River 			Yule
-2082	Minao district			Yule
-2083	Mines and Minerals			Yule
-2084	Minever			Yule
-2085	Ming			Yule
-2086	Ming-ti			Yule
-2087	Mingan			Yule
-2088	Minján			Yule
-2089	Minotto			Yule
-2090	Mint			Yule
-2091	Mintsing-hien			Yule
-2092	Mious River			Yule
-2093	Miracle Stories			Yule
-2094	Mirkhond			Yule
-2095	Mirobolans			Yule
-2096	Missionary Friars			Yule
-2097	Moa of New Zealand			Yule
-2098	Modhafferians			Yule
-2099	Modun Khotan			Yule
-2100	Moghistan			Yule
-2101	Mohammed			Yule
-2102	Mohammerah			Yule
-2103	Mohiuddin			Yule
-2104	Mokli			Yule
-2105	Molayu			Yule
-2106	Molebar			Yule
-2107	Molephatan			Yule
-2108	Molière			Yule
-2109	Moluccas			Yule
-2110	Mombasa			Yule
-2111	Momein			Yule
-2112	Monasteries of Idolaters (Buddhists)			Yule
-2113	Money			Yule
+2074	Mikado		No	Yule
+2075	Military engines of the Middle Ages		No	Yule
+2076	Milk		No	Yule
+2077	Million		No	Yule
+2078	Millione		No	Yule
+2079	Millioni		No	Yule
+2080	Milne		No	Yule
+2081	Min 		Location	Yule
+2082	Minao 		Location	Yule
+2083	Mines and Minerals		No	Yule
+2084	Minever		No	Yule
+2085	Ming		No	Yule
+2086	Ming-ti		Person	Yule
+2087	Mingan		Person	Yule
+2088	Minján		No	Yule
+2089	Minotto		Person	Yule
+2090	Mint		No	Yule
+2091	Mintsing-hien		No	Yule
+2092	Mious 		Location	Yule
+2093	Miracle Stories		No	Yule
+2094	Mirkhond		No	Yule
+2095	Mirobolans		No	Yule
+2096	Missionary Friars		No	Yule
+2097	Moa of New Zealand		No	Yule
+2098	Modhafferians		No	Yule
+2099	Modun Khotan		Location	Yule
+2100	Moghistan		No	Yule
+2101	Mohammed		Person	Yule
+2102	Mohammerah		No	Yule
+2103	Mohiuddin		No	Yule
+2104	Mokli		No	Yule
+2105	Molayu		No	Yule
+2106	Molebar		Location	Yule
+2107	Molephatan		No	Yule
+2108	Molière		No	Yule
+2109	Moluccas		No	Yule
+2110	Mombasa		Location	Yule
+2111	Momein		No	Yule
+2112	Monasteries of Idolaters (Buddhists)		No	Yule
+2113	Money		No	Yule
 2114	Money of the great khan			Murray
 2115	Mongol Emperors		Person	Murray
-2116	Mongol conquests			Yule
+2116	Mongol conquests		No	Yule
 2117	Mongols		Organization	Murray
-2118	Mongon Khan			Yule
-2119	Mongotay	Mangkutai		Yule
-2120	Monkeys			Yule
-2121	Monks			Yule
-2122	Monnier			Yule
-2123	Monoceros and Maiden			Yule
-2124	Monophysitism			Yule
-2125	Monsoons			Yule
-2126	Monte d’Ely			Yule
-2127	Montecorvino			Yule
-2128	Montgomerie			Yule
-2129	Monument at Si-ngan fu			Yule
-2130	Moon			Yule
-2131	Moore			Yule
-2132	Moplas			Yule
-2133	Morgan			Yule
-2134	Mortagne			Yule
-2135	Moscow			Yule
-2136	Mosolin			Yule
-2137	Mossos			Yule
-2138	Mosta’sim Billah			Yule
+2118	Mongon Khan		Person	Yule
+2119	Mongotay	Mangkutai	Person	Yule
+2120	Monkeys		No	Yule
+2121	Monks		No	Yule
+2122	Monnier		Person	Yule
+2123	Monoceros and Maiden		No	Yule
+2124	Monophysitism		No	Yule
+2125	Monsoons		No	Yule
+2126	Monte dEly		No	Yule
+2127	Montecorvino		No	Yule
+2128	Montgomerie		No	Yule
+2129	Monument at Si-ngan fu		No	Yule
+2130	Moon		No	Yule
+2131	Moore		No	Yule
+2132	Moplas		No	Yule
+2133	Morgan		No	Yule
+2134	Mortagne		No	Yule
+2135	Moscow		Location	Yule
+2136	Mosolin		No	Yule
+2137	Mossos		Location	Yule
+2138	Mostasim Billah		Person	Yule
 2139	Mosul		Location	Murray
-2140	Mosul 	Mausul		Yule
-2141	Motapallé			Yule
-2142	Motawakkil			Yule
-2143	Moule			Yule
-2144	Mount			Yule
-2145	Mountain			Yule
-2146	Mourning customs			Yule
-2147	Mozambique Channel			Yule
-2148	Muang			Yule
-2149	Mulberry Trees			Yule
-2150	Multan			Yule
-2151	Muláhidah	Mulehet		Yule
-2152	Mul–Java			Yule
-2153	Mungasht			Yule
-2154	Mungul			Yule
-2155	Mungul–Temur and Mongo–Temur			Yule
-2156	Murad Beg			Yule
-2157	Murghab River			Yule
-2158	Murray			Yule
-2159	Murus Ussu 			Yule
-2160	Mus			Yule
-2161	Musa’úd			Yule
+2140	Mosul 	Mausul	Location	Yule
+2141	Motapallé		Location	Yule
+2142	Motawakkil		Person	Yule
+2143	Moule		Person	Yule
+2144	Mount		No	Yule
+2145	Mountain		No	Yule
+2146	Mourning customs		No	Yule
+2147	Mozambique Channel		No	Yule
+2148	Muang		Location	Yule
+2149	Mulberry Trees		No	Yule
+2150	Multan		Person	Yule
+2151	MulJava		No	Yule
+2152	Muláhidah	Mulehet	No	Yule
+2153	Mungasht		No	Yule
+2154	Mungul		No	Yule
+2155	MungulTemur	MongoTemur	Person	Yule
+2156	Murad Beg		No	Yule
+2157	Murghab 		Location	Yule
+2158	Murray		Person	Yule
+2159	Murus Ussu 		Location	Yule
+2160	Mus		Location	Yule
+2161	Musaúd		Person	Yule
 2162	Musk			Murray,Yule
-2163	Muslin			Yule
-2164	Mutfili 			Yule
-2165	Muza			Yule
-2166	Mynibar			Yule
-2167	Mysore			Yule
-2168	Mystic number			Yule
-2169	Máchin			Yule
-2170	Mádái			Yule
-2171	Mán			Yule
-2172	Mâramangalam			Yule
-2173	Mätzner			Yule
-2174	Mírat			Yule
-2175	Müller			Yule
-2176	Nac			Yule
-2177	Nakkára	Naccara		Yule
-2178	Nakkára 			Yule
-2179	Nalanda			Yule
+2163	Muslin		No	Yule
+2164	Mutfili 		Location	Yule
+2165	Muza		No	Yule
+2166	Mynibar		No	Yule
+2167	Mysore		Location	Yule
+2168	Mystic number		No	Yule
+2169	Máchin		Location	Yule
+2170	Mádái		No	Yule
+2171	Mán		No	Yule
+2172	Mâramangalam		Location	Yule
+2173	Mätzner		No	Yule
+2174	Mírat		No	Yule
+2175	Müller		Person	Yule
+2176	Nac		No	Yule
+2177	Nakkára	Naccara	No	Yule
+2178	Nakkára 		No	Yule
+2179	Nalanda		No	Yule
 2180	Nan-ghin 	Nan-King	Location	Murray
-2181	Nancouri			Yule
-2182	Nanghin	Ngan-king		Yule
-2183	Nangiass			Yule
-2184	Nankau			Yule
-2185	Nanking			Yule
-2186	Nanwuli			Yule
-2187	Nan–Chao			Yule
-2188	Naobanján			Yule
-2189	Naoshirwan			Yule
-2190	Naphtha in the Caucasian country			Yule
-2191	Napier			Yule
-2192	Napoleon III			Yule
-2193	Narikela–Dvipa			Yule
-2194	Narin–Kaleh			Yule
-2195	Narkandam			Yule
-2196	Narsinga			Yule
-2197	Narwhal tusk			Yule
-2198	Nasich			Yule
-2199	Nasruddin	Nescradin		Yule
-2200	Nassir-uddin			Yule
-2201	Natigay			Yule
-2202	Navapa 			Yule
-2203	Nava–Khanda			Yule
-2204	Naversa			Yule
+2181	Nancouri		No	Yule
+2182	Nanghin	Ngan-king	No	Yule
+2183	Nangiass		Location	Yule
+2184	Nankau		No	Yule
+2185	Nanking		No	Yule
+2186	Nanwuli		No	Yule
+2187	NanChao		No	Yule
+2188	Naobanján		No	Yule
+2189	Naoshirwan		No	Yule
+2190	Naphtha in the Caucasian country		No	Yule
+2191	Napier		Person	Yule
+2192	Napoleon III		Person	Yule
+2193	NarikelaDvipa		No	Yule
+2194	NarinKaleh		Location	Yule
+2195	Narkandam		Location	Yule
+2196	Narsinga		Person	Yule
+2197	Narwhal tusk		No	Yule
+2198	Nasich		No	Yule
+2199	Nasruddin	Nescradin	Person	Yule
+2200	Nassir-uddin		Person	Yule
+2201	Natigay		Person	Yule
+2202	Navapa 		No	Yule
+2203	NavaKhanda		No	Yule
+2204	Naversa		No	Yule
 2205	Nayan		Person	Murray,Yule
-2206	Nebila and Mangla islands			Yule
-2207	Nebuchadnezzar			Yule
-2208	Necklaces			Yule
+2206	Nebila and Mangla 		Location	Yule
+2207	Nebuchadnezzar		No	Yule
+2208	Necklaces		No	Yule
 2209	Necuveran	Nicobar		Murray,Yule
-2210	Negapatam			Yule
-2211	Negroes described			Yule
-2212	Negropont			Yule
-2213	Nellore			Yule
-2214	Nemej			Yule
-2215	Nerghi			Yule
+2210	Negapatam		Location	Yule
+2211	Negroes described		No	Yule
+2212	Negropont		No	Yule
+2213	Nellore		No	Yule
+2214	Nemej		No	Yule
+2215	Nerghi		Location	Yule
 2216	Nescardin		Person	Murray
-2217	Nescradin			Yule
-2218	Nestorian Christians			Yule
+2217	Nescradin		Person	Yule
+2218	Nestorian Christians		No	Yule
 2219	Nestorian Christians and Jacobites			Murray
-2220	Nestorius			Yule
-2221	Nevergún Pass			Yule
-2222	New Year Festival at Kúblái’s Court			Yule
-2223	Neza Tash Pass			Yule
-2224	Ngan-king	Nanghin		Yule
-2225	Ngan-ning-ho 			Yule
-2226	Ngantung			Yule
-2227	Ngo-ning			Yule
-2228	Nia (ancient Ni-jang			Yule
-2229	Nias Island			Yule
-2230	Nibong Palm			Yule
-2231	Nicaea of Alexander			Yule
-2232	Nicholson			Yule
-2233	Nicobar	Necuveran		Yule
-2234	Nicolas			Yule
-2235	Nicolas IV			Yule
-2236	Nicolas of Pistoia			Yule
-2237	Nieuhoff			Yule
-2238	Nigudar	Nogodar		Yule
-2239	Nigudarian bands			Yule
-2240	Nilawár	Nellore		Yule
-2241	Nile			Yule
-2242	Nileshwaram			Yule
-2243	Nine			Yule
-2244	Nine Provinces 			Yule
-2245	Ning-hsia			Yule
-2246	Ning-yuan fu			Yule
-2247	Ningpo			Yule
-2248	Niriz			Yule
-2249	Nirvana			Yule
-2250	Nishapúr			Yule
-2251	Niuché	Yuché		Yule
-2252	Noah’s Ark in Armenia			Yule
-2253	Nobles of Venice			Yule
-2254	Nochdarizari			Yule
-2255	Nogai Khan			Yule
+2220	Nestorius		Person	Yule
+2221	Nevergún Pass		No	Yule
+2222	New Year Festival at Kúbláis Court		No	Yule
+2223	Neza Tash Pass		No	Yule
+2224	Ngan-king	Nanghin	No	Yule
+2225	Ngan-ning-ho 		Location	Yule
+2226	Ngantung		Person	Yule
+2227	Ngo-ning		No	Yule
+2228	Nia	ancient Ni-jang	Location	Yule
+2229	Nias 		Location	Yule
+2230	Nibong Palm		No	Yule
+2231	Nicaea of Alexander		No	Yule
+2232	Nicholson		Person	Yule
+2233	Nicobar	Necuveran	Location	Yule
+2234	Nicolas		Person	Yule
+2235	Nicolas IV		Person	Yule
+2236	Nicolas of Pistoia		No	Yule
+2237	Nieuhoff		No	Yule
+2238	Nigudar	Nogodar	Person	Yule
+2239	Nigudarian bands		No	Yule
+2240	Nilawár	Nellore	Location	Yule
+2241	Nile		No	Yule
+2242	Nileshwaram		No	Yule
+2243	Nine		No	Yule
+2244	Nine Provinces 		No	Yule
+2245	Ning-hsia		No	Yule
+2246	Ning-yuan fu		No	Yule
+2247	Ningpo		No	Yule
+2248	Niriz		No	Yule
+2249	Nirvana		No	Yule
+2250	Nishapúr		No	Yule
+2251	Niuché	Yuché	No	Yule
+2252	Noahs Ark in Armenia		No	Yule
+2253	Nobles of Venice		No	Yule
+2254	Nochdarizari		Location	Yule
+2255	Nogai Khan		Person	Yule
 2256	Nogodar		Person	Murray,Yule
-2257	Nomad tribes of Persia			Yule
-2258	Nomogan	Numughan		Yule
-2259	None			Yule
-2260	North			Yule
-2261	North Star			Yule
-2262	Note Book			Yule
-2263	Novgorod			Yule
-2264	Nubia			Yule
-2265	Nukdaris			Yule
-2266	Nuksán Pass			Yule
-2267	Numbers			Yule
-2268	Nusi–Ibrahim			Yule
-2269	Nutmegs			Yule
-2270	Nyuché			Yule
-2271	Oak of Hebron			Yule
-2272	Oaracta	Kishm		Yule
-2273	Obedience of Ismaelites			Yule
-2274	Obi 			Yule
-2275	Observatory at Peking			Yule
-2276	Ocean Sea			Yule
-2277	Ocoloro Island			Yule
-2278	Odoric			Yule
-2279	Oger			Yule
-2280	Ogotai Khan			Yule
-2281	Oil from the Holy Sepulchre			Yule
-2282	Oirad			Yule
-2283	Okkodai Khan			Yule
+2257	Nomad tribes of Persia		No	Yule
+2258	Nomogan	Numughan	Person	Yule
+2259	None		No	Yule
+2260	North		No	Yule
+2261	North Star		No	Yule
+2262	Note Book		No	Yule
+2263	Novgorod		No	Yule
+2264	Nubia		Location	Yule
+2265	Nukdaris		No	Yule
+2266	Nuksán Pass		No	Yule
+2267	Numbers		No	Yule
+2268	NusiIbrahim		No	Yule
+2269	Nutmegs		No	Yule
+2270	Nyuché		No	Yule
+2271	Oak of Hebron		No	Yule
+2272	Oaracta	Kishm	No	Yule
+2273	Obedience of Ismaelites		No	Yule
+2274	Obi 		Location	Yule
+2275	Observatory at Peking		No	Yule
+2276	Ocean Sea		Location	Yule
+2277	Ocoloro Island		Location	Yule
+2278	Odoric		No	Yule
+2279	Oger		No	Yule
+2280	Ogotai Khan		Person	Yule
+2281	Oil from the Holy Sepulchre		No	Yule
+2282	Oirad		Location	Yule
+2283	Okkodai Khan		Person	Yule
 2284	Okkoday Khan		Person	Murray
-2285	Olak			Yule
-2286	Old Man of the Mountain		Person	Murray
-2287	Old Man of the Mountain (Aloadin			Yule
-2288	Oljaïtu Khan			Yule
-2289	Oman			Yule
-2290	Omens			Yule
-2291	Onan Kerule			Yule
-2292	Ondanique			Yule
-2293	Oppert			Yule
-2294	Orang Gugu			Yule
-2295	Orang Malayu			Yule
-2296	Orang Malayu 			Yule
-2297	Orbelian			Yule
-2298	Ordos			Yule
-2299	Organa (Jerún			Yule
-2300	Oriental phrases in Polo’s dictation			Yule
-2301	Orissa			Yule
-2302	Orkhon River			Yule
-2303	Orleans			Yule
-2304	Oroech			Yule
-2305	Ostriches			Yule
-2306	Ostyaks			Yule
-2307	Otto			Yule
-2308	Ouang Khan		Person	Murray
-2309	Oulatay	Uladai		Yule
-2310	Oulatay 			Yule
-2311	Owen			Yule
-2312	Oxen			Yule
-2313	Oxenham			Yule
-2314	Oxus Valley and River			Yule
-2315	Oxus river		Location	Murray
-2316	Oxydracae			Yule
-2317	Pa-yi writing			Yule
-2318	Pacamuria 	Baccanor		Yule
-2319	Pacauta			Yule
-2320	Pacem			Yule
-2321	Paddle-wheel barges			Yule
-2322	Paderin			Yule
-2323	Padma Sambhava			Yule
-2324	Pagaroyang			Yule
-2325	Paggi Islands			Yule
-2326	Pagodas			Yule
-2327	Pagán			Yule
-2328	Pahang			Yule
-2329	Pai-yen-ching			Yule
-2330	Paipurth	Baiburt		Yule
-2331	Pakwiha			Yule
-2332	Palace of Khan at Chagannor			Yule
-2333	Palembang			Yule
-2334	Palladius			Yule
-2335	Palm			Yule
-2336	Palm Wine			Yule
-2337	Pamier	Pamir		Yule
-2338	Pamier 	Pamir		Murray
-2339	Pandarani			Yule
-2340	Pandit Manphul			Yule
-2341	Pandrethan in Kashmir			Yule
-2342	Pandyan kings			Yule
-2343	Panja River			Yule
-2344	Panjkora			Yule
-2345	Panjshir			Yule
-2346	Panjáb			Yule
-2347	Pantaleon			Yule
-2348	Panthé			Yule
-2349	Panya 	Pengya		Yule
-2350	Pan–Asiatic usages			Yule
-2351	Pao-ki h’ien			Yule
-2352	Paonano Pao			Yule
-2353	Paper-money			Yule
-2354	Papien 			Yule
-2355	Papé			Yule
-2356	Paquier			Yule
-2357	Paradise			Yule
-2358	Paramisura			Yule
-2359	Paravas			Yule
-2360	Parez			Yule
-2361	Pariahs 	Paraiyar		Yule
-2362	Parker			Yule
-2363	Parliament			Yule
-2364	Parlák			Yule
-2365	Parpa iron mines			Yule
-2366	Parris		Person	Murray
-2367	Parrot			Yule
-2368	Parrots			Yule
-2369	Partridges			Yule
-2370	Parwana			Yule
-2371	Paryán silver mines			Yule
-2372	Parákráma Bahu I			Yule
-2373	Pascal of Vittoria			Yule
-2374	Pascia 	Peshawer	Location	Murray
-2375	Pasei			Yule
-2376	Pasha and Pashagar tribes			Yule
-2377	Pashai			Yule
-2378	Pasha–Afroz			Yule
-2379	Passo 			Yule
-2380	Patarins			Yule
-2381	Patlam			Yule
-2382	Patriarchs of Eastern Christians			Yule
-2383	Patteik–Kará			Yule
-2384	Patterns			Yule
-2385	Patu			Yule
-2386	Pau-chym 	Pao-yug-shien	Location	Murray
-2387	Paukin	Pao-ying		Yule
-2388	Pauthier			Yule
-2389	Paved roads in China			Yule
-2390	Payan			Yule
-2391	Payangadi			Yule
-2392	Paï			Yule
-2393	Pe-king		Location	Murray
-2394	Peaches			Yule
-2395	Peacocks at St. Thomas’s			Yule
-2396	Pearls			Yule
-2397	Pears			Yule
-2398	Pedir			Yule
-2399	Pedro			Yule
-2400	Pegu and Bengal confounded			Yule
-2401	Pei-chau	Piju		Yule
-2402	Pein	Pim		Yule
-2403	Pein 	Bai	Location	Murray
-2404	Peking			Yule
-2405	Pelly			Yule
-2406	Pema-ching			Yule
-2407	Pemberton			Yule
-2408	Pentam	Bintang		Yule
-2409	Pentam 	Bintang	Location	Murray
-2410	Pepper			Yule
-2411	Pepper Country			Yule
-2412	Peregrine falcons			Yule
-2413	Perla	Ferlec		Yule
-2414	Persia		Location	Murray,Yule
-2415	Persia and India			Yule
-2416	Persian Gulf 			Yule
-2417	Persian applied to language of foreigners at Mongol Court			Yule
-2418	Pesháwar			Yule
-2419	Peter			Yule
-2420	Pharaoh’s rats	Gerboa		Yule
-2421	Phayre			Yule
-2422	Pheasants			Yule
-2423	Pheng	the Rukh		Yule
-2424	Philip III. and IV. of France			Yule
-2425	Philip the Fair			Yule
-2426	Philippine Islands			Yule
-2427	Phillips			Yule
-2428	Phipps			Yule
-2429	Phra Râma			Yule
-2430	Phungan			Yule
-2431	Physician			Yule
-2432	Physicians			Yule
-2433	Pi-an-fu	Pin-yang-fou	Location	Murray
-2434	Pianfu	P’ing-yang fu		Yule
-2435	Pianfu 			Yule
-2436	Pichalok			Yule
-2437	Pievtsov			Yule
-2438	Pig-shells			Yule
-2439	Pigeon posts			Yule
-2440	Piju	Pei-chau		Yule
-2441	Pilgrimage			Yule
-2442	Pima	Pim		Yule
-2443	Pin-gui 	Pi-tcheou	Location	Murray
-2444	Pinati			Yule
-2445	Pine woods in Mongolian desert			Yule
-2446	Pinna–Cael	Punnei-Káyal		Yule
-2447	Pipino		Person	Murray,Yule
-2448	Pirabandi or Bir Pandi	Vira Pandi		Yule
-2449	Pirada			Yule
-2450	Pirates of Malabar			Yule
-2451	Piratical customs at Eli			Yule
-2452	Pistachioes			Yule
-2453	Plane			Yule
-2454	Plano Carpini			Yule
-2455	Po-sz’	Persia		Yule
-2456	Pog			Yule
-2457	Poison			Yule
-2458	Poison wind			Yule
-2459	Poisoning guests			Yule
-2460	Poisonous pasturage			Yule
-2461	Poland			Yule
-2462	Pole			Yule
-2463	Pole-star			Yule
-2464	Police			Yule
-2465	Politeness of Chinese			Yule
-2466	Polo		Person	Murray,Yule
-2467	Polygamy			Yule
-2468	Ponent			Yule
-2469	Pong			Yule
-2470	Poods			Yule
-2471	Pope of Rome		Person	Murray
-2472	Popinjays			Yule
-2473	Population			Yule
-2474	Porcelain manufacture			Yule
-2475	Porcupines			Yule
-2476	Pork			Yule
-2477	Posts			Yule
-2478	Potala at L’hasa			Yule
-2479	Pottinger			Yule
-2480	Poultry			Yule
-2481	Pound			Yule
-2482	Pozdneiev			Yule
-2483	Precious stones or gems			Yule
-2484	Prester John		Person	Murray,Yule
-2485	Prices of horses			Yule
-2486	Printing			Yule
-2487	Private names supposed			Yule
-2488	Prjevalsky			Yule
-2489	Probation of Jogis			Yule
-2490	Prophecy regarding Bayan			Yule
-2491	Prostitutes			Yule
-2492	Provinces			Yule
-2493	Pseudo–Callisthenes			Yule
-2494	Ptolemies’ trained African elephants			Yule
-2495	Ptolemy			Yule
-2496	Pu-ch’eng			Yule
-2497	Puer and Esmok			Yule
-2498	Pukan Mien–Wang			Yule
-2499	Pulad Chingsang			Yule
-2500	Pulisangan		Location	Murray
-2501	Pulisanghin			Yule
-2502	Pulo Bras			Yule
-2503	Pulo Nankai			Yule
-2504	Pulo Wé			Yule
-2505	Punnei-Káyal			Yule
-2506	Purchas in his Pilgrims uses Ramusio's edition of Marco Polo's Travels			Murray
-2507	Puránas			Yule
-2508	Putchok			Yule
-2509	Putu-ho			Yule
-2510	Pygmies			Yule
-2511	Pádishah Khátún of Kerman			Yule
-2512	P’ing-chang			Yule
-2513	P’ing-yang fu	Pianfu		Yule
-2514	P’o-yang Lake			Yule
-2515	P’u-chau fu			Yule
-2516	Qal’ah Asgher			Yule
-2517	Qara Ars-lán Beg			Yule
-2518	Quails in India			Yule
-2519	Que-lin-fu 	Kien-ning-fou	Location	Murray
-2520	Queen of Mutfili			Yule
-2521	Quen-gian-fu 	Si-ngan-fou	Location	Murray
-2522	Quicksilver and sulphur potion			Yule
-2523	Quills of the Ruc			Yule
-2524	Quilon			Yule
-2525	Quin-sai		Location	Murray
-2526	Qumadin	Camadi		Yule
-2527	Rabbanta			Yule
-2528	Rabelais			Yule
-2529	Radloff			Yule
-2530	Rain-makers			Yule
-2531	Rainald			Yule
-2532	Rainy season			Yule
-2533	Rajkot leather-work			Yule
-2534	Rakka			Yule
-2535	Rama Kamheng			Yule
-2536	Rameshwaram			Yule
-2537	Ramnad			Yule
-2538	Rampart of Gog and Magog			Yule
-2539	Ramusio			Yule
-2540	Ramusio's collection of Voyages and Travels			Murray
-2541	Ranking			Yule
-2542	Raonano–Rao			Yule
-2543	Rapson			Yule
-2544	Ras Haili			Yule
-2545	Rashíduddín			Yule
-2546	Ravenala tree			Yule
-2547	Raw meat eaten			Yule
-2548	Rawlinson			Yule
-2549	Reclus			Yule
-2550	Red Sea			Yule
-2551	Red gold and red Tangas			Yule
-2552	Red sect of Lamas			Yule
-2553	Refraction			Yule
-2554	Regains his liberty		Person	Murray
-2555	Reindeer ridden			Yule
-2556	Religion			Yule
-2557	Remission of taxation by Kúblái			Yule
-2558	Rennell			Yule
-2559	Reobarle		Location	Murray
-2560	Reobarles	Rúdbár		Yule
-2561	Revenue of Kinsay			Yule
-2562	Rhinoceros 			Yule
-2563	Rhinoceros of Sumatra			Murray
-2564	Rhins			Yule
-2565	Rhubarb			Yule
-2566	Riant			Yule
-2567	Ricci			Yule
-2568	Rice			Yule
-2569	Rice-wine			Yule
-2570	Richard II			Yule
-2571	Richthofen			Yule
-2572	Right and Left			Yule
-2573	Rio Marabia			Yule
-2574	Roads radiating from Cambaluc			Yule
-2575	Robbers in Persia			Yule
-2576	Robbers’ River			Yule
-2577	Robes distributed by Kúblái			Yule
-2578	Roborovsky			Yule
-2579	Rochefort			Yule
-2580	Rockets			Yule
-2581	Rockhill			Yule
-2582	Rofia palm			Yule
-2583	Rome			Yule
-2584	Rori–Bakkar			Yule
-2585	Rosaries			Yule
-2586	Rostof and Susdal			Yule
-2587	Roth			Yule
-2588	Rouble			Yule
-2589	Roxana			Yule
-2590	Roze de l’Açur			Yule
-2591	Rubies			Yule
-2592	Rubruquis		Person	Murray,Yule
-2593	Ruby mines in Badakhshan			Yule
-2594	Ruc	Rukh		Yule
-2595	Rudder			Yule
-2596	Rudra Deva			Yule
-2597	Rudrama Devi			Yule
-2598	Rukh			Yule
-2599	Rukhnuddin			Yule
-2600	Runiz			Yule
-2601	Ruomedam–Ahomet			Yule
-2602	Rupen			Yule
-2603	Rupert			Yule
-2604	Russia			Murray,Yule
-2605	Russians			Yule
-2606	Rusticiano of Pisa			Yule
-2607	Rusticians		Person	Murray
-2608	Rusták			Yule
-2609	Ruysch’s map			Yule
-2610	Ráin			Yule
-2611	Ráná Paramitá‘s Woman Country			Yule
-2612	Rúdbár-i-Lass			Yule
-2613	Rúdkhánah-i-Duzdi	Robbers’ River		Yule
-2614	Rúdkhánah-i-Shor	Salt River		Yule
-2615	Rúm			Yule
-2616	Rüppell’s Table of Abyssinian kings			Yule
-2617	Sa-van-fu 	Siang-yang-fou	Location	Murray
-2618	Saadi			Yule
-2619	Saba	Sava		Yule
-2620	Sabaste			Yule
-2621	Sable			Yule
-2622	Sabreddin			Yule
-2623	Sabzawur			Yule
-2624	Sacchion	Cha-tcheou		Murray
-2625	Sacchion 	Cha-tcheou	Location	Murray
-2626	Sachiu	Sha-chau		Yule
-2627	Sacrifices of people of Tangut			Yule
-2628	Saffron			Yule
-2629	Sagacity of sledge-dogs			Yule
-2630	Sagamon Borcan			Yule
-2631	Sagatu			Yule
-2632	Saggio 			Yule
-2633	Sago			Yule
-2634	Saianfu			Yule
-2635	Saif Arad			Yule
-2636	Saifuddin Nazrat			Yule
-2637	Saimur	Chaul		Yule
-2638	Sain Khan	 Batu		Yule
-2639	Saker falcons			Yule
-2640	Sakta doctrines			Yule
-2641	Sakya Muni	Sagamon Borcan		Yule
-2642	Salamander			Yule
-2643	Salar	Ho-chau		Yule
-2644	Salem			Yule
-2645	Salghur			Yule
-2646	Salsette Island			Yule
-2647	Salt		Location	Murray,Yule
-2648	Salwen River			Yule
-2649	Samagar			Yule
-2650	Samara			Yule
-2651	Samarcan 	Samarcand	Location	Murray
-2652	Samarkand	Samarcan		Yule
-2653	Sampson			Yule
-2654	Samudra			Yule
-2655	Samuel			Yule
-2656	Samána			Yule
-2657	San Giovanni Grisostomo			Yule
-2658	San Lorenzo			Yule
-2659	Sandu			Yule
-2660	Sanf			Yule
-2661	Sanglich			Yule
-2662	Sangon			Yule
-2663	Sangín			Yule
-2664	Sang–Miau			Yule
-2665	Sanitary effects of Mountain air			Yule
-2666	Sanjar			Yule
-2667	Sankin Hoto			Yule
-2668	Sanuto of Torcelli			Yule
-2669	Sappan wood			Yule
-2670	Sapta–Shaila			Yule
-2671	Sapurgan	Shibbergaun	Location	Murray,Yule
-2672	Sar-i-kol			Yule
-2673	Saracanco	Saraichik		Yule
-2674	Saracens		Organization	Murray,Yule
-2675	Sarai	Sara		Yule
-2676	Saratov			Yule
-2677	Sarbizan Pass			Yule
-2678	Sardines			Yule
-2679	Sarghalan River			Yule
-2680	Sarha			Yule
-2681	Sarhadd River			Yule
-2682	Sarsáti			Yule
-2683	Sartach		Person	Murray
-2684	Sartak			Yule
-2685	Sassanian dynasty			Yule
-2686	Sati			Yule
-2687	Satin			Yule
-2688	Sava		Location	Murray
-2689	Savast	Siwas		Yule
-2690	Scanderoon			Yule
-2691	Scasem			Yule
-2692	Scassem	Koondooz	Location	Murray
-2693	Scherani			Yule
-2694	Schiltberger			Yule
-2695	Schindler			Yule
-2696	Schlegel			Yule
-2697	Schmidt			Yule
-2698	Schuyler			Yule
-2699	Schönborn			Yule
-2700	Scidmore			Yule
-2701	Scotra			Yule
-2702	Scotra  	Socotra	Location	Murray
-2703	Scythians		Organization	Murray
-2704	Sea of Chin			Yule
-2705	Seal			Yule
-2706	Sebaste			Yule
-2707	Sebourc			Yule
-2708	Sees of Latin Church			Yule
-2709	Sefavíehs			Yule
-2710	Seilan			Yule
-2711	Seilan 	Ceylon	Person	Murray
-2712	Self-decapitation			Yule
-2713	Selitrennoyé Gorodok	Saltpetre Town		Yule
-2714	Seljukian dynasty			Yule
-2715	Semal tree			Yule
-2716	Semedo			Yule
-2717	Semenat			Yule
-2718	Semenat 	Sumnaut	Location	Murray
-2719	Sempad			Yule
-2720	Sendal			Yule
-2721	Sendemain			Yule
-2722	Sender Bandi Davar			Yule
-2723	Seneca			Yule
-2724	Senecherim			Yule
-2725	Seni			Yule
-2726	Sensin			Yule
-2727	Sentemur			Yule
-2728	Sepulchre of Adam			Yule
-2729	Serano			Yule
-2730	Serazi 	Shíráz		Yule
-2731	Serendib			Yule
-2732	Sergamon Borcam			Murray
-2733	Serpents			Yule
-2734	Sertorius			Yule
-2735	Sesamé			Yule
-2736	Seth’s mission to Paradise			Yule
-2737	Sevan Lake			Yule
-2738	Seven Arts			Yule
-2739	Severtsoff			Yule
-2740	Seyyed Barghash			Yule
-2741	Sha-chau	Sachin		Yule
-2742	Shabankara			Yule
-2743	Shabar			Yule
-2744	Shadow			Yule
-2745	Shah Abbas			Yule
-2746	Shah Werdy			Yule
-2747	Shahr Mandi			Yule
-2748	Shahr-i-Babek			Yule
-2749	Shahr-i-Nao	Siam		Yule
-2750	Shaibani Khan			Yule
-2751	Shaikhs (Esheks			Yule
-2752	Shakespeare			Yule
-2753	Shamanism			Murray,Yule
-2754	Shampath			Yule
-2755	Shamsuddin Shamatrani			Yule
-2756	Shamuthera			Yule
-2757	Shan	Laotian		Yule
-2758	Shan (Laotian			Yule
-2759	Shan-hai-kwan			Yule
-2760	Shan-si			Yule
-2761	Shan-tung			Yule
-2762	Shanars of Tinnevelly			Yule
-2763	Shandu		Location	Murray
-2764	Shang-hai			Yule
-2765	Shangking–Fungking			Yule
-2766	Shangtu			Yule
-2767	Shangtu Keibung			Yule
-2768	Shankárah			Yule
-2769	Shao-hing-fu			Yule
-2770	Shao-ling			Yule
-2771	Shara-ul-buks			Yule
-2772	Sharakhs			Yule
-2773	Sharks and shark charmers			Yule
-2774	Shauls			Yule
-2775	Shaw			Yule
-2776	Shawls of Kerman			Yule
-2777	Shawánkára	Soncara		Yule
-2778	Sheep			Yule
-2779	Sheep’s head given to horses			Yule
-2780	Shehr			Yule
-2781	Shehrizor	Kerkuk		Yule
-2782	Shen-si			Yule
-2783	Shenrabs			Yule
-2784	Shentseu tribe			Yule
-2785	Sheuping			Yule
-2786	Shewá			Yule
-2787	Shi-tsung			Yule
-2788	Shibrgán	Sapurgan		Yule
-2789	Shieng			Yule
-2790	Shighnan	Syghinan		Yule
-2791	Shighnan 			Yule
-2792	Shikárgáh			Yule
-2793	Shing-king			Yule
-2794	Ships			Yule
-2795	Shireghi			Yule
-2796	Shirha			Yule
-2797	Shirwan			Yule
-2798	Shoa			Yule
-2799	Shob’aengs of Nicobar			Yule
-2800	Shodja ed-din Kurshid			Yule
-2801	Shor–Rud	Salt River		Yule
-2802	Shot of Military Engines			Yule
-2803	Shpilevsky			Yule
-2804	Shut up nations			Yule
-2805	Shwéli River			Yule
-2806	Sháliát			Yule
-2807	Shíráz	Cerazi		Yule
-2808	Shúlistán	Suolstan		Yule
-2809	Shúls of Shauls			Yule
-2810	Si Hia			Yule
-2811	Si-fan		Organization	Murray
-2812	Si-hu			Yule
-2813	Si-ngan fu	Kenjanfu		Yule
-2814	Si-ngan fu 			Yule
-2815	Siam			Yule
-2816	Siang-yang-fu	Saianfu		Yule
-2817	Siberia			Yule
-2818	Sibree			Yule
-2819	Sick men put to death and eaten by their friends			Yule
-2820	Siddhárta			Yule
-2821	Sidi Ali			Yule
-2822	Sien			Yule
-2823	Sifan			Yule
-2824	Sigatay			Yule
-2825	Sighelm			Yule
-2826	Sijistán			Yule
-2827	Siju	Suthsian		Yule
-2828	Sikintinju	Kien-chow		Yule
-2829	Silesia			Yule
-2830	Silk			Yule
-2831	Silver chairs			Yule
-2832	Simon			Yule
-2833	Simurgh			Yule
-2834	Simúm			Yule
-2835	Sin-din-fu	Tching-tou-fou	Location	Murray
-2836	Sin-gui		Location	Murray
-2837	Sin-gui 	Sou-teheou-fou	Location	Murray
-2838	Sinbad			Yule
-2839	Sind	Sindhu–Sauvira		Yule
-2840	Sindachu	Siuen-hwa fu		Yule
-2841	Sindafu	Chengtu-fu		Yule
-2842	Sindhu–Sauvira	Sindh-Ságor		Yule
-2843	Sindábúr	Goa		Yule
-2844	Singapore			Yule
-2845	Singkel			Yule
-2846	Singphos			Yule
-2847	Sings			Yule
-2848	Singtur			Yule
-2849	Singuyli 	Cranganor		Yule
-2850	Sinhopala 	Accambale		Yule
-2851	Sinju	Si-ning fu		Yule
-2852	Sinju 			Yule
-2853	Sinju-matu			Yule
-2854	Sinope			Yule
-2855	Sinugul 	Soui-tcheou	Location	Murray
-2856	Sir-i-Chashma			Yule
-2857	Sirikol			Yule
-2858	Sirocco			Murray
-2859	Sis			Yule
-2860	Sismondi			Murray
-2861	Sitting in air			Yule
-2862	Siu chau			Yule
-2863	Siuen-hwa-fu			Yule
-2864	Siva			Yule
-2865	Sivas			Yule
-2866	Siwastán			Yule
-2867	Siwi			Yule
-2868	Sixtus V			Yule
-2869	Siyurgutmish			Yule
-2870	Sladen			Yule
-2871	Slaves in Bengal			Yule
-2872	Sledges			Yule
-2873	Sleeping-mats			Yule
-2874	Sluices of Grand Canal			Yule
-2875	Smith			Yule
-2876	Sneezing			Yule
-2877	Socotra	Scotra		Yule
-2878	Soer	Suhar		Yule
-2879	Sofala			Yule
-2880	Sogoman Borcan			Yule
-2881	Sol			Yule
-2882	Soldaia			Yule
-2883	Soldan			Yule
-2884	Soldurii			Yule
-2885	Soli			Yule
-2886	Solomon			Yule
-2887	Soltania			Yule
-2888	Somnath 	Semenat		Yule
-2889	Sonagar-pattanam			Yule
-2890	Soncara	Shawankára		Yule
-2891	Sondur and Condur 	Pulo Condore		Murray,Yule
-2892	Sorcerers			Yule
-2893	Sornau	Shahr-i-Nau		Yule
-2894	Sotiates			Yule
-2895	Soucat			Yule
-2896	Southey			Yule
-2897	Spaan			Yule
-2898	Spice			Yule
-2899	Spice wood			Yule
-2900	Spices in China			Yule
-2901	Spikenard			Yule
-2902	Spinello Aretini			Yule
-2903	Spirit drawings and spiritual flowers			Yule
-2904	Spirits haunting deserts			Yule
-2905	Spiritualism in China			Yule
-2906	Spittoons			Yule
-2907	Spodium 	Spodos		Yule
-2908	Sport and game			Yule
-2909	Sposk			Yule
-2910	Springolds			Yule
-2911	Springs			Yule
-2912	Sprinkling of drink			Yule
-2913	Squares at Kinsay			Yule
-2914	Sri–Thammarat			Yule
-2915	Sri–Vaikuntham			Yule
-2916	Sse River			Yule
-2917	St. Anno of Cologne			Yule
-2918	St. Barlaam and St. Josafat			Yule
-2919	St. Barsauma			Yule
-2920	St. Blasius 			Yule
-2921	St. Brandon			Yule
-2922	St. Buddha			Yule
-2923	St. Epiphanius			Yule
-2924	St. George			Yule
-2925	St. Helena			Yule
-2926	St. James’ Shrine			Yule
-2927	St. John the Baptist			Yule
-2928	St. Leonard’s Convent in Georgia			Yule
-2929	St. Lewis			Yule
-2930	St. Martin			Yule
-2931	St. Mary’s Island			Yule
-2932	St. Matthew			Yule
-2933	St. Matthew’s Gospel			Yule
-2934	St. Nina			Yule
-2935	St. Sabba’s at Acre			Yule
-2936	St. Thomas			Yule
-2937	St. Thomas’s Isle			Yule
-2938	Stack			Yule
-2939	Star Chart			Yule
-2940	Star of Bethlehem			Yule
-2941	Steamers on Yangtse-kiang			Yule
-2942	Steel mines at Kermán			Yule
-2943	Stefani			Yule
-2944	Stein			Yule
-2945	Stiens of Cambodia			Yule
-2946	Stirrups			Yule
-2947	Stitched vessels			Yule
-2948	Stockade erected by Polo’s party in Sumatra			Yule
-2949	Stone			Yule
-2950	Stones giving invulnerability			Yule
-2951	Su-chau			Yule
-2952	Su-chau 	Suju		Yule
-2953	Su-tásh			Yule
-2954	Submersion of part of Ceylon			Yule
-2955	Subterraneous irrigation			Yule
-2956	Suburbs of Cambaluc			Yule
-2957	Subutai			Yule
-2958	Succiur 	Sou-tcheou	Location	Murray
-2959	Suchnan River			Yule
-2960	Sudarium			Yule
-2961	Sugar			Yule
-2962	Suh-chau	Sukchur		Yule
-2963	Suicides before an idol			Yule
-2964	Sukchur			Yule
-2965	Sukkothai			Yule
-2966	Sukum Kala’			Yule
-2967	Suleiman			Yule
-2968	Sulphur and quicksilver			Yule
-2969	Sultan Shah			Yule
-2970	Sultaniah			Yule
-2971	Sumatra		Location	Murray,Yule
-2972	Sumatra 			Yule
-2973	Sumbawa			Yule
-2974	Summers			Yule
-2975	Sumutala			Yule
-2976	Sun and moon			Yule
-2977	Sundar Fúlát 			Yule
-2978	Sundara Pandi Devar			Yule
-2979	Sung			Yule
-2980	Sunnis and Shias			Yule
-2981	Suolstan	Shulistan		Yule
-2982	Superstitions in Tangut			Yule
-2983	Survival			Yule
-2984	Sur–Raja			Yule
-2985	Sushun			Yule
-2986	Suttee			Murray
-2987	Suttees in S. India			Yule
-2988	Suákin			Yule
-2989	Swans			Yule
-2990	Swat			Yule
-2991	Swi-fu			Yule
-2992	Sword blades of India			Yule
-2993	Syghinan			Yule
-2994	Sykes			Yule
-2995	Sylen	Ceylon		Yule
-2996	Symbolical messages			Yule
-2997	Syrian Christians			Yule
-2998	Sze-ch’wan			Yule
-2999	Sze-ch’wan 	Ch’eng-tu		Yule
-3000	Szechényi			Yule
-3001	Sálih			Yule
-3002	Sárdú Pass			Yule
-3003	Sávah	Saba		Yule
-3004	Sínkalán			Yule
-3005	Sírján 	Shirján		Yule
-3006	Síráf	Kish		Yule
-3007	Sístán			Yule
-3008	Súddhodhana			Yule
-3009	Ta Tsing River			Yule
-3010	Ta-pa-Shan range			Yule
-3011	Ta-t’sien-lu			Yule
-3012	Tabashir			Yule
-3013	Tabbas			Yule
-3014	Table of the Great Khan			Yule
-3015	Tables			Yule
-3016	Tablet			Yule
-3017	Tablets of Authority			Yule
-3018	Tabriz	Tauris		Yule
-3019	Tachindo			Yule
-3020	Tacitus			Yule
-3021	Tactics			Yule
-3022	Tacuin			Yule
-3023	Tadinfu			Yule
-3024	Taeping			Yule
-3025	Taeping Insurrection and Devastations			Yule
-3026	Taffetas			Yule
-3027	Taft			Yule
-3028	Tafurs			Yule
-3029	Tagachar			Yule
-3030	Tagaung			Yule
-3031	Tagharma Pass			Yule
-3032	Taghdúngbásh River			Yule
-3033	Tai-in-fu 	Tai-yuen-fou	Location	Murray
-3034	Tai-kan	Khoolloom	Location	Murray
-3035	Tai-tsu			Yule
-3036	Taianfu	T’ai-yuan-fu		Yule
-3037	Taiani			Yule
-3038	Taican			Yule
-3039	Taichau	Tigu		Yule
-3040	Taidu			Yule
-3041	Taikung			Yule
-3042	Tailed men			Yule
-3043	Tailors			Yule
-3044	Taimúni tribe			Yule
-3045	Taiting-fu	Tadinfu		Yule
-3046	Taitong-fu			Yule
-3047	Tajiks of Badakhshan			Yule
-3048	Takfúr			Yule
-3049	Takhtapul			Yule
-3050	Takla–Makan			Yule
-3051	Talains			Yule
-3052	Talas River			Yule
-3053	Tali			Yule
-3054	Talifu	Carajan		Yule
-3055	Talikan			Yule
-3056	Tallies			Yule
-3057	Tam-pin-gui		Location	Murray
-3058	Tamarind			Yule
-3059	Tamerlan			Yule
-3060	Tana	Azov		Yule
-3061	Tana 	Bombay	Location	Murray
-3062	Tana–Maiambu			Yule
-3063	Tana–Malayu			Yule
-3064	Tanduc			Yule
-3065	Tangnu Oola			Yule
-3066	Tangut		Location	Murray
-3067	Tangut province			Yule
-3068	Tangutan			Yule
-3069	Tanjore			Yule
-3070	Tanpiju	Shaohing		Yule
-3071	Tantras			Yule
-3072	Tao-lin			Yule
-3073	Tao-sze	Taossé		Yule
-3074	Taprobana			Yule
-3075	Tarakai			Yule
-3076	Tarantula			Yule
-3077	Tarem			Yule
-3078	Tares of the parable			Yule
-3079	Tarmabala			Yule
-3080	Tarok Man and Tarok Myo			Yule
-3081	Tartar language			Yule
-3082	Tartars			Yule
-3083	Tartars driven out of China			Murray
-3084	Tartary cloths			Yule
-3085	Tarungares			Yule
-3086	Taríkh-i-Rashídí			Yule
-3087	Tataríya coins			Yule
-3088	Tathung			Yule
-3089	Tattooing			Yule
-3090	Tatu	Taichu		Yule
-3091	Tatyang Khan			Yule
-3092	Tauris			Yule
-3093	Taurizi			Yule
-3094	Tawálisi			Yule
-3095	Taxes			Yule
-3096	Tchakiri Mondou	Modun		Yule
-3097	Tea			Murray
-3098	Tea trees in E. Tibet			Yule
-3099	Tea-houses at Kingszé			Yule
-3100	Tebet			Yule
-3101	Tedaldo			Yule
-3102	Teeth			Yule
-3103	Teflis		Location	Murray
-3104	Tegana			Yule
-3105	Teghele			Yule
-3106	Teimur	Temur		Yule
-3107	Tekla			Yule
-3108	Tekrit			Yule
-3109	Telingana			Yule
-3110	Telo Samawe			Yule
-3111	Tembul	Betel		Yule
-3112	Temkan			Yule
-3113	Temple			Yule
-3114	Temple’s account of the Condor			Yule
-3115	Temugin		Person	Murray
-3116	Temujin			Yule
-3117	Temur		Person	Murray
-3118	Tenduc		Location	Murray,Yule
-3119	Tengri			Yule
-3120	Tennasserim			Yule
-3121	Tents			Yule
-3122	Tents of  the great khan			Murray
-3123	Terebinth			Yule
-3124	Terra Australis			Yule
-3125	Terra Mountains			Yule
-3126	Te–Tsung			Yule
-3127	Thai			Yule
-3128	Thai-yuanfu	Taianfu		Yule
-3129	Thaigin			Yule
-3130	Theft			Yule
-3131	Theistic worship			Yule
-3132	Thelasar			Yule
-3133	Theobald			Yule
-3134	Theodorus			Yule
-3135	Theodosius the Great			Yule
-3136	Theophilus			Yule
-3137	Thian Shan			Yule
-3138	Thianté-Kiun			Yule
-3139	Thibet		Location	Murray
-3140	Thin l’Evêque			Yule
-3141	Tholoman			Yule
-3142	Tholoman 	part of Yun-nan	Location	Murray
-3143	Thomas			Yule
-3144	Thread			Yule
-3145	Three kingdoms			Yule
-3146	Threshold			Yule
-3147	Thurán Shah’s History of Hormuz			Yule
-3148	Thévenot			Yule
-3149	Ti-min-gui 	King-te-ching		Murray
-3150	Tibet	Tebet		Yule
-3151	Tibetan language and character			Yule
-3152	Tibetans			Yule
-3153	Tides in Hang-chau estuary			Yule
-3154	Tierce			Yule
-3155	Tiflis			Yule
-3156	Tigado			Yule
-3157	Tigers			Yule
-3158	Tigris	Volga		Yule
-3159	Tigúdar	Acomat Soldan		Yule
-3160	Tiju			Yule
-3161	Tiles			Yule
-3162	Tiling			Yule
-3163	Tilinga			Yule
-3164	Timur of Toumen			Yule
-3165	Timur the Great			Yule
-3166	Timurids			Yule
-3167	Tin-gui		Location	Murray
-3168	Ting			Yule
-3169	Tinju			Yule
-3170	Tinnevelly			Yule
-3171	Tithe on clothing material			Yule
-3172	Tithing men			Yule
-3173	Titus			Yule
-3174	Tjajya			Yule
-3175	Toba race			Yule
-3176	Toc-tai		Person	Murray
-3177	Toctai			Yule
-3178	Tod			Yule
-3179	Toddy			Yule
-3180	Togan			Yule
-3181	Toghontemur			Yule
-3182	Toghrul I			Yule
-3183	Togrul Wang Khan			Yule
-3184	Toka Tumir			Yule
-3185	Toktai Khan	Toctai		Yule
-3186	Tokát			Yule
-3187	Tolan-nur	Dolonnúr		Yule
-3188	Toleto			Yule
-3189	Tolobuga			Yule
-3190	Toman 	Tuman		Yule
-3191	Tongking			Yule
-3192	Tonocain 	Daumghann	Location	Murray
-3193	Tooth-relique of Buddha			Yule
-3194	Torchi			Yule
-3195	Toris 	Tauris,Tabreez	Location	Murray
-3196	Tornesel			Yule
-3197	Toro River			Yule
-3198	Torshok			Yule
-3199	Torture by constriction in raw hide			Yule
-3200	Tournefort			Yule
-3201	Tower and Bell Alarm at Peking			Yule
-3202	Toyan			Yule
-3203	Trade at Layas			Yule
-3204	Trades in Manzi			Yule
-3205	Transmigration			Yule
-3206	Traps for fur animals			Yule
-3207	Travancore			Yule
-3208	Travellers		Organization	Murray
-3209	Treasure of Maabar kings			Yule
-3210	Trebizond			Yule
-3211	Trebuchets			Yule
-3212	Trees			Yule
-3213	Trench			Yule
-3214	Trevisano			Yule
-3215	Trincomalee			Yule
-3216	Tringano			Yule
-3217	Trinkat			Yule
-3218	Tsin-tsun			Yule
-3219	Tsiuan-chau			Yule
-3220	Tsongkhapa			Yule
-3221	Tsukuzi in Japan			Yule
-3222	Tsung-ngan-hien			Yule
-3223	Tsushima			Yule
-3224	Ts’uan-chou			Yule
-3225	Tu T’song			Yule
-3226	Tu-fan			Yule
-3227	Tu-ku-hun			Yule
-3228	Tuan			Yule
-3229	Tudai			Yule
-3230	Tudai–Mangku	Totamangu,Totamangul		Yule
-3231	Tughan			Yule
-3232	Tughlak Shah			Yule
-3233	Tuktuyai Khan			Yule
-3234	Tuli			Yule
-3235	Tuman			Yule
-3236	Tumba			Yule
-3237	Tun-o-kain	Tunocain		Yule
-3238	Tung-chau	Tinju		Yule
-3239	Tung-hwang-hien			Yule
-3240	Tung-kwan			Yule
-3241	Tung-‘an in Fokien			Yule
-3242	Tunguses			Yule
-3243	Tunny fish			Yule
-3244	Turbit			Yule
-3245	Turcomania		Organization	Murray,Yule
-3246	Turgaut			Yule
-3247	Turkestan		Location	Murray
-3248	Turkey			Yule
-3249	Turkistan chiefs send mission to kings of India			Yule
-3250	Turkmans and Turks			Yule
-3251	Turks			Yule
-3252	Turmeric			Yule
-3253	Turner			Yule
-3254	Turquans			Yule
-3255	Turquoises in Kermán			Yule
-3256	Turtle doves			Yule
-3257	Turumpak			Yule
-3258	Tutia	Tutty		Yule
-3259	Tuticorin			Yule
-3260	Tver			Yule
-3261	Twelve			Yule
-3262	Twigs or arrows			Yule
-3263	Tylor			Yule
-3264	Tyuman			Yule
-3265	Tyunju			Yule
-3266	Tzarev			Yule
-3267	Tzaritzyn			Yule
-3268	Táki-uddin			Yule
-3269	Tánasi cloth			Yule
-3270	Tánkíz Khan			Yule
-3271	Tásh Kurgán			Yule
-3272	Tún			Yule
-3273	T’ai Tsung			Yule
-3274	T’aiching-Kwan			Yule
-3275	T’ang dynasty			Yule
-3276	T’sang-chau			Yule
-3277	T’si-nan-fu	Chinangli		Yule
-3278	T’si-ning-chau			Yule
-3279	T’sien T’ang River			Yule
-3280	T’sing-chau			Yule
-3281	T’sing-ling range			Yule
-3282	U-man and Pe-man 			Yule
-3283	U-nya-Mwezi superstition			Yule
-3284	Ucaca	Ukak		Yule
-3285	Uch-baligh			Yule
-3286	Uch–Multán			Yule
-3287	Udoe country			Yule
-3288	Udong			Yule
-3289	Udyána			Yule
-3290	Ughim		Location	Murray
-3291	Ughuz			Yule
-3292	Uighúr character			Yule
-3293	Uighúrs			Yule
-3294	Uiraca			Yule
-3295	Uirad			Yule
-3296	Ujjain			Yule
-3297	Ukak			Yule
-3298	Ulakhai			Yule
-3299	Ulan Muren	Red River		Yule
-3300	Ulatai	Oulatay		Yule
-3301	Ulugh Bagh			Yule
-3302	Ulús			Yule
-3303	Umbrellas			Yule
-3304	Un-gui	Kia-hing	Location	Murray
-3305	Un-quem	Ming-taing	Location	Murray
-3306	Unc Can	Aung Khan		Yule
-3307	Ung	Ungkút		Yule
-3308	Ungrat 	Kungurat		Yule
-3309	Unicorn			Yule
-3310	Unken			Yule
-3311	Unlucky hours			Yule
-3312	Ural river		Location	Murray
-3313	Urduja			Yule
-3314	Uriangkadai			Yule
-3315	Uriangkút	Tunguses		Yule
-3316	Urianhai			Yule
-3317	Urumtsi			Yule
-3318	Urzú			Yule
-3319	Uspenskoye 			Yule
-3320	Uttungadeva			Yule
-3321	Uwek			Yule
-3322	Uzbeg Khan of Sarai			Yule
-3323	Uzbegs of Kunduz			Yule
-3324	Uzun Tati			Yule
-3325	Vair			Yule
-3326	Valaghir district			Yule
-3327	Van Lake			Yule
-3328	Vanchu 	Wangchu		Yule
-3329	Varaegian			Yule
-3330	Varaha Mihira			Yule
-3331	Vardoj River			Yule
-3332	Varsach			Yule
-3333	Veil of the Temple			Yule
-3334	Vellalars			Yule
-3335	Venetians			Yule
-3336	Venice		Location	Murray,Yule
-3337	Ventilators at Hormuz			Yule
-3338	Venádan			Yule
-3339	Verlinden			Yule
-3340	Vessels			Yule
-3341	Vial			Yule
-3342	Vijayanagar			Yule
-3343	Vikramajit			Yule
-3344	Vikrampúr			Yule
-3345	Villard de Honnecourt			Yule
-3346	Vincent of Beauvais			Yule
-3347	Vincenzo			Yule
-3348	Vineyards			Yule
-3349	Vinson			Yule
-3350	Virgin of Cape Comorin			Yule
-3351	Visconti			Yule
-3352	Vissering			Yule
-3353	Vochan	Unchan		Yule
-3354	Vociam		Location	Murray
-3355	Vogels			Yule
-3356	Vokhan			Yule
-3357	Vokhan 	Wakhan	Location	Murray
-3358	Volga			Yule
-3359	Volga river		Location	Murray
-3360	Vos			Yule
-3361	Vughin			Yule
-3362	Vuju in Kiangnan			Yule
-3363	Vámbéry			Yule
-3364	Wa-tzu			Yule
-3365	Wadoe tribe			Yule
-3366	Wakf			Yule
-3367	Wakhijrui Pass			Yule
-3368	Wakhjír Pass			Yule
-3369	Wakhsh			Yule
-3370	Wakhtang II			Yule
-3371	Wakhán	Vokhan		Yule
-3372	Walashjird			Yule
-3373	Waldshut			Murray
-3374	Wall of Alexander 			Yule
-3375	Wallachs			Yule
-3376	Walnut-oil			Yule
-3377	Wami River			Yule
-3378	Wang			Yule
-3379	Wangchu			Yule
-3380	Wapila			Yule
-3381	War vessels			Yule
-3382	Warangol Ku			Yule
-3383	Warangs			Yule
-3384	Warner			Yule
-3385	Wassáf			Yule
-3386	Water			Yule
-3387	Wathek			Yule
-3388	Weather-conjuring			Yule
-3389	Wei River in Shen-si			Yule
-3390	Wei dynasty			Yule
-3391	Wei-ning			Yule
-3392	Weights and measures			Yule
-3393	Wen River			Yule
-3394	Wen-chow			Yule
-3395	Westermarck			Yule
-3396	Whale oil			Yule
-3397	Whales			Yule
-3398	Wheaten bread not eaten			Yule
-3399	White bears			Yule
-3400	Whittington and his cat in Persia			Yule
-3401	Wild asses and oxen			Yule
-3402	William of Tripoli			Yule
-3403	Williams			Yule
-3404	Williamson			Yule
-3405	Wilson			Yule
-3406	Wind			Yule
-3407	Wine			Yule
-3408	Wo-fo-sze			Yule
-3409	Wolves in Pamir			Yule
-3410	Women			Yule
-3411	Wonders performed by the Bacsi			Yule
-3412	Wood			Yule
-3413	Wood-oil			Yule
-3414	Wool			Yule
-3415	Worship of Mahomet 			Yule
-3416	Worshipping the tablets			Yule
-3417	Wu-chau	Vuju		Yule
-3418	Wu-ti			Yule
-3419	Wukiang-hien	Vughin		Yule
-3420	Wylie			Yule
-3421	Wüsus			Yule
-3422	Xavier			Yule
-3423	Xerxes			Yule
-3424	Ya-chau			Yule
-3425	Yachi	Yun-nan-fu		Yule
-3426	Yachi 			Yule
-3427	Yaci	Chiaki	Location	Murray
-3428	Yaik River			Yule
-3429	Yak			Yule
-3430	Yakuts			Yule
-3431	Yalung River			Yule
-3432	Yam			Yule
-3433	Yamgán			Yule
-3434	Yan-gui 	Yang-tcheou-fou	Location	Murray
-3435	Yang-chau	Yanju		Yule
-3436	Yang-tse-kiang	Kiang	Location	Murray
-3437	Yarbeg of Badakhshan			Yule
-3438	Yarcan	Yarcund	Location	Murray
-3439	Yarcund		Location	Murray
-3440	Yarkand	Yarcan		Yule
-3441	Yasdi	Yezd		Yule
-3442	Yasdi 	Yerd	Location	Murray
-3443	Yasodhara			Yule
-3444	Yavanas			Yule
-3445	Yazdashir			Yule
-3446	Ya’kúb Beg of Kasghar			Yule
-3447	Ydifu			Yule
-3448	Year			Yule
-3449	Yelimala			Yule
-3450	Yeliu Chutsai			Yule
-3451	Yellow			Yule
-3452	Yemen			Yule
-3453	Yen-king	Old Peking		Yule
-3454	Yeng-chau			Yule
-3455	Yeng-chau 			Yule
-3456	Yenshan			Yule
-3457	Yen–Ping			Yule
-3458	Yesubuka			Yule
-3459	Yesudar			Yule
-3460	Yesugai			Yule
-3461	Yetsina	Etzina		Yule
-3462	Yezd	Yasdi		Yule
-3463	Yiu-ki River			Yule
-3464	Yonting Ho River			Yule
-3465	Yoritomo			Yule
-3466	Yotkàn			Yule
-3467	Youth			Yule
-3468	Yrac			Yule
-3469	Ysemain of Hiulie			Yule
-3470	Yu			Yule
-3471	Yu-chow			Yule
-3472	Yuan Ho			Yule
-3473	Yue-chi			Yule
-3474	Yuen			Yule
-3475	Yuen ming-yuen			Yule
-3476	Yuen shi			Yule
-3477	Yuen-hao			Yule
-3478	Yugria			Yule
-3479	Yuh-shan			Yule
-3480	Yule			Yule
-3481	Yun-nan	Carajan		Yule
-3482	Yun-nan-fu city			Yule
-3483	Yung Lo			Yule
-3484	Yung-chang fu	Shen-si		Yule
-3485	Yun–Hien			Yule
-3486	Yurungkásh 	`		Yule
-3487	Yusuf Kekfi			Yule
-3488	Yuthia			Yule
-3489	Yvo of Narbonne			Yule
-3490	Yájú			Yule
-3491	Zabedj			Yule
-3492	Zai-tun	Amoy	Location	Murray
-3493	Zaila			Yule
-3494	Zampa			Yule
-3495	Zanghibar	Zanguebar	Location	Murray,Yule
-3496	Zanton	Shantung		Yule
-3497	Zanzale			Yule
-3498	Zapharan			Yule
-3499	Zardandan			Yule
-3500	Zarneke			Yule
-3501	Zayton			Yule
-3502	Zebu			Yule
-3503	Zebák Valley			Yule
-3504	Zedoary			Yule
-3505	Zenghi			Yule
-3506	Zerms	Jerms		Yule
-3507	Zerumbet			Yule
-3508	Zettani			Yule
-3509	Zhafar			Yule
-3510	Zic	Circassia		Yule
-3511	Zikas			Yule
-3512	Zimmé			Yule
-3513	Zinc			Yule
-3514	Zinj			Yule
-3515	Zipangu	Japan		Murray
-3516	Zobeidah			Yule
-3517	Zorza			Yule
-3518	Zu-‘lkarnain	Zulcarniain		Yule
-3519	Zurficar	Zúrpica		Yule
-3520	an soe the Pope			Murray
-3521	Ábah			Yule
-3522	Çribhõja	Çribhôdja		Yule
+2285	Olak		No	Yule
+2286	Old Man of the Mountain		Person	Murray,Yule
+2287	Oljaïtu Khan		Person	Yule
+2288	Oman		Location	Yule
+2289	Omens		No	Yule
+2290	Onan Kerule		Location	Yule
+2291	Ondanique		No	Yule
+2292	Oppert		Person	Yule
+2293	Orang Gugu		No	Yule
+2294	Orang Malayu		Location	Yule
+2295	Orang Malayu 		Location	Yule
+2296	Orbelian		Person	Yule
+2297	Ordos		No	Yule
+2298	Organa		No	Yule
+2299	Oriental phrases in Polos dictation		No	Yule
+2300	Orissa		Location	Yule
+2301	Orkhon 		Location	Yule
+2302	Orleans		No	Yule
+2303	Oroech		No	Yule
+2304	Ostriches		No	Yule
+2305	Ostyaks		No	Yule
+2306	Otto		Person	Yule
+2307	Ouang Khan		Person	Murray
+2308	Oulatay	Uladai	Person	Yule
+2309	Oulatay 		Person	Yule
+2310	Owen		Person	Yule
+2311	Oxen		No	Yule
+2312	Oxenham		No	Yule
+2313	Oxus		Location	Yule
+2314	Oxus river		Location	Murray
+2315	Oxydracae		No	Yule
+2316	Pa-yi writing		No	Yule
+2317	Pacamuria 	Baccanor	Location	Yule
+2318	Pacauta		No	Yule
+2319	Pacem		No	Yule
+2320	Paddle-wheel barges		No	Yule
+2321	Paderin		Person	Yule
+2322	Padma Sambhava		No	Yule
+2323	Pagaroyang		No	Yule
+2324	Paggi 		Location	Yule
+2325	Pagodas		Location	Yule
+2326	Pagán		Location	Yule
+2327	Pahang		No	Yule
+2328	Pai-yen-ching		No	Yule
+2329	Paipurth	Baiburt	No	Yule
+2330	Pakwiha		No	Yule
+2331	Palace of Khan at Chagannor		No	Yule
+2332	Palembang		No	Yule
+2333	Palladius		No	Yule
+2334	Palm		No	Yule
+2335	Palm Wine		No	Yule
+2336	Pamier	Pamir	Location	Yule
+2337	Pamier 	Pamir		Murray
+2338	Pandarani		No	Yule
+2339	Pandit Manphul		Person	Yule
+2340	Pandrethan in Kashmir		No	Yule
+2341	Pandyan kings		No	Yule
+2342	Panja 	Upper Oxus	Location	Yule
+2343	Panjkora		No	Yule
+2344	Panjshir		No	Yule
+2345	Panjáb		Location	Yule
+2346	Pantaleon		No	Yule
+2347	Panthé		Location	Yule
+2348	Panya 	Pengya	Location	Yule
+2349	PanAsiatic usages		No	Yule
+2350	Pao-ki hien		No	Yule
+2351	Paonano Pao		No	Yule
+2352	Paper-money		No	Yule
+2353	Papien 		Location	Yule
+2354	Papé		No	Yule
+2355	Paquier		Person	Yule
+2356	Paradise		No	Yule
+2357	Paramisura		Person	Yule
+2358	Paravas		No	Yule
+2359	Parez		No	Yule
+2360	Pariahs 	Paraiyar	No	Yule
+2361	Parker		No	Yule
+2362	Parliament		No	Yule
+2363	Parlák		No	Yule
+2364	Parpa iron mines		No	Yule
+2365	Parris		Person	Murray
+2366	Parrot		No	Yule
+2367	Parrots		No	Yule
+2368	Partridges		No	Yule
+2369	Parwana		No	Yule
+2370	Paryán silver mines		No	Yule
+2371	Parákráma Bahu I		No	Yule
+2372	Pascal of Vittoria		No	Yule
+2373	Pascia 	Peshawer	Location	Murray
+2374	Pasei		Location	Yule
+2375	Pasha and Pashagar tribes		Location	Yule
+2376	Pashai		Location	Yule
+2377	PashaAfroz		No	Yule
+2378	Passo 		No	Yule
+2379	Patarins		No	Yule
+2380	Patlam		No	Yule
+2381	Patriarchs of Eastern Christians		No	Yule
+2382	PatteikKará		No	Yule
+2383	Patterns		No	Yule
+2384	Patu		Location	Yule
+2385	Pau-chym 	Pao-yug-shien	Location	Murray
+2386	Paukin	Pao-ying	No	Yule
+2387	Pauthier		No	Yule
+2388	Paved roads in China		No	Yule
+2389	Payan		No	Yule
+2390	Payangadi		No	Yule
+2391	Paï		Location	Yule
+2392	Pe-king		Location	Murray
+2393	Peaches		No	Yule
+2394	Peacocks at St. Thomass		No	Yule
+2395	Pearls		No	Yule
+2396	Pears		No	Yule
+2397	Pedir		No	Yule
+2398	Pedro		Person	Yule
+2399	Pegu and Bengal confounded		No	Yule
+2400	Pei-chau	Piju	Location	Yule
+2401	Pein	Pim	Location	Yule
+2402	Pein 	Bai	Location	Murray
+2403	Peking		Location	Yule
+2404	Pelly		No	Yule
+2405	Pema-ching		No	Yule
+2406	Pemberton		Person	Yule
+2407	Pentam	Bintang	Location	Yule
+2408	Pentam 	Bintang	Location	Murray
+2409	Pepper		No	Yule
+2410	Pepper Country		No	Yule
+2411	Peregrine falcons		No	Yule
+2412	Perla	Ferlec	Location	Yule
+2413	Persia		Location	Murray,Yule
+2414	Persia and India		No	Yule
+2415	Persian Gulf 		Location	Yule
+2416	Persian applied to language of foreigners at Mongol Court		No	Yule
+2417	Pesháwar		Location	Yule
+2418	Peter		No	Yule
+2419	Pharaohs rats	Gerboa	No	Yule
+2420	Phayre		Person	Yule
+2421	Pheasants		No	Yule
+2422	Pheng	the Rukh	No	Yule
+2423	Philip III. and IV. of France		No	Yule
+2424	Philip the Fair		No	Yule
+2425	Philippine 		Location	Yule
+2426	Phillips		Person	Yule
+2427	Phipps		Person	Yule
+2428	Phra Râma		No	Yule
+2429	Phungan		Location	Yule
+2430	Physician		No	Yule
+2431	Physicians		No	Yule
+2432	Pi-an-fu	Pin-yang-fou	Location	Murray
+2433	Pianfu	Ping-yang fu	Location	Yule
+2434	Pianfu 		Location	Yule
+2435	Pichalok		No	Yule
+2436	Pievtsov		Person	Yule
+2437	Pig-shells		No	Yule
+2438	Pigeon posts		No	Yule
+2439	Piju	Pei-chau	Location	Yule
+2440	Pilgrimage		No	Yule
+2441	Pima	Pim	No	Yule
+2442	Pin-gui 	Pi-tcheou	Location	Murray
+2443	Pinati		Person	Yule
+2444	Pine woods in Mongolian desert		No	Yule
+2445	PinnaCael	Punnei-Káyal	No	Yule
+2446	Pipino		Person	Murray,Yule
+2447	Pirabandi or Bir Pandi	Vira Pandi	No	Yule
+2448	Pirada		No	Yule
+2449	Pirates of Malabar		No	Yule
+2450	Piratical customs at Eli		No	Yule
+2451	Pistachioes		No	Yule
+2452	Plane		No	Yule
+2453	Plano Carpini		No	Yule
+2454	Po-sz	Persia	No	Yule
+2455	Pog		Location	Yule
+2456	Poison		No	Yule
+2457	Poison wind		No	Yule
+2458	Poisoning guests		No	Yule
+2459	Poisonous pasturage		No	Yule
+2460	Poland		Location	Yule
+2461	Pole		No	Yule
+2462	Pole-star		No	Yule
+2463	Police		No	Yule
+2464	Politeness of Chinese		No	Yule
+2465	Polo		Person	Murray,Yule
+2466	Polygamy		No	Yule
+2467	Ponent		No	Yule
+2468	Pong		No	Yule
+2469	Poods		No	Yule
+2470	Pope of Rome		Person	Murray
+2471	Popinjays		No	Yule
+2472	Population		No	Yule
+2473	Porcelain manufacture		No	Yule
+2474	Porcupines		No	Yule
+2475	Pork		No	Yule
+2476	Posts		No	Yule
+2477	Potala at Lhasa		No	Yule
+2478	Pottinger		No	Yule
+2479	Poultry		No	Yule
+2480	Pound		No	Yule
+2481	Pozdneiev		Person	Yule
+2482	Precious stones or gems		No	Yule
+2483	Prester John		Person	Murray,Yule
+2484	Prices of horses		No	Yule
+2485	Printing		No	Yule
+2486	Private names supposed		No	Yule
+2487	Prjevalsky		Person	Yule
+2488	Probation of Jogis		No	Yule
+2489	Prophecy regarding Bayan		No	Yule
+2490	Prostitutes		No	Yule
+2491	Provinces		No	Yule
+2492	PseudoCallisthenes		No	Yule
+2493	Ptolemies trained African elephants		No	Yule
+2494	Ptolemy		No	Yule
+2495	Pu-cheng		No	Yule
+2496	Puer and Esmok		No	Yule
+2497	Pukan MienWang		No	Yule
+2498	Pulad Chingsang		No	Yule
+2499	Pulisangan		Location	Murray
+2500	Pulisanghin		Location	Yule
+2501	Pulo Bras		No	Yule
+2502	Pulo Nankai		No	Yule
+2503	Pulo Wé		No	Yule
+2504	Punnei-Káyal		No	Yule
+2505	Purchas in his Pilgrims uses Ramusio's edition of Marco Polo's Travels			Murray
+2506	Puránas		No	Yule
+2507	Putchok		No	Yule
+2508	Putu-ho		No	Yule
+2509	Pygmies		No	Yule
+2510	Ping-chang		Person	Yule
+2511	Ping-yang fu	Pianfu	No	Yule
+2512	Po-yang 		Location	Yule
+2513	Pu-chau fu		No	Yule
+2514	Pádishah Khátún of Kerman		No	Yule
+2515	Qalah Asgher		No	Yule
+2516	Qara Ars-lán Beg		Person	Yule
+2517	Quails in India		No	Yule
+2518	Que-lin-fu 	Kien-ning-fou	Location	Murray
+2519	Queen of Mutfili		No	Yule
+2520	Quen-gian-fu 	Si-ngan-fou	Location	Murray
+2521	Quicksilver and sulphur potion		No	Yule
+2522	Quills of the Ruc		No	Yule
+2523	Quilon		Location	Yule
+2524	Quin-sai		Location	Murray
+2525	Qumadin	Camadi	Location	Yule
+2526	Rabbanta		Person	Yule
+2527	Rabelais		No	Yule
+2528	Radloff		Person	Yule
+2529	Rain-makers		No	Yule
+2530	Rainald		No	Yule
+2531	Rainy season		No	Yule
+2532	Rajkot 		Location	Yule
+2533	Rakka		No	Yule
+2534	Rama Kamheng		Person	Yule
+2535	Rameshwaram		Location	Yule
+2536	Ramnad		No	Yule
+2537	Rampart of Gog and Magog		No	Yule
+2538	Ramusio		Person	Yule
+2539	Ramusio's collection of Voyages and Travels			Murray
+2540	Ranking		No	Yule
+2541	RaonanoRao		No	Yule
+2542	Rapson		No	Yule
+2543	Ras Haili		No	Yule
+2544	Rashíduddín		Person	Yule
+2545	Ravenala tree		No	Yule
+2546	Raw meat eaten		No	Yule
+2547	Rawlinson		Person	Yule
+2548	Reclus		No	Yule
+2549	Red Sea		Location	Yule
+2550	Red gold and red Tangas		No	Yule
+2551	Red sect of Lamas		No	Yule
+2552	Refraction		No	Yule
+2553	Regains his liberty		Person	Murray
+2554	Reindeer ridden		No	Yule
+2555	Religion		No	Yule
+2556	Remission of taxation by Kúblái		No	Yule
+2557	Rennell		No	Yule
+2558	Reobarle		Location	Murray
+2559	Reobarles	Rúdbár	Location	Yule
+2560	Revenue of Kinsay		No	Yule
+2561	Rhinoceros 		No	Yule
+2562	Rhinoceros of Sumatra			Murray
+2563	Rhins		No	Yule
+2564	Rhubarb		No	Yule
+2565	Riant		No	Yule
+2566	Ricci		No	Yule
+2567	Rice		No	Yule
+2568	Rice-wine		No	Yule
+2569	Richard II		Person	Yule
+2570	Richthofen		No	Yule
+2571	Right and Left		No	Yule
+2572	Rio Marabia		Location	Yule
+2573	Roads radiating from Cambaluc		No	Yule
+2574	Robbers in Persia		No	Yule
+2575	Robbers River		Location	Yule
+2576	Robes distributed by Kúblái		No	Yule
+2577	Roborovsky		Person	Yule
+2578	Rochefort		No	Yule
+2579	Rockets		No	Yule
+2580	Rockhill		No	Yule
+2581	Rofia palm		No	Yule
+2582	Rome		No	Yule
+2583	RoriBakkar		No	Yule
+2584	Rosaries		No	Yule
+2585	Rostof and Susdal		No	Yule
+2586	Roth		No	Yule
+2587	Rouble		No	Yule
+2588	Roxana		Person	Yule
+2589	Roze de lAçur		No	Yule
+2590	Rubies		No	Yule
+2591	Rubruquis		Person	Murray,Yule
+2592	Ruby mines in Badakhshan		No	Yule
+2593	Ruc	Rukh	No	Yule
+2594	Rudder		No	Yule
+2595	Rudra Deva		Person	Yule
+2596	Rudrama Devi		Person	Yule
+2597	Rukh		Person	Yule
+2598	Rukhnuddin		Person	Yule
+2599	Runiz		No	Yule
+2600	RuomedamAhomet		Person	Yule
+2601	Rupen		No	Yule
+2602	Rupert		Person	Yule
+2603	Russia			Murray,Yule
+2604	Russians		No	Yule
+2605	Rusticiano of Pisa		Person	Yule
+2606	Rusticians		Person	Murray
+2607	Rusták		No	Yule
+2608	Ruyschs map		No	Yule
+2609	Ráin		No	Yule
+2610	Ráná Paramitás Woman Country		No	Yule
+2611	Rúdbár-i-Lass		Location	Yule
+2612	Rúdkhánah-i-Duzdi	Robbers River	Location	Yule
+2613	Rúdkhánah-i-Shor	Salt River	Location	Yule
+2614	Rúm		No	Yule
+2615	Rüppells Table of Abyssinian kings		No	Yule
+2616	Sa-van-fu 	Siang-yang-fou	Location	Murray
+2617	Saadi		No	Yule
+2618	Saba	Sava,Savah	Location	Yule
+2619	Sabaste		Location	Yule
+2620	Sable		No	Yule
+2621	Sabreddin		No	Yule
+2622	Sabzawur		No	Yule
+2623	Sacchion	Cha-tcheou		Murray
+2624	Sacchion 	Cha-tcheou	Location	Murray
+2625	Sachiu	Sha-chau	No	Yule
+2626	Sacrifices of people of Tangut		No	Yule
+2627	Saffron		No	Yule
+2628	Sagacity of sledge-dogs		No	Yule
+2629	Sagamon Borcan		Person	Yule
+2630	Sagatu		Person	Yule
+2631	Saggio 		No	Yule
+2632	Sago		No	Yule
+2633	Saianfu		Location	Yule
+2634	Saif Arad		Person	Yule
+2635	Saifuddin Nazrat		Person	Yule
+2636	Saimur	Chaul	No	Yule
+2637	Sain Khan	 Batu	Person	Yule
+2638	Saker falcons		No	Yule
+2639	Sakta doctrines		No	Yule
+2640	Sakya Muni	Sagamon Borcan	Person	Yule
+2641	Salamander		No	Yule
+2642	Salar	Ho-chau	No	Yule
+2643	Salem		No	Yule
+2644	Salghur		No	Yule
+2645	Salsette 		Location	Yule
+2646	Salt		Location	Murray,Yule
+2647	Salwen 	LuKiang 	Location	Yule
+2648	Samagar		No	Yule
+2649	Samara		Location	Yule
+2650	Samarcan 	Samarcand	Location	Murray
+2651	Samarkand	Samarcan	Location	Yule
+2652	Sampson		No	Yule
+2653	Samudra		No	Yule
+2654	Samuel		Person	Yule
+2655	Samána		No	Yule
+2656	San Giovanni Grisostomo		Person	Yule
+2657	San Lorenzo		Location	Yule
+2658	Sandu		Location	Yule
+2659	Sanf		Location	Yule
+2660	Sanglich		Location	Yule
+2661	Sangon		No	Yule
+2662	SangMiau		Location	Yule
+2663	Sangín		Location	Yule
+2664	Sanitary effects of Mountain air		No	Yule
+2665	Sanjar		Location	Yule
+2666	Sankin Hoto		Person	Yule
+2667	Sanuto of Torcelli		No	Yule
+2668	Sappan wood		No	Yule
+2669	SaptaShaila		No	Yule
+2670	Sapurgan	Shibbergaun	Location	Murray,Yule
+2671	Sar-i-kol		Location	Yule
+2672	Saracanco	Saraichik	No	Yule
+2673	Saracens		Organization	Murray,Yule
+2674	Sarai	Sara	Location	Yule
+2675	Saratov		No	Yule
+2676	Sarbizan Pass		No	Yule
+2677	Sardines		No	Yule
+2678	Sarghalan 		Location	Yule
+2679	Sarha		Location	Yule
+2680	Sarhadd River		Location	Yule
+2681	Sarsáti		No	Yule
+2682	Sartach		Person	Murray
+2683	Sartak		No	Yule
+2684	Sassanian dynasty		No	Yule
+2685	Sati		No	Yule
+2686	Satin		No	Yule
+2687	Sava		Location	Murray
+2688	Savast	Siwas	Location	Yule
+2689	Scanderoon		Location	Yule
+2690	Scasem		No	Yule
+2691	Scassem	Koondooz	Location	Murray
+2692	Scherani		No	Yule
+2693	Schiltberger		No	Yule
+2694	Schindler		No	Yule
+2695	Schlegel		Person	Yule
+2696	Schmidt		NP	Yule
+2697	Schuyler		No	Yule
+2698	Schönborn		No	Yule
+2699	Scidmore		No	Yule
+2700	Scotra		Location	Yule
+2701	Scotra  	Socotra	Location	Murray
+2702	Scythians		Organization	Murray
+2703	Sea of Chin		Location	Yule
+2704	Seal		No	Yule
+2705	Sebaste		No	Yule
+2706	Sebourc		No	Yule
+2707	Sees of Latin Church		No	Yule
+2708	Sefavíehs		No	Yule
+2709	Seilan		Location	Yule
+2710	Seilan 	Ceylon	Person	Murray
+2711	Self-decapitation		No	Yule
+2712	Selitrennoyé Gorodok	Saltpetre Town	Location	Yule
+2713	Seljukian dynasty		No	Yule
+2714	Semal tree		No	Yule
+2715	Semedo		No	Yule
+2716	Semenat		Location	Yule
+2717	Semenat 	Sumnaut	Location	Murray
+2718	Sempad		Person	Yule
+2719	Sendal		No	Yule
+2720	Sendemain		Person	Yule
+2721	Sender Bandi Davar		Person	Yule
+2722	Seneca		No	Yule
+2723	Senecherim		Person	Yule
+2724	Seni		No	Yule
+2725	Sensin		No	Yule
+2726	Sentemur		No	Yule
+2727	Sepulchre of Adam		No	Yule
+2728	Serano		No	Yule
+2729	Serazi 	Shíráz	Location	Yule
+2730	Serendib		No	Yule
+2731	Sergamon Borcam			Murray
+2732	Serpents		No	Yule
+2733	Sertorius		No	Yule
+2734	Sesamé		No	Yule
+2735	Seths mission to Paradise		No	Yule
+2736	Sevan Lake		Location	Yule
+2737	Seven Arts		No	Yule
+2738	Severtsoff		No	Yule
+2739	Seyyed Barghash		Person	Yule
+2740	Sha-chau	Sachin	Location	Yule
+2741	Shabankara	Shawankára,Soncara	Location	Yule
+2742	Shabar		Person	Yule
+2743	Shadow		No	Yule
+2744	Shah Abbas		Person	Yule
+2745	Shah Werdy		No	Yule
+2746	Shahr Mandi		Location	Yule
+2747	Shahr-i-Babek		No	Yule
+2748	Shahr-i-Nao	Siam	No	Yule
+2749	Shaibani Khan		Person	Yule
+2750	Shaikhs	Esheks	No	Yule
+2751	Shakespeare		No	Yule
+2752	Shamanism			Murray,Yule
+2753	Shampath		No	Yule
+2754	Shamsuddin Shamatrani		No	Yule
+2755	Shamuthera		Location	Yule
+2756	Shan	Laotian	No	Yule
+2757	Shan-hai-kwan		No	Yule
+2758	Shan-si		No	Yule
+2759	Shan-tung		No	Yule
+2760	Shanars of Tinnevelly		No	Yule
+2761	Shandu		Location	Murray
+2762	Shang-hai		No	Yule
+2763	ShangkingFungking		No	Yule
+2764	Shangtu	Shangdu,Chandu	Location	Yule
+2765	Shangtu Keibung		No	Yule
+2766	Shankárah	Shabankára,Soncara	Location	Yule
+2767	Shao-hing-fu		No	Yule
+2768	Shao-ling		No	Yule
+2769	Shara-ul-buks		No	Yule
+2770	Sharakhs		No	Yule
+2771	Sharks and shark charmers		No	Yule
+2772	Shauls		No	Yule
+2773	Shaw		No	Yule
+2774	Shawls of Kerman		No	Yule
+2775	Shawánkára	Soncara	No	Yule
+2776	Sheep		No	Yule
+2777	Sheeps head given to horses		No	Yule
+2778	Shehr		No	Yule
+2779	Shehrizor	Kerkuk	No	Yule
+2780	Shen-si		No	Yule
+2781	Shenrabs		No	Yule
+2782	Shentseu tribe		No	Yule
+2783	Sheuping		No	Yule
+2784	Shewá		No	Yule
+2785	Shi-tsung		Person	Yule
+2786	Shibrgán	Sapurgan	Location	Yule
+2787	Shieng		No	Yule
+2788	Shighnan	Syghinan	No	Yule
+2789	Shighnan 		No	Yule
+2790	Shikárgáh		No	Yule
+2791	Shing-king		No	Yule
+2792	Ships		No	Yule
+2793	Shireghi		No	Yule
+2794	Shirha		No	Yule
+2795	Shirwan		No	Yule
+2796	Shoa		No	Yule
+2797	Shobaengs of Nicobar		No	Yule
+2798	Shodja ed-din Kurshid		No	Yule
+2799	ShorRud	Salt River	Location	Yule
+2800	Shot of Military Engines		No	Yule
+2801	Shpilevsky		No	Yule
+2802	Shut up nations		No	Yule
+2803	Shwéli 		Location	Yule
+2804	Sháliát		No	Yule
+2805	Shíráz	Cerazi	No	Yule
+2806	Shúlistán	Suolstan	No	Yule
+2807	Shúls of Shauls		No	Yule
+2808	Si Hia		No	Yule
+2809	Si-fan		Organization	Murray
+2810	Si-hu		No	Yule
+2811	Si-ngan fu	Kenjanfu	No	Yule
+2812	Si-ngan fu 		No	Yule
+2813	Siam		Location	Yule
+2814	Siang-yang-fu	Saianfu	Location	Yule
+2815	Siberia		Location	Yule
+2816	Sibree		No	Yule
+2817	Sick men put to death and eaten by their friends		No	Yule
+2818	Siddhárta		No	Yule
+2819	Sidi Ali		No	Yule
+2820	Sien	SienLo, SienLo-Kok,Siam, Locac	Location	Yule
+2821	Sifan		No	Yule
+2822	Sigatay		Location	Yule
+2823	Sighelm		Person	Yule
+2824	Sijistán		No	Yule
+2825	Siju	Suthsian	No	Yule
+2826	Sikintinju	Kien-chow	No	Yule
+2827	Silesia		Location	Yule
+2828	Silk		No	Yule
+2829	Silver chairs		No	Yule
+2830	Simon		No	Yule
+2831	Simurgh		No	Yule
+2832	Simúm		No	Yule
+2833	Sin-din-fu	Tching-tou-fou	Location	Murray
+2834	Sin-gui		Location	Murray
+2835	Sin-gui 	Sou-teheou-fou	Location	Murray
+2836	Sinbad		Location	Yule
+2837	Sind	SindhuSauvira	No	Yule
+2838	Sindachu	Siuen-hwa fu	No	Yule
+2839	Sindafu	Chengtu-fu	No	Yule
+2840	SindhuSauvira	Sindh-Ságor	No	Yule
+2841	Sindábúr	Goa	Location	Yule
+2842	Singapore		Location	Yule
+2843	Singkel		No	Yule
+2844	Singphos		No	Yule
+2845	Sings		No	Yule
+2846	Singtur		Person	Yule
+2847	Singuyli 	Cranganor	No	Yule
+2848	Sinhopala 	Accambale	Person	Yule
+2849	Sinju	Si-ning fu	No	Yule
+2850	Sinju 		No	Yule
+2851	Sinju-matu		No	Yule
+2852	Sinope		No	Yule
+2853	Sinugul 	Soui-tcheou	Location	Murray
+2854	Sir-i-Chashma		No	Yule
+2855	Sirikol		Location	Yule
+2856	Sirocco			Murray
+2857	Sis		No	Yule
+2858	Sismondi			Murray
+2859	Sitting in air		No	Yule
+2860	Siu chau		No	Yule
+2861	Siuen-hwa-fu		No	Yule
+2862	Siva		No	Yule
+2863	Sivas		No	Yule
+2864	Siwastán		No	Yule
+2865	Siwi		No	Yule
+2866	Sixtus V		Person	Yule
+2867	Siyurgutmish		No	Yule
+2868	Sladen		No	Yule
+2869	Slaves in Bengal		No	Yule
+2870	Sledges		No	Yule
+2871	Sleeping-mats		No	Yule
+2872	Sluices of Grand Canal		No	Yule
+2873	Smith		Person	Yule
+2874	Sneezing		No	Yule
+2875	Socotra	Scotra	Location	Yule
+2876	Soer	Suhar	Location	Yule
+2877	Sofala		Location	Yule
+2878	Sogoman Borcan		Person	Yule
+2879	Sol		No	Yule
+2880	Soldaia		No	Yule
+2881	Soldan		No	Yule
+2882	Soldurii		No	Yule
+2883	Soli		Location	Yule
+2884	Solomon		No	Yule
+2885	Soltania		No	Yule
+2886	Somnath 	Semenat	Location	Yule
+2887	Sonagar-pattanam		Location	Yule
+2888	Soncara	Shawankára	Location	Yule
+2889	Sondur and Condur 	Pulo Condore		Murray,Yule
+2890	Sorcerers		No	Yule
+2891	Sornau	Shahr-i-Nau	No	Yule
+2892	Sotiates		Location	Yule
+2893	Soucat		No	Yule
+2894	Southey		No	Yule
+2895	Spaan		No	Yule
+2896	Spice		No	Yule
+2897	Spice wood		No	Yule
+2898	Spices in China		No	Yule
+2899	Spikenard		No	Yule
+2900	Spinello Aretini		No	Yule
+2901	Spirit drawings and spiritual flowers		No	Yule
+2902	Spirits haunting deserts		No	Yule
+2903	Spiritualism in China		No	Yule
+2904	Spittoons		No	Yule
+2905	Spodium 	Spodos	No	Yule
+2906	Sport and game		No	Yule
+2907	Sposk		Location	Yule
+2908	Springolds		No	Yule
+2909	Springs		No	Yule
+2910	Sprinkling of drink		No	Yule
+2911	Squares at Kinsay		No	Yule
+2912	SriThammarat		No	Yule
+2913	SriVaikuntham		No	Yule
+2914	Sse River		LO	Yule
+2915	St. Anno of Cologne		No	Yule
+2916	St. Barlaam and St. Josafat		No	Yule
+2917	St. Barsauma		No	Yule
+2918	St. Blasius 		No	Yule
+2919	St. Brandon		No	Yule
+2920	St. Buddha		No	Yule
+2921	St. Epiphanius		No	Yule
+2922	St. George		No	Yule
+2923	St. Helena		No	Yule
+2924	St. James Shrine		No	Yule
+2925	St. John the Baptist		No	Yule
+2926	St. Leonards Convent in Georgia		No	Yule
+2927	St. Lewis		No	Yule
+2928	St. Martin		No	Yule
+2929	St. Marys Island		No	Yule
+2930	St. Matthew		No	Yule
+2931	St. Matthews Gospel		No	Yule
+2932	St. Nina		No	Yule
+2933	St. Sabbas at Acre		No	Yule
+2934	St. Thomas		No	Yule
+2935	St. Thomass Isle		No	Yule
+2936	Stack		No	Yule
+2937	Star Chart		No	Yule
+2938	Star of Bethlehem		No	Yule
+2939	Steamers on Yangtse-kiang		No	Yule
+2940	Steel mines at Kermán		No	Yule
+2941	Stefani		No	Yule
+2942	Stein		Person	Yule
+2943	Stiens of Cambodia		No	Yule
+2944	Stirrups		No	Yule
+2945	Stitched vessels		No	Yule
+2946	Stockade erected by Polos party in Sumatra		No	Yule
+2947	Stone		No	Yule
+2948	Stones giving invulnerability		No	Yule
+2949	Su-chau		Person	Yule
+2950	Su-chau 	Suju	Person	Yule
+2951	Su-tásh		No	Yule
+2952	Submersion of part of Ceylon		No	Yule
+2953	Subterraneous irrigation		No	Yule
+2954	Suburbs of Cambaluc		No	Yule
+2955	Subutai		Person	Yule
+2956	Succiur 	Sou-tcheou	Location	Murray
+2957	Suchnan 		Location	Yule
+2958	Sudarium		No	Yule
+2959	Sugar		No	Yule
+2960	Suh-chau	Sukchur	No	Yule
+2961	Suicides before an idol		No	Yule
+2962	Sukchur		Location	Yule
+2963	Sukkothai		No	Yule
+2964	Sukum Kala		No	Yule
+2965	Suleiman		Person	Yule
+2966	Sulphur and quicksilver		No	Yule
+2967	Sultan Shah		Person	Yule
+2968	Sultaniah		No	Yule
+2969	Sumatra		Location	Murray,Yule
+2970	Sumatra 		Location	Yule
+2971	Sumbawa		No	Yule
+2972	Summers		Person	Yule
+2973	Sumutala	Sumuntala	Location	Yule
+2974	Sun and moon		No	Yule
+2975	Sundar Fúlát 		Person	Yule
+2976	Sundara Pandi Devar		Person	Yule
+2977	Sung		Person	Yule
+2978	Sunnis and Shias		No	Yule
+2979	Suolstan	Shulistan	Location	Yule
+2980	Superstitions in Tangut		No	Yule
+2981	Survival		No	Yule
+2982	SurRaja		No	Yule
+2983	Sushun		Person	Yule
+2984	Suttee			Murray
+2985	Suttees in S. India		No	Yule
+2986	Suákin		No	Yule
+2987	Swans		No	Yule
+2988	Swat		No	Yule
+2989	Swi-fu		No	Yule
+2990	Sword blades of India		No	Yule
+2991	Syghinan		No	Yule
+2992	Sykes		No	Yule
+2993	Sylen	Ceylon	No	Yule
+2994	Symbolical messages		No	Yule
+2995	Syrian Christians		No	Yule
+2996	Sze-chwan		No	Yule
+2997	Sze-chwan 	Cheng-tu	No	Yule
+2998	Szechényi		No	Yule
+2999	Sálih		Person	Yule
+3000	Sárdú Pass		No	Yule
+3001	Sávah	Saba	Location	Yule
+3002	Sínkalán		No	Yule
+3003	Sírján 	Shirján	No	Yule
+3004	Síráf	Kish	No	Yule
+3005	Sístán		No	Yule
+3006	Súddhodhana		No	Yule
+3007	Ta Tsing 		Location	Yule
+3008	Ta-pa-Shan range		No	Yule
+3009	Ta-tsien-lu		No	Yule
+3010	Tabashir		No	Yule
+3011	Tabbas		No	Yule
+3012	Table of the Great Khan		No	Yule
+3013	Tables		No	Yule
+3014	Tablet		No	Yule
+3015	Tablets of Authority		No	Yule
+3016	Tabriz	Tauris	Location	Yule
+3017	Tachindo		No	Yule
+3018	Tacitus		Location	Yule
+3019	Tactics		No	Yule
+3020	Tacuin		No	Yule
+3021	Tadinfu		No	Yule
+3022	Taeping	Taiping	Location	Yule
+3023	Taeping Insurrection and Devastations		No	Yule
+3024	Taffetas		No	Yule
+3025	Taft		Location	Yule
+3026	Tafurs		No	Yule
+3027	Tagachar		No	Yule
+3028	Tagaung		No	Yule
+3029	Tagharma Pass		Location	Yule
+3030	Taghdúngbásh 		Location	Yule
+3031	Tai-in-fu 	Tai-yuen-fou	Location	Murray
+3032	Tai-kan	Khoolloom	Location	Murray
+3033	Tai-tsu		Person	Yule
+3034	Taianfu	Tai-yuan-fu	Person	Yule
+3035	Taiani		No	Yule
+3036	Taican		Location	Yule
+3037	Taichau	Tigu	Location	Yule
+3038	Taidu		Location	Yule
+3039	Taikung		No	Yule
+3040	Tailed men		No	Yule
+3041	Tailors		No	Yule
+3042	Taimúni tribe		No	Yule
+3043	Taiting-fu	Tadinfu	No	Yule
+3044	Taitong-fu		No	Yule
+3045	Tajiks of Badakhshan		No	Yule
+3046	Takfúr		No	Yule
+3047	Takhtapul		No	Yule
+3048	TaklaMakan		No	Yule
+3049	Talains		No	Yule
+3050	Talas 		Location	Yule
+3051	Tali		No	Yule
+3052	Talifu	Carajan	Location	Yule
+3053	Talikan		Location	Yule
+3054	Tallies		No	Yule
+3055	Tam-pin-gui		Location	Murray
+3056	Tamarind		No	Yule
+3057	Tamerlan		No	Yule
+3058	Tana	Azov	Location	Yule
+3059	Tana 	Bombay	Location	Murray
+3060	TanaMaiambu		Location	Yule
+3061	TanaMalayu		Location	Yule
+3062	Tanduc		Location	Yule
+3063	Tangnu Oola		Location	Yule
+3064	Tangut		Location	Murray,Yule
+3065	Tangutan		No	Yule
+3066	Tanjore		Location	Yule
+3067	Tanpiju	Shaohing	No	Yule
+3068	Tantras		No	Yule
+3069	Tao-lin		Person	Yule
+3070	Tao-sze	Taossé	No	Yule
+3071	Taprobana		No	Yule
+3072	Tarakai		No	Yule
+3073	Tarantula		No	Yule
+3074	Tarem		No	Yule
+3075	Tares of the parable		No	Yule
+3076	Tarmabala		No	Yule
+3077	Tarok Man and Tarok Myo		No	Yule
+3078	Tartar language		No	Yule
+3079	Tartars		No	Yule
+3080	Tartars driven out of China			Murray
+3081	Tartary cloths		No	Yule
+3082	Tarungares		Location	Yule
+3083	Taríkh-i-Rashídí		No	Yule
+3084	Tataríya coins		No	Yule
+3085	Tathung		No	Yule
+3086	Tattooing		No	Yule
+3087	Tatu	Taichu	No	Yule
+3088	Tatyang Khan		Person	Yule
+3089	Tauris		Location	Yule
+3090	Taurizi		Location	Yule
+3091	Tawálisi		No	Yule
+3092	Taxes		No	Yule
+3093	Tchakiri Mondou	Modun	No	Yule
+3094	Tea			Murray
+3095	Tea trees in E. Tibet		No	Yule
+3096	Tea-houses at Kingszé		No	Yule
+3097	Tebet		Location	Yule
+3098	Tedaldo		No	Yule
+3099	Teeth		No	Yule
+3100	Teflis		Location	Murray
+3101	Tegana		No	Yule
+3102	Teghele		No	Yule
+3103	Teimur	Temur	Person	Yule
+3104	Tekla		No	Yule
+3105	Tekrit		No	Yule
+3106	Telingana		Location	Yule
+3107	Telo Samawe		No	Yule
+3108	Tembul	Betel	No	Yule
+3109	Temkan		Person	Yule
+3110	Temple		No	Yule
+3111	Temples account of the Condor		No	Yule
+3112	Temugin		Person	Murray
+3113	Temujin		Person	Yule
+3114	Temur		Person	Murray
+3115	Tenduc		Location	Murray,Yule
+3116	Tengri		No	Yule
+3117	Tennasserim		No	Yule
+3118	Tents		No	Yule
+3119	Tents of  the great khan			Murray
+3120	Terebinth		No	Yule
+3121	Terra Australis		No	Yule
+3122	Terra Mountains		No	Yule
+3123	TeTsung		Person	Yule
+3124	Thai		No	Yule
+3125	Thai-yuanfu	Taianfu	No	Yule
+3126	Thaigin		No	Yule
+3127	Theft		No	Yule
+3128	Theistic worship		No	Yule
+3129	Thelasar		No	Yule
+3130	Theobald		Person	Yule
+3131	Theodorus		Person	Yule
+3132	Theodosius the Great		Person	Yule
+3133	Theophilus		Person	Yule
+3134	Thian Shan		No	Yule
+3135	Thianté-Kiun		No	Yule
+3136	Thibet		Location	Murray
+3137	Thin lEvêque		No	Yule
+3138	Tholoman		Location	Yule
+3139	Tholoman 	part of Yun-nan	Location	Murray
+3140	Thomas		Person	Yule
+3141	Thread		No	Yule
+3142	Three kingdoms		No	Yule
+3143	Threshold		No	Yule
+3144	Thurán Shahs History of Hormuz		No	Yule
+3145	Thévenot		No	Yule
+3146	Ti-min-gui 	King-te-ching		Murray
+3147	Tibet	Tebet	Location	Yule
+3148	Tibetan language and character		No	Yule
+3149	Tibetans		No	Yule
+3150	Tides in Hang-chau estuary		No	Yule
+3151	Tierce		No	Yule
+3152	Tiflis		No	Yule
+3153	Tigado		No	Yule
+3154	Tigers		No	Yule
+3155	Tigris	Volga	Location	Yule
+3156	Tigúdar	Acomat Soldan	Person	Yule
+3157	Tiju		No	Yule
+3158	Tiles		No	Yule
+3159	Tiling		No	Yule
+3160	Tilinga		Location	Yule
+3161	Timur of Toumen		Person	Yule
+3162	Timur the Great		No	Yule
+3163	Timurids		No	Yule
+3164	Tin-gui		Location	Murray
+3165	Ting		No	Yule
+3166	Tinju		No	Yule
+3167	Tinnevelly		No	Yule
+3168	Tithe on clothing material		No	Yule
+3169	Tithing men		No	Yule
+3170	Titus		Person	Yule
+3171	Tjajya		No	Yule
+3172	Toba race		No	Yule
+3173	Toc-tai		Person	Murray
+3174	Toctai		Person	Yule
+3175	Tod		Person	Yule
+3176	Toddy		No	Yule
+3177	Togan		Person	Yule
+3178	Toghontemur		Person	Yule
+3179	Toghrul I		Person	Yule
+3180	Togrul Wang Khan		Person	Yule
+3181	Toka Tumir		Person	Yule
+3182	Toktai Khan	Toctai	Person	Yule
+3183	Tokát		No	Yule
+3184	Tolan-nur	Dolonnúr	No	Yule
+3185	Toleto		Person	Yule
+3186	Tolobuga		No	Yule
+3187	Toman 	Tuman	No	Yule
+3188	Tongking		No	Yule
+3189	Tonocain 	Daumghann	Location	Murray
+3190	Tooth-relique of Buddha		No	Yule
+3191	Torchi		Person	Yule
+3192	Toris 	Tauris,Tabreez	Location	Murray
+3193	Tornesel		No	Yule
+3194	Toro 		Location	Yule
+3195	Torshok		No	Yule
+3196	Torture by constriction in raw hide		No	Yule
+3197	Tournefort		No	Yule
+3198	Tower and Bell Alarm at Peking		No	Yule
+3199	Toyan		No	Yule
+3200	Trade at Layas		No	Yule
+3201	Trades in Manzi		No	Yule
+3202	Transmigration		No	Yule
+3203	Traps for fur animals		No	Yule
+3204	Travancore		Location	Yule
+3205	Travellers		Organization	Murray
+3206	Treasure of Maabar kings		No	Yule
+3207	Trebizond		Location	Yule
+3208	Trebuchets		No	Yule
+3209	Trees		No	Yule
+3210	Trench		No	Yule
+3211	Trevisano		No	Yule
+3212	Trincomalee		No	Yule
+3213	Tringano		No	Yule
+3214	Trinkat		Person	Yule
+3215	Tsin-tsun		No	Yule
+3216	Tsiuan-chau		Location	Yule
+3217	Tsongkhapa		Person	Yule
+3218	Tsukuzi in Japan		No	Yule
+3219	Tsung-ngan-hien		No	Yule
+3220	Tsushima		Location	Yule
+3221	Tsuan-chou		Location	Yule
+3222	Tu Tsong		No	Yule
+3223	Tu-fan		Location	Yule
+3224	Tu-ku-hun		No	Yule
+3225	Tuan		Person	Yule
+3226	Tudai		Person	Yule
+3227	TudaiMangku	Totamangu,Totamangul	Person	Yule
+3228	Tughan		Person	Yule
+3229	Tughlak Shah		Person	Yule
+3230	Tuktuyai Khan		Person	Yule
+3231	Tuli		Person	Yule
+3232	Tuman		Location	Yule
+3233	Tumba		No	Yule
+3234	Tun-o-kain	Tunocain	Location	Yule
+3235	Tung-chau	Tinju	No	Yule
+3236	Tung-hwang-hien		Location	Yule
+3237	Tung-kwan		Location	Yule
+3238	Tung-an in Fokien		No	Yule
+3239	Tunguses		No	Yule
+3240	Tunny fish		No	Yule
+3241	Turbit		No	Yule
+3242	Turcomania		Organization	Murray,Yule
+3243	Turgaut		No	Yule
+3244	Turkestan		Location	Murray
+3245	Turkey		No	Yule
+3246	Turkistan chiefs send mission to kings of India		No	Yule
+3247	Turkmans and Turks		No	Yule
+3248	Turks		No	Yule
+3249	Turmeric		No	Yule
+3250	Turner		Person	Yule
+3251	Turquans		No	Yule
+3252	Turquoises in Kermán		No	Yule
+3253	Turtle doves		No	Yule
+3254	Turumpak		Location	Yule
+3255	Tutia	Tutty	No	Yule
+3256	Tuticorin		No	Yule
+3257	Tver		No	Yule
+3258	Twelve		No	Yule
+3259	Twigs or arrows		No	Yule
+3260	Tylor		Person	Yule
+3261	Tyuman		No	Yule
+3262	Tyunju		Person	Yule
+3263	Tzarev		No	Yule
+3264	Tzaritzyn		No	Yule
+3265	Tai Tsung		NP	Yule
+3266	Taiching-Kwan		No	Yule
+3267	Tang dynasty		No	Yule
+3268	Tsang-chau		Person	Yule
+3269	Tsi-nan-fu	Chinangli	No	Yule
+3270	Tsi-ning-chau		No	Yule
+3271	Tsien Tang		Location	Yule
+3272	Tsien Tang 		Location	Yule
+3273	Tsing-chau		No	Yule
+3274	Tsing-ling range		No	Yule
+3275	Táki-uddin		No	Yule
+3276	Tánasi cloth		No	Yule
+3277	Tánkíz Khan		Person	Yule
+3278	Tásh Kurgán		No	Yule
+3279	Tún		Location	Yule
+3280	U-man and Pe-man 		No	Yule
+3281	U-nya-Mwezi superstition		No	Yule
+3282	Ucaca	Ukak,Ukek, Uwek	Location	Yule
+3283	Uch-baligh		No	Yule
+3284	UchMultán		No	Yule
+3285	Udoe country		No	Yule
+3286	Udong		No	Yule
+3287	Udyána		No	Yule
+3288	Ughim		Location	Murray
+3289	Ughuz		Location	Yule
+3290	Uighúr character		No	Yule
+3291	Uighúrs		No	Yule
+3292	Uiraca		No	Yule
+3293	Uirad		No	Yule
+3294	Ujjain		Location	Yule
+3295	Ukak		No	Yule
+3296	Ulakhai		No	Yule
+3297	Ulan Muren	Red River	Location	Yule
+3298	Ulatai	Oulatay	Person	Yule
+3299	Ulugh Bagh		No	Yule
+3300	Ulús		No	Yule
+3301	Umbrellas		No	Yule
+3302	Un-gui	Kia-hing	Location	Murray
+3303	Un-quem	Ming-taing	Location	Murray
+3304	Unc Can	Aung Khan	Person	Yule
+3305	Ung	Ungkút	Location	Yule
+3306	Ungrat 	Kungurat	Location	Yule
+3307	Unicorn		No	Yule
+3308	Unken		Location	Yule
+3309	Unlucky hours		No	Yule
+3310	Ural river		Location	Murray
+3311	Urduja		Person	Yule
+3312	Uriangkadai		No	Yule
+3313	Uriangkút	Tunguses	No	Yule
+3314	Urianhai		No	Yule
+3315	Urumtsi		No	Yule
+3316	Urzú		No	Yule
+3317	Uspenskoye 		No	Yule
+3318	Uttungadeva		Person	Yule
+3319	Uwek		Location	Yule
+3320	Uzbeg Khan of Sarai		No	Yule
+3321	Uzbegs of Kunduz		No	Yule
+3322	Uzun Tati		No	Yule
+3323	Vair		No	Yule
+3324	Valaghir 		Location	Yule
+3325	Van 		Location	Yule
+3326	Vanchu 	Wangchu	Person	Yule
+3327	Varaegian		No	Yule
+3328	Varaha Mihira		Location	Yule
+3329	Vardoj		Location	Yule
+3330	Vardoj 		Location	Yule
+3331	Varsach		Location	Yule
+3332	Veil of the Temple		No	Yule
+3333	Vellalars		No	Yule
+3334	Venetians		No	Yule
+3335	Venice		Location	Murray,Yule
+3336	Ventilators at Hormuz		No	Yule
+3337	Venádan		Person	Yule
+3338	Verlinden		No	Yule
+3339	Vessels		No	Yule
+3340	Vial		No	Yule
+3341	Vijayanagar		Location	Yule
+3342	Vikramajit		Person	Yule
+3343	Vikrampúr		Location	Yule
+3344	Villard de Honnecourt		No	Yule
+3345	Vincent of Beauvais		No	Yule
+3346	Vincenzo		No	Yule
+3347	Vineyards		No	Yule
+3348	Vinson		Person	Yule
+3349	Virgin of Cape Comorin		No	Yule
+3350	Visconti	Tedaldo, or Tebaldo	Location	Yule
+3351	Vissering		No	Yule
+3352	Vochan	Unchan,Yungchan	Location	Yule
+3353	Vociam		Location	Murray
+3354	Vogels		No	Yule
+3355	Vokhan		Location	Yule
+3356	Vokhan 	Wakhan	Location	Murray
+3357	Volga		Location	Yule
+3358	Volga river		Location	Murray
+3359	Vos		No	Yule
+3360	Vughin		No	Yule
+3361	Vuju in Kiangnan		No	Yule
+3362	Vámbéry		Person	Yule
+3363	Wa-tzu		No	Yule
+3364	Wadoe tribe		No	Yule
+3365	Wakf		No	Yule
+3366	Wakhijrui Pass		Location	Yule
+3367	Wakhjír Pass		Location	Yule
+3368	Wakhsh		No	Yule
+3369	Wakhtang II		Person	Yule
+3370	Wakhán	Vokhan	Location	Yule
+3371	Walashjird		No	Yule
+3372	Waldshut			Murray
+3373	Wall of Alexander 		No	Yule
+3374	Wallachs		No	Yule
+3375	Walnut-oil		No	Yule
+3376	Wami		Location	Yule
+3377	Wang		Person	Yule
+3378	Wangchu		Person	Yule
+3379	Wapila		No	Yule
+3380	War vessels		No	Yule
+3381	Warangol Ku		No	Yule
+3382	Warangs		No	Yule
+3383	Warner		Person	Yule
+3384	Wassáf		Person	Yule
+3385	Water		No	Yule
+3386	Wathek		Person	Yule
+3387	Weather-conjuring		No	Yule
+3388	Wei River in Shen-si		Location	Yule
+3389	Wei dynasty		No	Yule
+3390	Wei-ning		No	Yule
+3391	Weights and measures		No	Yule
+3392	Wen 		Location	Yule
+3393	Wen-chow		No	Yule
+3394	Westermarck		No	Yule
+3395	Whale oil		No	Yule
+3396	Whales		No	Yule
+3397	Wheaten bread not eaten		No	Yule
+3398	White bears		No	Yule
+3399	Whittington and his cat in Persia		No	Yule
+3400	Wild asses and oxen		No	Yule
+3401	William of Tripoli		No	Yule
+3402	Williams		Person	Yule
+3403	Williamson		Person	Yule
+3404	Wilson		Person	Yule
+3405	Wind		No	Yule
+3406	Wine		No	Yule
+3407	Wo-fo-sze		No	Yule
+3408	Wolves in Pamir		No	Yule
+3409	Women		No	Yule
+3410	Wonders performed by the Bacsi		No	Yule
+3411	Wood		No	Yule
+3412	Wood-oil		No	Yule
+3413	Wool		No	Yule
+3414	Worship of Mahomet 		No	Yule
+3415	Worshipping the tablets		No	Yule
+3416	Wu-chau	Vuju	No	Yule
+3417	Wu-ti		Person	Yule
+3418	Wukiang-hien	Vughin	No	Yule
+3419	Wylie		Person	Yule
+3420	Wüsus		No	Yule
+3421	Xavier		No	Yule
+3422	Xerxes		No	Yule
+3423	Ya-chau		No	Yule
+3424	Yachi	Yun-nan-fu	Location	Yule
+3425	Yachi 		No	Yule
+3426	Yaci	Chiaki	Location	Murray
+3427	Yaik 		Location	Yule
+3428	Yak		No	Yule
+3429	Yakuts		No	Yule
+3430	Yalung 		Location	Yule
+3431	Yam		No	Yule
+3432	Yamgán		No	Yule
+3433	Yan-gui 	Yang-tcheou-fou	Location	Murray
+3434	Yang-chau	Yanju	Location	Yule
+3435	Yang-tse-kiang	Kiang	Location	Murray
+3436	Yarbeg of Badakhshan		No	Yule
+3437	Yarcan	Yarcund	Location	Murray
+3438	Yarcund		Location	Murray
+3439	Yarkand	Yarcan	Location	Yule
+3440	Yasdi	Yezd	Location	Yule
+3441	Yasdi 	Yerd	Location	Murray
+3442	Yasodhara		Person	Yule
+3443	Yavanas		No	Yule
+3444	Yazdashir		No	Yule
+3445	Yakúb Beg of Kasghar		No	Yule
+3446	Ydifu		No	Yule
+3447	Year		No	Yule
+3448	Yelimala		No	Yule
+3449	Yeliu Chutsai		No	Yule
+3450	Yellow		No	Yule
+3451	Yemen		No	Yule
+3452	Yen-king	Old Peking	Person	Yule
+3453	Yeng-chau		Person	Yule
+3454	Yeng-chau 		Person	Yule
+3455	Yenshan		No	Yule
+3456	YenPing		Person	Yule
+3457	Yesubuka		No	Yule
+3458	Yesudar		No	Yule
+3459	Yesugai		Person	Yule
+3460	Yetsina	Etzina	No	Yule
+3461	Yezd	Yasdi	Location	Yule
+3462	Yiu-ki 		Location	Yule
+3463	Yonting Ho 		Location	Yule
+3464	Yoritomo		No	Yule
+3465	Yotkàn		Location	Yule
+3466	Youth		Location	Yule
+3467	Yrac		Location	Yule
+3468	Ysemain of Hiulie		No	Yule
+3469	Yu		No	Yule
+3470	Yu-chow		No	Yule
+3471	Yuan Ho		No	Yule
+3472	Yue-chi		No	Yule
+3473	Yuen		No	Yule
+3474	Yuen ming-yuen		Location	Yule
+3475	Yuen shi		No	Yule
+3476	Yuen-hao		Location	Yule
+3477	Yugria		No	Yule
+3478	Yuh-shan		No	Yule
+3479	Yule		Person	Yule
+3480	Yun-nan	Carajan	Location	Yule
+3481	Yun-nan-fu 		Location	Yule
+3482	Yung Lo		Person	Yule
+3483	Yung-chang fu	Shen-si	No	Yule
+3484	YunHien		Person	Yule
+3485	Yurungkásh 	`	Location	Yule
+3486	Yusuf Kekfi		No	Yule
+3487	Yuthia		Location	Yule
+3488	Yvo of Narbonne		No	Yule
+3489	Yájú		No	Yule
+3490	Zabedj		No	Yule
+3491	Zai-tun	Amoy	Location	Murray
+3492	Zaila		No	Yule
+3493	Zampa		Location	Yule
+3494	Zanghibar	Zanguebar	Location	Murray,Yule
+3495	Zanton	Shantung	Location	Yule
+3496	Zanzale		Person	Yule
+3497	Zapharan		Location	Yule
+3498	Zardandan		Location	Yule
+3499	Zarneke		No	Yule
+3500	Zayton	Zaitún, Zeiton, Cayton	Location	Yule
+3501	Zebu		No	Yule
+3502	Zebák Valley		Location	Yule
+3503	Zedoary		No	Yule
+3504	Zenghi		No	Yule
+3505	Zerms	Jerms	No	Yule
+3506	Zerumbet		No	Yule
+3507	Zettani		No	Yule
+3508	Zhafar		Location	Yule
+3509	Zic	Circassia	Location	Yule
+3510	Zikas		No	Yule
+3511	Zimmé		Location	Yule
+3512	Zinc		No	Yule
+3513	Zinj		Location	Yule
+3514	Zipangu	Japan		Murray
+3515	Zobeidah		Person	Yule
+3516	Zorza		No	Yule
+3517	Zu-lkarnain	Zulcarniain	No	Yule
+3518	Zurficar	Zúrpica,Zulficar	Person	Yule
+3519	an soe the Pope			Murray
+3520	son		Location	Yule
+3521	Ábah		No	Yule
+3522	Çribhõja	Çribhôdja	Location	Yule

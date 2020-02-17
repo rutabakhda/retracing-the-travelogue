@@ -93,25 +93,26 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     counter1 = Counter(converted_list1)
     counter2 = Counter(converted_list2)
 
-    with open(datapath / 'results/hugh-murray/part1/NER/gazetteer-analysis.txt', 'a') as f:
-        f.write("\n ======================== PERSON ========================")
-        for i in range(1, len(converted_list1)):
-            f.write("\n%s" % str(converted_list1[i]))
-            f.write("\n%s" % str(converted_list2[i]))
-            f.write("\n")
+    with open(datapath / 'results/hugh-murray/part3/NER/murray-index.txt', 'a') as f:
+        f.write("\n ======================== Person ========================")
+        #for i in range(1, len(converted_list1)):
+        #  f.write("\n%s" % str(converted_list1[i]))
+        #  f.write("\n%s" % str(converted_list2[i]))
+        f.write("\n precision = %s " % str(precision))
+        f.write("\n recall = %s" % str(recall))
+        f.write("\n F1 score = %s" % str(F1))
+        f.write("\n")
+        f.write("\n")
+        f.write("\n true positive = %s " % str(true_positive))
+        f.write("\n false positive = %s" % str(false_positive))
+        f.write("\n false negative = %s" % str(false_negative))
+        f.write("\n")
         f.write("\n")
         f.write("\n")
         f.write("\n%s" % str(counter1))
         f.write("\n")
         f.write("\n")
         f.write("\n%s" % str(counter2))
-
-
-
-
-
-
-
 
         # f.write("\n ======================== true positive list ========================")
         # f.write("\n")
@@ -135,7 +136,7 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
 
 datapath = Path(__file__).resolve().parents[2]
 
-readfile = datapath / 'results/hugh-murray/part1/NER/gazetteer.csv' # Input individual index files
+readfile = datapath / 'results/hugh-murray/part3/NER/gazetteer-murray-index.csv' # Input individual index files
 
 data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 str1 = data['Person'].str.cat(sep=',')
@@ -144,7 +145,7 @@ str2 = data['Gazzeter Person'].str.cat(sep=',')
 
 #str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
 #str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"
-1111111111111111111
+
 print("========== Two lists to compare==========")
 print(str1)
 print(str2)

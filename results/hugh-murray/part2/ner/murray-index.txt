@@ -1,0 +1,17 @@
+
+ ======================== Person ========================
+ precision = 0.7777777777777778 
+ recall = 0.21052631578947367
+ F1 score = 0.3313609467455621
+
+
+ true positive = 28 
+ false positive = 8
+ false negative = 105
+
+
+
+Counter({'Khan': 25, 'Mohammed': 25, None: 8, 'Prester John': 7, 'Alexander': 6, 'Gengis': 5, 'Ciagatai': 4, 'Gengis Khan': 4, 'Alau': 3, 'Darius': 3, 'Kublai': 3, 'Mangou': 3, 'Messer Marco': 3, 'Nogodar': 3, 'Unchan': 3, 'the Old Man': 3, 'Alaodin': 2, 'Argon': 2, 'George': 2, 'Marco': 2, 'Marco Polo': 2, 'Old Man of the Mountain': 2, 'the Old Man of the Mountain': 2, 'Alton': 1, 'Asidiu Sultan': 1, 'Bacui': 1, 'Balthazar': 1, 'Cui': 1, 'David Melik': 1, 'David the King': 1, 'Gaspar': 1, 'Guasmul': 1, 'Jatolior': 1, 'Jesus Christ': 1, 'Maffio': 1, 'Mangou Khan': 1, 'Melchior': 1, 'Messeri Nicolo': 1, 'Nacygai': 1, 'Noah': 1, 'Zurficar': 1, '`': 1})
+
+
+Counter({None: 105, 'Gengis': 9, 'Prester John': 6, 'Ciagatai': 4, 'Mangou': 4, 'Alau': 3, 'Nogodar': 3, 'Alaodin': 2, 'Argon': 2, 'Polo': 2, 'Kurds': 1})

@@ -164,7 +164,7 @@ def ner_gazetteer(readfile,df,murray_list,murray_alternative_list,part):
 datapath = Path(__file__).resolve().parents[2]
 
 # Input individual index files
-readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated.csv'
+readfile_murray = datapath / 'results/hugh-murray/index/processed/index-annotated-special.csv'
 df, main_series, alternative_series = gazetteer_data(readfile_murray)
 
 part = 'part1'
