@@ -5,6 +5,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from pathlib import Path
 import pandas as pd
 import os
+import nltk
 
 from stanfordcorenlp import StanfordCoreNLP
 
@@ -14,16 +15,9 @@ nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford
 travel_verbs = ['depart','travel','arrive']
 
 def word_similarity(wordx,wordy):
-    sem1, sem2 = wn.synsets(wordx, pos=wn.VERB), wn.synsets(wordy, pos=wn.VERB)
-    maxscore = 0
-    for i,j in list(product(*[sem1,sem2])):
-      score = i.wup_similarity(j) # Wu-Palmer Similarity
-      if score:
-        maxscore = score if maxscore < score else maxscore
-      else:
-          maxscore = 0
+    vnet3 = nltk.corpus.util.LazyCorpusLoader('verbnet3', nltk.corpus.reader.verbnet.VerbnetCorpusReader,r'(?!\.).*\.xml')
 
-    return maxscore
+    print(vnet3.classids('travel'))
 
 def find_verbs(sentence):
     pos = nlp.pos_tag(sentence)
