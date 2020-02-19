@@ -1,13 +1,13 @@
-#WordNet as thesaurus
-from nltk.corpus import wordnet as wn
-from itertools import product
+
 from nltk.stem.wordnet import WordNetLemmatizer
 from pathlib import Path
 import pandas as pd
 import os
 import nltk
 import re
-from nltk.corpus import verbnet as vn
+from nltk.corpus import framenet as fn
+
+
 
 #from stanfordcorenlp import StanfordCoreNLP
 
@@ -80,7 +80,7 @@ for part in book:
 
     outdata = find_travel_verbs(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbnet.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-framenet.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

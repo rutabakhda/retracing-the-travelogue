@@ -1,26 +1,36 @@
 
 import nltk
-from nltk.corpus import verbnet as vn
+#from nltk.corpus import verbnet as vn
+import re
 #nltk.download('verbnet')
 #nltk.download('framenet_v17')
 #nltk.download('propbank')
 #vnet3 = nltk.corpus.util.LazyCorpusLoader('verbnet3', nltk.corpus.reader.verbnet.VerbnetCorpusReader,r'(?!\.).*\.xml')
 
 #print(vnet3.classids('travel'))
-vn_results = vn.classids(lemma='reach')
+# vn_results = vn.classids(lemma='come')
+#
+# match_found = False
+# for item in vn_results:
+#     #v = vn.vnclass(item)
+#
+#     #print(item)
+#     x = re.search("51.1|51.4.2",item)
+#     if x is not None:
+#         match_found = True
+#
+# print(match_found)
 
-for item in vn_results:
-    v = vn.vnclass(item)
-    print(vn.lemmas(item))
-    print(vn.themroles(item))
-    print([t.attrib['type'] for t in v.findall('THEMROLES/THEMROLE')])
+    #print(vn.lemmas(item))
+    #print(vn.themroles(item))
+    #print([t.attrib['type'] for t in v.findall('THEMROLES/THEMROLE')])
 
 
-from nltk.corpus import verbnet as vn
+#from nltk.corpus import verbnet as vn
 from nltk.corpus import framenet as fn
 #from nltk.corpus import propbank as pb
 
-# input = "arrive"
+input = "arrive"
 #
 # vn_results = vn.classids(lemma=input)
 #
@@ -30,13 +40,15 @@ from nltk.corpus import framenet as fn
 #     print ('verbnet:')
 #     print (vn_results)
 #
-# fn_results = fn.frames_by_lemma(input)
-#
-# if not fn_results:
-#     print (input + ' not in framenet.')
-# else:
-#     print ('framenet:')
-#     print (fn_results)
+fn_results = fn.frames_by_lemma(input)
+print(type(fn_results))
+if not fn_results:
+    print (input + ' not in framenet.')
+else:
+    for item in fn_results:
+        print(item)
+    print ('framenet:')
+    print (fn_results)
 
 #pb_results = []
 #try:
