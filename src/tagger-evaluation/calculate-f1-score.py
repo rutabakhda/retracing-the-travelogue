@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import division
 from collections import Counter
+import os
+import pandas as pd
 """
 Implementation of F1 score
 
@@ -61,7 +63,7 @@ def change_list_size(bigger_list,smaller_list):
     return converted_list
 
 
-def compare_calculate_f1_score(converted_list1,convrted_list2):
+def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
 
     """
 
@@ -93,8 +95,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
     counter1 = Counter(converted_list1)
     counter2 = Counter(converted_list2)
 
-    with open(datapath / 'results/hugh-murray/part2/ner/murray-yule-special-index.txt', 'a') as f:
-        f.write("\n ======================== Location ========================")
+    if not os.path.exists(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part)):
+       os.makedirs(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part))
+
+    with open(datapath / 'results/hugh-murray/{}/ner/result-analysis/murray-special-index.txt'.format(part), 'a') as f:
+        f.write("\n ======================== %s ========================" % str(entity))
         #for i in range(1, len(converted_list1)):
         #  f.write("\n%s" % str(converted_list1[i]))
         #  f.write("\n%s" % str(converted_list2[i]))
@@ -114,60 +119,54 @@ def compare_calculate_f1_score(converted_list1,convrted_list2):
         f.write("\n")
         f.write("\n%s" % str(counter2))
 
-        # f.write("\n ======================== true positive list ========================")
-        # f.write("\n")
-        # for item in true_positive_list:
-        #     f.write("\n%s" % str(item))
-        # f.write("\n")
-        #
-        # f.write("\n ======================== false positive list ========================")
-        # f.write("\n")
-        # for item in false_positive_list:
-        #     f.write("\n%s" % str(item))
-        # f.write("\n")
-        #
-        # f.write("\n ======================== false negative list ========================")
-        # f.write("\n")
-        # for item in false_negative_list:
-        #     f.write("\n%s" % str(item))
-        # f.write("\n")
-        # return F1
 
+    print("******************************************************")
+    print(type(counter1))
+    counter1_dict = dict(counter1)
+    counter2_dict = dict(counter2)
+    print(type(counter2_dict))
+    entity_list = []
+    original_count = []
+    found_count = []
+    for key in counter1_dict:
+        print(key)
+        print(counter1[key])
+        print(counter2[key])
+        print("===================")
+        entity_list.append(key)
+        original_count.append(counter1[key])
+        found_count.append(counter2[key])
+
+    df = pd.DataFrame(data={"Entity": entity_list, "Original count": original_count, "Found count": found_count})
+    df.to_csv(datapath / 'results/hugh-murray/{}/ner/result-analysis/{}-murray-special-index.csv'.format(part,entity), sep='\t', index=False)
 
 datapath = Path(__file__).resolve().parents[2]
 
-readfile = datapath / 'results/hugh-murray/part1/ner/gazetteer-murray-yule-special-index.csv' # Input individual index files
+book = ['part1','part2','part3']
+#book = ['part1']
+tagger = "Gazzeter"
+entities = ['Location','Person']
+#book = ['part1']
 
-data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
-str1 = data['Location'].str.cat(sep=',')
-str2 = data['Gazzeter Location'].str.cat(sep=',')
+for part in book:
 
+    readfile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-special-index.csv'.format(part) # Input individual index files
 
-#str1 = "Kublai,Khan,Chengiz,Chengiz,Khan"
-#str2 = "Khan,Nayan,Nayan,Achmac,Kublai,Nayan"
+    data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 
-print("========== Two lists to compare==========")
-print(str1)
-print(str2)
-print(" ")
+    for entity in entities:
+        str1 = data[entity].str.cat(sep=',')
+        str2 = data[tagger + " " + entity].str.cat(sep=',')
 
-list_of_str1 = sorted(Convert(str1))
-list_of_str2 = sorted(Convert(str2))
+        list_of_str1 = sorted(Convert(str1))
+        list_of_str2 = sorted(Convert(str2))
 
-cleaned_list_of_str1 = [item.strip() for item in list_of_str1]
-cleaned_list_of_str2 = [item.strip() for item in list_of_str2]
+        cleaned_list_of_str1 = [item.strip() for item in list_of_str1]
+        cleaned_list_of_str2 = [item.strip() for item in list_of_str2]
 
-print("========== Calculation of precision, recall and F1 ==========")
+        combined_list = combine_lists(cleaned_list_of_str1, cleaned_list_of_str2)
 
+        converted_list1 = change_list_size(combined_list,cleaned_list_of_str1)
+        converted_list2 = change_list_size(combined_list,cleaned_list_of_str2)
 
-combined_list = combine_lists(cleaned_list_of_str1, cleaned_list_of_str2)
-print(combined_list)
-print(" ")
-print("================================")
-
-converted_list1 = change_list_size(combined_list,cleaned_list_of_str1)
-converted_list2 = change_list_size(combined_list,cleaned_list_of_str2)
-
-print(converted_list1)
-print(converted_list2)
-F1 = compare_calculate_f1_score(converted_list1,converted_list2)
+        F1 = compare_calculate_f1_score(converted_list1,converted_list2,part,entity)

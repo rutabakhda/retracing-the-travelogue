@@ -30,18 +30,20 @@ def find_tag(df,series,common,series_type):
             #print(entry)
             if series_type == "alternative":
                 temp1 = df.loc[series.str.contains(entry, na=False)]
+
+                if (len(temp1.index) > 1):
+                    for index, row in temp1.iterrows():
+                        alt_list = row['Alternative Name'].split(",")
+                        alt_list = [item.strip() for item in alt_list]
+                        if entry in alt_list:
+                            # print(alt_list)
+                            tag = row['Tag']
+                            # print(tag)
+                else:
+                    tag = temp1['Tag'].iloc[0]
+
             elif series_type == "main":
                 temp1 = df.loc[series.isin([entry])]
-            print(temp1)
-            if (len(temp1.index) > 1):
-                for index,row in temp1.iterrows():
-                    alt_list = row['Alternative Name'].split(",")
-                    alt_list = [item.strip() for item in alt_list]
-                    if entry in alt_list:
-                     #print(alt_list)
-                     tag = row['Tag']
-                     #print(tag)
-            else:
                 tag = temp1['Tag'].iloc[0]
 
             if tag == 'Person':
@@ -179,7 +181,7 @@ for part in book:
     readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
-    readfile_murray = datapath / 'results/murray-yule/index/processed/index-annotated-special.csv'
+    readfile_murray = datapath / 'results/murray-yule/index/processed/index-annotated.csv'
     df_murray,murray_list,murray_alternative_list = get_gazetteer_data(readfile_murray)
 
     #print(murray_alternative_list)
@@ -189,7 +191,7 @@ for part in book:
     if not os.path.exists(datapath / 'results/hugh-murray/{}/ner'.format(part)):
        os.makedirs(datapath / 'results/hugh-murray/{}/ner'.format(part))
 
-    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-yule-special-index.csv'.format(part)
+    writefile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-yule-index.csv'.format(part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

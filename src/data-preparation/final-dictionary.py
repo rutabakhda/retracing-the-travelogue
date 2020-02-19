@@ -90,7 +90,7 @@ def list_to_csv(list, dataframe1, dataframe2, common_words, unique_in_murray):
     if not os.path.exists(datapath / 'results/murray-yule/index/processed'):
         os.makedirs(datapath / 'results/murray-yule/index/processed')
 
-    new_data.to_csv(datapath / "results/murray-yule/index/processed/index-annotated-special.csv", sep='\t', encoding='utf-8-sig')
+    new_data.to_csv(datapath / "results/murray-yule/index/processed/index-annotated.csv", sep='\t', encoding='utf-8-sig')
 
 
 datapath = Path(__file__).resolve().parents[2]

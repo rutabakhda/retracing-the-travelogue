@@ -11,7 +11,8 @@ from stanfordcorenlp import StanfordCoreNLP
 datapath = Path(__file__).resolve().parents[2]
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
 
-travel_verbs = ['depart','travel','arrive']
+#travel_verbs = ['depart','travel','arrive']
+travel_verbs = ['tell','speak','describe']
 
 def word_similarity(wordx,wordy):
     sem1, sem2 = wn.synsets(wordx, pos=wn.VERB), wn.synsets(wordy, pos=wn.VERB)
@@ -53,12 +54,11 @@ def find_travel_verbs(data):
                 travel_list.append(verb)
 
         travel = ','.join(travel_list)
-
         travel_verbs_final_list.append(travel)
         count = count + 1
         print(count)
 
-    data['WordNet Travel'] = travel_verbs_final_list
+    data['WordNet Narrate'] = travel_verbs_final_list
     return data
 
 
@@ -67,14 +67,14 @@ book = ['part2']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-complete.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_verbs(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-wordnet.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 
-    outdata.to_csv(writefile, sep='\t', encoding='latin1')
+    outdata.to_csv(writefile, sep='\t', encoding='latin1',index=False)
 

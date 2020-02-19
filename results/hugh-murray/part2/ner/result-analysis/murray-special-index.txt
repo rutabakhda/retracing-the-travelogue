@@ -1,0 +1,33 @@
+
+ ======================== Location ========================
+ precision = 0.9918032786885246 
+ recall = 0.587378640776699
+ F1 score = 0.7378048780487804
+
+
+ true positive = 121 
+ false positive = 1
+ false negative = 85
+
+
+
+Counter({'India': 10, 'Baldach': 8, 'Persia': 8, 'Creman': 7, 'Tangut': 7, 'Cathay': 6, 'Badascian': 5, 'Mosul': 5, 'Armenia': 4, 'Cormos': 4, 'Rome': 4, 'Balk': 3, 'Chisi': 3, 'Ciarcian': 3, 'Cobinam': 3, 'Cotan': 3, 'Samarcan': 3, 'Tenduc': 3, 'Altai': 2, 'Armenia the Greater': 2, 'Arzinga': 2, 'Canpicion': 2, 'Cascar': 2, 'Erginul': 2, 'Euphrates': 2, 'Ezina': 2, 'Genoa': 2, 'Georgia': 2, 'Great Turkey': 2, 'Kamul': 2, 'Karakorum': 2, 'Levant': 2, 'Reobarle': 2, 'Ruemedan Achomac': 2, 'Scassem': 2, 'Tonocain': 2, 'Toris': 2, 'Turcomania': 2, 'Yarcan': 2, 'Yasdi': 2, 'sea of India': 2, 'Aras': 1, 'Argiron': 1, 'Ava': 1, 'Badasian': 1, 'Bagdad': 1, None: 1, 'Bangu': 1, 'Bascra': 1, 'Belor': 1, 'Bethlehem': 1, 'Calacian': 1, 'Camandu': 1, 'Cangui': 1, 'Canosalmi': 1, 'Cardistan': 1, 'Casserie': 1, 'Casum': 1, 'Cerazi': 1, 'Chandu': 1, 'Chesciemur': 1, 'Cianganor': 1, 'Cielstan': 1, 'Ciorcia': 1, 'Como': 1, 'Cremosor': 1, 'Curmosa': 1, 'Damascus': 1, 'Darzizi': 1, 'Dilivar': 1, 'Dogana': 1, 'Egrigaia': 1, 'Formosa': 1, 'Geihon': 1, 'Ginghintalas': 1, 'Gog and Magog': 1, 'Great Armenia': 1, 'Herdil': 1, 'Idifu': 1, 'Indian sea': 1, 'Iron Gate': 1, 'Istanit': 1, 'Kesimur': 1, 'Kur': 1, 'Kurdistan': 1, 'Laias': 1, 'Lighinan': 1, 'Lop': 1, 'Lor': 1, 'Mulecte': 1, 'Mungul': 1, 'Pascia': 1, 'Pasciai': 1, 'Pein': 1, 'Pisa': 1, 'Saba': 1, 'Sacchion': 1, 'Sapurgan': 1, 'Sava': 1, 'Sevasto': 1, 'Sindacui': 1, 'Singuy': 1, 'Soucara': 1, 'Succiur': 1, 'Taikan': 1, 'Teflis': 1, 'Ung': 1, 'Ung and Mungul': 1, 'Venice': 1, 'Vokhan': 1, 'Yrac': 1, 'great Armenia': 1, 'lesser Armenia': 1})
+
+
+Counter({None: 85, 'Baldach': 8, 'Persia': 8, 'Creman': 7, 'Tangut': 7, 'Cathay': 6, 'Mosul': 5, 'Cormos': 4, 'Balk': 3, 'Chisi': 3, 'Ciarcian': 3, 'Cobinam': 3, 'Cotan': 3, 'Samarcan': 3, 'Tenduc': 3, 'Armenia the Greater': 2, 'Arzinga': 2, 'Bagdad': 2, 'Canpicion': 2, 'Cascar': 2, 'Erginul': 2, 'Euphrates': 2, 'Ezina': 2, 'Georgia': 2, 'Kamul': 2, 'Karakorum': 2, 'Reobarle': 2, 'Scassem': 2, 'Tonocain': 2, 'Toris': 2, 'Yarcan': 2, 'Yasdi': 2, 'Argiron': 1, 'Bangu': 1, 'Bascra': 1, 'Belor': 1, 'Calacian': 1, 'Camandu': 1, 'Chandu': 1, 'Cianganor': 1, 'Egrigaia': 1, 'Ginghintalas': 1, 'Kesimur': 1, 'Laias': 1, 'Lop': 1, 'Pascia': 1, 'Pein': 1, 'Sacchion': 1, 'Sapurgan': 1, 'Sava': 1, 'Succiur': 1, 'Teflis': 1, 'Venice': 1, 'Vokhan': 1})
+ ======================== Person ========================
+ precision = 0.8333333333333334 
+ recall = 0.41353383458646614
+ F1 score = 0.5527638190954773
+
+
+ true positive = 55 
+ false positive = 11
+ false negative = 78
+
+
+
+Counter({'Khan': 25, 'Mohammed': 25, None: 11, 'Prester John': 7, 'Alexander': 6, 'Gengis': 5, 'Ciagatai': 4, 'Gengis Khan': 4, 'Alau': 3, 'Darius': 3, 'Kublai': 3, 'Mangou': 3, 'Messer Marco': 3, 'Nogodar': 3, 'Unchan': 3, 'the Old Man': 3, 'Alaodin': 2, 'Argon': 2, 'George': 2, 'Marco': 2, 'Marco Polo': 2, 'Old Man of the Mountain': 2, 'the Old Man of the Mountain': 2, 'Alton': 1, 'Asidiu Sultan': 1, 'Bacui': 1, 'Balthazar': 1, 'Cui': 1, 'David Melik': 1, 'David the King': 1, 'Gaspar': 1, 'Guasmul': 1, 'Jatolior': 1, 'Jesus Christ': 1, 'Maffio': 1, 'Mangou Khan': 1, 'Melchior': 1, 'Messeri Nicolo': 1, 'Nacygai': 1, 'Noah': 1, 'Zurficar': 1, '`': 1})
+
+
+Counter({None: 78, 'Khan': 31, 'Gengis': 9, 'Prester John': 6, 'Ciagatai': 4, 'Mangou': 4, 'Alau': 3, 'Nogodar': 3, 'Alaodin': 2, 'Argon': 2, 'Marco Polo': 2})

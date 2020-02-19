@@ -30,7 +30,8 @@ import re
 from nltk.corpus import framenet as fn
 #from nltk.corpus import propbank as pb
 
-input = "arrive"
+
+input = "speak"
 #
 # vn_results = vn.classids(lemma=input)
 #
@@ -46,9 +47,17 @@ if not fn_results:
     print (input + ' not in framenet.')
 else:
     for item in fn_results:
-        print(item)
-    print ('framenet:')
-    print (fn_results)
+        print(item.name)
+        print(item.ID)
+        id = item.ID
+        if id in (54,61, 57, 690, 7):
+            print("Match found")
+            print(id)
+        #else:
+        #    print("NOT MATCH")
+        #    print(id)
+
+
 
 #pb_results = []
 #try:

@@ -1,4 +1,4 @@
-	Entity Name	Alternative Name	Tag	Reference
+﻿	Entity Name	Alternative Name	Tag	Reference
 0	ABASCIA	Abyssinia	Location	Murray
 1	Abacan		Person	Yule
 2	Abaji		Person	Yule
@@ -71,7 +71,8 @@
 69	Alamút		Location	Yule
 70	Alan country		Location	Yule
 71	Alans		No	Yule
-                                                                                                                                                                                                                                                                                                                                                                                    	Alaone		No	Yule
+72	Alaodin		Person	Murray
+73	Alaone		No	Yule
 74	Alarm Tower		Location	Yule
 75	Alau	the old Man of the Mountain,Hookalu	Person	Murray,Yule
 76	Albenigaras		No	Yule
@@ -90,7 +91,7 @@
 89	Almanacs		No	Yule
 90	Almonds		No	Yule
 91	Aloes		No	Yule
-92	Altai		Location	Murray,Yule
+92	Altai Mountains		Location	Murray,Yule
 93	AltunKhan		Person	Yule
 94	AlRamni		No	Yule
 95	Aláuddin	Alaodin	Person	Yule
@@ -240,6 +241,7 @@
 239	Badghís		No	Yule
 240	Badruddín Lú-lú		No	Yule
 241	Badáún		No	Yule
+242	Bagdad		Location	Murray
 243	Baghdad	Baudas	Location	Yule
 244	Bagratidae		No	Yule
 245	BagrationMukransky		Person	Yule
@@ -445,6 +447,8 @@
 445	Bridges of Pulisanghin		No	Yule
 446	Brine-wells		No	Yule
 447	British Museum		Location	Murray
+448	Brius	Kin-sha Kiang	Location	Yule
+449	Brius 		Location	Murray
 450	Brown		No	Yule
 451	Bruces Abyssinian Chronology		No	Yule
 452	Brunetto Latinis Book		No	Yule
@@ -527,6 +531,7 @@
 529	Camoens		No	Yule
 530	Camphor  trees in Fo-kien	Laurus Camphora	No	Yule
 531	Campichu	Kanchau	Location	Yule
+532	Camul	Kamul	Location	Yule
 533	Can-giu 	Kiang-chan-fui	Location	Murray
 534	Canal		No	Yule
 535	Canale		No	Yule
@@ -560,7 +565,8 @@
 563	Carts		No	Yule
 564	Casan	Ghazan	Person	Murray,Yule
 565	Casaria	Caesarea of Cappadocia	No	Yule
-567	Cascar 	Cashgar,Kashgar	Location	Murray,Yule
+566	Cascar	Kashgar	Location	Yule
+567	Cascar 	Cashgar	Location	Murray
 568	Casem		Location	Yule
 569	Caspian Sea 	Sea of Ghel,sea of Ghelan	Location	Yule
 570	Cassay		Location	Yule
@@ -589,6 +595,7 @@
 593	Celtic Church		No	Yule
 594	Census		No	Yule
 595	Ceremonial of Mongol Court		No	Yule
+596	Ceylon	Seilan	Location	Yule
 597	Chachan	Charchan	No	Yule
 598	Chagatai	Sigatay	Person	Yule
 599	ChaghanKuren		No	Yule
@@ -599,6 +606,7 @@
 604	Chalukya Malla kings		No	Yule
 605	Champa	Chamba	Location	Yule
 606	Chandra Banu		No	Yule
+607	Chandu		Location	Murray,Yule
 608	Chang Kien		No	Yule
 609	Chang Te-hui		No	Yule
 610	Chang Yao		No	Yule
@@ -690,7 +698,7 @@
 696	Cianba 	Tsiompa	Location	Murray
 697	Cianganor		Location	Murray
 698	Ciarcian 	Karashehr	Location	Murray
-699	Cielstan		Location	Yule
+699	Cielstan		No	Yule
 700	Cin-ghian-fu	Tchin-kiang-fou	Location	Murray
 701	Cinnamon		No	Yule
 702	Circumcision of Socotrans		No	Yule
@@ -759,7 +767,8 @@
 765	Corte del Milione		No	Yule
 766	Corvino		Person	Murray
 767	Cosmography		No	Yule
-769	Cotan 	Khoten	Location	Murray,Yule
+768	Cotan		Location	Yule
+769	Cotan 	Khoten	Location	Murray
 770	Cotton		No	Yule
 771	Counts in Vokhan		No	Yule
 772	Couriers of the great khan			Murray
@@ -957,7 +966,8 @@
 964	Edward II		No	Yule
 965	Effeminacy		No	Yule
 966	Eggs of Ruc and Aepyornis		No	Yule
-968	Egrigaia 	Ninghia	Location	Murray,Yule
+967	Egrigaia		Location	Yule
+968	Egrigaia 	Ninghia	Location	Murray
 969	Eighurs		Location	Murray
 970	Ela	cardamom	No	Yule
 971	Elchidai		No	Yule
@@ -1006,7 +1016,8 @@
 1014	Eyircayá		No	Yule
 1015	Ezina		Location	Murray
 1016	Facen		No	Yule
-1018	Faghfur	Facfur	Person	Murray,Yule
+1017	Facfur		Person	Murray
+1018	Faghfur	Facfur	Person	Yule
 1019	Faizabad in Badakhshan		No	Yule
 1020	Fakanúr		No	Yule
 1021	Fakata		No	Yule
@@ -1150,6 +1161,7 @@
 1159	Ghiyas ed-din		Person	Yule
 1160	Ghori		Location	Yule
 1161	Gháran 		Person	Yule
+1162	Gházán	Casan	Person	Yule
 1163	Ghúr		No	Yule
 1164	Giglioli		Person	Yule
 1165	Gilgit		No	Yule
@@ -1186,6 +1198,7 @@
 1196	Gothia	Crimean	No	Yule
 1197	Govy		No	Yule
 1198	Goza		No	Yule
+1199	Gozurat		Location	Murray,Yule
 1200	Goës		No	Yule
 1201	Goître at Yarkand		No	Yule
 1202	Grail		No	Yule
@@ -1224,7 +1237,7 @@
 1235	Gurgan		Person	Yule
 1236	GurKhan of Karacathay		No	Yule
 1237	Gutturals		No	Yule
-1238	Guzerat	Gozurat	Location	Murray,Yule
+1238	Guzerat	Gozurat	Location	Yule
 1239	Gíl		Location	Yule
 1240	Göring		No	Yule
 1241	Haast		No	Yule
@@ -1363,6 +1376,7 @@
 1374	Hwang-ho	Yellow River	Location	Yule
 1375	Hyena		No	Yule
 1376	Hyrcania		No	Yule
+1377	Húlakú Khan	Alau	Person	Yule
 1378	Iabadiu		No	Yule
 1379	Ibn Batuta 		Person	Yule
 1380	Ibn Fozlán		No	Yule
@@ -1386,9 +1400,6 @@
 1398	Imáms of the Ismailites		No	Yule
 1399	Incense		No	Yule
 1400	India		Location	Yule
-	India the Greater		Location	Yule
-	India the Lesser		Location	Yule
-	India the Middle		Location	Yule
 1401	Indian drugs to prolong life		No	Yule
 1402	Indies		No	Yule
 1403	Indifference		No	Yule
@@ -1406,7 +1417,7 @@
 1415	Irghai		No	Yule
 1416	Irish		No	Yule
 1417	Iron		No	Yule
-1418	Iron Gate	Derbend Pass	Location	Yule
+1418	Iron Gate	Derbend Pass	No	Yule
 1419	Irtish		lo0	Yule
 1420	Isaac		Person	Yule
 1421	Isabel		Person	Yule
@@ -1452,10 +1463,6 @@
 1461	Jatolic		No	Yule
 1462	Jauchau		No	Yule
 1463	Java		Location	Murray,Yule
-	Java the Great		Location	Murray,Yule
-	Java the Less		Location	Murray,Yule
-	Java the Greater		Location	Murray,Yule
-	Java the Lesser		Location	Murray,Yule
 1464	Jawa		No	Yule
 1465	JayaSinhavarman II		Person	Yule
 1466	Jazirah		No	Yule
@@ -1535,7 +1542,7 @@
 1540	Kamboja	Chinla	No	Yule
 1541	Kambáyat 	Cambay	Location	Yule
 1542	Kampar		Location	Yule
-1543	Kamul 	Khamil,Hamil,Camul	Location	Murray,Yule
+1543	Kamul 	Khamil,Hamil	Location	Murray,Yule
 1544	Kamál Malik		No	Yule
 1545	Kamárah		No	Yule
 1546	Kanauj		No	Yule
@@ -1612,7 +1619,8 @@
 1617	Kerulen  valley		Location	Yule
 1618	Keshican	Keshikten	No	Yule
 1619	Kesimur 	Cashmere	Location	Murray
-1621	Kesmacoran 	Mekran	Location	Murray,Yule
+1620	Kesmacoran	Kij Makrán	No	Yule
+1621	Kesmacoran 	Mekran	Location	Murray
 1622	Keuyung Kwan		Location	Yule
 1623	Khakán		No	Yule
 1624	Khalif	Calif	Person	Yule
@@ -1635,6 +1643,7 @@
 1641	Khojas		No	Yule
 1642	Khorasan		No	Yule
 1643	Khormuzda		No	Yule
+1644	Khotan	Cotan	Location	Yule
 1645	Khoten		Location	Murray
 1646	Khumbavati	Cambay	No	Yule
 1647	Khumdán		No	Yule
@@ -1671,6 +1680,7 @@
 1678	Kien-ning fu	Kelinfu	No	Yule
 1679	Kiepert		No	Yule
 1680	Kiev		Location	Murray
+1681	KijMakrán	Kesmacoran	Location	Yule
 1682	Kila-i-Gabr		Location	Yule
 1683	Kilimanchi 		Location	Yule
 1684	Kiming shan Mountains		Location	Yule
@@ -1732,7 +1742,8 @@
 1740	Kozlov		Person	Yule
 1741	Ku-kwan		No	Yule
 1742	Kuang-chou		Location	Yule
-1744	Kublai Khan	Khan,khan,Cublay,Kublai	Person	Murray,Yule
+1743	Kublai	Cublay	Person	Yule
+1744	Kublai Khan	Khan,khan	Person	Murray
 1745	Kuché character		No	Yule
 1746	Kuhistan		Location	Yule
 1747	Kukin-Tána		No	Yule
@@ -1779,6 +1790,7 @@
 1788	Káfirs of Hindu Kush		No	Yule
 1789	Káil		Location	Yule
 1790	Kálikút		Location	Yule
+1791	Káshgar	Cascar	Location	Yule
 1792	Káveri River		No	Yule
 1793	Káveripattanam		No	Yule
 1794	Káyal		Location	Yule
@@ -1835,7 +1847,7 @@
 1845	Leopards		No	Yule
 1846	Lepechin		Person	Yule
 1847	Leung Shan		Person	Yule
-1848	Levant		Location	Yule
+1848	Levant		No	Yule
 1849	Lew-sha		No	Yule
 1850	Lewchew		No	Yule
 1851	Lewis		No	Yule
@@ -1888,6 +1900,7 @@
 1898	Lop		Location	Murray,Yule
 1899	Lophaburi		No	Yule
 1900	Loping		No	Yule
+1901	Lor		Location	Yule
 1902	Lord		No	Yule
 1903	Louis		Person	Murray
 1904	Loups cerviers 		No	Yule
@@ -1949,7 +1962,8 @@
 1960	Majar	Menjar	No	Yule
 1961	Major		No	Yule
 1962	Makdashan		Location	Yule
-1964	Malacca		Location	Murray,Yule
+1963	Malabar		Location	Yule
+1964	Malacca			Murray,Yule
 1965	Malaiur		Location	Yule
 1966	Malasgird		No	Yule
 1967	Malay Peninsula		Location	Yule
@@ -2029,16 +2043,19 @@
 2041	Maung Maorong		Location	Yule
 2042	Mauro		Location	Yule
 2043	Mausul	Mosul	Location	Yule
+2044	Mausul 		Location	Yule
 2045	Mayers		No	Yule
 2046	Mayhew		No	Yule
 2047	Mazandéran		Location	Yule
+2048	Mabar	Maabar	Location	Yule
 2049	Medressehs at Sivas		No	Yule
 2050	Mekhitar		No	Yule
 2051	Mekong 	Lan-tsang kiang	Location	Yule
 2052	Mekrán		No	Yule
 2053	Mekránis		No	Yule
 2054	Melchior		Person	Yule
-2056	Melibar 	Malabar	Location	Murray,Yule
+2055	Melibar		Location	Yule
+2056	Melibar 	Malabar	Location	Murray
 2057	Melic		No	Yule
 2058	Melons		No	Yule
 2059	Menangkabau		No	Yule
@@ -2121,6 +2138,8 @@
 2136	Mosolin		No	Yule
 2137	Mossos		Location	Yule
 2138	Mostasim Billah		Person	Yule
+2139	Mosul		Location	Murray
+2140	Mosul 	Mausul	Location	Yule
 2141	Motapallé		Location	Yule
 2142	Motawakkil		Person	Yule
 2143	Moule		Person	Yule
@@ -2134,7 +2153,7 @@
 2151	MulJava		No	Yule
 2152	Muláhidah	Mulehet	No	Yule
 2153	Mungasht		No	Yule
-2154	Mungul		Location	Yule
+2154	Mungul		No	Yule
 2155	MungulTemur	MongoTemur	Person	Yule
 2156	Murad Beg		No	Yule
 2157	Murghab 		Location	Yule
@@ -2218,7 +2237,7 @@
 2235	Nicolas IV		Person	Yule
 2236	Nicolas of Pistoia		No	Yule
 2237	Nieuhoff		No	Yule
-2238	Nigudar	Nogodar	Person	Murray,Yule
+2238	Nigudar	Nogodar	Person	Yule
 2239	Nigudarian bands		No	Yule
 2240	Nilawár	Nellore	Location	Yule
 2241	Nile		No	Yule
@@ -2236,6 +2255,7 @@
 2253	Nobles of Venice		No	Yule
 2254	Nochdarizari		Location	Yule
 2255	Nogai Khan		Person	Yule
+2256	Nogodar		Person	Murray,Yule
 2257	Nomad tribes of Persia		No	Yule
 2258	Nomogan	Numughan	Person	Yule
 2259	None		No	Yule
@@ -2315,7 +2335,8 @@
 2333	Palladius		No	Yule
 2334	Palm		No	Yule
 2335	Palm Wine		No	Yule
-2336	Pamier	Pamir	Location	Murray,Yule
+2336	Pamier	Pamir	Location	Yule
+2337	Pamier 	Pamir		Murray
 2338	Pandarani		No	Yule
 2339	Pandit Manphul		Person	Yule
 2340	Pandrethan in Kashmir		No	Yule
@@ -2379,12 +2400,14 @@
 2398	Pedro		Person	Yule
 2399	Pegu and Bengal confounded		No	Yule
 2400	Pei-chau	Piju	Location	Yule
-2402	Pein 	Bai,Pim	Location	Murray,Yule
+2401	Pein	Pim	Location	Yule
+2402	Pein 	Bai	Location	Murray
 2403	Peking		Location	Yule
 2404	Pelly		No	Yule
 2405	Pema-ching		No	Yule
 2406	Pemberton		Person	Yule
-2408	Pentam 	Bintang	Location	Murray,Yule
+2407	Pentam	Bintang	Location	Yule
+2408	Pentam 	Bintang	Location	Murray
 2409	Pepper		No	Yule
 2410	Pepper Country		No	Yule
 2411	Peregrine falcons		No	Yule
@@ -2558,7 +2581,7 @@
 2579	Rockets		No	Yule
 2580	Rockhill		No	Yule
 2581	Rofia palm		No	Yule
-2582	Rome		Location	Yule
+2582	Rome		No	Yule
 2583	RoriBakkar		No	Yule
 2584	Rosaries		No	Yule
 2585	Rostof and Susdal		No	Yule
@@ -2594,11 +2617,12 @@
 2615	Rüppells Table of Abyssinian kings		No	Yule
 2616	Sa-van-fu 	Siang-yang-fou	Location	Murray
 2617	Saadi		No	Yule
-2618	Saba	Sava,Savah	Location	Murray,Yule
+2618	Saba	Sava,Savah	Location	Yule
 2619	Sabaste		Location	Yule
 2620	Sable		No	Yule
 2621	Sabreddin		No	Yule
 2622	Sabzawur		No	Yule
+2623	Sacchion	Cha-tcheou		Murray
 2624	Sacchion 	Cha-tcheou	Location	Murray
 2625	Sachiu	Sha-chau	No	Yule
 2626	Sacrifices of people of Tangut		No	Yule
@@ -2625,7 +2649,8 @@
 2647	Salwen 	LuKiang 	Location	Yule
 2648	Samagar		Person	Yule
 2649	Samara		Location	Yule
-2650	Samarcan 	Samarcand,Samarkand	Location	Murray,Yule
+2650	Samarcan 	Samarcand	Location	Murray
+2651	Samarkand	Samarcan	Location	Yule
 2652	Sampson		No	Yule
 2653	Samudra		No	Yule
 2654	Samuel		Person	Yule
@@ -2661,6 +2686,7 @@
 2684	Sassanian dynasty		No	Yule
 2685	Sati		No	Yule
 2686	Satin		No	Yule
+2687	Sava		Location	Murray
 2688	Savast	Siwas	Location	Yule
 2689	Scanderoon		Location	Yule
 2690	Scasem		No	Yule
@@ -2673,26 +2699,24 @@
 2697	Schuyler		No	Yule
 2698	Schönborn		No	Yule
 2699	Scidmore		No	Yule
-2701	Scotra  	Socotra	Location	Murray,Yule
+2700	Scotra		Location	Yule
+2701	Scotra  	Socotra	Location	Murray
 2702	Scythians		Organization	Murray
 2703	Sea of Chin		Location	Yule
-	Sea of England		Location	Yule
-	Sea of Ghel	Sea of Ghelan	Location	Yule
-	Sea of India		Location	Yule
-	Sea of Rochelle		Location	Yule
-	Sea of Sarain		Location	Yule
 2704	Seal		No	Yule
 2705	Sebaste		No	Yule
 2706	Sebourc		No	Yule
 2707	Sees of Latin Church		No	Yule
 2708	Sefavíehs		No	Yule
-2710	Seilan 	Ceylon	Location	Murray,Yule
+2709	Seilan		Location	Yule
+2710	Seilan 	Ceylon	Location	Murray
 2711	Self-decapitation		No	Yule
 2712	Selitrennoyé Gorodok	Saltpetre Town	Location	Yule
 2713	Seljukian dynasty		No	Yule
 2714	Semal tree		No	Yule
 2715	Semedo		No	Yule
-2717	Semenat 	Sumnaut,Somnath 	Location	Murray,Yule
+2716	Semenat		Location	Yule
+2717	Semenat 	Sumnaut	Location	Murray
 2718	Sempad		Person	Yule
 2719	Sendal		No	Yule
 2720	Sendemain		Person	Yule
@@ -2739,7 +2763,7 @@
 2761	Shandu		Location	Murray
 2762	Shang-hai		No	Yule
 2763	ShangkingFungking		No	Yule
-2764	Shangtu	Shangdu,Chandu	Location	Murray,Yule
+2764	Shangtu	Shangdu,Chandu	Location	Yule
 2765	Shangtu Keibung		No	Yule
 2766	Shankárah	Shabankára,Soncara	Location	Yule
 2767	Shao-hing-fu		No	Yule
@@ -2761,6 +2785,7 @@
 2783	Sheuping		No	Yule
 2784	Shewá		No	Yule
 2785	Shi-tsung		Person	Yule
+2786	Shibrgán	Sapurgan	Location	Yule
 2787	Shieng		No	Yule
 2788	Shighnan	Syghinan	No	Yule
 2789	Shighnan 		No	Yule
@@ -2779,7 +2804,7 @@
 2802	Shut up nations		No	Yule
 2803	Shwéli 		Location	Yule
 2804	Sháliát		No	Yule
-2805	Shíráz	Cerazi	Location	Yule
+2805	Shíráz	Cerazi	No	Yule
 2806	Shúlistán	Suolstan	No	Yule
 2807	Shúls of Shauls		No	Yule
 2808	Si Hia		No	Yule
@@ -2808,6 +2833,7 @@
 2831	Simurgh		No	Yule
 2832	Simúm		No	Yule
 2833	Sin-din-fu	Tching-tou-fou	Location	Murray
+2834	Sin-gui		Location	Murray
 2835	Sin-gui 	Sou-teheou-fou	Location	Murray
 2836	Sinbad		Location	Yule
 2837	Sind	SindhuSauvira	No	Yule
@@ -2848,6 +2874,7 @@
 2872	Sluices of Grand Canal		No	Yule
 2873	Smith		Person	Yule
 2874	Sneezing		No	Yule
+2875	Socotra	Scotra	Location	Yule
 2876	Soer	Suhar	Location	Yule
 2877	Sofala		Location	Yule
 2878	Sogoman Borcan		Person	Yule
@@ -2858,6 +2885,7 @@
 2883	Soli		Location	Yule
 2884	Solomon		No	Yule
 2885	Soltania		No	Yule
+2886	Somnath 	Semenat	Location	Yule
 2887	Sonagar-pattanam		Location	Yule
 2888	Soncara	Shawankára	Location	Yule
 2889	Sondur and Condur 	Pulo Condore		Murray,Yule
@@ -2972,6 +3000,7 @@
 2998	Szechényi		No	Yule
 2999	Sálih		Person	Yule
 3000	Sárdú Pass		No	Yule
+3001	Sávah	Saba	Location	Yule
 3002	Sínkalán		No	Yule
 3003	Sírján 	Shirján	No	Yule
 3004	Síráf	Kish	No	Yule
@@ -3028,7 +3057,8 @@
 3055	Tam-pin-gui		Location	Murray
 3056	Tamarind		No	Yule
 3057	Tamerlan		No	Yule
-3059	Tana 	Bombay,Azov	Location	Murray,Yule
+3058	Tana	Azov	Location	Yule
+3059	Tana 	Bombay	Location	Murray
 3060	TanaMaiambu		Location	Yule
 3061	TanaMalayu		Location	Yule
 3062	Tanduc		Location	Yule
@@ -3072,7 +3102,7 @@
 3100	Teflis		Location	Murray
 3101	Tegana		Person	Yule
 3102	Teghele		No	Yule
-3103	Teimur	Temur	Person	Murray,Yule
+3103	Teimur	Temur	Person	Yule
 3104	Tekla		No	Yule
 3105	Tekrit		No	Yule
 3106	Telingana		Location	Yule
@@ -3083,6 +3113,7 @@
 3111	Temples account of the Condor		No	Yule
 3112	Temugin		Person	Murray
 3113	Temujin		Person	Yule
+3114	Temur		Person	Murray
 3115	Tenduc		Location	Murray,Yule
 3116	Tengri		No	Yule
 3117	Tennasserim		No	Yule
@@ -3106,15 +3137,16 @@
 3135	Thianté-Kiun		No	Yule
 3136	Thibet		Location	Murray
 3137	Thin lEvêque		No	Yule
-3139	Tholoman 	part of Yun-nan	Location	Murray,Yule
+3138	Tholoman		Location	Yule
+3139	Tholoman 	part of Yun-nan	Location	Murray
 3140	Thomas		Person	Yule
 3141	Thread		No	Yule
 3142	Three kingdoms		No	Yule
 3143	Threshold		No	Yule
 3144	Thurán Shahs History of Hormuz		No	Yule
 3145	Thévenot		No	Yule
-3146	Ti-min-gui 	King-te-ching	Location	Murray
-3147	Person	Tebet	Location	Yule
+3146	Ti-min-gui 	King-te-ching		Murray
+3147	Tibet	Tebet	Location	Yule
 3148	Tibetan language and character		No	Yule
 3149	Tibetans		No	Yule
 3150	Tides in Hang-chau estuary		No	Yule
@@ -3123,6 +3155,7 @@
 3153	Tigado		No	Yule
 3154	Tigers		No	Yule
 3155	Tigris	Volga	Location	Yule
+3156	Tigúdar	Acomat Soldan	Person	Yule
 3157	Tiju		No	Yule
 3158	Tiles		No	Yule
 3159	Tiling		No	Yule
@@ -3140,6 +3173,7 @@
 3171	Tjajya		No	Yule
 3172	Toba race		No	Yule
 3173	Toc-tai		Person	Murray
+3174	Toctai		Person	Yule
 3175	Tod		Person	Yule
 3176	Toddy		No	Yule
 3177	Togan		Person	Yule
@@ -3207,10 +3241,10 @@
 3239	Tunguses		No	Yule
 3240	Tunny fish		No	Yule
 3241	Turbit		No	Yule
-3242	Turcomania		Location	Murray,Yule
+3242	Turcomania		Organization	Murray,Yule
 3243	Turgaut		No	Yule
 3244	Turkestan		Location	Murray
-3245	Turkey	Great Turkey,Turkestan	Location	Yule
+3245	Turkey		No	Yule
 3246	Turkistan chiefs send mission to kings of India		No	Yule
 3247	Turkmans and Turks		No	Yule
 3248	Turks		No	Yule
@@ -3320,7 +3354,8 @@
 3352	Vochan	Unchan,Yungchan	Person	Yule
 3353	Vociam		Location	Murray
 3354	Vogels		No	Yule
-3356	Vokhan 	Wakhan	Location	Murray,Yule
+3355	Vokhan		Location	Yule
+3356	Vokhan 	Wakhan	Location	Murray
 3357	Volga		Location	Yule
 3358	Volga river		Location	Murray
 3359	Vos		No	Yule
@@ -3401,8 +3436,11 @@
 3434	Yang-chau	Yanju	Location	Yule
 3435	Yang-tse-kiang	Kiang	Location	Murray
 3436	Yarbeg of Badakhshan		No	Yule
-3437	Yarcan	Yarcund,Yarkand	Location	Murray,Yule
-3441	Yasdi 	Yerd,Yezd	Location	Murray,Yule
+3437	Yarcan	Yarcund	Location	Murray
+3438	Yarcund		Location	Murray
+3439	Yarkand	Yarcan	Location	Yule
+3440	Yasdi	Yezd	Location	Yule
+3441	Yasdi 	Yerd	Location	Murray
 3442	Yasodhara		Person	Yule
 3443	Yavanas		No	Yule
 3444	Yazdashir		No	Yule
@@ -3422,6 +3460,7 @@
 3458	Yesudar		No	Yule
 3459	Yesugai		Person	Yule
 3460	Yetsina	Etzina	No	Yule
+3461	Yezd	Yasdi	Location	Yule
 3462	Yiu-ki 		Location	Yule
 3463	Yonting Ho 		Location	Yule
 3464	Yoritomo		No	Yule
