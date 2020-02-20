@@ -173,8 +173,8 @@ def find_entities(data,df_murray,murray_list,murray_alternative_list):
 
 
 datapath = Path(__file__).resolve().parents[2]
-book = ['part1','part2','part3']
-#book = ['part1']
+#book = ['part1','part2','part3']
+book = ['part1']
 
 for part in book:
 
