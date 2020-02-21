@@ -48,7 +48,7 @@ def find_travel_verbs(data):
             for travel_verb in travel_verbs:
                 score = word_similarity(travel_verb,base_verb)
                 max_score = score if max_score < score else max_score
-                print(score)
+                #print(score)
 
             if max_score > 0.5:
                 travel_list.append(verb)
@@ -63,16 +63,16 @@ def find_travel_verbs(data):
 
 
 
-book = ['part2']
+book = ['part1','part2','part3']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-wordnet.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_verbs(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-wordnet.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

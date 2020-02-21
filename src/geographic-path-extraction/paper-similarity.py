@@ -12,7 +12,7 @@ nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford
 
 travel_verb_list = []
 
-with open(datapath / "results/travel-verb-list.txt", "r") as f:   #Pickling
+with open(datapath / "results/narrate-verb-list.txt", "r") as f:   #Pickling
     for line in f:
         travel_verb_list.append(line.strip())
 
@@ -55,21 +55,21 @@ def find_travel_verbs(data):
         count = count + 1
         print(count)
 
-    data['Paper Travel'] = travel_verbs_final_list
+    data['Combined Narrate'] = travel_verbs_final_list
     return data
 
 
 
-book = ['part2']
+book = ['part1','part2','part3']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs1.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-combined.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_verbs(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs1.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-combined.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

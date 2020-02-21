@@ -61,16 +61,16 @@ def find_travel_verbs(data):
 
 
 
-book = ['part2']
+book = ['part1','part2','part3']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-verbnet.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_verbs(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-verbnet.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 
