@@ -29,7 +29,7 @@ def get_relation(dependencies,word):
 
 
 
-sentence =  "The merchants going to India sail down that river to a place named Chisi, and then enter the Indian sea."
+sentence =  "Now, let us leave them, and speak of Armenia the Greater."
 
 output = nlp.annotate(sentence, properties={"outputFormat": "json", "annotators": "depparse"})
 print(output)

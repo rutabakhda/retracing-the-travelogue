@@ -1,62 +1,61 @@
-Entity	Original count	Found count
-	38	32
-Abaga	9	8
-Abatan	1	1
-Acomat	9	1
-Acomat Soldan	2	2
-Adam	3	3
-Aigiarm	1	0
-Alau	9	8
-Alexander	1	0
-Argon	27	16
-Asciar	1	1
-Baidu	3	1
-Barak	3	3
-Barka	8	8
-Boga	2	2
-Casan	7	8
-Ciagatai	1	1
-Conci	1	1
-Elcidai	1	1
-Gengis	1	1
-Gengis Khan	2	2
-George	1	1
-Jesudar	1	1
-Kaidu	13	13
-Khan	26	26
-Kublai	3	3
-Maffio	1	1
-Marco	3	3
-Marco Polo	2	2
-Messer St Thomas	2	0
-Mohammed	8	8
-Mohammedan	1	0
-Mongutemur	1	1
-Mungletemur	1	1
-Nacigai	1	1
-Nicolo	1	1
-Nicolo Polo	1	1
-Nogai	10	10
-Nomogan	1	1
-Patu	1	1
-Prester John	1	1
-Quiacatu	4	4
-Sain	1	1
-Samagar	1	1
-Sendemain	1	1
-Senderbandi Davar	1	1
-Sergamon Borcam	1	1
-Soldan	2	2
-Soldan Acomat	1	1
-St Thomas	2	1
-Taga	1	1
-Tegana	1	1
-Tiar Oulatai	1	1
-Toctai	10	8
-Toctar	1	1
-Togan	1	1
-Tolobuga	2	2
-Totamangu	7	7
-Totamongur	1	1
-Vonsanicin	1	1
-soldan	1	0
+Entity	Original count	Found count			
+Abaga	9	8			
+Abatan	1	1			
+Acomat	9	1			
+Acomat Soldan	2	2			
+Adam	3	3			
+Aigiarm	1	0			
+Alau	9	8			
+Alexander	1	0			
+Argon	27	16			
+Asciar	1	1			
+Baidu	3	1			
+Barak	3	3			
+Barka	8	8			
+Boga	2	2			
+Casan	7	8			
+Ciagatai	1	1			
+Conci	1	1			
+Elcidai	1	1			
+Gengis	1	1			
+Gengis Khan	2	2			
+George	1	1			
+Jesudar	1	1			
+Kaidu	13	13			
+Khan	26	26			
+Kublai	3	3			
+Maffio	1	1			
+Marco	3	3			
+Marco Polo	2	2			
+Messer St Thomas	2	0			47
+Mohammed	8	8			55
+Mohammedan	1	0			
+Mongutemur	1	1			
+Mungletemur	1	1			
+Nacigai	1	1			
+Nicolo	1	1			
+Nicolo Polo	1	1			
+Nogai	10	10			
+Nomogan	1	1			
+Patu	1	1			
+Prester John	1	1			
+Quiacatu	4	4			
+Sain	1	1			
+Samagar	1	1			
+Sendemain	1	1			
+Senderbandi Davar	1	1			
+Sergamon Borcam	1	1			
+Soldan	2	2			
+Soldan Acomat	1	1			
+St Thomas	2	1			
+Taga	1	1			
+Tegana	1	1			
+Tiar Oulatai	1	1			
+Toctai	10	8			
+Toctar	1	1			
+Togan	1	1			
+Tolobuga	2	2			
+Totamangu	7	7			
+Totamongur	1	1			
+Vonsanicin	1	1			
+soldan	1	0			

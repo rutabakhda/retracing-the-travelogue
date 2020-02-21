@@ -1,16 +1,8 @@
 import pandas as pd
 from pathlib import Path
 from nltk.corpus import wordnet as wn
-import re
-
-sense_key_regex = r"(.*)\%(.*):(.*):(.*):(.*):(.*)"
-synset_types = {1:'n', 2:'v', 3:'a', 4:'r', 5:'s'}
-
-def synset_from_sense_key(sense_key):
-    lemma, ss_type, lex_num, lex_id, head_word, head_id = re.match(sense_key_regex, sense_key).groups()
-    ss_idx = '.'.join([lemma, synset_types[int(ss_type)], lex_id])
-    return wn.synset(ss_idx)
-
+import pickle
+import os
 
 datapath = Path(__file__).resolve().parents[2]
 readfile = datapath / 'tools/FnWnVerbMap.1.0.txt'
@@ -20,8 +12,10 @@ with open(readfile) as f:
 
 travel_list = []
 verb_list = []
-#subs = ['arriving','departing','travel','motion','self_motion']
-subs = ['arriving']
+#subs1 = ['arriving','departing','travel','motion']
+#subs = ['arriving','departing','travel']
+subs = ['telling','statement']
+#subs = ['departing']
 for sub in subs:
     res = [i for i in content if i.startswith(sub + " ")]
     travel_list = travel_list + res
@@ -35,12 +29,20 @@ for item in travel_list:
     #print(sense_key_list)
 
     for sense_key in sense_key_list:
-        sense = synset_from_sense_key(sense_key)
-        lemmas = wn.synset(sense.name()).lemma_names()
-        verb_list = verb_list + lemmas
-        #print(wn.synset(sense.name()).lemma_names())
+        if sense_key is not '0':
+            print(sense_key)
+            print(type(wn.lemma_from_key(sense_key)))
+            sense = wn.lemma_from_key(sense_key).synset()
 
-    #print("==============")
-
+            lemmas = wn.synset(sense.name()).lemma_names()
+            verb_list = verb_list + lemmas
 
 print(verb_list)
+
+writefile = datapath / "results/narrate-verb-list.txt"
+if os.path.exists(writefile):
+    os.remove(writefile)
+
+with open(writefile, "w") as f:   #Pickling
+    for verb in verb_list:
+        f.write(str(verb) + "\n")

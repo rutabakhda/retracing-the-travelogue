@@ -16,11 +16,13 @@ def synset_from_sense_key(sense_key):
 #y = "come%2:30:01::"
 
 #x = "quit%2:38:00::"
-x = "enter%2:38:00::"
+x = "steal%2:38:01::"
 print(synset_from_sense_key(x))
 #print(synset_from_sense_key(y))
 
 #syn= wn.synsets("quit", pos=wn.VERB)
 #print(syn)
 print(wn.synset("embark.v.02").lemma_names())
+eat = wn.lemma('arrive.v.01.arrive')
+print(eat.key())
 #print(wn.synset("come.v.04").lemma_names())

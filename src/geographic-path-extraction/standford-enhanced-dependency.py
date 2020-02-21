@@ -32,7 +32,7 @@ def find_travelled_location(data):
         #narrate_verbs = row['Narrate Verbs']
         #travel_verbs = row['Travel Verbs']
         travel_verbs = row['Voted Travel']
-        narrate_verbs = row['Voted Narrate']
+        narrate_verbs = row['Paper Narrate1']
 
         matched_narrate_list = []
         matched_travel_list = []
@@ -70,7 +70,7 @@ def find_travelled_location(data):
         print(count)
 
     #data['Narrate Location'] = narrate_list
-    data['Travelled Location'] = travel_list
+    data['Travelled Location1'] = travel_list
 
     return data
 
