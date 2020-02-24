@@ -48,6 +48,6 @@ for part in book:
     if os.path.exists(writefile):
         os.remove(writefile)
 
-    outdata.to_csv(writefile, sep='\t', encoding='latin1')
+    outdata.to_csv(writefile, sep='\t', encoding='latin1',index=False)
 
 
