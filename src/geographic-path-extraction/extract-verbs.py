@@ -32,7 +32,8 @@ def find_verbs(data):
 
     return data
 
-book = ['part1','part2','part3']
+#book = ['part1','part2','part3']
+book = ['part2','part3']
 
 for part in book:
 

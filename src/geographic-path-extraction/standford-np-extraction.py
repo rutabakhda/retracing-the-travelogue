@@ -49,7 +49,7 @@ def find_travel_phrase(data):
 
     for index,row in data.iterrows():
         sentence = row['sentence']
-        travel_verbs_str = row['Paper Travel']
+        travel_verbs_str = row['Narrate verbs']
         if not isinstance(travel_verbs_str,float):
          travel_verbs = travel_verbs_str.split(",")
         else:
@@ -65,27 +65,28 @@ def find_travel_phrase(data):
         for verb in travel_verbs:
             verb_phrases = [i for i in vps if i.startswith(verb)]
 
-            print("=================")
-            if len(verb_phrases) > 1:
-                for verb_phrase in verb_phrases:
-                    temp_verb_phrases = []
-                    temp_verb_phrases = verb_phrases.copy()
-                    temp_verb_phrases.remove(verb_phrase)
-
-                    if not len(temp_verb_phrases) == 0:
-                        if any(verb_phrase in s for s in temp_verb_phrases):
-                            verb_phrases.remove(verb_phrase)
-
-            found_nps = found_nps + verb_phrases
-            # for verb_phrase in verb_phrases:
-            #     verb_phrase_changed = verb_phrase.replace(verb, "")
-            #     print(verb_phrase_changed)
-            #     verb_phrase_changed = verb_phrase_changed.strip()
-            #     if verb_phrase_changed in nps:
-            #         found_nps.append(verb_phrase)
+            # print("=================")
+            # if len(verb_phrases) > 1:
+            #     for verb_phrase in verb_phrases:
+            #         temp_verb_phrases = []
+            #         temp_verb_phrases = verb_phrases.copy()
+            #         temp_verb_phrases.remove(verb_phrase)
             #
-            #     elif verb_phrase_changed in pps:
-            #         found_nps.append(verb_phrase)
+            #         if not len(temp_verb_phrases) == 0:
+            #             if any(verb_phrase in s for s in temp_verb_phrases):
+            #                 verb_phrases.remove(verb_phrase)
+
+            # found_nps = found_nps + verb_phrases
+
+            for verb_phrase in verb_phrases:
+                 verb_phrase_changed = verb_phrase.replace(verb, "")
+                 print(verb_phrase_changed)
+                 verb_phrase_changed = verb_phrase_changed.strip()
+                 if verb_phrase_changed in nps:
+                     found_nps.append(verb_phrase)
+
+                 elif verb_phrase_changed in pps:
+                     found_nps.append(verb_phrase)
 
         nps = ','.join(found_nps)
         travel_phrase_list.append(nps)
@@ -93,7 +94,7 @@ def find_travel_phrase(data):
         print(count)
 
 
-    data['Travel Phrases2'] = travel_phrase_list
+    data['Narrate Phrases'] = travel_phrase_list
     nlp.close()
     return data
 
@@ -101,12 +102,12 @@ book = ['part2']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs1.csv'.format(part, part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part, part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_phrase(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs1.csv'.format(part, part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

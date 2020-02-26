@@ -19,9 +19,9 @@ def word_similarity(word):
     vn_results = vn.classids(lemma=word)
     for item in vn_results:
         #x = re.search("51.1|51.4.2", item)
-        #x = re.search("51",item)
+        x = re.search("51",item)
         #x = re.search("37.1.1|37.2|37.5|37.7", item)
-        x = re.search("37", item)
+        #x = re.search("37", item)
         if x is not None:
             match_found = True
 
@@ -57,7 +57,7 @@ def find_travel_verbs(data):
         count = count + 1
         print(count)
 
-    data['VerbNet Narrate'] = travel_verbs_final_list
+    data['VerbNet Travel'] = travel_verbs_final_list
     return data
 
 

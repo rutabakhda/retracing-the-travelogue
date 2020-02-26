@@ -12,7 +12,7 @@ nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford
 
 travel_verb_list = []
 
-with open(datapath / "results/narrate-verb-list.txt", "r") as f:   #Pickling
+with open(datapath / "results/travel-verb-list.txt", "r") as f:   #Pickling
     for line in f:
         travel_verb_list.append(line.strip())
 
@@ -55,13 +55,13 @@ def find_travel_verbs(data):
         count = count + 1
         print(count)
 
-    data['Combined Narrate'] = travel_verbs_final_list
+    data['Paper Travel'] = travel_verbs_final_list
     return data
 
 
 
-#book = ['part1','part2','part3']
-book = ['part1']
+book = ['part1','part2','part3']
+#book = ['part1']
 
 for part in book:
 

@@ -24,20 +24,20 @@ def find_travelled_location(data):
 
     for index,row in data.iterrows():
 
-        sentence = row['sentence']
+        sentence = row['Narrate Phrases']
         location = row['Location']
 
         #is_narrate = row['Is Narrate']
         #is_travel = row['Is Travel']
         #narrate_verbs = row['Narrate Verbs']
         #travel_verbs = row['Travel Verbs']
-        travel_verbs = row['Voted Travel']
-        narrate_verbs = row['Paper Narrate1']
+        travel_verbs = row['Travel verbs']
+        narrate_verbs = row['Narrate verbs']
 
         matched_narrate_list = []
         matched_travel_list = []
 
-        if not isinstance(location,float):
+        if not isinstance(location,float) and not isinstance(sentence,float):
             output = nlp.annotate(sentence, properties={"outputFormat": "json", "annotators": "depparse"})
             res = json.loads(output)
             res_dict = res['sentences'][0]
@@ -70,7 +70,7 @@ def find_travelled_location(data):
         print(count)
 
     #data['Narrate Location'] = narrate_list
-    data['Travelled Location1'] = travel_list
+    data['Travelled Location'] = travel_list
 
     return data
 
@@ -79,12 +79,12 @@ book = ['part2']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travelled_location(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

@@ -63,7 +63,7 @@ def change_list_size(bigger_list,smaller_list):
     return converted_list
 
 
-def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
+def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity,tagger):
 
     """
 
@@ -95,10 +95,11 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
     counter1 = Counter(converted_list1)
     counter2 = Counter(converted_list2)
 
-    if not os.path.exists(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part)):
-       os.makedirs(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part))
+    if not os.path.exists(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis'.format(part)):
+       os.makedirs(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis'.format(part))
 
-    with open(datapath / 'results/hugh-murray/{}/ner/result-analysis/murray-special-index.txt'.format(part), 'a') as f:
+    with open(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/verbs.txt'.format(part), 'a') as f:
+        f.write("\n ======================== %s ========================" % str(tagger))
         f.write("\n ======================== %s ========================" % str(entity))
         #for i in range(1, len(converted_list1)):
         #  f.write("\n%s" % str(converted_list1[i]))
@@ -119,6 +120,8 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
         f.write("\n")
         f.write("\n%s" % str(counter2))
 
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/{}-verbs.csv'.format(part,entity)
+    df = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     print("******************************************************")
     print(type(counter1))
@@ -137,25 +140,26 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
         original_count.append(counter1[key])
         found_count.append(counter2[key])
 
-    df = pd.DataFrame(data={"Entity": entity_list, "Original count": original_count, "Found count": found_count})
-    df.to_csv(datapath / 'results/hugh-murray/{}/ner/result-analysis/{}-murray-special-index.csv'.format(part,entity), sep='\t', index=False)
+    df[tagger+' count'] = found_count
+    #df = pd.DataFrame(data={"Entity": entity_list, "Original count": original_count, "Found count": found_count})
+    df.to_csv(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/{}-verbs.csv'.format(part,entity), sep='\t', index=False)
 
 datapath = Path(__file__).resolve().parents[2]
 
 book = ['part1','part2','part3']
 #book = ['part1']
-tagger = "Gazzeter"
-entities = ['Location','Person']
+tagger = "Paper"
+entities = ['Travel','Narrate']
 #book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/ner/gazetteer-murray-special-index.csv'.format(part) # Input individual index files
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part,part) # Input individual index files
 
     data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 
     for entity in entities:
-        str1 = data[entity].str.cat(sep=',')
+        str1 = data[entity + " verbs" ].str.cat(sep=',')
         str2 = data[tagger + " " + entity].str.cat(sep=',')
 
         list_of_str1 = sorted(Convert(str1))
@@ -169,4 +173,4 @@ for part in book:
         converted_list1 = change_list_size(combined_list,cleaned_list_of_str1)
         converted_list2 = change_list_size(combined_list,cleaned_list_of_str2)
 
-        F1 = compare_calculate_f1_score(converted_list1,converted_list2,part,entity)
+        F1 = compare_calculate_f1_score(converted_list1,converted_list2,part,entity,tagger)

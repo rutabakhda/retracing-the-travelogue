@@ -20,9 +20,9 @@ def verb_voting(data):
     verb_list = []
     count = 0
     for index,row in data.iterrows():
-        str1 = row['WordNet Narrate']
-        str2 = row['VerbNet Narrate']
-        str3 = row['FrameNet Narrate']
+        str1 = row['WordNet Travel']
+        str2 = row['VerbNet Travel']
+        str3 = row['FrameNet Travel']
 
 
         if pd.isnull(str1):
@@ -57,21 +57,21 @@ def verb_voting(data):
         count = count + 1
         print(count)
 
-    data['Voted Narrate'] = verb_list
+    data['Voted Travel'] = verb_list
 
     return data
 
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = verb_voting(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-verbs.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 
