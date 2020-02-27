@@ -98,7 +98,7 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
     if not os.path.exists(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part)):
        os.makedirs(datapath / 'results/hugh-murray/{}/ner/result-analysis'.format(part))
 
-    with open(datapath / 'results/hugh-murray/{}/ner/result-analysis/allenNLP.txt'.format(part), 'a') as f:
+    with open(datapath / 'results/hugh-murray/{}/ner/result-analysis/notgazetteer-allenNLP.txt'.format(part), 'a') as f:
         f.write("\n ======================== %s ========================" % str(entity))
         #for i in range(1, len(converted_list1)):
         #  f.write("\n%s" % str(converted_list1[i]))
@@ -138,24 +138,24 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
         found_count.append(counter2[key])
 
     df = pd.DataFrame(data={"Entity": entity_list, "Original count": original_count, "Found count": found_count})
-    df.to_csv(datapath / 'results/hugh-murray/{}/ner/result-analysis/{}-allenNLP.csv'.format(part,entity), sep='\t', index=False)
+    df.to_csv(datapath / 'results/hugh-murray/{}/ner/result-analysis/{}-notgazetteer-allenNLP.csv'.format(part,entity), sep='\t', index=False)
 
 datapath = Path(__file__).resolve().parents[2]
 
-#book = ['part1','part2','part3']
-book = ['part3']
+book = ['part1','part2','part3']
+#book = ['part3']
 tagger = "allenNLP"
 entities = ['Location','Person']
 #book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/ner/allenNLP.csv'.format(part) # Input individual index files
+    readfile = datapath / 'results/hugh-murray/{}/ner/gazetteer-allenNLP.csv'.format(part) # Input individual index files
 
     data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 
     for entity in entities:
-        str1 = data[entity].str.cat(sep=',')
+        str1 = data["notgazetteer " +entity].str.cat(sep=',')
         str2 = data[tagger + " " + entity].str.cat(sep=',')
 
         list_of_str1 = sorted(Convert(str1))

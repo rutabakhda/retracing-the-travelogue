@@ -1,0 +1,33 @@
+
+ ======================== Location ========================
+ precision = 0.85625 
+ recall = 0.5436507936507936
+ F1 score = 0.6650485436893203
+
+
+ true positive = 137 
+ false positive = 23
+ false negative = 115
+
+
+
+Counter({'Manji': 31, None: 23, 'Kambalu': 20, 'Cathay': 16, 'Kin-sai': 16, 'India': 11, 'Fu-gui': 10, 'son': 10, 'Mien': 9, 'Sin-gui': 9, 'Bangala': 6, 'Caraian': 6, 'Koi-gan-zu': 4, 'Tebet': 4, 'Vociam': 4, 'Amu': 3, 'Ca-cian-fu': 3, 'Cin-ghian-fu': 3, 'Facfur': 3, 'Pau-chym': 3, 'Tholoman': 3, 'Un-gui': 3, 'Achalech-Manji': 2, 'Chaym': 2, 'Cian-gli': 2, 'Cian-glu': 2, 'Condi-fu': 2, 'Cyn-gui': 2, 'Gan-fu': 2, 'Geo-gui': 2, 'Gin-gui': 2, 'Kain-du': 2, 'Kangigu': 2, 'Karazan': 2, 'Kardandan': 2, 'Kataia': 2, 'Kiang': 2, 'Lin-gui': 2, 'Nan-ghin': 2, 'Pi-an-fu': 2, 'Pin-gui': 2, 'Shandu': 2, 'Sin-din-fu': 2, 'Thibet': 2, 'Tin-gui': 2, 'Ughim': 2, 'Venice': 2, 'Yaci': 2, 'Yan-gui': 2, 'Zai-tun': 2, 'Alexandria': 1, 'Babylon': 1, 'Brius': 1, 'Cai-gui': 1, 'Can-giu': 1, 'Caya-fu': 1, 'Chen-gui': 1, 'China': 1, 'Cian-cian': 1, 'Cianganor': 1, 'Cun-chin': 1, 'Pulisangan': 1, 'Que-lin-fu': 1, 'Quen-gian-fu': 1, 'Sinugul': 1, 'Tam-pin-gui': 1, 'Ti-min-gui': 1, 'Un-quem': 1, 'Ungrat': 1})
+
+
+Counter({None: 115, 'Manji': 27, 'Kambalu': 17, 'Kin-sai': 12, 'India': 11, 'Cathay': 9, 'Fu-gui': 4, 'Koi-gan': 4, 'Sin-gui': 4, 'Vociam': 4, 'Pau-chym': 3, 'Achalech-Manji': 2, 'Amu': 2, 'Bangala': 2, 'Ca-cian': 2, 'Cian-gli': 2, 'Cian-glu': 2, 'Cin-ghin': 2, 'Condi-fu': 2, 'Kangigu': 2, 'Karazan': 2, 'Kardandan': 2, 'Mien': 2, 'Pi-an': 2, 'Shandu': 2, 'Un-gui': 2, 'Venice': 2, 'Zai-tun': 2, 'Alexandria': 1, 'Anniz': 1, 'Can-giu': 1, 'Chaym': 1, 'China': 1, 'Christendom': 1, 'Cian-cian': 1, 'Cianganor': 1, 'Cin-gui': 1, 'Con-cha': 1, 'Cun-chin': 1, 'Cyn-gui': 1, 'Gan-fu': 1, 'Gin-gui': 1, 'Kinsai': 1, 'Mangalu': 1, 'Nan-ghin': 1, 'Pin-gui': 1, 'Que-lin': 1, 'Quen-gian': 1, 'Sa-yan': 1, 'Sin-din': 1, 'Sinugul': 1, 'Ta-in': 1, 'Tartary': 1, 'Thibet': 1, 'Tholoman': 1, 'Ti-min': 1, 'Un-quem': 1, 'Yaci': 1, 'Yan-gui': 1})
+ ======================== Person ========================
+ precision = 0.64 
+ recall = 0.9458128078817734
+ F1 score = 0.7634194831013916
+
+
+ true positive = 192 
+ false positive = 108
+ false negative = 11
+
+
+
+Counter({'Khan': 128, None: 108, 'Nayan': 11, 'Achmac': 9, 'Bayam': 9, 'Kublai': 6, 'Dor': 5, 'Gengis': 5, 'Marco Polo': 5, 'Prester John': 5, 'Kaidu': 3, 'Kogatai': 3, 'Mangalu': 3, 'Nescardin': 3, 'Litan': 2, 'Temur': 2, 'Adam': 1, 'Maffio Polo': 1, 'Mangou': 1, 'Mohammed': 1})
+
+
+Counter({'Khan': 125, None: 11, 'Nayan': 11, 'Achmac': 8, 'Bayam': 8, 'Fu -': 6, 'Sin -': 6, 'Kublai': 5, 'Prester John': 5, 'Vanku': 5, 'Chenku': 4, 'Cin -': 4, 'Dor': 4, 'Gengis': 4, 'Kin -': 4, 'Marco': 4, 'Marco Polo': 4, 'Kaidu': 3, 'Kogatai': 3, 'Manji': 3, 'Messer Marco': 3, 'Nescardin': 3, 'the King': 3, 'Facfur': 2, 'Kain -': 2, 'Lin -': 2, 'Litan': 2, 'Maffio': 2, 'Messeri Nicolo': 2, 'Sa -': 2, 'Temur': 2, 'The King': 2, 'Tin -': 2, 'Adam': 1, 'Aguil': 1, 'Amu': 1, 'Bastol': 1, 'Bayam Cinqsan': 1, 'Boriat': 1, 'Brius': 1, 'Ca -': 1, 'Cai -': 1, 'Cauli': 1, 'Chaccia': 1, 'Chen -': 1, 'Chiaci': 1, 'Cicorcia': 1, 'Cyn -': 1, 'Essetemur': 1, 'Gan -': 1, 'Gengis Khan': 1, 'Geo -': 1, 'Gin -': 1, 'Gyngym Khan': 1, 'Ihave': 1, 'Jove': 1, 'Kambalu': 1, 'Kataia': 1, 'King Mangalu': 1, 'Kogatin': 1, 'Maffio Polo': 1, 'Mangalu': 1, 'Mangou': 1, 'Marsarchis': 1, 'Mien': 1, 'Migam': 1, 'Migrat': 1, 'Mohammed': 1, 'Mongatai': 1, 'Moses': 1, 'Nan -': 1, 'Natigai': 1, 'Nicolo': 1, 'Pin -': 1, 'Quesmur': 1, 'Saracens': 1, 'Sogomombar Khan': 1, 'Suchintin': 1, 'Tam -': 1, 'Tartar': 1, 'Tebet': 1, 'Tholoman': 1, 'Ughim': 1, 'Ungrat': 1, 'Yaci': 1, 'Yan -': 1, 'bulangazi': 1, 'this King': 1})
