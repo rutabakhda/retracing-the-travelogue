@@ -21,18 +21,53 @@ def extract_phrase(tree_str, label):
 
     return phrases
 
-sentence = "Did you not know that I was your enemy, and coming to attack you with this mighty host?"
+sentence = "In that province there is a grand city named Teflis, with suburbs and fortified posts around it."
 
 tree_str = nlp.parse(sentence)
-nps = extract_phrase(tree_str, 'NP')
+#nps = extract_phrase(tree_str, 'NP')
 vps = extract_phrase(tree_str, 'VP')
-pps = extract_phrase(tree_str, 'PP')
+#pps = extract_phrase(tree_str, 'PP')
 
-print(nps)
-print("================================")
-print(vps)
-print("================================")
-print(pps)
-print("================================")
+#print(nps)
+#print("================================")
+#print(vps)
+#print("================================")
+#print(pps)
+#print("================================")
 
-nlp.close()
+#print("******************************")
+#for vp in vps:
+#    print(vp)
+#print("******************************")
+verb = 'named'
+verb_phrases = [i for i in vps if i.startswith(verb)]
+print("==========================================================================")
+print(verb_phrases)
+# print("=================")
+if len(verb_phrases) > 1:
+    for verb_phrase in verb_phrases:
+        temp_verb_phrases = []
+        temp_verb_phrases = verb_phrases.copy()
+        temp_verb_phrases.remove(verb_phrase)
+#
+        if not len(temp_verb_phrases) == 0:
+             if any(verb_phrase in s for s in temp_verb_phrases):
+                verb_phrases.remove(verb_phrase)
+print("***************************")
+
+print(verb_phrases)
+for phrase in verb_phrases:
+    tree_str = nlp.parse(phrase)
+    nps = extract_phrase(tree_str, 'NP')
+    print(nps)
+
+# for verb_phrase in verb_phrases:
+#     verb_phrase_changed = verb_phrase.replace(verb, "")
+#     #print(verb_phrase_changed)
+#     verb_phrase_changed = verb_phrase_changed.strip()
+#     if verb_phrase_changed in nps:
+#         found_nps.append(verb_phrase)
+#
+#     elif verb_phrase_changed in pps:
+#         found_nps.append(verb_phrase)
+# nlp.close()

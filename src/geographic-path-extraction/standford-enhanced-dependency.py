@@ -3,13 +3,15 @@ import pandas as pd
 from pathlib import Path
 import json
 import os
+from collections import Counter
 
 def is_travelled_location(dependencies,verb_list,location):
     found_match = []
     for verb in verb_list:
-        match = [location for item in dependencies if(item['governorGloss'] == verb and item['dependentGloss'] == location)]
+        match = [item['dependentGloss']  for item in dependencies if(item['governorGloss'] == verb)]
         if match:
-            found_match = found_match + match
+            if location in match:
+                found_match.append(location)
     return found_match
 
 nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
@@ -20,56 +22,75 @@ datapath = Path(__file__).resolve().parents[2]
 def find_travelled_location(data):
     narrate_list = []
     travel_list = []
+    travel_phrase_list = []
     count = 0
 
     for index,row in data.iterrows():
 
-        sentence = row['Narrate Phrases']
+        verb_phrases = []
+        #sentence = row['Travel Noun Phrases']
+        phrases = row['Travel Noun Phrases']
+        if not isinstance(phrases,float):
+            verb_phrases = phrases.split(",")
         location = row['Location']
 
         #is_narrate = row['Is Narrate']
         #is_travel = row['Is Travel']
         #narrate_verbs = row['Narrate Verbs']
         #travel_verbs = row['Travel Verbs']
-        travel_verbs = row['Travel verbs']
-        narrate_verbs = row['Narrate verbs']
+
+        travel_verbs = row['Location']
+        if not isinstance(travel_verbs, float):
+            travel_verbs_list = travel_verbs.split(",")
+       # narrate_verbs = row['Narrate verbs']
+       # if not isinstance(narrate_verbs, float):
+       #     narrate_verbs_list = narrate_verbs.split(",")
 
         matched_narrate_list = []
         matched_travel_list = []
+        matched_travel_phrase = []
 
-        if not isinstance(location,float) and not isinstance(sentence,float):
-            output = nlp.annotate(sentence, properties={"outputFormat": "json", "annotators": "depparse"})
-            res = json.loads(output)
-            res_dict = res['sentences'][0]
-            dependencies = res_dict['enhancedDependencies']
+        if len(verb_phrases) > 1:
+            new_verb_phrase = []
+            for verb_phrase in verb_phrases:
+                #print(verb_phrases)
+                temp_verb_phrases = []
+                temp_verb_phrases = verb_phrases.copy()
+                temp_verb_phrases.remove(verb_phrase)
+                #
+                if not len(temp_verb_phrases) == 0:
+                    if any(verb_phrase in s for s in temp_verb_phrases):
+                        verb_phrases.remove(verb_phrase)
+                    else:
+                        new_verb_phrase.append(verb_phrase)
+        else:
+            new_verb_phrase = verb_phrases
 
-            location_list = location.split(",")
-
-            for location in location_list:
-                if not isinstance(narrate_verbs, float):
-                     narrate_words_list = narrate_verbs.split(",")
-                     matched_narrate_location = is_travelled_location(dependencies,narrate_words_list,location)
-                     if matched_narrate_location:
-                         matched_narrate_list = matched_narrate_list + matched_narrate_location
-
-                if not isinstance(travel_verbs, float):
-                    travel_words_list = travel_verbs.split(",")
-                    matched_travel_location = is_travelled_location(dependencies,travel_words_list, location)
-                    if matched_travel_location:
-                        matched_travel_list = matched_travel_list + matched_travel_location
+        for sentence in new_verb_phrase:
+            sentence_list = sentence.split(" ")
+            #print(sentence_list)
+            common_travel = (list((Counter(sentence_list) & Counter(travel_verbs_list)).elements()))
+            #print(common_travel)
+            if len(common_travel) != 0:
+                matched_travel_list = matched_travel_list + common_travel
+                matched_travel_phrase.append(sentence)
 
 
-        final_travel = matched_narrate_list + matched_travel_list
+
+        final_travel = matched_travel_list
+        #print(final_travel)
 
         #narrate = ', '.join([str(elem) for elem in matched_narrate_list])
         travel = ' ,'.join([str(elem) for elem in final_travel])
+        travel_phrase = ' ,'.join([str(elem) for elem in matched_travel_phrase])
 
         #narrate_list.append(narrate)
+        travel_phrase_list.append(travel_phrase)
         travel_list.append(travel)
         count = count + 1
         print(count)
 
-    #data['Narrate Location'] = narrate_list
+    data['Travel Phrases'] = travel_phrase_list
     data['Travelled Location'] = travel_list
 
     return data
@@ -84,7 +105,7 @@ for part in book:
 
     outdata = find_travelled_location(data)
 
-    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part,part)
+    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.travel.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

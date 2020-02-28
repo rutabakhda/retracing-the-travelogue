@@ -45,56 +45,68 @@ def extract_phrase(tree_str, label):
 
 def find_travel_phrase(data):
     count = 0
-    travel_phrase_list = []
+    travel_phrase_vp_list = []
+    travel_phrase_np_list = []
 
     for index,row in data.iterrows():
         sentence = row['sentence']
-        travel_verbs_str = row['Narrate verbs']
+        travel_verbs_str = row['Travel verbs']
         if not isinstance(travel_verbs_str,float):
          travel_verbs = travel_verbs_str.split(",")
         else:
             travel_verbs = []
 
         tree_str = nlp.parse(sentence)
-        nps = extract_phrase(tree_str, 'NP')
+        #nps = extract_phrase(tree_str, 'NP')
         vps = extract_phrase(tree_str, 'VP')
-        pps = extract_phrase(tree_str, 'PP')
+        #pps = extract_phrase(tree_str, 'PP')
 
+        found_vps = []
         found_nps = []
 
         for verb in travel_verbs:
             verb_phrases = [i for i in vps if i.startswith(verb)]
+            nps = []
 
-            # print("=================")
-            # if len(verb_phrases) > 1:
-            #     for verb_phrase in verb_phrases:
-            #         temp_verb_phrases = []
-            #         temp_verb_phrases = verb_phrases.copy()
-            #         temp_verb_phrases.remove(verb_phrase)
-            #
-            #         if not len(temp_verb_phrases) == 0:
-            #             if any(verb_phrase in s for s in temp_verb_phrases):
-            #                 verb_phrases.remove(verb_phrase)
+            if len(verb_phrases) > 1:
+                for verb_phrase in verb_phrases:
+                    temp_verb_phrases = []
+                    temp_verb_phrases = verb_phrases.copy()
+                    temp_verb_phrases.remove(verb_phrase)
+                    #
+                    if not len(temp_verb_phrases) == 0:
+                        if any(verb_phrase in s for s in temp_verb_phrases):
+                            verb_phrases.remove(verb_phrase)
 
-            # found_nps = found_nps + verb_phrases
-
+            print(len(verb_phrases))
             for verb_phrase in verb_phrases:
-                 verb_phrase_changed = verb_phrase.replace(verb, "")
-                 print(verb_phrase_changed)
-                 verb_phrase_changed = verb_phrase_changed.strip()
-                 if verb_phrase_changed in nps:
-                     found_nps.append(verb_phrase)
+                tree_str = nlp.parse(verb_phrase)
+                nps = extract_phrase(tree_str, 'NP')
 
-                 elif verb_phrase_changed in pps:
-                     found_nps.append(verb_phrase)
+            found_vps = found_vps + verb_phrases
+            found_nps = found_nps + nps
 
+            # for verb_phrase in verb_phrases:
+            #      verb_phrase_changed = verb_phrase.replace(verb, "")
+            #      print(verb_phrase_changed)
+            #      verb_phrase_changed = verb_phrase_changed.strip()
+            #      if verb_phrase_changed in nps:
+            #          found_nps.append(verb_phrase)
+            #
+            #      elif verb_phrase_changed in pps:
+            #          found_nps.append(verb_phrase)
+
+        vps = ','.join(found_vps)
         nps = ','.join(found_nps)
-        travel_phrase_list.append(nps)
+        travel_phrase_vp_list.append(vps)
+        travel_phrase_np_list.append(nps)
         count = count + 1
         print(count)
+        print("===============================")
 
 
-    data['Narrate Phrases'] = travel_phrase_list
+    data['Travel Verb Phrases'] = travel_phrase_vp_list
+    data['Travel Noun Phrases'] = travel_phrase_np_list
     nlp.close()
     return data
 
