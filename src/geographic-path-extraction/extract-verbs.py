@@ -5,7 +5,9 @@ import pandas as pd
 from pathlib import Path
 import os
 
-nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
+#nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
+nlp = StanfordCoreNLP('/home/ruta/master-thesis/tools/stanford-corenlp-full-2018-10-05')
+
 
 datapath = Path(__file__).resolve().parents[2]
 
@@ -16,6 +18,7 @@ def find_verbs(data):
 
     for index,row in data.iterrows():
         sentence = row['sentence']
+        print(sentence)
         pos = nlp.pos_tag(sentence)
         #print(pos)
 
@@ -33,7 +36,7 @@ def find_verbs(data):
     return data
 
 #book = ['part1','part2','part3']
-book = ['part2','part3']
+book = ['part2']
 
 for part in book:
 
@@ -42,10 +45,12 @@ for part in book:
 
     outdata = find_verbs(data)
 
-    if not os.path.exists(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction'.format(part)):
-        os.makedirs(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction'.format(part))
+    outdir = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction1'.format(part)
 
-    writefile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part,part)
+    if not os.path.isdir(outdir):
+        os.makedirs(outdir)
+
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction1/{}-annotated-with-verbs.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 
