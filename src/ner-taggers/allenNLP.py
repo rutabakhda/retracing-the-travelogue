@@ -15,7 +15,8 @@ def tagger_allenNLP(data):
     organization_list = []
 
     for index,row in data.iterrows():
-        sentence = row['sentence']
+        #sentence = row['sentence']
+        sentence = "Messer Marco Polo, of whom this book treats, governed it three years."
         result = predictor.predict(sentence)
 
         tags = result['tags']
@@ -48,13 +49,13 @@ def tagger_allenNLP(data):
 
     return data
 
-book = ['part1','part2','part3']
-#book = ['part1']
+#book = ['part1','part2','part3']
+book = ['part1']
 
 for part in book:
 
     readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-special.csv'.format(part,part)
-    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
+    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False,nrows=1)
 
     outdata = tagger_allenNLP(data)
 
