@@ -25,29 +25,29 @@ def extract_phrase(tree_str, label):
 def my_nth_txt(text, n):
     return text.split()[n]
 
-sentence = "and entering the church, they sung the holy mass, and then proceeded out to the plain in front of the mountain."
+sentence = "Now let us quit Armenia, and tell of Georgia."
 
 tree_str = nlp.parse(sentence)
 nps = extract_phrase(tree_str, 'NP')
 vps = extract_phrase(tree_str, 'VP')
 pps = extract_phrase(tree_str, 'PP')
 
-print(nps)
+#print(nps)
 #print("================================")
-#print(vps)
+print(vps)
 #print("================================")
 print(pps)
 #print("================================")
-
+print(nps)
 #print("******************************")
 #for vp in vps:
 #    print(vp)
 #print("******************************")
-verb = 'proceed'
+verb = 'tell'
 verb_phrases = [i for i in vps if i.startswith(verb)]
 print("==========================================================================")
 print(verb_phrases)
-# print("=================")
+print("=================")
 new_noun_phrase = []
 new_noun_phrase1 = []
 new_verb_phrase = []
@@ -75,7 +75,7 @@ for phrase in new_verb_phrase:
     pps = extract_phrase(tree_str, 'PP')
 
     word_after_verb = my_nth_txt(phrase,1)
-    print(word_after_verb)
+
 
     noun_phrases = [i for i in nps if i.startswith(word_after_verb)]
 
@@ -98,7 +98,6 @@ for phrase in new_verb_phrase:
 
 
     prep_phrases = [i for i in pps if i.startswith(word_after_verb)]
-
     if len(prep_phrases) > 1:
 
         for prep_phrase in prep_phrases:
@@ -114,6 +113,7 @@ for phrase in new_verb_phrase:
     else:
         new_prep_phrase = prep_phrases
 
+
     for phrase in new_prep_phrase:
 
         print("==========================")
@@ -123,6 +123,7 @@ for phrase in new_verb_phrase:
         print(nps1)
         word_after_verb1 = my_nth_txt(phrase, 1)
         print(word_after_verb1)
+
 
         noun_phrases1 = [i for i in nps1 if i.startswith(word_after_verb1)]
         print(noun_phrases1)
@@ -151,7 +152,7 @@ print(new_noun_phrase1)
 #     #print(verb_phrase_changed)
 #     verb_phrase_changed = verb_phrase_changed.strip()
 #     if verb_phrase_changed in nps:
-#         found_nps.append(verb_phrase)
+    #         found_nps.append(verb_phrase)
 #
 #     elif verb_phrase_changed in pps:
 #         found_nps.append(verb_phrase)

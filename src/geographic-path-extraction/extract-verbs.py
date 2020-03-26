@@ -35,8 +35,8 @@ def find_verbs(data):
 
     return data
 
-#book = ['part1','part2','part3']
-book = ['part2']
+book = ['part1','part2','part3']
+#book = ['part2']
 
 for part in book:
 
@@ -45,12 +45,12 @@ for part in book:
 
     outdata = find_verbs(data)
 
-    outdir = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction1'.format(part)
+    outdir = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction'.format(part)
 
     if not os.path.isdir(outdir):
         os.makedirs(outdir)
 
-    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction1/{}-annotated-with-verbs.csv'.format(part,part)
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-verbs.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

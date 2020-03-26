@@ -103,18 +103,18 @@ datapath = Path(__file__).resolve().parents[2]
 
 book = ['part1','part2','part3']
 #book = ['part1']
-tagger = "Spacy"
+tagger = "allenNLP"
 entities = ['Person','Location']
 #book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/ner/spacy.csv'.format(part) # Input individual index files
+    readfile = datapath / 'results/hugh-murray/{}/ner/gazetteer-allenNLP.csv'.format(part) # Input individual index files
 
     data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 
     for entity in entities:
-        str1 = data[entity].str.cat(sep=',')
+        str1 = data["Gazzeter " + entity].str.cat(sep=',')
         str2 = data[tagger + " " + entity].str.cat(sep=',')
 
         list_of_str1 = sorted(Convert(str1))
@@ -147,7 +147,7 @@ for part in book:
         if not os.path.exists(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers'.format(part)):
             os.makedirs(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers'.format(part))
 
-        with open(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers/spacy.txt'.format(part),'a') as f:
+        with open(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers/gazetteer-allenNLP-both.txt'.format(part),'a') as f:
             f.write("\n ======================== %s ========================" % str(tagger))
             f.write("\n ======================== %s ========================" % str(entity))
             # for i in range(1, len(converted_list1)):
