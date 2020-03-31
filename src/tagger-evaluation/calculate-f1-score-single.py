@@ -3,7 +3,6 @@ from __future__ import division
 from collections import Counter
 import os
 import pandas as pd
-
 """
 Implementation of F1 score
 
@@ -23,7 +22,7 @@ def Convert(string):
     :return: list from the string
     """
     li = list(string.split(","))
-    print(li)
+    #print(li)
     return li
 
 
@@ -63,8 +62,14 @@ def change_list_size(bigger_list,smaller_list):
     #print(converted_list)
     return converted_list
 
+def GetNum(imgStrings):
+    ss = []
+    for b in imgStrings:
+        ss.append([w for w in b.split('_') if w.isdigit()])
+        #flatten zee list of lists because it is ugly.
+        return [val for subl in ss for val in subl]
 
-def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity,tagger):
+def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity):
 
     """
 
@@ -93,85 +98,83 @@ def compare_calculate_f1_score(converted_list1,convrted_list2,part,entity,tagger
     print("recall = " + str(recall))
     print("F1 score = " + str(F1))
 
-    counter1 = Counter(converted_list1)
-    counter2 = Counter(converted_list2)
-
-    if not os.path.exists(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis'.format(part)):
-       os.makedirs(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis'.format(part))
-
-    with open(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/verbs.txt'.format(part), 'a') as f:
-        f.write("\n ======================== %s ========================" % str(tagger))
-        f.write("\n ======================== %s ========================" % str(entity))
-        #for i in range(1, len(converted_list1)):
-        #  f.write("\n%s" % str(converted_list1[i]))
-        #  f.write("\n%s" % str(converted_list2[i]))
-        f.write("\n precision = %s " % str(precision))
-        f.write("\n recall = %s" % str(recall))
-        f.write("\n F1 score = %s" % str(F1))
-        f.write("\n")
-        f.write("\n")
-        f.write("\n true positive = %s " % str(true_positive))
-        f.write("\n false positive = %s" % str(false_positive))
-        f.write("\n false negative = %s" % str(false_negative))
-        f.write("\n")
-        f.write("\n")
-        f.write("\n")
-        f.write("\n%s" % str(counter1))
-        f.write("\n")
-        f.write("\n")
-        f.write("\n%s" % str(counter2))
-
-    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/{}-verbs.csv'.format(part,entity)
-    df = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
-
-    print("******************************************************")
-    print(type(counter1))
-    counter1_dict = dict(counter1)
-    counter2_dict = dict(counter2)
-    print(type(counter2_dict))
-    entity_list = []
-    original_count = []
-    found_count = []
-    for key in counter1_dict:
-        print(key)
-        print(counter1[key])
-        print(counter2[key])
-        print("===================")
-        entity_list.append(key)
-        original_count.append(counter1[key])
-        found_count.append(counter2[key])
-
-    df[tagger+' count'] = found_count
-    #df = pd.DataFrame(data={"Entity": entity_list, "Original count": original_count, "Found count": found_count})
-    df.to_csv(datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/result-analysis/{}-verbs.csv'.format(part,entity), sep='\t', index=False)
 
 datapath = Path(__file__).resolve().parents[2]
 
 book = ['part1','part2','part3']
 #book = ['part1']
-tagger = "Paper"
-entities = ['Travel','Narrate']
+tagger = "allenNLP"
+entities = ['Person','Location']
 #book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-with-verbs.csv'.format(part,part) # Input individual index files
+    readfile = datapath / 'results/hugh-murray/{}/ner/gazetteer-allenNLP.csv'.format(part) # Input individual index files
 
     data = pd.read_csv(readfile,sep='\t', encoding='latin1',error_bad_lines=False)
 
     for entity in entities:
-        str1 = data[entity + " verbs" ].str.cat(sep=',')
+        str1 = data["Gazzeter " + entity].str.cat(sep=',')
         str2 = data[tagger + " " + entity].str.cat(sep=',')
 
         list_of_str1 = sorted(Convert(str1))
         list_of_str2 = sorted(Convert(str2))
 
+        print(list_of_str1)
+        print(list_of_str2)
+
         cleaned_list_of_str1 = [item.strip() for item in list_of_str1]
         cleaned_list_of_str2 = [item.strip() for item in list_of_str2]
 
-        combined_list = combine_lists(cleaned_list_of_str1, cleaned_list_of_str2)
+        true_positive = list((Counter(cleaned_list_of_str1) & Counter(cleaned_list_of_str2)).elements())
 
-        converted_list1 = change_list_size(combined_list,cleaned_list_of_str1)
-        converted_list2 = change_list_size(combined_list,cleaned_list_of_str2)
+        false_negative = (list((Counter(cleaned_list_of_str1) - Counter(true_positive)).elements()))
+        false_positive = (list((Counter(cleaned_list_of_str2) - Counter(true_positive)).elements()))
 
-        F1 = compare_calculate_f1_score(converted_list1,converted_list2,part,entity,tagger)
+        print("===============")
+        print(true_positive)
+        print(false_negative)
+        print(false_positive)
+
+        precision = len(true_positive) / (len(true_positive) + len(false_positive))
+        recall = len(true_positive) / (len(true_positive) + len(false_negative))
+        F1 = 2 * ((precision * recall) / (precision + recall))
+
+        print("precision = " + str(precision))
+        print("recall = " + str(recall))
+        print("F1 score = " + str(F1))
+
+        if not os.path.exists(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers'.format(part)):
+            os.makedirs(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers'.format(part))
+
+        with open(str(datapath) + '/results/hugh-murray/{}/ner/result-analysis-all-taggers/gazetteer-allenNLP-both.txt'.format(part),'a') as f:
+            f.write("\n ======================== %s ========================" % str(tagger))
+            f.write("\n ======================== %s ========================" % str(entity))
+            # for i in range(1, len(converted_list1)):
+            #  f.write("\n%s" % str(converted_list1[i]))
+            #  f.write("\n%s" % str(converted_list2[i]))
+            f.write("\n precision = %s " % str(precision))
+            f.write("\n recall = %s" % str(recall))
+            f.write("\n F1 score = %s" % str(F1))
+            f.write("\n")
+            f.write("\n")
+            f.write("\n true positive = %s " % str(true_positive))
+            f.write("\n false positive = %s" % str(false_positive))
+            f.write("\n false negative = %s" % str(false_negative))
+            f.write("\n")
+            f.write("\n")
+            f.write("\n")
+
+
+
+
+            #overlap2 = {i for i in list2_updated if any(j in i for j in list1_updated)}
+        #print(overlap2)
+
+
+        #combined_list = combine_lists(cleaned_list_of_str1, cleaned_list_of_str2)
+
+        #converted_list1 = change_list_size(combined_list,cleaned_list_of_str1)
+        #converted_list2 = change_list_size(combined_list,cleaned_list_of_str2)
+
+        #F1 = compare_calculate_f1_score(converted_list1,converted_list2,part,entity)

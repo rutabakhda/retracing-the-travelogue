@@ -1,4 +1,6 @@
+#!/usr/bin/venv python3
 import os
+from pathlib import Path
 '''
 Finding and storing sections of each chapter into separate text files
 each text file contains the number and title of each section
@@ -37,47 +39,52 @@ def find_intermediate_chars(text, sub1, sub2):
     end = text.index(sub2)
     return text[start:end]
 
+
+def separate_section(readfile, total_sections, part):
+    textfile = open(readfile, "r+")
+    fulltext = textfile.read()
+
+    #So it finds the content between 2 section numbers (in roman)
+    for i in range(1,total_sections+1):
+        # To extract the data of section i
+        # . added as section titles contain full stop at the end
+
+        start = int_to_Roman(i)+'.'   # Marks the beginning of section i
+        end = int_to_Roman(i+1)+'.'   # Marks the end of section i
+        text = ""
+        #print(start)
+        #print(end)
+        # Extracting the text for ith section marked between start and end
+        fulltext = fulltext.split(start, 1)[1]
+        text = fulltext.split(end, 1)[0]
+        text = text.replace("\n"," ")
+
+        # Section content has title and content both so it separates title and content
+        title = text.split('.', 1)[0]
+        title = title[1:].strip()
+        content = text.split('.', 1)[1].strip()
+
+        if not os.path.exists(datapath / 'results/hugh-murray/{}/OCR/{}-sections'.format(part, part)):
+            os.makedirs(datapath / 'results/hugh-murray/{}/OCR/{}-sections'.format(part, part))
+
+        # Section title will be used with section number as file name for ith section
+        newtextfile = open(datapath / 'results/hugh-murray/{}/OCR/{}-sections/{}-{}.txt'.format(part, part,i,title), "w+")
+
+        # section content will be stored as details
+        newtextfile.write(content)
+        newtextfile.close()
+
+
 '''
 Each chapter is processed individually
 Chapter 1 has total of 81 sections
 '''
-basepath = os.path.dirname(os.path.abspath(__file__))
-datapath = basepath +'/data/hugh-murray/chapter3/'  # Datapath for Statement by Members
-readfile= 'chapter3-full-original.txt'
-
-textfile = open(datapath + readfile, "r+")
-fulltext = textfile.read()
-
+# Path of the scanned pdf
+datapath = Path(__file__).resolve().parents[2]
+part = "part3"
+readfile = datapath / 'results/hugh-murray/{}/OCR/{}-full-corrected.txt'.format(part, part)
 
 #Chapter 1 has 81 sections so range is from 1 to 82
 total_sections = 61
 
-if not os.path.exists(datapath+'chapter3-sections'):
-    os.makedirs(datapath+'chapter3-sections')
-
-#So it finds the content between 2 section numbers (in roman)
-for i in range(1,total_sections+1):
-    # To extract the data of section i
-    # . added as section titles contain full stop at the end
-
-    start = int_to_Roman(i)+'.'   # Marks the beginning of section i
-    end = int_to_Roman(i+1)+'.'   # Marks the end of section i
-    text = ""
-    #print(start)
-    #print(end)
-    # Extracting the text for ith section marked between start and end
-    fulltext = fulltext.split(start, 1)[1]
-    text = fulltext.split(end, 1)[0]
-    text = text.replace("\n"," ")
-
-    # Section content has title and content both so it separates title and content
-    title = text.split('.', 1)[0]
-    title = title[1:].strip()
-    content = text.split('.', 1)[1].strip()
-
-    # Section title will be used with section number as file name for ith section
-    newtextfile = open(datapath + "chapter3-sections/"+str(i)+"-"+title+".txt", "w+")
-
-    # section content will be stored as details
-    newtextfile.write(content)
-    newtextfile.close()
+separate_section(readfile,total_sections,part)

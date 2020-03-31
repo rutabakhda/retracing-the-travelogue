@@ -20,44 +20,15 @@
 #nlp.close() # Do not forget to close! The backend server will consume a lot memery.
 
 from stanfordcorenlp import StanfordCoreNLP
-#from pycorenlp.corenlp import StanfordCoreNLP
 from nltk.tree import Tree
-from nltk.stem.wordnet import WordNetLemmatizer
-from nltk.corpus import wordnet as wn
-from itertools import product
 import pandas as pd
 from pathlib import Path
-import json
+import os
 
-nlp = StanfordCoreNLP('/home/newo1347/PycharmProjects/ruta-thesis/tools/stanford-corenlp-full-2018-10-05')
+nlp = StanfordCoreNLP('/home/ruta/master-thesis/tools/stanford-corenlp-full-2018-10-05')
 
-#sentence = 'Having thus described the merchant-vessels that go to India, I will tell you of India itself; '
-#sentence = "I love me"
-# output = nlp.annotate(sentence,properties={"outputFormat": "json","annotators": "depparse"})
-# #print(output)
-#
-# res = json.loads(output)
-# res_dict = res['sentences'][0]
-# #print(len(res_dict))
-# #print("=================")
-# dependencies = res_dict['enhancedDependencies']
-# print(type(dependencies))
-# print("=========================================")
-# item_list = ["India" for item in dependencies if (item['governorGloss'] == 'go' and item['dependentGloss'] == 'India')]
-# print(item_list)
-# for item in dependencies:
-#     print(item['governorGloss'])
-#     print(item['dependentGloss'])
-#     if (item['governorGloss'] == 'tell' and item['dependentGloss'] == 'India'):
-#         print("Match found")
-#     print("==================================")
-    #else:
-    #   print("Match not found")
-#for key,value in res_dict.items():
-#    print(key)
-#for item in res_list:
-#    print(item)
-#    print("************************")
+
+datapath = Path(__file__).resolve().parents[2]
 
 def extract_phrase(tree_str, label):
     phrases = []
@@ -71,121 +42,179 @@ def extract_phrase(tree_str, label):
 
     return phrases
 
-#tree_str = nlp.parse(sentence)
-#print (tree_str)
-#nps = extract_phrase(tree_str, 'NP')
-#print (nps)
-#print("==============================")
-#print ('Constituency Parsing:', nlp.parse(sentence))
+
+def my_nth_txt(text, n):
+    leng = text.split()
+    if len(leng) > 1:
+        return text.split()[n]
+    return ""
+
+def find_travel_phrase(data):
+    count = 0
+    travel_phrase_vp_list = []
+    travel_phrase_np_list = []
+
+    for index,row in data.iterrows():
+        sentence = row['sentence']
+        travel_verbs_str = row['Travel verbs']
+        if not isinstance(travel_verbs_str,float):
+         travel_verbs = travel_verbs_str.split(",")
+        else:
+            travel_verbs = []
+
+        tree_str = nlp.parse(sentence)
+        #nps = extract_phrase(tree_str, 'NP')
+        vps = extract_phrase(tree_str, 'VP')
+        #pps = extract_phrase(tree_str, 'PP')
+        print(vps)
+        found_vps = []
+        found_nps = []
+
+        for verb in travel_verbs:
+            verb_phrases = [i for i in vps if i.startswith(verb)]
+            nps = []
+            new_verb_phrase = []
+            new_noun_phrase = []
+            new_noun_phrase1 = []
+            new_prep_phrase = []
+
+            if len(verb_phrases) > 1:
+
+                for verb_phrase in verb_phrases:
+                    temp_verb_phrases = []
+                    temp_verb_phrases = verb_phrases.copy()
+                    temp_verb_phrases.remove(verb_phrase)
+                    #
+                    if not len(temp_verb_phrases) == 0:
+                        if any(verb_phrase in s for s in temp_verb_phrases):
+                            verb_phrases.remove(verb_phrase)
+                        else:
+                            new_verb_phrase.append(verb_phrase)
+            else:
+                new_verb_phrase = verb_phrases
+            print(new_verb_phrase)
+            for phrase in new_verb_phrase:
+                tree_str = nlp.parse(phrase)
+                nps = extract_phrase(tree_str, 'NP')
+                pps = extract_phrase(tree_str, 'PP')
+
+                print("================")
+                print(phrase)
+                word_after_verb = my_nth_txt(phrase, 1)
+                print(word_after_verb)
+
+                noun_phrases = [i for i in nps if i.startswith(word_after_verb)]
+
+                if len(noun_phrases) > 1:
+
+                    for noun_phrase in noun_phrases:
+                        temp_noun_phrases = []
+                        temp_noun_phrases = noun_phrases.copy()
+                        temp_noun_phrases.remove(noun_phrase)
+                        #
+                        if not len(temp_noun_phrases) == 0:
+                            if any(noun_phrase in s for s in temp_noun_phrases):
+                                noun_phrases.remove(noun_phrase)
+                            else:
+                                new_noun_phrase.append(noun_phrase)
+                else:
+                    new_noun_phrase = noun_phrases
 
 
-def word_similarity(wordx,wordy):
-    #wordx, wordy = "proceed", "enter"
-    sem1, sem2 = wn.synsets(wordx), wn.synsets(wordy)
-    maxscore = 0
-    for i,j in list(product(*[sem1,sem2])):
-      score = i.wup_similarity(j) # Wu-Palmer Similarity
-      #print(score)
-      if score:
-        maxscore = score if maxscore < score else maxscore
-      else:
-          maxscore = 0
+                prep_phrases = [i for i in pps if i.startswith(word_after_verb)]
 
-    return maxscore
+                if len(prep_phrases) > 1:
 
-datapath = Path(__file__).resolve().parents[2]
-
-# Input individual index files
-readfile = datapath / 'data/hugh-murray/chapter3/chapter3.csv'
-
-data = pd.read_csv(readfile,sep=',', encoding='latin1',error_bad_lines=False)
-count = 0
-narrate_final_list = []
-narrate_flag_list = []
-travel_final_list = []
-travel_flag_list = []
-
-for index,row in data.iterrows():
-    sentence = row['sentence']
-    pos = nlp.pos_tag(sentence)
-    #print(pos)
-
-    verbs = [item[0] for item in pos if item[1] in {'VB','VBD','VBG','VBN'}]
-    #print(verbs)
-    base_verb = [WordNetLemmatizer().lemmatize(word,'v') for word in verbs]
-    #print(base_verb)
-
-    narrate_list = ['describe','narrate']
-    travel_list = ['travel','voyage']
-
-    narrate_flag = 0
-    travel_flag = 0
-    score_narrate = 0
-    score_travel = 0
-
-    narrate = []
-    travel = []
-
-    for verb in verbs:
-        #print("verb is %s =" % verb)
-        base_verb = WordNetLemmatizer().lemmatize(verb,'v')
-        for item in narrate_list:
-            #print(item)
-            score_narrate = word_similarity(base_verb,item)
-            #print(score_narrate)
-            if score_narrate > 0.5:
-              narrate_flag = 1
-              narrate.append(verb)
-              break
-
-        for item in travel_list:
-            #print(item)
-            score_travel = word_similarity(base_verb,item)
-            #print(score_travel)
-            if score_travel > 0.5:
-              travel_flag = 1
-              travel.append(verb)
-              break
-
-    narrate_str = ','.join([str(elem) for elem in narrate])
-    travel_str = ','.join([str(elem) for elem in travel])
-
-    narrate_flag_list.append(narrate_flag)
-    narrate_final_list.append(narrate_str)
-    travel_flag_list.append(travel_flag)
-    travel_final_list.append(travel_str)
-
-    count = count + 1
-    print(count)
-
-data['Is Narrate'] = narrate_flag_list
-data['Is Travel'] = travel_flag_list
-data['Narrate Verbs'] = narrate_final_list
-data['Travel Verbs'] = travel_final_list
-
-writefile = datapath / 'data/hugh-murray/chapter3/chapter3-find-travel.csv'
-
-data.to_csv(writefile, sep='\t', encoding='latin1')
+                    for prep_phrase in prep_phrases:
+                        temp_prep_phrases = []
+                        temp_prep_phrases = prep_phrases.copy()
+                        temp_prep_phrases.remove(prep_phrase)
+                        #
+                        if not len(temp_prep_phrases) == 0:
+                            if any(prep_phrase in s for s in temp_prep_phrases):
+                                prep_phrases.remove(prep_phrase)
+                            else:
+                                new_prep_phrase.append(prep_phrase)
+                else:
+                    new_prep_phrase = prep_phrases
 
 
-nlp.close()
 
-#tree_str = nlp.parse(sentence)
-#print (tree_str)
-# u'(ROOT\n  (SBARQ\n    (WHNP (WP Who))\n    (SQ\n      (VP (VBZ drives)\n        (NP (DT a) (NN tractor))))\n    (. ?)))'
+                for phrase in new_prep_phrase:
 
-#nps = extract_phrase(tree_str, 'NP')
-#print (nps)
-#print("=====================================================")
-#vps = extract_phrase(tree_str, 'VP')
-#print (vps)
-#print("=====================================================")
-#print ('Part of Speech:', nlp.pos_tag(sentence))
-#print("=====================================================")
-#print ('Dependency Parsing:', nlp.dependency_parse(sentence))
-#print("=====================================================")
-#print ('Constituency Parsing:', nlp.parse(sentence))
+                    print("==========================")
+                    print(phrase)
+                    tree_str = nlp.parse(phrase)
+                    nps1 = extract_phrase(tree_str, 'NP')
+                    print(nps1)
+                    word_after_verb1 = my_nth_txt(phrase, 1)
+                    print(word_after_verb1)
 
+                    noun_phrases1 = [i for i in nps1 if i.startswith(word_after_verb1)]
+                    print(noun_phrases1)
+                    print('~~~~~~~~')
+                    if len(noun_phrases1) > 1:
+
+                        for noun_phrase1 in noun_phrases1:
+                            temp_noun_phrases1 = []
+                            temp_noun_phrases1 = noun_phrases1.copy()
+                            temp_noun_phrases1.remove(noun_phrase1)
+                            #
+                            if not len(temp_noun_phrases1) == 0:
+                                if any(noun_phrase1 in s for s in temp_noun_phrases1):
+                                    noun_phrases1.remove(noun_phrase1)
+                                else:
+                                    new_noun_phrase1.append(noun_phrase1)
+                    else:
+                        new_noun_phrase1 = noun_phrases1
+
+
+
+
+
+
+            found_vps = found_vps + new_verb_phrase
+            found_nps = found_nps + new_noun_phrase + new_noun_phrase1
+
+            # for verb_phrase in verb_phrases:
+            #      verb_phrase_changed = verb_phrase.replace(verb, "")
+            #      print(verb_phrase_changed)
+            #      verb_phrase_changed = verb_phrase_changed.strip()
+            #      if verb_phrase_changed in nps:
+            #          found_nps.append(verb_phrase)
+            #
+            #      elif verb_phrase_changed in pps:
+            #          found_nps.append(verb_phrase)
+
+        vps = ','.join(found_vps)
+        nps = ','.join(found_nps)
+        travel_phrase_vp_list.append(vps)
+        travel_phrase_np_list.append(nps)
+        count = count + 1
+        print(count)
+        print("===============================")
+
+
+    data['Travel Verb Phrases'] = travel_phrase_vp_list
+    data['Travel Noun Phrases'] = travel_phrase_np_list
+    nlp.close()
+    return data
+
+book = ['part2']
+
+for part in book:
+
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
+    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
+
+    outdata = find_travel_phrase(data)
+
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
+    if os.path.exists(writefile):
+        os.remove(writefile)
+
+
+    outdata.to_csv(writefile, sep='\t', encoding='latin1', index=False)
 
 
 
