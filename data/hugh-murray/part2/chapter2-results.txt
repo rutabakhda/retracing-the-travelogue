@@ -1,0 +1,90 @@
+
+ ======================== NLTK Location ========================
+
+true positive = 127
+false positive = 105
+false negative = 80
+precision = 0.5474137931034483
+recall = 0.6135265700483091
+F1 score = 0.5785876993166287
+
+ ======================== NLTK Person ========================
+
+true positive = 58
+false positive = 87
+false negative = 90
+precision = 0.4
+recall = 0.3918918918918919
+F1 score = 0.39590443686006827
+
+ ======================== Spacy Person ========================
+
+true positive = 69
+false positive = 57
+false negative = 79
+precision = 0.5476190476190477
+recall = 0.46621621621621623
+F1 score = 0.5036496350364964
+
+ ======================== Spacy Location ========================
+
+true positive = 85
+false positive = 37
+false negative = 122
+precision = 0.6967213114754098
+recall = 0.4106280193236715
+F1 score = 0.5167173252279635
+
+ ======================== allenNLP Location ========================
+
+true positive = 117
+false positive = 15
+false negative = 90
+precision = 0.8863636363636364
+recall = 0.5652173913043478
+F1 score = 0.6902654867256637
+
+ ======================== allenNLP Person ========================
+
+true positive = 93
+false positive = 39
+false negative = 55
+precision = 0.7045454545454546
+recall = 0.6283783783783784
+F1 score = 0.6642857142857143
+
+ ======================== Standford Person ========================
+
+true positive = 65
+false positive = 88
+false negative = 83
+precision = 0.42483660130718953
+recall = 0.4391891891891892
+F1 score = 0.4318936877076412
+
+ ======================== Standford Location ========================
+
+true positive = 81
+false positive = 27
+false negative = 126
+precision = 0.75
+recall = 0.391304347826087
+F1 score = 0.5142857142857143
+
+ ======================== Gazetter Location ========================
+
+true positive = 107
+false positive = 7
+false negative = 100
+precision = 0.9385964912280702
+recall = 0.5169082125603864
+F1 score = 0.6666666666666666
+
+ ======================== Gazetter Person ========================
+
+true positive = 26
+false positive = 18
+false negative = 122
+precision = 0.5909090909090909
+recall = 0.17567567567567569
+F1 score = 0.27083333333333337

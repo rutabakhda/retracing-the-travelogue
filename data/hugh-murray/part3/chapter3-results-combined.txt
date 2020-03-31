@@ -1,0 +1,59 @@
+
+ ======================== allenNLP Location ========================
+
+true positive = 139
+false positive = 12
+false negative = 75
+precision = 0.9205298013245033
+recall = 0.6495327102803738
+F1 score = 0.7616438356164383
+
+ ======================== allenNLP Person ========================
+
+true positive = 176
+false positive = 38
+false negative = 36
+precision = 0.822429906542056
+recall = 0.8301886792452831
+F1 score = 0.8262910798122067
+
+
+
+ ======================== Gazzeter Person ========================
+
+true positive = 186
+false positive = 2
+false negative = 26
+precision = 0.9893617021276596
+recall = 0.8773584905660378
+F1 score = 0.93
+
+ ======================== Gazzeter Location ========================
+
+true positive = 186
+false positive = 2
+false negative = 28
+precision = 0.9893617021276596
+recall = 0.8691588785046729
+F1 score = 0.9253731343283582
+<<<<<<< HEAD
+
+ ======================== allenNLP Location with index ========================
+
+true positive = 124
+false positive = 27
+false negative = 66
+precision = 0.8211920529801324
+recall = 0.6526315789473685
+F1 score = 0.7272727272727273
+
+ ======================== allenNLP Person with index ========================
+
+true positive = 133
+false positive = 81
+false negative = 28
+precision = 0.6214953271028038
+recall = 0.8260869565217391
+F1 score = 0.7093333333333334
+=======
+>>>>>>> d24deadf2a6f9fed869dd7c203e797b8cf0fb398
