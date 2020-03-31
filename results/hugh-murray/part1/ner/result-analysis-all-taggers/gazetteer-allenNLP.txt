@@ -1,0 +1,26 @@
+
+ ======================== allenNLP ========================
+ ======================== Person ========================
+ precision = 0.12 
+ recall = 0.9
+ F1 score = 0.21176470588235294
+
+
+ true positive = ['Mongatai', 'Migam', 'Facfur', 'Facfur', 'Maffio', 'Maffio', 'Marsarchis', 'Moses', 'Bayam Cinqsan', 'Chenku', 'Chenku', 'Chenku', 'Chenku', 'Messer Marco', 'Messer Marco', 'Khan', 'Kogatin', 'Sogomombar Khan', 'Jove', 'Vanku', 'Vanku', 'Vanku', 'Vanku', 'Vanku', 'Nicolo', 'Gyngym Khan', 'bulangazi', 'Messeri Nicolo', 'Messeri Nicolo', 'Gengis Khan', 'Marco', 'Marco', 'Marco', 'Marco', 'Aguil', 'Essetemur'] 
+ false positive = ['Natigai', 'The King', 'The King', 'Tebet', 'Ihave', 'Tin -', 'Tin -', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Nayan', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Geo -', 'Adam', 'Nan -', 'Chen -', 'Gan -', 'Kambalu', 'Gengis', 'Gengis', 'Gengis', 'Gengis', 'this King', 'Bayam', 'Bayam', 'Bayam', 'Bayam', 'Bayam', 'Bayam', 'Bayam', 'Bayam', 'Kogatai', 'Kogatai', 'Kogatai', 'Amu', 'Kin -', 'Kin -', 'Kin -', 'Kin -', 'Messer Marco', 'Saracens', 'Sa -', 'Sa -', 'Tholoman', 'Manji', 'Manji', 'Manji', 'Quesmur', 'Suchintin', 'Chaccia', 'Lin -', 'Lin -', 'Cai -', 'Gin -', 'Cicorcia', 'Mangou', 'Brius', 'Chiaci', 'Cyn -', 'Pin -', 'Kublai', 'Kublai', 'Kublai', 'Kublai', 'Kublai', 'the King', 'the King', 'the King', 'Mangalu', 'King Mangalu', 'Yan -', 'Marco Polo', 'Marco Polo', 'Marco Polo', 'Marco Polo', 'Sin -', 'Sin -', 'Sin -', 'Sin -', 'Sin -', 'Sin -', 'Temur', 'Temur', 'Kaidu', 'Kaidu', 'Kaidu', 'Dor', 'Dor', 'Dor', 'Dor', 'Ughim', 'Kain -', 'Kain -', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Bastol', 'Mohammed', 'Maffio Polo', 'Achmac', 'Achmac', 'Achmac', 'Achmac', 'Achmac', 'Achmac', 'Achmac', 'Achmac', 'Litan', 'Litan', 'Cauli', 'Migrat', 'Ca -', 'Tam -', 'Kataia', 'Tartar', 'Yaci', 'Ungrat', 'Boriat', 'Nescardin', 'Nescardin', 'Nescardin', 'Mien', 'Fu -', 'Fu -', 'Fu -', 'Fu -', 'Fu -', 'Fu -', 'Cin -', 'Cin -', 'Cin -', 'Cin -']
+ false negative = ['Facfur', 'Messer Marco Polo', 'Christ', 'Marco']
+
+
+
+ ======================== allenNLP ========================
+ ======================== Location ========================
+ precision = 0.0375 
+ recall = 0.2222222222222222
+ F1 score = 0.06417112299465241
+
+
+ true positive = ['Christendom', 'Anniz', 'Cin-gui', 'Con-cha', 'Tartary', 'Kinsai'] 
+ false positive = ['Cian-cian', 'Kangigu', 'Kangigu', 'Karazan', 'Karazan', 'Ca-cian', 'Ca-cian', 'Sin-din', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Kambalu', 'Sinugul', 'Bangala', 'Bangala', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Cian-gli', 'Cian-gli', 'Ta-in', 'Koi-gan', 'Koi-gan', 'Koi-gan', 'Koi-gan', 'Sa-yan', 'Mien', 'Mien', 'Venice', 'Venice', 'Condi-fu', 'Condi-fu', 'Amu', 'Amu', 'Shandu', 'Shandu', 'Pi-an', 'Pi-an', 'Yan-gui', 'Ti-min', 'Kardandan', 'Kardandan', 'Fu-gui', 'Fu-gui', 'Fu-gui', 'Fu-gui', 'Achalech-Manji', 'Achalech-Manji', 'Thibet', 'Cyn-gui', 'Pau-chym', 'Pau-chym', 'Pau-chym', 'Un-quem', 'China', 'Cian-glu', 'Cian-glu', 'Chaym', 'Cun-chin', 'Quen-gian', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'Gin-gui', 'Can-giu', 'Mangalu', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Kin-sai', 'Un-gui', 'Un-gui', 'Nan-ghin', 'Vociam', 'Vociam', 'Vociam', 'Vociam', 'Zai-tun', 'Zai-tun', 'Cin-ghin', 'Cin-ghin', 'Que-lin', 'Yaci', 'Sin-gui', 'Sin-gui', 'Sin-gui', 'Sin-gui', 'Gan-fu', 'Pin-gui', 'Alexandria', 'Tholoman', 'Cianganor', 'Cathay', 'Cathay', 'Cathay', 'Cathay', 'Cathay', 'Cathay', 'Cathay', 'Cathay', 'Cathay']
+ false negative = ['Cin-ghin-gui', 'Cin-ghin-gui', 'Achbaluch', 'Quian-su', 'Chiaci', 'Christendom', 'Bastol', 'Suchintin', 'Chaccia', 'Hindostan', 'Ta-in-fu', 'Ta-in-fu', 'Cin-gui', 'Sa-yan-fu', 'Sa-yan-fu', 'Sa-yan-fu', 'Cicorcia', 'Cauli', 'Kara-moran', 'Kara-moran', 'Kara-moran']
+
+

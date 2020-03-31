@@ -1,0 +1,26 @@
+
+ ======================== allenNLP ========================
+ ======================== Person ========================
+ precision = 0.5987261146496815 
+ recall = 0.8703703703703703
+ F1 score = 0.7094339622641509
+
+
+ true positive = ['Gaspar', 'Unchan', 'Unchan', 'Unchan', 'Argon', 'Zurficar', 'Ciagatai', 'Ciagatai', 'Ciagatai', 'Ciagatai', 'Balthazar', 'Mangou', 'Mangou', 'Mangou', 'Alaodin', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Nogodar', 'Nogodar', 'Nogodar', 'Gengis', 'Gengis', 'Gengis', 'Gengis', 'Gengis', 'Marco Polo', 'Marco Polo', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'George', 'George', 'Darius', 'Darius', 'Darius', 'Kublai', 'Kublai', 'Kublai', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Alau', 'Alau', 'Alau', 'Melchior'] 
+ false positive = ['Maffio', 'Dogana', 'Cui', 'Ruemedan Achomac', 'Ung', 'Saba', 'Darzizi', 'Cerazi', 'Noah', 'Pasciai', 'Nacygai', 'Chesciemur', 'Badascian', 'Badascian', 'Badascian', 'Asidiu Sultan', 'Casum', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'the Old', 'the Old', 'Messeri Nicolo', 'Pharaoh', 'Mangou Khan', 'Comani', 'David Melik', 'Yasdi', 'David the', 'Gengis Khan', 'Gengis Khan', 'Gengis Khan', 'Gengis Khan', 'Jatolior', 'Chandu', 'Marco', 'Marco', 'John the', 'Caliph', 'Caliph', 'Caliph', 'Tartar', 'Tartar', 'Tartar', 'Bacui', 'Creman', 'Alton', 'Khans', 'Khans', 'the King', 'Kesimur', 'Soucara', 'Baldach', 'Baldach', 'Baldach', 'Argiron', 'Cangui', 'Messer Marco', 'Messer Marco', 'Saracens']
+ false negative = ['Gengis', 'Gengis', 'Gengis', 'Gengis', 'Argon', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'David', 'David', 'Mangou', 'Alaodin']
+
+
+
+ ======================== allenNLP ========================
+ ======================== Location ========================
+ precision = 0.7969924812030075 
+ recall = 0.6198830409356725
+ F1 score = 0.6973684210526315
+
+
+ true positive = ['Balk', 'Belor', 'Ezina', 'Ezina', 'Tangut', 'Tangut', 'Tangut', 'Reobarle', 'Scassem', 'Tenduc', 'Tenduc', 'Tenduc', 'Kamul', 'Kamul', 'Pascia', 'Egrigaia', 'Karakorum', 'Karakorum', 'Sapurgan', 'Yarcan', 'Ginghintalas', 'Cormos', 'Cormos', 'Cormos', 'Venice', 'Sava', 'Tonocain', 'Turcomania', 'Turcomania', 'Cobinam', 'Cobinam', 'Cobinam', 'Laias', 'Pein', 'Baldach', 'Baldach', 'Baldach', 'Baldach', 'Baldach', 'Rome', 'Rome', 'Rome', 'Vokhan', 'Ava', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Erginul', 'Erginul', 'Georgia', 'Georgia', 'Cascar', 'Cascar', 'Cathay', 'Cathay', 'Cathay', 'Cotan', 'Cotan', 'Bagdad', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'Chisi', 'Chisi', 'Formosa', 'Toris', 'Mosul', 'Mosul', 'Mosul', 'Mosul', 'Mosul', 'Arzinga', 'Arzinga', 'Calacian', 'Armenia', 'Armenia', 'Armenia', 'Armenia', 'Armenia', 'Creman', 'Creman', 'Damascus', 'Bascra', 'Altai', 'Kurdistan', 'Succiur', 'Yrac', 'Genoa', 'Genoa', 'Bangu', 'Cianganor', 'Teflis'] 
+ false positive = ['', '', 'Canosalmi', 'GreatArmenia', 'Pisa', 'Lighinan', 'GreatTurkey.', 'Sevasto', 'Dilivar', 'Badascian', 'Badascian', 'Curmosa', 'Taikan', 'Bethlehem', 'Singuy', 'GreatTurkey', 'Cardistan', 'Kur', 'Mulecte', 'Cremosor', 'Armenia', 'Geihon', 'Idifu', 'Como', "PresterJohn's", 'Sindacui', 'Saracens']
+ false negative = ['Cielstan', 'Tangut', 'Tangut', 'Tangut', 'Tangut', 'Lop', 'Canpicion', 'Canpicion', 'Ung', 'Ung', 'Saba', 'Balk', 'Balk', 'Reobarle', 'Scassem', 'Pamier', 'Dogana', 'Armenia the Greater', 'Armenia the Greater', 'Mungul', 'Mungul', 'Altai', 'Cathay', 'Cathay', 'Cathay', 'Iron Gate', 'Euphrates', 'Euphrates', 'Levant', 'Levant', 'Chandu', 'Chisi', 'Argiron', 'Lor', 'Cerazi', 'Great Turkey', 'Great Turkey', 'Toris', 'Yarcan', 'Cormos', 'son', 'son', 'Camandu', 'Creman', 'Creman', 'Creman', 'Creman', 'Creman', 'Sacchion', 'Ciarcian', 'Ciarcian', 'Ciarcian', 'Yasdi', 'Yasdi', 'Tonocain', 'Cotan', 'Baldach', 'Baldach', 'Baldach', 'Rome', 'Samarcan', 'Samarcan', 'Samarcan', 'Vokhan', 'Kesimur']
+
+

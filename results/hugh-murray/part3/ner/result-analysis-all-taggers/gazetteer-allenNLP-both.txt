@@ -1,0 +1,26 @@
+
+ ======================== allenNLP ========================
+ ======================== Person ========================
+ precision = 0.6422018348623854 
+ recall = 0.7954545454545454
+ F1 score = 0.7106598984771573
+
+
+ true positive = ['Barka', 'Barka', 'Barka', 'Barka', 'Barka', 'Barka', 'Barka', 'Barka', 'Soldan', 'Soldan', 'Tolobuga', 'Tolobuga', 'Nicolo Polo', 'Togan', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Totamangu', 'Totamangu', 'Totamangu', 'Totamangu', 'Totamangu', 'Totamangu', 'Totamangu', 'Sendemain', 'Gengis', 'Ciagatai', 'Samagar', 'Toctai', 'Toctai', 'Toctai', 'Toctai', 'Toctai', 'Toctai', 'Toctai', 'Toctai', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Kaidu', 'Acomat Soldan', 'Acomat Soldan', 'Patu', 'Acomat', 'Alau', 'Alau', 'Alau', 'Alau', 'Alau', 'Alau', 'Alau', 'Alau', 'Nomogan', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Adam', 'Adam', 'Adam', 'Abaga', 'Abaga', 'Abaga', 'Abaga', 'Abaga', 'Abaga', 'Abaga', 'Abaga', 'Marco Polo', 'Marco Polo', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'George', 'Casan', 'Casan', 'Casan', 'Casan', 'Casan', 'Casan', 'Casan', 'Casan', 'Kublai', 'Kublai', 'Kublai', 'Tegana', 'Prester John', 'Boga', 'Boga', 'Conci', 'Asciar'] 
+ false positive = ['Creman', 'Creman', 'Gaui', 'Abatan', 'Taga', '-Noble', '-Noble', 'Mungletemur', 'Semenat', 'the Archbishop', 'Gengis Khan', 'Gengis Khan', 'Eli', 'thus', 'Soldan Acomat', 'Totamongur', 'Lambri', 'Lambri', 'Nacigai', 'Jesudar', 'Pagan', 'Nicolo', 'St Thomas', 'Zipangu', 'Maabar', 'Baidu', 'Mutfili', 'Saracens', 'Saracens', 'Dufar', 'Sain', 'Cail', 'Tana', 'Manji', 'Fansur', 'Cambaia', 'Quis', 'the Sultan', 'Mongutemur', 'Sergamon Borcam', 'Elcidai', 'Pharaoh', 'Zanghibar', 'Zanghibar', 'Abascia', 'Abascia', 'Zai -', 'Barak', 'Barak', 'Barak', 'Ferlech', 'Tiar Oulatai', 'Melibar', 'Marco', 'Marco', 'Marco', 'Quiacatu', 'Quiacatu', 'Quiacatu', 'Quiacatu', 'Toctar', 'said', 'Senderbandi Davar', 'Maffio', 'the King', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Nogai', 'Tartar', 'Tartar', 'Vonsanicin']
+ false negative = ['Gengis', 'Gengis', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Acomat', 'Soldan', 'Khan', 'Khan', 'Khan', 'Toctai', 'Toctai', 'Thomas', 'Thomas', 'Thomas', 'Thomas', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Argon', 'Alau', 'Kaidu', 'Abaga']
+
+
+
+ ======================== allenNLP ========================
+ ======================== Location ========================
+ precision = 0.6891891891891891 
+ recall = 0.5964912280701754
+ F1 score = 0.6394984326018808
+
+
+ true positive = ['Samarcand', 'Jerusalem', 'Jerusalem', 'Pentam', 'Pentam', 'Java', 'Java', 'Java', 'Lochac', 'Lochac', 'Dufar', 'Dufar', 'Manji', 'Manji', 'Manji', 'Manji', 'Manji', 'Fansur', 'Kin-sai', 'Kin-sai', 'Scotra', 'Scotra', 'Cianba', 'Cianba', 'Kesmacoran', 'Kesmacoran', 'Nerghi', 'Bagdad', 'Bagdad', 'Alexandria', 'Alexandria', 'Kambalu', 'Zanghibar', 'Acre', 'Lac', 'England', 'Cathay', 'Soer', 'Samara', 'Samara', 'Lambri', 'Gozurat', 'Gozurat', 'Cormos', 'Cormos', 'Cormos', 'Cormos', 'Venice', 'Venice', 'Comania', 'Nubia', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'Seilan', 'Seilan', 'Seilan', 'Seilan', 'Zic', 'Maabar', 'Maabar', 'Maabar', 'Maabar', 'Maabar', 'Maabar', 'Maabar', 'Madagascar', 'Karakorum', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Aden', 'Zai-tun', 'Zai-tun', 'Zai-tun', 'Escier', 'Calatu', 'Calatu'] 
+ false positive = ['Gavenispola', 'TheLesserIndia', 'Malauir', 'Aigiarm', 'Curmos', 'Curmos', 'Zin', 'Zin', 'Zinaba', 'GreatTurkey.', 'Quisci', 'Quisci', 'Basman', 'Basman', 'GreatTurkey;', 'Toctai', 'Comari', 'Comari', 'Montifi', 'Abascia', 'Abascia', 'Gucia', 'theArborSecco', 'Gazaria', 'Ferlech', 'Oroech', 'Babylonia', 'Alania', 'Arabia', 'Arabia', 'Arabia', 'Russia', 'Russia', 'Russia', 'Russia', 'Russia', 'Mengiar', 'Angaman', 'Angaman', 'Gihon', 'Gihon', 'MesserStThomas', 'Zipangu', 'Catai', 'Abaga', 'Tartar']
+ false negative = ['Creman', 'Creman', 'Java the Lesser', 'Pentam', 'Cail', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'son', 'Dufar', 'Manji', 'Manji', 'Manji', 'Fansur', 'Dagroian', 'Rome', 'Scotra', 'Cianba', 'Constantinople', 'Kesmacoran', 'Eli', 'Eli', 'Levant', 'Necuveran', 'Zanghibar', 'Zanghibar', 'Coilon', 'Coilon', 'Lac', 'Great Turkey', 'Great Turkey', 'Boga', 'Boga', 'Babylon', 'Lar', 'Lambri', 'Lambri', 'Gozurat', 'Cormos', 'Semenat', 'Nubia', 'India', 'India', 'India', 'India', 'Malabar', 'Melibar', 'Melibar', 'Sea of Sarain', 'Escier', 'Maabar', 'Maabar', 'India the Greater', 'Zai-tun', 'Tana', 'Mutfili', 'Calatu', 'Calatu', 'Calatu']
+
+

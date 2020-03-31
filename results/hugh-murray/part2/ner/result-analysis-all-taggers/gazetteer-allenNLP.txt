@@ -1,0 +1,26 @@
+
+ ======================== allenNLP ========================
+ ======================== Person ========================
+ precision = 0.16560509554140126 
+ recall = 0.6842105263157895
+ F1 score = 0.26666666666666666
+
+
+ true positive = ['Jatolior', 'Nacygai', 'Messer Marco', 'Messer Marco', 'Marco', 'Marco', 'Mangou Khan', 'Bacui', 'Cui', 'Alton', 'Prester John', 'Maffio', 'Messeri Nicolo', 'Gengis Khan', 'Gengis Khan', 'Gengis Khan', 'Gengis Khan', 'Noah', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'Alexander', 'David Melik', 'Asidiu Sultan'] 
+ false positive = ['Ruemedan Achomac', 'Khans', 'Khans', 'Cerazi', 'Soucara', 'Baldach', 'Baldach', 'Baldach', 'Balthazar', 'Argon', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Mohammed', 'Gengis', 'Gengis', 'Gengis', 'Gengis', 'Gengis', 'Pasciai', 'Caliph', 'Caliph', 'Caliph', 'Saracens', 'Creman', 'Comani', 'Kesimur', 'Argiron', 'John the', 'the King', 'Darius', 'Darius', 'Darius', 'Mangou', 'Mangou', 'Mangou', 'Alaodin', 'Darzizi', 'Ung', 'Alau', 'Alau', 'Alau', 'Kublai', 'Kublai', 'Kublai', 'Saba', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Prester John', 'Marco Polo', 'Marco Polo', 'Gaspar', 'Zurficar', 'Badascian', 'Badascian', 'Badascian', 'Casum', 'the Old', 'the Old', 'Ciagatai', 'Ciagatai', 'Ciagatai', 'Ciagatai', 'Chandu', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'Khan', 'George', 'George', 'David the', 'Nogodar', 'Nogodar', 'Nogodar', 'Melchior', 'Dogana', 'Unchan', 'Unchan', 'Unchan', 'Tartar', 'Tartar', 'Tartar', 'Cangui', 'Chesciemur', 'Pharaoh', 'Yasdi']
+ false negative = ['the Old Man', 'the Old Man', 'the Old Man', 'Jesus Christ', 'Messer Marco', 'Old Man of the Mountain', 'Old Man of the Mountain', 'the Old Man of the Mountain', 'the Old Man of the Mountain', '`', 'Guasmul', 'David the King']
+
+
+
+ ======================== allenNLP ========================
+ ======================== Location ========================
+ precision = 0.14285714285714285 
+ recall = 0.4318181818181818
+ F1 score = 0.21468926553672316
+
+
+ true positive = ['Sevasto', 'Canosalmi', 'Lighinan', 'Cremosor', 'Curmosa', 'Pisa', 'Kur', 'Cardistan', 'Taikan', 'Sindacui', 'Como', 'Dilivar', 'Mulecte', 'Idifu', 'Geihon', 'Badascian', 'Badascian', 'Singuy', 'Bethlehem'] 
+ false positive = ['', '', 'Sava', 'Venice', 'Tonocain', 'Cotan', 'Cotan', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Persia', 'Baldach', 'Baldach', 'Baldach', 'Baldach', 'Baldach', 'Ginghintalas', 'Yrac', 'GreatTurkey', 'Sapurgan', 'Cormos', 'Cormos', 'Cormos', 'Belor', 'Creman', 'Creman', 'Saracens', 'Vokhan', 'Chisi', 'Chisi', "PresterJohn's", 'Bagdad', 'Formosa', 'Ava', 'Bangu', 'Kurdistan', 'Mosul', 'Mosul', 'Mosul', 'Mosul', 'Mosul', 'Egrigaia', 'Arzinga', 'Arzinga', 'Reobarle', 'Erginul', 'Erginul', 'Turcomania', 'Turcomania', 'Balk', 'Cascar', 'Cascar', 'Calacian', 'Scassem', 'Karakorum', 'Karakorum', 'Teflis', 'Pascia', 'Toris', 'Altai', 'Succiur', 'Cobinam', 'Cobinam', 'Cobinam', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'India', 'Rome', 'Rome', 'Rome', 'GreatTurkey.', 'Pein', 'Damascus', 'Tangut', 'Tangut', 'Tangut', 'Laias', 'Georgia', 'Georgia', 'Armenia', 'Armenia', 'Armenia', 'Armenia', 'Armenia', 'Armenia', 'Tenduc', 'Tenduc', 'Tenduc', 'Ezina', 'Ezina', 'GreatArmenia', 'Kamul', 'Kamul', 'Yarcan', 'Bascra', 'Genoa', 'Genoa', 'Cianganor', 'Cathay', 'Cathay', 'Cathay']
+ false negative = ['Badasian', 'Aras', 'Gog and Magog', 'Ung and Mungul', 'Darzizi', 'Ciorcia', 'Cangui', 'lesser Armenia', 'Soucara', 'sea of India', 'sea of India', 'Indian sea', 'Casserie', 'Herdil', 'Chesciemur', 'Ruemedan Achomac', 'Ruemedan Achomac', 'great Armenia', 'Istanit', 'Badascian', 'Badascian', 'Badascian', 'Casum', 'Pasciai', 'Great Armenia']
+
+

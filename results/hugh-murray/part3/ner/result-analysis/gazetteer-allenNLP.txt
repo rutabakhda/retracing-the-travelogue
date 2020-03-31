@@ -1,0 +1,33 @@
+
+ ======================== Location ========================
+ precision = 0.6891891891891891 
+ recall = 0.5964912280701754
+ F1 score = 0.6394984326018808
+
+
+ true positive = 102 
+ false positive = 46
+ false negative = 69
+
+
+
+Counter({None: 46, 'India': 21, 'Aden': 14, 'son': 14, 'Maabar': 9, 'Manji': 8, 'Calatu': 5, 'Cormos': 5, 'Seilan': 4, 'Zai-tun': 4, 'Cianba': 3, 'Dufar': 3, 'Gozurat': 3, 'Java': 3, 'Kesmacoran': 3, 'Lambri': 3, 'Pentam': 3, 'Scotra': 3, 'Zanghibar': 3, 'Alexandria': 2, 'Bagdad': 2, 'Boga': 2, 'Coilon': 2, 'Creman': 2, 'Eli': 2, 'Escier': 2, 'Fansur': 2, 'Great Turkey': 2, 'Jerusalem': 2, 'Kin-sai': 2, 'Lac': 2, 'Lochac': 2, 'Melibar': 2, 'Nubia': 2, 'Samara': 2, 'Venice': 2, 'Acre': 1, 'Babylon': 1, 'Cail': 1, 'Cathay': 1, 'Comania': 1, 'Constantinople': 1, 'Dagroian': 1, 'England': 1, 'India the Greater': 1, 'Java the Lesser': 1, 'Kambalu': 1, 'Karakorum': 1, 'Lar': 1, 'Levant': 1, 'Madagascar': 1, 'Malabar': 1, 'Mutfili': 1, 'Necuveran': 1, 'Nerghi': 1, 'Rome': 1, 'Samarcand': 1, 'Sea of Sarain': 1, 'Semenat': 1, 'Soer': 1, 'Tana': 1, 'Zic': 1})
+
+
+Counter({None: 69, 'India': 17, 'Aden': 14, 'Maabar': 7, 'Manji': 5, 'Russia': 5, 'Cormos': 4, 'Seilan': 4, 'Arabia': 3, 'Java': 3, 'Zai-tun': 3, 'Abascia': 2, 'Alexandria': 2, 'Angaman': 2, 'Bagdad': 2, 'Basman': 2, 'Calatu': 2, 'Cianba': 2, 'Comari': 2, 'Curmos': 2, 'Dufar': 2, 'Gihon': 2, 'Gozurat': 2, 'Jerusalem': 2, 'Kesmacoran': 2, 'Kin-sai': 2, 'Lochac': 2, 'Pentam': 2, 'Quisci': 2, 'Samara': 2, 'Scotra': 2, 'Venice': 2, 'Zin': 2, 'Abaga': 1, 'Acre': 1, 'Aigiarm': 1, 'Alania': 1, 'Babylonia': 1, 'Catai': 1, 'Cathay': 1, 'Comania': 1, 'England': 1, 'Escier': 1, 'Fansur': 1, 'Ferlech': 1, 'Gavenispola': 1, 'Gazaria': 1, 'GreatTurkey.': 1, 'GreatTurkey;': 1, 'Gucia': 1, 'Kambalu': 1, 'Karakorum': 1, 'Lac': 1, 'Lambri': 1, 'Madagascar': 1, 'Malauir': 1, 'Mengiar': 1, 'MesserStThomas': 1, 'Montifi': 1, 'Nerghi': 1, 'Nubia': 1, 'Oroech': 1, 'Samarcand': 1, 'Soer': 1, 'Tartar': 1, 'TheLesserIndia': 1, 'Toctai': 1, 'Zanghibar': 1, 'Zic': 1, 'Zinaba': 1, 'Zipangu': 1, 'theArborSecco': 1})
+ ======================== Person ========================
+ precision = 0.6422018348623854 
+ recall = 0.7954545454545454
+ F1 score = 0.7106598984771573
+
+
+ true positive = 140 
+ false positive = 78
+ false negative = 36
+
+
+
+Counter({None: 78, 'Khan': 29, 'Argon': 28, 'Kaidu': 14, 'Acomat': 10, 'Toctai': 10, 'Abaga': 9, 'Alau': 9, 'Barka': 8, 'Casan': 8, 'Mohammed': 8, 'Totamangu': 7, 'Thomas': 4, 'Adam': 3, 'Gengis': 3, 'Kublai': 3, 'Soldan': 3, 'Acomat Soldan': 2, 'Boga': 2, 'Marco Polo': 2, 'Tolobuga': 2, 'Asciar': 1, 'Ciagatai': 1, 'Conci': 1, 'George': 1, 'Nicolo Polo': 1, 'Nomogan': 1, 'Patu': 1, 'Prester John': 1, 'Samagar': 1, 'Sendemain': 1, 'Tegana': 1, 'Togan': 1})
+
+
+Counter({None: 36, 'Khan': 26, 'Argon': 16, 'Kaidu': 13, 'Nogai': 10, 'Abaga': 8, 'Alau': 8, 'Barka': 8, 'Casan': 8, 'Mohammed': 8, 'Toctai': 8, 'Totamangu': 7, 'Quiacatu': 4, 'Adam': 3, 'Barak': 3, 'Kublai': 3, 'Marco': 3, '-Noble': 2, 'Abascia': 2, 'Acomat Soldan': 2, 'Boga': 2, 'Creman': 2, 'Gengis Khan': 2, 'Lambri': 2, 'Marco Polo': 2, 'Saracens': 2, 'Soldan': 2, 'Tartar': 2, 'Tolobuga': 2, 'Zanghibar': 2, 'Abatan': 1, 'Acomat': 1, 'Asciar': 1, 'Baidu': 1, 'Cail': 1, 'Cambaia': 1, 'Ciagatai': 1, 'Conci': 1, 'Dufar': 1, 'Elcidai': 1, 'Eli': 1, 'Fansur': 1, 'Ferlech': 1, 'Gaui': 1, 'Gengis': 1, 'George': 1, 'Jesudar': 1, 'Maabar': 1, 'Maffio': 1, 'Manji': 1, 'Melibar': 1, 'Mongutemur': 1, 'Mungletemur': 1, 'Mutfili': 1, 'Nacigai': 1, 'Nicolo': 1, 'Nicolo Polo': 1, 'Nomogan': 1, 'Pagan': 1, 'Patu': 1, 'Pharaoh': 1, 'Prester John': 1, 'Quis': 1, 'Sain': 1, 'Samagar': 1, 'Semenat': 1, 'Sendemain': 1, 'Senderbandi Davar': 1, 'Sergamon Borcam': 1, 'Soldan Acomat': 1, 'St Thomas': 1, 'Taga': 1, 'Tana': 1, 'Tegana': 1, 'Tiar Oulatai': 1, 'Toctar': 1, 'Togan': 1, 'Totamongur': 1, 'Vonsanicin': 1, 'Zai -': 1, 'Zipangu': 1, 'said': 1, 'the Archbishop': 1, 'the King': 1, 'the Sultan': 1, 'thus': 1})

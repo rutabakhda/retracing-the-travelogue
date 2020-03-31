@@ -1,0 +1,33 @@
+
+ ======================== Location ========================
+ precision = 0.9324324324324325 
+ recall = 0.6448598130841121
+ F1 score = 0.7624309392265193
+
+
+ true positive = 138 
+ false positive = 10
+ false negative = 76
+
+
+
+Counter({'India': 18, 'Aden': 14, None: 10, 'Maabar': 9, 'Abascia': 8, 'Manji': 8, 'Calatu': 5, 'Cormos': 5, 'Russia': 5, 'Seilan': 4, 'Zai-tun': 4, 'Arabia': 3, 'Cianba': 3, 'Dufar': 3, 'Gozurat': 3, 'Java': 3, 'Kesmacoran': 3, 'Lambri': 3, 'Pentam': 3, 'Scotra': 3, 'Zanghibar': 3, 'Alexandria': 2, 'Angaman': 2, 'Bagdad': 2, 'Basman': 2, 'Coilon': 2, 'Comari': 2, 'Creman': 2, 'Curmos': 2, 'Eli': 2, 'Escier': 2, 'Fansur': 2, 'Female': 2, 'Ferlech': 2, 'Gihon': 2, 'Great Turkey': 2, 'Jerusalem': 2, 'Kin-sai': 2, 'Lac': 2, 'Lochac': 2, 'Male': 2, 'Melibar': 2, 'Nubia': 2, 'Quis': 2, 'Quisci': 2, 'Samara': 2, 'Venice': 2, 'Zin': 2, 'Zipangu': 2, 'Acre': 1, 'Alania': 1, 'Babylon': 1, 'Babylonia': 1, 'Cail': 1, 'Cambaia': 1, 'Catai': 1, 'Cathay': 1, 'Comania': 1, 'Condur': 1, 'Constantinople': 1, 'Dagroian': 1, 'Gavenispola': 1, 'Gazaria': 1, 'Great Russia': 1, 'Great Sea': 1, 'Greater Sea': 1, 'Gucia': 1, 'India the Greater': 1, 'Java the Lesser': 1, 'Kambalu': 1, 'Karakorum': 1, 'Lar': 1, 'Levant': 1, 'Madagascar': 1, 'Malabar': 1, 'Malauir': 1, 'Mengiar': 1, 'Montifi': 1, 'Mutfili': 1, 'Necuveran': 1, 'Nerghi': 1, 'Obscurity': 1, 'Oroech': 1, 'Rome': 1, 'Samarcand': 1, 'Sea of Sarain': 1, 'Semenat': 1, 'Soer': 1, 'Sondur': 1, 'Tana': 1, 'The Lesser India': 1, 'Zic': 1, 'Zinaba': 1, 'sea of England': 1, 'sea of Rochelle': 1, 'the Greater India': 1, 'the Middle India': 1})
+
+
+Counter({None: 76, 'India': 17, 'Aden': 14, 'Maabar': 7, 'Manji': 5, 'Russia': 5, 'Cormos': 4, 'Seilan': 4, 'Arabia': 3, 'Java': 3, 'Zai-tun': 3, 'Abascia': 2, 'Alexandria': 2, 'Angaman': 2, 'Bagdad': 2, 'Basman': 2, 'Calatu': 2, 'Cianba': 2, 'Comari': 2, 'Curmos': 2, 'Dufar': 2, 'Gihon': 2, 'Gozurat': 2, 'Jerusalem': 2, 'Kesmacoran': 2, 'Kin-sai': 2, 'Lochac': 2, 'Pentam': 2, 'Quisci': 2, 'Samara': 2, 'Scotra': 2, 'Venice': 2, 'Zin': 2, 'Abaga': 1, 'Acre': 1, 'Aigiarm': 1, 'Alania': 1, 'Babylonia': 1, 'Catai': 1, 'Cathay': 1, 'Comania': 1, 'England': 1, 'Escier': 1, 'Fansur': 1, 'Ferlech': 1, 'Gavenispola': 1, 'Gazaria': 1, 'GreatTurkey.': 1, 'GreatTurkey;': 1, 'Gucia': 1, 'Kambalu': 1, 'Karakorum': 1, 'Lac': 1, 'Lambri': 1, 'Madagascar': 1, 'Malauir': 1, 'Mengiar': 1, 'MesserStThomas': 1, 'Montifi': 1, 'Nerghi': 1, 'Nubia': 1, 'Oroech': 1, 'Samarcand': 1, 'Soer': 1, 'Tartar': 1, 'TheLesserIndia': 1, 'Toctai': 1, 'Zanghibar': 1, 'Zic': 1, 'Zinaba': 1, 'Zipangu': 1, 'theArborSecco': 1})
+ ======================== Person ========================
+ precision = 0.8256880733944955 
+ recall = 0.8490566037735849
+ F1 score = 0.8372093023255816
+
+
+ true positive = 180 
+ false positive = 38
+ false negative = 32
+
+
+
+Counter({None: 38, 'Argon': 27, 'Khan': 26, 'Kaidu': 13, 'Nogai': 10, 'Toctai': 10, 'Abaga': 9, 'Acomat': 9, 'Alau': 9, 'Barka': 8, 'Mohammed': 8, 'Casan': 7, 'Totamangu': 7, 'Quiacatu': 4, 'Adam': 3, 'Baidu': 3, 'Barak': 3, 'Kublai': 3, 'Marco': 3, 'Acomat Soldan': 2, 'Boga': 2, 'Gengis Khan': 2, 'Marco Polo': 2, 'Messer St Thomas': 2, 'Soldan': 2, 'St Thomas': 2, 'Tolobuga': 2, 'Abatan': 1, 'Aigiarm': 1, 'Alexander': 1, 'Asciar': 1, 'Ciagatai': 1, 'Conci': 1, 'Elcidai': 1, 'Gengis': 1, 'George': 1, 'Jesudar': 1, 'Maffio': 1, 'Mohammedan': 1, 'Mongutemur': 1, 'Mungletemur': 1, 'Nacigai': 1, 'Nicolo': 1, 'Nicolo Polo': 1, 'Nomogan': 1, 'Patu': 1, 'Prester John': 1, 'Sain': 1, 'Samagar': 1, 'Sendemain': 1, 'Senderbandi Davar': 1, 'Sergamon Borcam': 1, 'Soldan Acomat': 1, 'Taga': 1, 'Tegana': 1, 'Tiar Oulatai': 1, 'Toctar': 1, 'Togan': 1, 'Totamongur': 1, 'Vonsanicin': 1, 'soldan': 1})
+
+
+Counter({None: 32, 'Khan': 26, 'Argon': 16, 'Kaidu': 13, 'Nogai': 10, 'Abaga': 8, 'Alau': 8, 'Barka': 8, 'Casan': 8, 'Mohammed': 8, 'Toctai': 8, 'Totamangu': 7, 'Quiacatu': 4, 'Adam': 3, 'Barak': 3, 'Kublai': 3, 'Marco': 3, '-Noble': 2, 'Abascia': 2, 'Acomat Soldan': 2, 'Boga': 2, 'Creman': 2, 'Gengis Khan': 2, 'Lambri': 2, 'Marco Polo': 2, 'Saracens': 2, 'Soldan': 2, 'Tartar': 2, 'Tolobuga': 2, 'Zanghibar': 2, 'Abatan': 1, 'Acomat': 1, 'Asciar': 1, 'Baidu': 1, 'Cail': 1, 'Cambaia': 1, 'Ciagatai': 1, 'Conci': 1, 'Dufar': 1, 'Elcidai': 1, 'Eli': 1, 'Fansur': 1, 'Ferlech': 1, 'Gaui': 1, 'Gengis': 1, 'George': 1, 'Jesudar': 1, 'Maabar': 1, 'Maffio': 1, 'Manji': 1, 'Melibar': 1, 'Mongutemur': 1, 'Mungletemur': 1, 'Mutfili': 1, 'Nacigai': 1, 'Nicolo': 1, 'Nicolo Polo': 1, 'Nomogan': 1, 'Pagan': 1, 'Patu': 1, 'Pharaoh': 1, 'Prester John': 1, 'Quis': 1, 'Sain': 1, 'Samagar': 1, 'Semenat': 1, 'Sendemain': 1, 'Senderbandi Davar': 1, 'Sergamon Borcam': 1, 'Soldan Acomat': 1, 'St Thomas': 1, 'Taga': 1, 'Tana': 1, 'Tegana': 1, 'Tiar Oulatai': 1, 'Toctar': 1, 'Togan': 1, 'Totamongur': 1, 'Vonsanicin': 1, 'Zai -': 1, 'Zipangu': 1, 'said': 1, 'the Archbishop': 1, 'the King': 1, 'the Sultan': 1, 'thus': 1})

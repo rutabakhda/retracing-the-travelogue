@@ -1,0 +1,171 @@
+
+ ======================== VerbNet ========================
+ ======================== Travel ========================
+ precision = 0.7235294117647059 
+ recall = 0.803921568627451
+ F1 score = 0.7616099071207432
+
+
+ true positive = 246 
+ false positive = 94
+ false negative = 60
+
+
+
+Counter({None: 94, 'go': 17, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'marched': 10, 'going': 9, 'leave': 9, 'return': 9, 'proceed': 8, 'returned': 8, 'went': 8, 'coming': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'frequented': 5, 'landed': 5, 'leaving': 5, 'left': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'led': 3, 'marching': 3, 'mounted': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'riding': 3, 'sail': 3, 'Leaving': 2, 'accompanied': 2, 'convey': 2, 'conveyed': 2, 'departed': 2, 'disembarked': 2, 'driven': 2, 'fled': 2, 'gone': 2, 'move': 2, 'proceeding': 2, 'reaching': 2, 'stopped': 2, 'travel': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, '': 1, 'Go': 1, 'accompany': 1, 'approaching': 1, 'arranged': 1, 'arriving': 1, 'ascend': 1, 'continued': 1, 'displayed': 1, 'drove': 1, 'entering': 1, 'entreated': 1, 'enumerate': 1, 'escaping': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'flying': 1, 'forwarded': 1, 'journeyed': 1, 'lead': 1, 'leading': 1, 'mounting': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'retreated': 1, 'ride': 1, 'set': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1})
+
+
+Counter({None: 60, 'made': 32, 'go': 17, 'came': 14, 'make': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'going': 10, 'marched': 10, 'leave': 9, 'return': 9, 'returned': 8, 'went': 8, 'following': 7, 'left': 7, 'coming': 6, 'making': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'leaving': 5, 'led': 5, 'reached': 5, 'sailed': 5, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'driven': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'leading': 3, 'marching': 3, 'move': 3, 'returning': 3, 'rose': 3, 'sail': 3, 'travel': 3, 'accompanied': 2, 'dance': 2, 'departed': 2, 'disembarked': 2, 'entering': 2, 'fled': 2, 'flying': 2, 'gone': 2, 'hoping': 2, 'lead': 2, 'reaching': 2, 'rising': 2, 'travelled': 2, 'travelling': 2, 'turned': 2, 'accompany': 1, 'approaching': 1, 'arriving': 1, 'ascend': 1, 'ascended': 1, 'descended': 1, 'drop': 1, 'drove': 1, 'escaping': 1, 'fallen': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'follow': 1, 'followed': 1, 'journeyed': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'pursuing': 1, 'rallied': 1, 'ride': 1, 'rise': 1, 'rolling': 1, 'spun': 1, 'turn': 1, 'walk': 1, 'walked': 1})
+ ======================== VerbNet ========================
+ ======================== Narrate ========================
+ precision = 0.8260869565217391 
+ recall = 0.7095435684647303
+ F1 score = 0.7633928571428572
+
+
+ true positive = 171 
+ false positive = 36
+ false negative = 70
+
+
+
+Counter({None: 36, 'tell': 30, 'named': 27, 'called': 23, 'said': 13, 'know': 9, 'say': 9, 'told': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 6, 'speak': 6, 'addressed': 5, 'asked': 5, 'describe': 5, 'mentioned': 5, 'replied': 4, 'add': 3, 'knowing': 3, 'mentioning': 3, 'spoken': 3, 'inform': 2, 'inquired': 2, 'observe': 2, 'observing': 2, 'telling': 2, 'admitted': 1, 'advised': 1, 'answer': 1, 'asking': 1, 'assure': 1, 'assured': 1, 'concluded': 1, 'describing': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'introduce': 1, 'introduced': 1, 'known': 1, 'narrate': 1, 'related': 1, 'reported': 1, 'resume': 1, 'secure': 1, 'spake': 1, 'spoke': 1, 'summoned': 1, 'warned': 1})
+
+
+Counter({None: 70, 'tell': 30, 'called': 24, 'said': 14, 'told': 10, 'say': 9, 'declared': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 7, 'mentioned': 6, 'speak': 6, 'asked': 5, 'replied': 4, 'spoken': 4, 'assured': 3, 'convey': 3, 'conveyed': 3, 'mentioning': 3, 'observe': 3, 'call': 2, 'calling': 2, 'inform': 2, 'inquired': 2, 'observing': 2, 'reported': 2, 'showed': 2, 'sing': 2, 'telling': 2, 'warned': 2, 'written': 2, 'admitted': 1, 'advised': 1, 'argued': 1, 'asking': 1, 'assure': 1, 'confided': 1, 'encouraged': 1, 'encouraging': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'narrate': 1, 'preached': 1, 'read': 1, 'recounted': 1, 'related': 1, 'repeated': 1, 'show': 1, 'spoke': 1})
+ ======================== WordNet ========================
+ ======================== Travel ========================
+ precision = 0.5896805896805897 
+ recall = 0.7843137254901961
+ F1 score = 0.6732117812061712
+
+
+ true positive = 240 
+ false positive = 167
+ false negative = 66
+
+
+
+Counter({None: 167, 'go': 17, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'marched': 10, 'going': 9, 'leave': 9, 'return': 9, 'proceed': 8, 'returned': 8, 'went': 8, 'coming': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'frequented': 5, 'landed': 5, 'leaving': 5, 'left': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'led': 3, 'marching': 3, 'mounted': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'riding': 3, 'sail': 3, 'Leaving': 2, 'accompanied': 2, 'convey': 2, 'conveyed': 2, 'departed': 2, 'disembarked': 2, 'driven': 2, 'fled': 2, 'gone': 2, 'move': 2, 'proceeding': 2, 'reaching': 2, 'stopped': 2, 'travel': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, '': 1, 'Go': 1, 'accompany': 1, 'approaching': 1, 'arranged': 1, 'arriving': 1, 'ascend': 1, 'continued': 1, 'displayed': 1, 'drove': 1, 'entering': 1, 'entreated': 1, 'enumerate': 1, 'escaping': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'flying': 1, 'forwarded': 1, 'journeyed': 1, 'lead': 1, 'leading': 1, 'mounting': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'retreated': 1, 'ride': 1, 'set': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1})
+
+
+Counter({None: 66, 'go': 17, 'did': 15, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'fell': 10, 'going': 10, 'leave': 9, 'return': 9, 'cut': 8, 'proceed': 8, 'returned': 8, 'went': 8, 'carry': 7, 'following': 7, 'left': 7, 'seeing': 7, 'seen': 7, 'arose': 6, 'coming': 6, 'reach': 6, 'arrived': 5, 'carried': 5, 'depart': 5, 'done': 5, 'landed': 5, 'leaving': 5, 'led': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'do': 4, 'pursued': 4, 'see': 4, 'spread': 4, 'wounded': 4, 'departing': 3, 'driven': 3, 'leading': 3, 'move': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'rose': 3, 'sail': 3, 'saw': 3, 'travel': 3, 'Leaving': 2, 'accompanied': 2, 'cast': 2, 'departed': 2, 'dragging': 2, 'drawing': 2, 'drawn': 2, 'drew': 2, 'flying': 2, 'gone': 2, 'hoping': 2, 'lead': 2, 'proceeding': 2, 'ranged': 2, 'reaching': 2, 'retreated': 2, 'rising': 2, 'seek': 2, 'seeking': 2, 'travelled': 2, 'travelling': 2, 'turned': 2, 'visited': 2, 'Go': 1, 'Repairing': 1, 'Seeing': 1, 'accompany': 1, 'arisen': 1, 'arriving': 1, 'ascend': 1, 'ascended': 1, 'blew': 1, 'blow': 1, 'carrying': 1, 'casting': 1, 'changed': 1, 'circulated': 1, 'continue': 1, 'continued': 1, 'cutting': 1, 'descended': 1, 'doing': 1, 'drag': 1, 'dragged': 1, 'drove': 1, 'fallen': 1, 'flew': 1, 'fly': 1, 'follow': 1, 'followed': 1, 'get': 1, 'getting': 1, 'journeyed': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'push': 1, 'renounce': 1, 'repair': 1, 'resign': 1, 'ride': 1, 'rise': 1, 'rolling': 1, 'sought': 1, 'surpassed': 1, 'turn': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1, 'wheeled': 1, 'withdraw': 1, 'woven': 1})
+ ======================== WordNet ========================
+ ======================== Narrate ========================
+ precision = 0.1879460745440127 
+ recall = 0.983402489626556
+ F1 score = 0.3155792276964048
+
+
+ true positive = 237 
+ false positive = 1024
+ false negative = 4
+
+
+
+Counter({None: 1024, 'tell': 30, 'named': 27, 'called': 23, 'said': 13, 'know': 9, 'say': 9, 'told': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 6, 'speak': 6, 'addressed': 5, 'asked': 5, 'describe': 5, 'mentioned': 5, 'replied': 4, 'add': 3, 'knowing': 3, 'mentioning': 3, 'spoken': 3, 'inform': 2, 'inquired': 2, 'observe': 2, 'observing': 2, 'telling': 2, 'admitted': 1, 'advised': 1, 'answer': 1, 'asking': 1, 'assure': 1, 'assured': 1, 'concluded': 1, 'describing': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'introduce': 1, 'introduced': 1, 'known': 1, 'narrate': 1, 'related': 1, 'reported': 1, 'resume': 1, 'secure': 1, 'spake': 1, 'spoke': 1, 'summoned': 1, 'warned': 1})
+
+
+Counter({'was': 116, 'be': 70, 'had': 59, 'being': 50, 'were': 48, 'having': 36, 'tell': 30, 'named': 27, 'been': 24, 'called': 24, 'sent': 17, 'assembled': 16, 'Having': 15, 'have': 15, 'said': 14, 'set': 13, 'know': 12, 'take': 12, 'rushed': 11, 'told': 10, 'leave': 9, 'prepared': 9, 'return': 9, 'say': 9, 'began': 8, 'cut': 8, 'declared': 8, 'described': 8, 'mention': 8, 'ordered': 8, 'proceed': 8, 'relate': 8, 'returned': 8, 'saying': 8, 'took': 8, 'carry': 7, 'given': 7, 'informed': 7, 'learned': 7, 'left': 7, 'seeing': 7, 'seen': 7, 'addressed': 6, 'covered': 6, 'give': 6, 'meet': 6, 'mentioned': 6, 'reach': 6, 'speak': 6, 'summoned': 6, 'taken': 6, 'treat': 6, 'asked': 5, 'carried': 5, 'describe': 5, 'gave': 5, 'leaving': 5, 'led': 5, 'put': 5, 'quarrel': 5, 'reached': 5, 'threw': 5, 'Being': 4, None: 4, 'advanced': 4, 'desired': 4, 'lying': 4, 'pay': 4, 'replied': 4, 'resolved': 4, 'see': 4, 'spoken': 4, 'spread': 4, 'account': 3, 'add': 3, 'assured': 3, 'considered': 3, 'convey': 3, 'conveyed': 3, 'covering': 3, 'defend': 3, 'driven': 3, 'held': 3, 'holding': 3, 'knowing': 3, 'known': 3, 'lay': 3, 'leading': 3, 'learning': 3, 'mentioning': 3, 'move': 3, 'observe': 3, 'offered': 3, 'paid': 3, 'pass': 3, 'placed': 3, 'pray': 3, 'proceeded': 3, 'raise': 3, 'returning': 3, 'saw': 3, 'sound': 3, 'struck': 3, 'support': 3, 'wished': 3, 'Leaving': 2, 'accounted': 2, 'asserted': 2, 'bid': 2, 'call': 2, 'calling': 2, 'cast': 2, 'commanded': 2, 'considering': 2, 'deceived': 2, 'desiring': 2, 'destined': 2, 'discover': 2, 'distributed': 2, 'drawing': 2, 'drawn': 2, 'drew': 2, 'expressed': 2, 'giving': 2, 'inform': 2, 'inquired': 2, 'keep': 2, 'kept': 2, 'lead': 2, 'met': 2, 'observing': 2, 'offering': 2, 'oppose': 2, 'placing': 2, 'posted': 2, 'prepare': 2, 'presented': 2, 'proceeding': 2, 'reaching': 2, 'reported': 2, 'represented': 2, 'showed': 2, 'sing': 2, 'sounded': 2, 'strike': 2, 'swallowed': 2, 'taking': 2, 'telling': 2, 'thrown': 2, 'turned': 2, 'visited': 2, 'warned': 2, 'wish': 2, 'wishing': 2, 'written': 2, 'Consider': 1, 'Pray': 1, 'Seeing': 1, 'abstracted': 1, 'acquainted': 1, 'advised': 1, 'aiming': 1, 'answer': 1, 'applied': 1, 'argued': 1, 'asking': 1, 'assemble': 1, 'assert': 1, 'assure': 1, 'begin': 1, 'begun': 1, 'blew': 1, 'blow': 1, 'carrying': 1, 'casting': 1, 'circulated': 1, 'condemned': 1, 'confided': 1, 'contend': 1, 'contended': 1, 'continue': 1, 'continued': 1, 'cutting': 1, 'deal': 1, 'dealt': 1, 'defended': 1, 'deliver': 1, 'delivered': 1, 'demand': 1, 'demanded': 1, 'describing': 1, 'discovered': 1, 'drove': 1, 'embroidered': 1, 'entreated': 1, 'examine': 1, 'exhorting': 1, 'expect': 1, 'explained': 1, 'expressing': 1, 'extending': 1, 'framed': 1, 'get': 1, 'getting': 1, 'hire': 1, 'hold': 1, 'imported': 1, 'inflict': 1, 'inflicted': 1, 'infused': 1, 'inquire': 1, 'instructed': 1, 'interpreted': 1, 'introduce': 1, 'introduced': 1, 'issue': 1, 'knew': 1, 'laid': 1, 'laying': 1, 'look': 1, 'looked': 1, 'mean': 1, 'meaning': 1, 'meant': 1, 'meeting': 1, 'moved': 1, 'moving': 1, 'narrate': 1, 'notice': 1, 'offer': 1, 'passed': 1, 'place': 1, 'planted': 1, 'pointed': 1, 'prayed': 1, 'preached': 1, 'professed': 1, 'published': 1, 'push': 1, 'rallied': 1, 'read': 1, 'recounted': 1, 'regretted': 1, 'related': 1, 'render': 1, 'repeated': 1, 'required': 1, 'reserved': 1, 'resume': 1, 'send': 1, 'show': 1, 'solicited': 1, 'spoke': 1, 'spring': 1, 'spun': 1, 'striking': 1, 'submitted': 1, 'supplied': 1, 'supported': 1, 'suppose': 1, 'supposed': 1, 'swallow': 1, 'swore': 1, 'threatened': 1, 'throw': 1, 'treating': 1, 'turn': 1, 'undertook': 1, 'vexed': 1, 'visit': 1, 'visiting': 1, 'wanting': 1, 'weigh': 1, 'withdraw': 1, 'wonder': 1, 'worked': 1, 'wrestled': 1, 'wrought': 1})
+ ======================== FrameNet ========================
+ ======================== Travel ========================
+ precision = 0.2971342383107089 
+ recall = 0.6437908496732027
+ F1 score = 0.4066047471620228
+
+
+ true positive = 197 
+ false positive = 466
+ false negative = 109
+
+
+
+Counter({None: 466, 'go': 17, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'marched': 10, 'going': 9, 'leave': 9, 'return': 9, 'proceed': 8, 'returned': 8, 'went': 8, 'coming': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'frequented': 5, 'landed': 5, 'leaving': 5, 'left': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'led': 3, 'marching': 3, 'mounted': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'riding': 3, 'sail': 3, 'Leaving': 2, 'accompanied': 2, 'convey': 2, 'conveyed': 2, 'departed': 2, 'disembarked': 2, 'driven': 2, 'fled': 2, 'gone': 2, 'move': 2, 'proceeding': 2, 'reaching': 2, 'stopped': 2, 'travel': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, '': 1, 'Go': 1, 'accompany': 1, 'approaching': 1, 'arranged': 1, 'arriving': 1, 'ascend': 1, 'continued': 1, 'displayed': 1, 'drove': 1, 'entering': 1, 'entreated': 1, 'enumerate': 1, 'escaping': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'flying': 1, 'forwarded': 1, 'journeyed': 1, 'lead': 1, 'leading': 1, 'mounting': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'retreated': 1, 'ride': 1, 'set': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1})
+
+
+Counter({'was': 116, None: 109, 'be': 70, 'being': 50, 'were': 48, 'made': 32, 'been': 24, 'go': 17, 'found': 16, 'came': 14, 'make': 14, 'come': 12, 'take': 12, 'rode': 11, 'going': 10, 'leave': 9, 'return': 9, 'find': 8, 'returned': 8, 'took': 8, 'went': 8, 'left': 7, 'appeared': 6, 'coming': 6, 'making': 6, 'reach': 6, 'taken': 6, 'arrived': 5, 'depart': 5, 'leaving': 5, 'reached': 5, 'sailed': 5, 'appear': 4, 'escaped': 4, 'add': 3, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'finding': 3, 'move': 3, 'pass': 3, 'returning': 3, 'riding': 3, 'rose': 3, 'sail': 3, 'travel': 3, 'bearing': 2, 'born': 2, 'departed': 2, 'entering': 2, 'flying': 2, 'gone': 2, 'reaching': 2, 'rested': 2, 'rising': 2, 'taking': 2, 'travelled': 2, 'travelling': 2, 'turned': 2, 'visited': 2, 'approaching': 1, 'arriving': 1, 'ascend': 1, 'ascended': 1, 'blew': 1, 'blow': 1, 'descended': 1, 'disappeared': 1, 'drop': 1, 'escaping': 1, 'flew': 1, 'fly': 1, 'get': 1, 'getting': 1, 'mean': 1, 'meaning': 1, 'meant': 1, 'moved': 1, 'moving': 1, 'passed': 1, 'rest': 1, 'ride': 1, 'rise': 1, 'rolling': 1, 'tried': 1, 'try': 1, 'turn': 1, 'visit': 1, 'visiting': 1, 'woven': 1})
+ ======================== FrameNet ========================
+ ======================== Narrate ========================
+ precision = 0.27240773286467485 
+ recall = 0.6431535269709544
+ F1 score = 0.38271604938271603
+
+
+ true positive = 155 
+ false positive = 414
+ false negative = 86
+
+
+
+Counter({None: 414, 'tell': 30, 'named': 27, 'called': 23, 'said': 13, 'know': 9, 'say': 9, 'told': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 6, 'speak': 6, 'addressed': 5, 'asked': 5, 'describe': 5, 'mentioned': 5, 'replied': 4, 'add': 3, 'knowing': 3, 'mentioning': 3, 'spoken': 3, 'inform': 2, 'inquired': 2, 'observe': 2, 'observing': 2, 'telling': 2, 'admitted': 1, 'advised': 1, 'answer': 1, 'asking': 1, 'assure': 1, 'assured': 1, 'concluded': 1, 'describing': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'introduce': 1, 'introduced': 1, 'known': 1, 'narrate': 1, 'related': 1, 'reported': 1, 'resume': 1, 'secure': 1, 'spake': 1, 'spoke': 1, 'summoned': 1, 'warned': 1})
+
+
+Counter({'was': 116, None: 86, 'be': 70, 'being': 50, 'were': 48, 'tell': 30, 'been': 24, 'go': 17, 'said': 14, 'know': 12, 'going': 10, 'told': 10, 'say': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'went': 8, 'addressed': 6, 'allowed': 6, 'mentioned': 6, 'reach': 6, 'speak': 6, 'describe': 5, 'dressed': 5, 'reached': 5, 'allow': 4, 'spoken': 4, 'add': 3, 'held': 3, 'holding': 3, 'knowing': 3, 'known': 3, 'mentioning': 3, 'observe': 3, 'serve': 3, 'asserted': 2, 'gone': 2, 'observing': 2, 'reaching': 2, 'reported': 2, 'telling': 2, 'written': 2, 'aiming': 1, 'alleged': 1, 'assert': 1, 'cemented': 1, 'contend': 1, 'contended': 1, 'counted': 1, 'describing': 1, 'explained': 1, 'hold': 1, 'knew': 1, 'liked': 1, 'maintained': 1, 'planned': 1, 'preached': 1, 'professed': 1, 'pronounced': 1, 'recounted': 1, 'related': 1, 'spoke': 1})
+ ======================== Voted ========================
+ ======================== Travel ========================
+ precision = 0.7067901234567902 
+ recall = 0.7483660130718954
+ F1 score = 0.726984126984127
+
+
+ true positive = 229 
+ false positive = 95
+ false negative = 77
+
+
+
+Counter({None: 95, 'go': 17, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'marched': 10, 'going': 9, 'leave': 9, 'return': 9, 'proceed': 8, 'returned': 8, 'went': 8, 'coming': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'frequented': 5, 'landed': 5, 'leaving': 5, 'left': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'led': 3, 'marching': 3, 'mounted': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'riding': 3, 'sail': 3, 'Leaving': 2, 'accompanied': 2, 'convey': 2, 'conveyed': 2, 'departed': 2, 'disembarked': 2, 'driven': 2, 'fled': 2, 'gone': 2, 'move': 2, 'proceeding': 2, 'reaching': 2, 'stopped': 2, 'travel': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, '': 1, 'Go': 1, 'accompany': 1, 'approaching': 1, 'arranged': 1, 'arriving': 1, 'ascend': 1, 'continued': 1, 'displayed': 1, 'drove': 1, 'entering': 1, 'entreated': 1, 'enumerate': 1, 'escaping': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'flying': 1, 'forwarded': 1, 'journeyed': 1, 'lead': 1, 'leading': 1, 'mounting': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'retreated': 1, 'ride': 1, 'set': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1})
+
+
+Counter({None: 77, 'made': 32, 'go': 17, 'came': 14, 'make': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'going': 10, 'leave': 9, 'return': 9, 'returned': 8, 'went': 8, 'following': 7, 'left': 7, 'coming': 6, 'making': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'leaving': 5, 'led': 5, 'reached': 5, 'sailed': 5, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'driven': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'leading': 3, 'move': 3, 'pass': 3, 'returning': 3, 'rose': 3, 'sail': 3, 'travel': 3, 'accompanied': 2, 'departed': 2, 'entering': 2, 'flying': 2, 'gone': 2, 'hoping': 2, 'lead': 2, 'reaching': 2, 'rising': 2, 'travelled': 2, 'travelling': 2, 'turned': 2, 'visited': 2, 'accompany': 1, 'approaching': 1, 'arriving': 1, 'ascend': 1, 'ascended': 1, 'blew': 1, 'blow': 1, 'descended': 1, 'drop': 1, 'drove': 1, 'escaping': 1, 'fallen': 1, 'flew': 1, 'fly': 1, 'follow': 1, 'followed': 1, 'get': 1, 'getting': 1, 'journeyed': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'ride': 1, 'rise': 1, 'rolling': 1, 'turn': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1, 'woven': 1})
+ ======================== Voted ========================
+ ======================== Narrate ========================
+ precision = 0.3516295025728988 
+ recall = 0.8506224066390041
+ F1 score = 0.4975728155339806
+
+
+ true positive = 205 
+ false positive = 378
+ false negative = 36
+
+
+
+Counter({None: 378, 'tell': 30, 'named': 27, 'called': 23, 'said': 13, 'know': 9, 'say': 9, 'told': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 6, 'speak': 6, 'addressed': 5, 'asked': 5, 'describe': 5, 'mentioned': 5, 'replied': 4, 'add': 3, 'knowing': 3, 'mentioning': 3, 'spoken': 3, 'inform': 2, 'inquired': 2, 'observe': 2, 'observing': 2, 'telling': 2, 'admitted': 1, 'advised': 1, 'answer': 1, 'asking': 1, 'assure': 1, 'assured': 1, 'concluded': 1, 'describing': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'introduce': 1, 'introduced': 1, 'known': 1, 'narrate': 1, 'related': 1, 'reported': 1, 'resume': 1, 'secure': 1, 'spake': 1, 'spoke': 1, 'summoned': 1, 'warned': 1})
+
+
+Counter({'was': 116, 'be': 70, 'being': 50, 'were': 48, None: 36, 'tell': 30, 'been': 24, 'called': 24, 'said': 16, 'know': 12, 'told': 10, 'say': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 7, 'addressed': 6, 'mentioned': 6, 'reach': 6, 'speak': 6, 'asked': 5, 'describe': 5, 'reached': 5, 'replied': 4, 'spoken': 4, 'add': 3, 'assured': 3, 'convey': 3, 'conveyed': 3, 'held': 3, 'holding': 3, 'knowing': 3, 'known': 3, 'mentioning': 3, 'observe': 3, 'asserted': 2, 'call': 2, 'calling': 2, 'inform': 2, 'inquired': 2, 'observing': 2, 'reaching': 2, 'reported': 2, 'showed': 2, 'sing': 2, 'telling': 2, 'warned': 2, 'written': 2, 'advised': 1, 'aiming': 1, 'argued': 1, 'asking': 1, 'assert': 1, 'assure': 1, 'confided': 1, 'contend': 1, 'contended': 1, 'describing': 1, 'explained': 1, 'hold': 1, 'inquire': 1, 'instructed': 1, 'knew': 1, 'narrate': 1, 'preached': 1, 'professed': 1, 'read': 1, 'recounted': 1, 'related': 1, 'repeated': 1, 'show': 1, 'spoke': 1})
+ ======================== Paper ========================
+ ======================== Travel ========================
+ precision = 0.6360424028268551 
+ recall = 0.5882352941176471
+ F1 score = 0.6112054329371817
+
+
+ true positive = 180 
+ false positive = 103
+ false negative = 126
+
+
+
+Counter({None: 103, 'go': 17, 'came': 14, 'come': 12, 'rode': 11, 'rushed': 11, 'marched': 10, 'going': 9, 'leave': 9, 'return': 9, 'proceed': 8, 'returned': 8, 'went': 8, 'coming': 6, 'march': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'frequented': 5, 'landed': 5, 'leaving': 5, 'left': 5, 'reached': 5, 'sailed': 5, 'Departing': 4, 'advanced': 4, 'escaped': 4, 'pursued': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'led': 3, 'marching': 3, 'mounted': 3, 'pass': 3, 'proceeded': 3, 'returning': 3, 'riding': 3, 'sail': 3, 'Leaving': 2, 'accompanied': 2, 'convey': 2, 'conveyed': 2, 'departed': 2, 'disembarked': 2, 'driven': 2, 'fled': 2, 'gone': 2, 'move': 2, 'proceeding': 2, 'reaching': 2, 'stopped': 2, 'travel': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, '': 1, 'Go': 1, 'accompany': 1, 'approaching': 1, 'arranged': 1, 'arriving': 1, 'ascend': 1, 'continued': 1, 'displayed': 1, 'drove': 1, 'entering': 1, 'entreated': 1, 'enumerate': 1, 'escaping': 1, 'flee': 1, 'fleeing': 1, 'flew': 1, 'fly': 1, 'flying': 1, 'forwarded': 1, 'journeyed': 1, 'lead': 1, 'leading': 1, 'mounting': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'passed': 1, 'pursuing': 1, 'retreated': 1, 'ride': 1, 'set': 1, 'visit': 1, 'visiting': 1, 'walk': 1, 'walked': 1})
+
+
+Counter({None: 126, 'made': 32, 'go': 17, 'came': 14, 'make': 14, 'come': 12, 'fell': 10, 'going': 10, 'leave': 9, 'return': 9, 'returned': 8, 'went': 8, 'left': 7, 'seeing': 7, 'seen': 7, 'coming': 6, 'making': 6, 'reach': 6, 'arrived': 5, 'depart': 5, 'gained': 5, 'leaving': 5, 'reached': 5, 'sailed': 5, 'escaped': 4, 'see': 4, 'departing': 3, 'enter': 3, 'entered': 3, 'escape': 3, 'gain': 3, 'move': 3, 'returning': 3, 'sail': 3, 'travel': 3, 'departed': 2, 'entering': 2, 'flying': 2, 'gone': 2, 'reaching': 2, 'retreated': 2, 'travelled': 2, 'travelling': 2, 'visited': 2, 'approaching': 1, 'arriving': 1, 'disappeared': 1, 'escaping': 1, 'flew': 1, 'fly': 1, 'forsaken': 1, 'get': 1, 'getting': 1, 'journeyed': 1, 'moved': 1, 'moving': 1, 'navigating': 1, 'renounce': 1, 'resign': 1, 'visit': 1, 'visiting': 1, 'withdraw': 1})
+ ======================== Paper ========================
+ ======================== Narrate ========================
+ precision = 0.7093023255813954 
+ recall = 0.7593360995850622
+ F1 score = 0.7334669338677355
+
+
+ true positive = 183 
+ false positive = 75
+ false negative = 58
+
+
+
+Counter({None: 75, 'tell': 30, 'named': 27, 'called': 23, 'said': 13, 'know': 9, 'say': 9, 'told': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'informed': 6, 'speak': 6, 'addressed': 5, 'asked': 5, 'describe': 5, 'mentioned': 5, 'replied': 4, 'add': 3, 'knowing': 3, 'mentioning': 3, 'spoken': 3, 'inform': 2, 'inquired': 2, 'observe': 2, 'observing': 2, 'telling': 2, 'admitted': 1, 'advised': 1, 'answer': 1, 'asking': 1, 'assure': 1, 'assured': 1, 'concluded': 1, 'describing': 1, 'explained': 1, 'inquire': 1, 'instructed': 1, 'introduce': 1, 'introduced': 1, 'known': 1, 'narrate': 1, 'related': 1, 'reported': 1, 'resume': 1, 'secure': 1, 'spake': 1, 'spoke': 1, 'summoned': 1, 'warned': 1})
+
+
+Counter({None: 58, 'tell': 30, 'named': 27, 'said': 14, 'told': 10, 'say': 9, 'declared': 8, 'described': 8, 'mention': 8, 'relate': 8, 'saying': 8, 'carry': 7, 'informed': 7, 'addressed': 6, 'covered': 6, 'mentioned': 6, 'speak': 6, 'carried': 5, 'describe': 5, 'spoken': 4, 'account': 3, 'add': 3, 'assured': 3, 'convey': 3, 'conveyed': 3, 'covering': 3, 'mentioning': 3, 'observe': 3, 'accounted': 2, 'asserted': 2, 'discover': 2, 'expressed': 2, 'inform': 2, 'observing': 2, 'reported': 2, 'telling': 2, 'written': 2, 'admitted': 1, 'advised': 1, 'alleged': 1, 'argued': 1, 'assert': 1, 'assure': 1, 'blew': 1, 'blow': 1, 'carrying': 1, 'confided': 1, 'contend': 1, 'contended': 1, 'describing': 1, 'discovered': 1, 'explained': 1, 'expressing': 1, 'instructed': 1, 'interpreted': 1, 'maintained': 1, 'narrate': 1, 'notice': 1, 'preached': 1, 'professed': 1, 'published': 1, 'recounted': 1, 'related': 1, 'render': 1, 'repeated': 1, 'spoke': 1, 'submitted': 1, 'supplied': 1, 'suppose': 1, 'supposed': 1, 'swore': 1})
