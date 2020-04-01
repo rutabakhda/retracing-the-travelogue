@@ -1,0 +1,29 @@
+Verb	Count	Is in VerbNet	Is in FrameNet	Is in both	is not in both	FN Frames	Is Synonyms	Synonyms	Is any syn in Net	Synonyms in VN	Synonyms in FN
+ascend	2	1	1	1	0	Path_shape,Traversing,Intentional_traversing	0		0		
+navigate	1	1	0	0	0		0		0		
+traverse	1	1	1	1	0	Path_shape,Traversing	0		0		
+run	1	1	1	1	0	Duplication,Body_movement,Communication_noise,Emotion_directed,Cause_motion,Motion_noise,Path_shape,Self_motion,Make_noise,Cause_harm,Body_parts,Expend_resource,Intoxication,Body_description_part,Bringing,Impact,Reshaping,Fluidic_motion,Grinding,Cause_impact,Leadership,Fugitive,Friction,Sounds,Practice,Roadways,Vehicle_subpart,Operating_a_system,Fleeing,Invading	0		0		
+leave	14	1	1	1	0	Causation,Departing,Path_shape,Giving,Quitting,Cause_to_fragment,Deny_or_grant_permission,Temporary_leave,Forming_relationships,Abandonment	0		0		
+travel	9	1	1	1	0	Motion,Travel	0		0		
+come	23	1	1	1	0	Becoming_aware,Coming_up_with,Communication_response,Motion,Arriving,Relative_time,Eventive_affecting,Process_end,Waking_up,Text,Coming_to_be,Suitability,Come_together,Amalgamation,Being_born,Come_into_effect,Becoming,Transition_to_a_situation,Come_down_with,Origin,Reveal_secret,Successful_action,Resurrection,Sidereal_appearance,Earnings_and_losses,Conquering	0		0		
+depart	8	1	1	1	0	Departing,Law_enforcement_agency	0		0		
+pass	6	1	1	1	0	Others_situation_as_stimulus,Communication,Experiencer_focus,Death,Path_shape,Aggregate,Compliance,Giving,Natural_features,Process_end,Dispersal,Fall_asleep,Rite,Surpassing,Social_interaction_evaluation,Documents,Key,Passing,Roadways,Traversing,Passing_off	0		0		
+enter	6	1	1	1	0	Experiencer_obj,Arriving,Path_shape,Stimulus_focus,Activity_start,Medical_specialties,Cause_to_experience,Part_inner_outer,People_by_vocation,Locale_by_use,Medical_professionals,Emphasizing,Becoming_a_member	0		0		
+proceed	5	1	1	1	0	Self_motion,Process_continue	0		0		
+return	6	1	1	1	0	Arriving,Resurrection	0		0		
+sail	1	1	1	1	0	Self_motion,Attack,Member_of_military,Ride_vehicle,Operate_vehicle	0		0		
+stray	1	1	0	0	0		0		0		
+quit	1	1	1	1	0	Activity_stop,Locative_relation,Verdict,Quitting,Morality_evaluation,Fairness_evaluation,Process_stop,Quitting_a_place	0		0		
+pursue	1	1	1	1	0	Cotheme,Seeking_to_achieve	0		0		
+arrive	1	1	1	1	0	Arriving,Personal_success	0		0		
+descend	1	1	1	1	0	Arriving,Path_shape,Kinship,Motion_directional,Traversing	0		0		
+escape	8	1	1	1	0	Departing,Escaping,Avoiding,Elusive_goal,Quitting_a_place	0		0		
+move	4	1	1	1	0	Body_movement,Motion,Cause_motion,Removing,Change_position_on_a_scale,Cause_change_of_position_on_a_scale,Intentionally_act,Change_event_time,Undressing	0		0		
+flee	3	1	1	1	0	Evading,Fleeing	0		0		
+ride	5	1	1	1	0	Self_motion,Locative_relation,Judgment_communication,Ride_vehicle,Surrounding,Surviving,Operate_vehicle	0		0		
+march	4	1	1	1	0	Self_motion	0		0		
+rid	2	1	1	1	0	Mental_property,Self_motion,Containers,Natural_features,Locative_relation,Judgment_communication,Calendric_unit,Medical_conditions,Being_rotted,Emptying,Ride_vehicle,Surrounding,Connecting_architecture,Building_subparts,Roadways,Surviving,Operate_vehicle	0		0		
+reach	4	1	1	1	0	Body_movement,Arriving,Path_shape,Change_position_on_a_scale,Compliance,Contacting,Speak_on_topic,Statement,Range	0		0		
+lead	1	1	1	1	0	Causation,Request,Entering_of_plea,Prevarication,Cotheme,Appellations,Performers_and_roles,Leadership,Criminal_investigation,Intentional_deception,Condition_symptom_relation,Talking_into,First_rank	0		0		
+go	38	1	1	1	0	Categorization,Scrutiny,Discussion,Motion,Emotion_active,Emotion_directed,Experiencer_obj,Ceasing_to_be,Removing,Self_motion,Perception_active,Perception_body,Make_noise,Containers,Commerce_scenario,Attempt,Possession,Hair_configuration,Clothing,Expertise,Stimulus_focus,Accoutrements,Wearing,Expend_resource,Event,Natural_features,Exemplar,Being_named,Ingestion,Process_continue,Avoiding,Releasing,Firing,Appellations,Out_of_existence,Desirability,Compatibility,Morality_evaluation,Social_interaction_evaluation,Dynamism,Isolated_places,Color,Leadership,Sociability,Purpose,Deny_or_grant_permission,Subordinates_and_superiors,Endeavor_failure,Getting_triggered,Personal_relationship,Usefulness,Fire_going_out,Come_into_effect,Chatting,Transition_to_a_quality,People_by_origin,Losing_it,Buildings,Subjective_influence,Speak_on_topic,Sex,Undergo_change,Forgoing,Organization,Required_event,Desirable_event,Successful_action,Social_event_individuals,Size,Store,Going_back_on_a_commitment,Waver_between_options,Rejuvenation,Time_vector,Getting_underway,Undergoing,Proportional_quantity,Have_associated,Attending	0		0		
+convey	2	1	1	1	0	Communication,Bringing,Successfully_communicate_message	0		0		
