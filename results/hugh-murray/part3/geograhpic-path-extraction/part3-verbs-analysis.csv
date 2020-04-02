@@ -1,7 +1,6 @@
 Verb	Count	Is in VerbNet	Is in FrameNet	Is in both	is not in both	FN Frames	Is Synonyms	Synonyms	Is any syn in Net	Synonyms in VN	Synonyms in FN
 entreat	1	0	1	0	0	Request	0		0		
 ascend	1	1	1	1	0	Path_shape,Traversing,Intentional_traversing	0		0		
-enumerate	1	0	0	0	1		1	numerate,recite,count,enumerate,itemize,number,itemise	3	recite,count	count,number
 frequent	5	0	1	0	0	Frequency,Condition_symptom_relation	0		0		
 retreat	1	1	1	1	0	Quitting_a_place	0		0		
 depart	14	1	1	1	0	Departing,Law_enforcement_agency	0		0		
@@ -37,7 +36,6 @@ arrive	6	1	1	1	0	Arriving,Personal_success	0		0
 sail	8	1	1	1	0	Self_motion,Attack,Member_of_military,Ride_vehicle,Operate_vehicle	0		0		
 journey	1	1	1	1	0	Travel	0		0		
 pursue	5	1	1	1	0	Cotheme,Seeking_to_achieve	0		0		
-display	1	0	0	0	1		1	expose,display,exhibit	2	expose,exhibit	expose,exhibit
 forward	1	1	1	1	0	Candidness,Direction,Sending,Reveal_secret	0		0		
 travel	6	1	1	1	0	Motion,Travel	0		0		
 disembark	2	1	1	1	0	Disembarking	0		0		
