@@ -4,9 +4,9 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	1	On Armenia the Lesser	3	but I must tell you the air is not very healthy.				
 1	PART 1	1	On Armenia the Lesser	4	The gentry used formerly to be valiant and good at arms ; 				
 1	PART 1	1	On Armenia the Lesser	5	but now they are mean and vile, and remarkable only for being hard drinkers.				
-1	PART 1	1	On Armenia the Lesser	6	On the seacoast is a city named Laias,which carries on a very great trade ; for thither all the spices, rich cloths, and other precious articles, are brought from India across the Euphrates, which the merchants of Venice, of Pisa, and of Genoa, come to purchase.				Laias,India,Venice,Pisa,Genoa,Euphrates
+1	PART 1	1	On Armenia the Lesser	6	On the seacoast is a city named Laias,which carries on a very great trade ; for thither all the spices, rich cloths, and other precious articles, are brought from India across the Euphrates, which the merchants of Venice, of Pisa, and of Genoa, come to purchase.		Laias		Laias,India,Venice,Pisa,Genoa,Euphrates
 1	PART 1	1	On Armenia the Lesser	7	By this town we enter the province of Turcomania.				Turcomania
-1	PART 1	2	On Turcomania	8	In Turcomania are three distinct races of men :-The Turcomans adore Mohammed, and are simple people, speaking a very rude language.	Turcomania,Como,Casserie,Sevasto		Mohammed	Turcomania
+1	PART 1	2	On Turcomania	8	In Turcomania are three distinct races of men :-The Turcomans adore Mohammed, and are simple people, speaking a very rude language.	Turcomania,Como,Casserie,Sevasto	 Kayseri,Turkey	Mohammed	Turcomania
 1	PART 1	2	On Turcomania	9	They live amid mountains and valleys where there is good pasturage for cattle, by which they subsist ; 				
 1	PART 1	2	On Turcomania	10	and I assure you that they rear excellent horses and mules of great value.				
 1	PART 1	2	On Turcomania	11	The two others are Armenians and Greeks, who dwell mingled in cities, and subsist by merchandise and manufactures ;				
@@ -14,7 +14,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	2	On Turcomania	13	They have many towns, of which the principal are Como, Casserie, and Sevasto.				Como, Casserie,Sevasto
 1	PART 1	2	On Turcomania	14	They are subject to the Eastern Tartars.				
 1	PART 1	2	On Turcomania	15	Now, let us leave them, and speak of Armenia the Greater.				Armenia the Greater
-1	PART 1	3	On Armenia the Greater	16	Armenia the Greater is a large country, and, at the entrance of it is a city called Arzinga, in which is made the best buckram in the world.	Armenia the Greater, Arzinga,Argiron,Darzizi			Armenia the Greater,Arzinga
+1	PART 1	3	On Armenia the Greater	16	Armenia the Greater is a large country, and, at the entrance of it is a city called Arzinga, in which is made the best buckram in the world.	Armenia the Greater, Arzinga,Argiron,Darzizi	Erzincan, Turkey		Armenia the Greater,Arzinga
 1	PART 1	3	On Armenia the Greater	17	There are several baths of warm spring water, the best and most beautiful any where to be found.				
 1	PART 1	3	On Armenia the Greater	18	There are many castles, and cities, among which the noblest is Arzinga, the seat of an archbishop, and the metropolis of the whole district; 				Arzinga
 1	PART 1	3	On Armenia the Greater	19	there are also Argiron and Darzizi.				Argiron,Darzizi
@@ -329,7 +329,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	21	Of the City of Balk	328	On leaving Balk, you ride two days between north-east and east, and find no habitation, because the people have all fled to the fortresses in the mountains for fear of wicked men, who lay waste the land.				Balk
 1	PART 1	21	Of the City of Balk	329	There is no want of water or game, and lions are also seen.				
 1	PART 1	21	Of the City of Balk	330	No food is to be procured, but travellers must carry it both for themselves and their horses.				
-1	PART 1	22	Of the Castle of Taikan	331	When a man has rode these two days, he finds a castle called Taikan,where there is a great corn-market, and the country round is fine.	Taikan			Taikan
+1	PART 1	22	Of the Castle of Taikan	331	When a man has rode these two days, he finds a castle called Taikan,where there is a great corn-market, and the country round is fine.	Taikan	Taloqan,Afghanistan		Taikan
 1	PART 1	22	Of the Castle of Taikan	332	The mountains towards the south are very high, and formed entirely of salt, which is the best in the world, and people come for it from a distance of thirty days' journey round.				
 1	PART 1	22	Of the Castle of Taikan	333	It is so hard, that it can be broken only by great iron hammers ; 				
 1	PART 1	22	Of the Castle of Taikan	334	and there is enough to supply the whole human race till the end of time.				
@@ -338,11 +338,11 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	22	Of the Castle of Taikan	337	They spend much time in the tavern, for they have abundance of good wine, well prepared.				
 1	PART 1	22	Of the Castle of Taikan	338	They wear nothing on their heads but a cord ten palms long wrapt round it.				
 1	PART 1	22	Of the Castle of Taikan	339	They are good hunters, and thus supply themselves with venison ; but have no clothing except the skins of animals.				
-1	PART 1	23	Of the City of Scassem	340	When a man travels three days, he finds a city named Scassem, which is on the plain, while the others are on the mountains, and through it flows a considerable river.	Scassem	Wakhan Corridor,Afghanishtan		Scassem
+1	PART 1	23	Of the City of Scassem	340	When a man travels three days, he finds a city named Scassem, which is on the plain, while the others are on the mountains, and through it flows a considerable river.	Scassem	Keshem,Afghanishtan		Scassem
 1	PART 1	23	Of the City of Scassem	341	There are here many porcupines, and when the hunters set their dogs upon them, the hogs collect together and push their spines against their assailants, and often hurt them severely.				
 1	PART 1	23	Of the City of Scassem	342	This Scassem is a large province, and the shepherds dwell in caverns on the mountains, which are easily formed, being wholly of earth, and make large handsome habitations.				Scassem
 1	PART 1	23	Of the City of Scassem	343	 When a man leaves this city, he travels three days without finding a house, or any thing to eat or drink, being obliged to carry provisions with him, and he then enters the district of Badascian.				Badascian
-1	PART 1	24	Of the Province of Badascian	344	Badascian is a large province, whose people adore Mohammed, and have a language of their own.	Badascian		Mohammed	Badascian
+1	PART 1	24	Of the Province of Badascian	344	Badascian is a large province, whose people adore Mohammed, and have a language of their own.	Badascian	Badakhshan Province, Afghanistan	Mohammed	Badascian
 1	PART 1	24	Of the Province of Badascian	345	It is governed by kings descended from Alexander and the daughter of Darius lord of Persia, and all these kings are called in Saracen Zulcarnem, which means in their language Alexander.			Alexander,Darius,Alexander	Persia
 1	PART 1	24	Of the Province of Badascian	346	In this country occur the precious stones called balasiu, which are very beautiful and valuable.				
 1	PART 1	24	Of the Province of Badascian	347	They are found in the rocks of a mountain called Lighinan, and are cut out of very deep caverns, as is done by those who work silver mines.				Lighinan
@@ -362,14 +362,14 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	24	Of the Province of Badascian	361	On the summits of the mountains the air is so pure and salubrious that the inhabitants of the towns and lower valleys, when attacked by fever or other inflammatory complaints, immediately remove thither, and in three or four days recover their health.				
 1	PART 1	24	Of the Province of Badascian	362	Marco Polo affirms, that he himself experienced its excellent effects ; 			Marco Polo	
 1	PART 1	24	Of the Province of Badascian	363	for after being confined nearly a year by sickness, he was advised to try change of air by ascending the hills, and he then immediately regained his strength.				
-1	PART 1	25	Of the Province of Pascia	364	You are to know that ten days south from Badascian is a province called Pascia.	Pascia			Pascia
+1	PART 1	25	Of the Province of Pascia	364	You are to know that ten days south from Badascian is a province called Pascia.	Pascia	Peshawar,Pakistan		Pascia
 1	PART 1	25	Of the Province of Pascia	365	The people have a peculiar language ; 				
 1	PART 1	25	Of the Province of Pascia	366	they are worshippers of idols, and much skilled in enchantments and diabolical arts.				
 1	PART 1	25	Of the Province of Pascia	367	The men wear ear-rings and buckles of gold and silver, with pearls and precious stones.				
 1	PART 1	25	Of the Province of Pascia	368	They are a very artful and malicious people.				
 1	PART 1	25	Of the Province of Pascia	369	The province is extremely hot, and the people live upon flesh and rice.				
 1	PART 1	25	Of the Province of Pascia	370	Now let us leave it, and tell of another, which is distant from this seven days towards the south-east.				
-1	PART 1	26	Of the Province of Kesimur	371	Kesimur is inhabited by idolaters, who have a language of their own.	Kesimur			Kesimur
+1	PART 1	26	Of the Province of Kesimur	371	Kesimur is inhabited by idolaters, who have a language of their own.	Kesimur	Kashmir,India		Kesimur
 1	PART 1	26	Of the Province of Kesimur	372	They have a wonderful knowledge of the enchantments of devils, making their images speak, and by sorcery changing the seasons, causing great darkness, and doing other wonders which could not be believed unless they were seen.				
 1	PART 1	26	Of the Province of Kesimur	373	The idols of this province are the heads over all the others, and went down hence to the neighbouring countries.				
 1	PART 1	26	Of the Province of Kesimur	374	The people are meagre and of a brown complexion ; 				
@@ -382,7 +382,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	26	Of the Province of Kesimur	381	The coral brought from our land is sold more readily there than in any other nation.				
 1	PART 1	26	Of the Province of Kesimur	382	From this place you may go to the sea of India, and if we went farther we should enter into that country ; 				sea of India
 1	PART 1	26	Of the Province of Kesimur	383	but being to return that way, we will then describe it in due order, and now go back to Badascian.				Badascian
-1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	384	When a man departs from Badascian, he goes twelve days between north-east and east, along a river which belongs to a brother of the lord of that land.	Vokhan, Pamier, Belor			Badascian
+1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	384	When a man departs from Badascian, he goes twelve days between north-east and east, along a river which belongs to a brother of the lord of that land.	Vokhan, Pamier, Belor	Wakhan Corridor,Afghanishtan | Pamir Mountains,Tajikistan | Tashkurgan,China		Badascian
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	385	There are many castles, and a good number of inhabitants, who are valiant and adore Mohammed.			Mohammed	
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	386	He then comes to a province named Vokhan, not very large, being only three days' journey in every direction.				Vokhan
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	387	The people are of the same description, and subject to the ruler of Badascian.				Badascian
@@ -401,7 +401,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	400	This country is called Belor.				Belor
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	401	The people live in very lofty mountains.				
 1	PART 1	27	Of the Countries of Vokhan, Pamier, and Belor	402	They are idolaters, extremely savage, violent, and cruel, subsist by hunting, and dress themselves in the skins of beasts.				
-1	PART 1	28	Of the Province of Cascar	403	Cascar was anciently a kingdom, but is now under the dominion of the great Khan.	Cascar		Khan	Cascar
+1	PART 1	28	Of the Province of Cascar	403	Cascar was anciently a kingdom, but is now under the dominion of the great Khan.	Cascar	Kashgar,China	Khan	Cascar
 1	PART 1	28	Of the Province of Cascar	404	The people adore Mohammed, and have cities and castles; 			Mohammed	
 1	PART 1	28	Of the Province of Cascar	405	they are situated between the north and east.				
 1	PART 1	28	Of the Province of Cascar	406	They subsist by merchandise and manufactures, having also fine gardens, vineyards, and orchards, with a good supply of silk.				
@@ -411,7 +411,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	28	Of the Province of Cascar	410	The people have a language of their own ; 				
 1	PART 1	28	Of the Province of Cascar	411	and the province extends five days' journey.				
 1	PART 1	28	Of the Province of Cascar	412	Now let us leave it and speak of Samarcan.				Samarcan
-1	PART 1	29	Of the City of Samarcan	413	Samarcan is a very great and noble city, lying to the south, inhabited by Christians and Saracens.	Samarcan			Samarcan
+1	PART 1	29	Of the City of Samarcan	413	Samarcan is a very great and noble city, lying to the south, inhabited by Christians and Saracens.	Samarcan	Samarkand,Uzbekistan 		Samarcan
 1	PART 1	29	Of the City of Samarcan	414	The people are governed by a nephew of the great Khan, who, however, is not his friend, but is in open hostility against him.			Khan	
 1	PART 1	29	Of the City of Samarcan	415	I have to tell you a great wonder which happened in this city.				
 1	PART 1	29	Of the City of Samarcan	416	You must know that not very long since, Ciagatai, brother to the great Khan, became a Christian, and was lord of that and of many other countries.			Ciagatai,Khan	
@@ -428,7 +428,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	29	Of the City of Samarcan	427	On the morning of the day when the stone was to be returned, the pillar, by the power of our Lord, rose up at least three palms, and supported itself as well as when the stone was beneath it, and has continued to do so till this day.				
 1	PART 1	29	Of the City of Samarcan	428	This was and still is accounted one of the greatest miracles that ever happened in the world.				
 1	PART 1	29	Of the City of Samarcan	429	Now let me tell you of a province which is called Yarcan.				Yarcan
-1	PART 1	30	Of the Province of Yarcan	430	Yarcan is a province five days' journey in length.	Yarcan			Yarcan
+1	PART 1	30	Of the Province of Yarcan	430	Yarcan is a province five days' journey in length.	Yarcan	Yarkant County,China		Yarcan
 1	PART 1	30	Of the Province of Yarcan	431	The people obey the law of Mohammed, but there are some Nestorian Christians; 			Mohammed	
 1	PART 1	30	Of the Province of Yarcan	432	they are subject to the nephew of the Khan mentioned above.			Khan	
 1	PART 1	30	Of the Province of Yarcan	433	All necessaries are in great abundance.				
@@ -441,7 +441,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	31	Of the great Province of Cotan	440	The capital is a noble town, called by the name of the kingdom.				
 1	PART 1	31	Of the great Province of Cotan	441	They have all things in abundance, a large supply of silk, with vineyards and good orchards.				
 1	PART 1	31	Of the great Province of Cotan	442	They carry on merchandise and manufactures, but are not men at arms.				
-1	PART 1	32	Of the Province of Pein	443	Pein is a province five days' journey in length, between north-east and east.	Pein			Pein
+1	PART 1	32	Of the Province of Pein	443	Pein is a province five days' journey in length, between north-east and east.	Pein	Yutian Xian,Xinjiang,China		Pein
 1	PART 1	32	Of the Province of Pein	444	The people adore Mohammed, are subject to the great Khan, and have a number of towns and castles.			Mohammed,Khan	
 1	PART 1	32	Of the Province of Pein	445	The noblest city and capital is called by the name of the kingdom.				
 1	PART 1	32	Of the Province of Pein	446	Here is a river in which are found the stones named jasper and calcedony.				
@@ -451,7 +451,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	32	Of the Province of Pein	450	while the husband, in the place where he goes, takes another wife.				
 1	PART 1	32	Of the Province of Pein	451	Know that all the provinces now described from Cascar to the present, and still farther on, belong to Great Turkey.				Cascar,Great Turkey
 1	PART 1	32	Of the Province of Pein	452	Now let us tell of a province named Ciarcian.				Ciarcian
-1	PART 1	33	Of the Province of Ciarcian	453	Ciarcian is a province of Great Turkey, lying between north-east and east, with a capital city of the same name.	Ciarcian			Ciarcian,Great Turkey
+1	PART 1	33	Of the Province of Ciarcian	453	Ciarcian is a province of Great Turkey, lying between north-east and east, with a capital city of the same name.	Ciarcian	Cherchen,China		Ciarcian,Great Turkey
 1	PART 1	33	Of the Province of Ciarcian	454	The people adore Mohammed, and have a good number of towns and castles.			Mohammed	
 1	PART 1	33	Of the Province of Ciarcian	455	There is a river bringing jasper and calcedony, which, being of excellent quality, they take to sell in Cathay, and thus make great profit.				Cathay
 1	PART 1	33	Of the Province of Ciarcian	456	This province is sandy, as well as the whole road from Cotan hither ; and much of the water is bad and bitter, but in various places it is good.				Cotan
@@ -460,7 +460,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	33	Of the Province of Ciarcian	459	But when a friendly army passes through, they send away only the beasts, because the troops would take and eat them, without any payment.				
 1	PART 1	33	Of the Province of Ciarcian	460	After departing from Ciarcian, you go five days through the waste, finding the water bad and bitter, but occasionally sweet and good.				Ciarcian
 1	PART 1	33	Of the Province of Ciarcian	461	At the end of these five days you come to a city which lies at the commencement of the great desert, wherein provisions are laid in for its passage, and therefore I must tell you about it.				
-1	PART 1	34	Of the City and Desert of Lop	462	Lop is a large city at the entrance of the great desert bearing its name, and lying between the east and northeast.	Lop			Lop
+1	PART 1	34	Of the City and Desert of Lop	462	Lop is a large city at the entrance of the great desert bearing its name, and lying between the east and northeast.	Lop	Lop Nur,China | Gobi Desert,Mongolia		Lop
 1	PART 1	34	Of the City and Desert of Lop	463	It belongs to the Khan, and the people adore Mohammed.			Khan,Mohammed	
 1	PART 1	34	Of the City and Desert of Lop	464	You must know that those persons who wish to pass this tract rest in the city a week to refresh themselves and their cattle ; 				
 1	PART 1	34	Of the City and Desert of Lop	465	then, having taken a month's provisions and provender, they enter upon the desert, which I assure you is so extensive that if a man were to travel through its whole length, it would employ a year ; 				
@@ -477,7 +477,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	34	Of the City and Desert of Lop	476	likewise to attach a bell to each of the animals, that they may be more easily kept from straggling.				
 1	PART 1	34	Of the City and Desert of Lop	477	In this manner, amid much danger and fear, this desert is passed.				
 1	PART 1	34	Of the City and Desert of Lop	478	Now we must tell you of the countries that lie on the other side.				
-1	PART 1	35	Of the Province of Tangut and City of Sacchion	479	When you have rode thirty days through this desert, you find a city named Sacchion,which belongs to the Khan.	Sacchion,Tangut		Khan	Sacchion
+1	PART 1	35	Of the Province of Tangut and City of Sacchion	479	When you have rode thirty days through this desert, you find a city named Sacchion,which belongs to the Khan.	Sacchion,Tangut	Dunhuang,China	Khan	Sacchion
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	480	 The province is called Tangut,and the people are idolaters, mixed with some Nestorian Christians and Saracens.				Tangut
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	481	The first have languages of their own ; 				
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	482	they subsist not by merchandise, but by the grain which they produce from the earth.				
@@ -497,7 +497,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	496	These sorcerers, too, often tell the relations that the dead body must not be carried out by the main door, but by a private one, or even through a breach made in the wall.				
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	497	All the idolaters in the world proceed in this manner.				
 1	PART 1	35	Of the Province of Tangut and City of Sacchion	498	Now I must go to another city which lies to the south, near the extremity of this desert.				
-1	PART 1	36	Of the City of Kamul	499	Kamul is a province, formerly a kingdom, containing cities and castles, with a capital of the same name.	Kamul			Kamul
+1	PART 1	36	Of the City of Kamul	499	Kamul is a province, formerly a kingdom, containing cities and castles, with a capital of the same name.	Kamul	Hami,China		Kamul
 1	PART 1	36	Of the City of Kamul	500	It stands between two deserts, the great one already described, and a smaller one, extending three days' journey.				
 1	PART 1	36	Of the City of Kamul	501	The people are all idolaters, and have a peculiar language ; 				
 1	PART 1	36	Of the City of Kamul	502	they live by the fruits of the earth, having enough to eat, and also to sell to the passenger.				
@@ -523,7 +523,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	37	Of the Province of Ginghintalas	522	This is the truth of the salamander, and every thing else said about itis mere fable.				
 1	PART 1	37	Of the Province of Ginghintalas	523	I can tell you, too, that at Rome there is a cloth which the great Khan sent to the pope as a costly present, and the sudarium of our Lord was placed within it.			Khan	Rome
 1	PART 1	37	Of the Province of Ginghintalas	524	Now let us tell you of other provinces to the south-east and east.				
-1	PART 1	38	Of the Province of Succiur	525	When you have departed from the province now described, you go ten days in the same direction.	Succiur			
+1	PART 1	38	Of the Province of Succiur	525	When you have departed from the province now described, you go ten days in the same direction.	Succiur	Jiuquan,China		
 1	PART 1	38	Of the Province of Succiur	526	In all that way there are few habitations, nor does any thing occur worth mentioning.				
 1	PART 1	38	Of the Province of Succiur	527	You then find a district called Succiur,with a capital of the same name.				Succiur
 1	PART 1	38	Of the Province of Succiur	528	The people are Christians, and idolaters, and under the great Khan.			Khan	
@@ -533,7 +533,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	38	Of the Province of Succiur	532	but the native cattle, having learned its dangerous quality, carefully avoid it.				
 1	PART 1	38	Of the Province of Succiur	533	They live by the fruits of the earth, but attend little to merchandise.				
 1	PART 1	38	Of the Province of Succiur	534	Now I must tell you of another city.				
-1	PART 1	39	Of the Province of Canpicion	535	Canpicion is a great and noble town, chief and capital of the whole province of Tangut.	Canpicion,Tangut			Canpicion,Tangut
+1	PART 1	39	Of the Province of Canpicion	535	Canpicion is a great and noble town, chief and capital of the whole province of Tangut.	Canpicion,Tangut	Gansu Province,China		Canpicion,Tangut
 1	PART 1	39	Of the Province of Canpicion	536	The people are idolaters, and there are some who adore Mohammed, and also Christians who have three large and beautiful churches.			Mohammed	
 1	PART 1	39	Of the Province of Canpicion	537	The first have monasteries and abbeys according to their custom, with a very great number of idols, some of which, I assure you, are ten paces high, severally formed of wood, of earth, and of stone, all beautifully covered with gold and ivory.				
 1	PART 1	39	Of the Province of Canpicion	538	Their priests live more respectably than others, and guard themselves against luxury, though they do not hold it for a very great sin.				
@@ -561,7 +561,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	41	Of the City of Karakorum	560	for which purpose he sent his barons among them.				
 1	PART 1	41	Of the City of Karakorum	561	The Tartars on hearing this were much grieved, and, holding a council, determined to flee through desert countries to the north, where he could not reach nor injure them.				
 1	PART 1	41	Of the City of Karakorum	562	They then ceased to obey or pay tribute to him,and remained thus for a long time.				
-1	PART 1	42	On Gengis, the first Khan of the Tartare	563	Now it happened that, about 1187, the Tartars appointed a king, who was named in their language Gengis Khan.	Karakorum		Gengis Khan	
+1	PART 1	42	On Gengis, the first Khan of the Tartare	563	Now it happened that, about 1187, the Tartars appointed a king, who was named in their language Gengis Khan.	Karakorum	Orkhon Valley,Mongolia	Gengis Khan	
 1	PART 1	42	On Gengis, the first Khan of the Tartare	564	He was a man of great worth, sense, and prowess; 				
 1	PART 1	42	On Gengis, the first Khan of the Tartare	565	and let me tell you, when he was elected, all the Tartars in the world that were scattered through those strange countries came and owned him as their lord.				
 1	PART 1	42	On Gengis, the first Khan of the Tartare	566	He maintained his power with great vigour, and the multitudes who ranged under his standard were almost innumerable.				
@@ -575,7 +575,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	42	On Gengis, the first Khan of the Tartare	574	Return, and tell him that I would burn my daughter sooner than give her to him, and that he deserves to be put to death as a traitor and disloyal to his lord.				
 1	PART 1	42	On Gengis, the first Khan of the Tartare	575	He then desired the messengers to depart forth with, and never return.				
 1	PART 1	42	On Gengis, the first Khan of the Tartare	576	They presently went away, and coming to their master, told him in order all that the other had said.				
-1	PART 1	43	His Battle with Prester John, and Victory over him	577	When Gengis Khan heard this boastful speech, his heart swelled, so that it almost burst within him ; 	Karakorum		Gengis Khan	
+1	PART 1	43	His Battle with Prester John, and Victory over him	577	When Gengis Khan heard this boastful speech, his heart swelled, so that it almost burst within him ; 	Karakorum	Orkhon Valley,Mongolia	Gengis Khan	
 1	PART 1	43	His Battle with Prester John, and Victory over him	578	for you must know he was a man of very great pride.				
 1	PART 1	43	His Battle with Prester John, and Victory over him	579	He then said to his minister, and to all about him, that he would not continue to hold the sovereignty, unless Prester John were made to pay more dearly for this villany than ever man did, and he must soon be made to see whether he was his vassal.			Prester John	
 1	PART 1	43	His Battle with Prester John, and Victory over him	580	Then he summoned round him the greatest army that ever was seen or heard of, and sent notice to Unchan that he must defend himself, as he was coming against him.			Unchan	
@@ -597,14 +597,14 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	43	His Battle with Prester John, and Victory over him	596	From that day he went on conquering many castles and provinces, and reigned six years ; 				
 1	PART 1	43	His Battle with Prester John, and Victory over him	597	but, at the end of that time, he besieged a fort, named Cangui, where he was wounded in the knee by an arrow, and died.				Cangui
 1	PART 1	43	His Battle with Prester John, and Victory over him	598	This was a great misfortune, for he was a brave and wise man.				
-1	PART 1	44	On the Khans who reigned after the Death of Gengis	599	After the death of Gengis, the next Khan was Cui, the third Bacui, the fourth Alton, the fifth Mangou, the sixth Kublai,who is greater and more powerful than all the rest; 	Karakorum		Gengis,Cui,Bacui,Alton,Mangou,Kublai	
+1	PART 1	44	On the Khans who reigned after the Death of Gengis	599	After the death of Gengis, the next Khan was Cui, the third Bacui, the fourth Alton, the fifth Mangou, the sixth Kublai,who is greater and more powerful than all the rest; 	Karakorum	Orkhon Valley,Mongolia	Gengis,Cui,Bacui,Alton,Mangou,Kublai	
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	600	for the other five together had not so much power as this Kublai ; 			Kublai	
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	601	nay, let me tell you, that all the emperors in the world, and all the Christian and Saracen kings, do not equal him, as is shown fully in our book.				
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	602	Now you must know that the great lords of the lineage of Gengis Khan are buried in a lofty mountain called Altai, and whenever the chief lords of the Tartars die, if it should be a hundred days' journey distant, they must be conveyed thither to be interred.			Gengis Khan	Altai
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	603	I will tell you another striking wonder ; 				
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	604	that when the bodies of the Khans are carried to these mountains, the conductors put to the sword all the men whom they meet on the road, saying, Go and serve the great lord in the other world ;				
 1	PART 1	44	On the Khans who reigned after the Death of Gengis	605	and they do the same to the horses, killing also for that purpose the best he has, You must know that when Mangou died, more than 20,000 men were slain, who had been met on the road when his body was removed to be buried.			Mangou	
-1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	606	Now since I have begun speaking of the Tartars, I will tell you many things about them.	Karakorum			
+1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	606	Now since I have begun speaking of the Tartars, I will tell you many things about them.	Karakorum	Orkhon Valley,Mongolia		
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	607	They abide during winter in plains and warm situations, where there is abundant herbage for their cattle; 				
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	608	and in summer they retire to cool places on mountains and high valleys, where water abounds.				
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	609	They have wooden houses covered with felt, of a round shape, which they convey with them wherever they go; 				
@@ -645,7 +645,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	644	Their cattle are all remarkably large, fat, and beautiful.				
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	645	They have another wonderful custom which I had forgot; 				
 1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	646	for when two men have one a son, the other a daughter, dead at the age of four, they marry them together, and represent the union by cards, which they set on fire, and when they see the flame and smoke ascending, they make great shouts and run backward and forward, saying that the dead are going to their children in the other world, and are to be husband and wife there.				
-1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	647	They do more, for they paint on cards the similitudes of men, horses, cloths, bezants, and harness, then burn them, and say that all these things will be possessed by their children in the other world.				
+1	PART 1	45	On the Religion, Customs, and Manners of the Tartars	647	They do more, for they paint on cards the similitudes of men, horses, cloths, bezants, and harness, then burn them, and say that all these things will be possessed by their children in the other world.		Orkhon Valley,Mongolia		
 1	PART 1	46	On their Wars, and the Order of their Armies	648	The Tartars are good men-at-arms in battle, capable of much endurance; 	Karakorum			
 1	PART 1	46	On their Wars, and the Order of their Armies	649	and they can go through more warlike toil than other men.				
 1	PART 1	46	On their Wars, and the Order of their Armies	650	Often, when necessary, one of them will remain a month without any food, except the milk of a mare and the flesh of animals killed by him in hunting, his horse feeding on the grass, without his needing to bring barley or straw.				
@@ -674,7 +674,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	46	On their Wars, and the Order of their Armies	673	I have said nothing here of the mighty acts of the great Khan, the sire of all the Tartars, nor of his splendid imperial court ; 			Khan	
 1	PART 1	46	On their Wars, and the Order of their Armies	674	for these wonderful things are described elsewhere in this book.				
 1	PART 1	46	On their Wars, and the Order of their Armies	675	But let us now return to our route on the great plain where we were when we began to speak of their actions.				
-1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	676	When you depart from Karakorum, and from Altai, where the Khans are interred, as I have related above, you go northwards through a country which is called the plain of Bangu, and continues during a journey of forty days.	Bangu			Karakorum,Altai,Bangu
+1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	676	When you depart from Karakorum, and from Altai, where the Khans are interred, as I have related above, you go northwards through a country which is called the plain of Bangu, and continues during a journey of forty days.	Bangu	Barguzin,Russia		Karakorum,Altai,Bangu
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	677	The inhabitants, who are called Mecri, and are very savage, live on the flesh of animals, chiefly deer, nay I assure you that they ride upon these animals.				
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	678	Their customs resemble those of the Tartars, and they are subject to the great Khan.			Khan	
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	679	They have neither corn nor wine, but in summer abundance of beasts and birds for hunting and hawking ; 				
@@ -689,7 +689,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	688	Those birds are bred on that isle in such abundance, that the great Khan obtains as many as he pleases; 			Khan	
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	689	while others are conveyed to Argon and other lords of the East.			Argon	
 1	PART 1	47	On the Plains of Bangu and the extreme Parts of the North	690	Now that I have told you of these northern provinces as far asthe ocean, let us return to Canpicion.				Canpicion
-1	PART 1	48	On the great City of Erginul	691	When a man departs from that city, he goes five days eastward through a country where there are many spirits, who are often heard speaking during the night.	Erginul,Tangut			
+1	PART 1	48	On the great City of Erginul	691	When a man departs from that city, he goes five days eastward through a country where there are many spirits, who are often heard speaking during the night.	Erginul,Tangut	Xining,China		
 1	PART 1	48	On the great City of Erginul	692	You then find a kingdom called Erginul,belonging to the great Khan, and included in the large province of Tangut.			Khan	Erginul,Tangut
 1	PART 1	48	On the great City of Erginul	693	There are a good many towns, the chief one bearing the same name ; 				
 1	PART 1	48	On the great City of Erginul	694	and the people are a mixture of Nestorian Christians, idolaters, and Mohammedans.				
@@ -712,7 +712,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	48	On the great City of Erginul	711	The ladies have no hair except on the head, and are every way very handsome.				
 1	PART 1	48	On the great City of Erginul	712	The men are voluptuous, and are authorized by their law and usage to take as many wives as they can maintain.				
 1	PART 1	48	On the great City of Erginul	713	If a woman is beautiful, though of humble birth, a great baron readily espouses her, giving to her mother such a sum of money as may be agreed on.				
-1	PART 1	49	On the Province of Egrigaia	714	When a man departs from Erginul, and goes eight days castward, he finds a province of Tangut called Egrigaia, where there are cities and castles, and the chief one is named Calacian.	Egrigaia,Tangut,Calacian			Erginul,Tangut,Egrigaia,Calacian
+1	PART 1	49	On the Province of Egrigaia	714	When a man departs from Erginul, and goes eight days castward, he finds a province of Tangut called Egrigaia, where there are cities and castles, and the chief one is named Calacian.	Egrigaia,Tangut,Calacian	Ningxia,China		Erginul,Tangut,Egrigaia,Calacian
 1	PART 1	49	On the Province of Egrigaia	715	The people are idolaters ; 				
 1	PART 1	49	On the Province of Egrigaia	716	yet there are three towns held by Nestorian Christians.				
 1	PART 1	49	On the Province of Egrigaia	717	They are subject to the great Tartar;				
@@ -720,7 +720,7 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	49	On the Province of Egrigaia	719	There is a kind of wool whence they manufacture very fine white camlets in great quantities.				
 1	PART 1	49	On the Province of Egrigaia	720	These the merchants convey by many routes to Cathay and other parts throughout the world.				Cathay
 1	PART 1	49	On the Province of Egrigaia	721	Now let us go to Tenduc, in the territory of Prester John.			Prester John	Tenduc
-1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	722	Tenduc is a province towards the east,where there are cities and castles, and the chief one bears the same name.	Tenduc,Cianganor			Tenduc
+1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	722	Tenduc is a province towards the east,where there are cities and castles, and the chief one bears the same name.	Tenduc,Cianganor	Guihua,China | Baicheng,China		Tenduc
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	723	The people belong to the great Khan, like all those formerly subject to Prester John.			Khan,Prester John	
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	724	In this province there is a king named George, descended from that prince, and who indeed enjoys his power.			George	
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	725	He holds the land under the Khan, but only a part of that which was possessed by his ancestor.			Khan	
@@ -744,5 +744,5 @@ chapterNo	chapterTitle	sectionNo	sectionTitle	sentenceNo	sentence	Polo Location	
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	743	In the mountains of that country is a place named Idifu, where there is a very productive silver mine.				Idifu
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	744	They have no want Of beasts and birds for hunting.				
 1	PART 1	50	On the Province of Tenduc, and of Gog and Magog	745	Now let us depart from this province and its cities, and travel three days, when we shall find a town named Cianganor, in which is a fine palace of the great Khan.			Khan	Cianganor
-1	PART 1	51	On the City of Chandu	746	Departing from this city, and travelling three days between north and north-east, you come to another named Chandu,built by Kublai, the great Khan now reigning.	Chandu		Kublai,Khan	Chandu
+1	PART 1	51	On the City of Chandu	746	Departing from this city, and travelling three days between north and north-east, you come to another named Chandu,built by Kublai, the great Khan now reigning.	Chandu	Shangdu,China	Kublai,Khan	Chandu
 1	PART 1	51	On the City of Chandu	747	Here he has built a most magnificent palace.				

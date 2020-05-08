@@ -508,13 +508,13 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	sentence	Marco Location
 1	PART 1	34	507	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	It has twenty-four arches, supported by piers in the water, and is wholly of marble, finely wrought into columns in the manner that I will tell you.				
 1	PART 1	34	508	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	At the head of the bridge is a column of marble, above and beneath which are beautifully carved lions of the same material, and about a pace distant is another column, with its lions, and between the two are slabs of gray marble, to secure passengers from falling into the water ; 				
 1	PART 1	34	509	Marco Polo's Journey-The River Pulisangan and its beautiful Bridge	and the whole bridge thus formed is the most magnificent object in the world.				
-1	PART 1	35	510	The great City of Geo-gui	After leaving that bridge a man travels thirty miles westward, finding every where fine trees, villages, and inns, and then comes to a city which is named Geo-gui.	Geo-gui			Geo-gui
+1	PART 1	35	510	The great City of Geo-gui	After leaving that bridge a man travels thirty miles westward, finding every where fine trees, villages, and inns, and then comes to a city which is named Geo-gui.	Geo-gui	Zhuozhou,China		Geo-gui
 1	PART 1	35	511	The great City of Geo-gui	The country is rich in grain, the people are all idolaters ; 				
 1	PART 1	35	512	The great City of Geo-gui	they live by merchandise and the arts, making cloth of gold, as well as silk, and beautiful linen.				
 1	PART 1	35	513	The great City of Geo-gui	There are also numerous houses for the reception of strangers.				
 1	PART 1	35	514	The great City of Geo-gui	A mile beyond that city are two roads, one leading westward through Cathay, the other southward to the great province of Manji.				Cathay,Manji
 1	PART 1	35	515	The great City of Geo-gui	In riding westward through Cathay full ten days, you find always handsome cities and castles, abundance of arts and merchandise, fine inns, trees, vines, and a civilized people.				Cathay
-1	PART 1	36	516	The Cities of Ta-in-fu and Pi-an-fu	At the end of this journey is a kingdom named Ta-in-fu,with a capital of the same name.	Ta-in-fu,Achbaluch,Pi-an-fu	,Zhengding,		Ta-in-fu
+1	PART 1	36	516	The Cities of Ta-in-fu and Pi-an-fu	At the end of this journey is a kingdom named Ta-in-fu,with a capital of the same name.	Ta-in-fu,Achbaluch,Pi-an-fu	Taiyuan,China|Zhengding,China |		Ta-in-fu
 1	PART 1	36	517	The Cities of Ta-in-fu and Pi-an-fu	It contains many arts and much merchandise, with a large supply of stores necessary for the imperial army.				
 1	PART 1	36	518	The Cities of Ta-in-fu and Pi-an-fu	The district presents numerous vineyards, and being the only part of Cathay where wine is made, supplies it to the surrounding provinces.				Cathay
 1	PART 1	36	519	The Cities of Ta-in-fu and Pi-an-fu	It yields also much silk, abounding in the trees on which the worms are fed.				
@@ -551,7 +551,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	sentence	Marco Location
 1	PART 1	37	550	The Castle of Caya-fu--Story of its King and Prester John	Having then supplied him with many horses handsomely equipped, and a numerous attendance, he permitted him to go.				
 1	PART 1	37	551	The Castle of Caya-fu--Story of its King and Prester John	Dor then returned to his kingdom, and from that time was a faithful friend and servant of Prester John.			Dor,Prester John	
 1	PART 1	38	552	The great River Kara-moran, and the City Ca-cian-fu	Twenty miles westward from that castle is a river called Kara-moran,so large and broad that it cannot be crossed by a bridge, and flows on even to the ocean.	Kara-moran river, Ca-cian-fu	"
-Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-moran
+Huang He ,China | Puzhou,China "		Kara-moran
 1	PART 1	38	553	The great River Kara-moran, and the City Ca-cian-fu	On its banks are many cities and castles, likewise many merchants and manufactured goods; 				
 1	PART 1	38	554	The great River Kara-moran, and the City Ca-cian-fu	and in the country around ginger grows in great abundance.				
 1	PART 1	38	555	The great River Kara-moran, and the City Ca-cian-fu	The number of birds is wonderful, so that for a Venetian grosso one can buy three pheasants ; 				
@@ -560,7 +560,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	38	558	The great River Kara-moran, and the City Ca-cian-fu	It is a city of great merchandise and many arts.				
 1	PART 1	38	559	The great River Kara-moran, and the City Ca-cian-fu	They have abundance of silk, with cloth of gold of all fashions.				
 1	PART 1	38	560	The great River Kara-moran, and the City Ca-cian-fu	I will go on to tell you of the capital of the kingdom.				
-1	PART 1	39	561	The City of Quen-gian-fu	When a man has left the city of Ca-cian-fu, and travelled eight days westward, he finds always cities and castles, merchandise and arts, pleasure-grounds and houses; 	Quen-gian-fu			Ca-cian-fu
+1	PART 1	39	561	The City of Quen-gian-fu	When a man has left the city of Ca-cian-fu, and travelled eight days westward, he finds always cities and castles, merchandise and arts, pleasure-grounds and houses; 	Quen-gian-fu	Xi'an,China		Ca-cian-fu
 1	PART 1	39	562	The City of Quen-gian-fu	and the whole country is full of mulberries, producing abundance of silk.				
 1	PART 1	39	563	The City of Quen-gian-fu	The men are idolaters and live by labouring the ground, hunting, and hawking.				
 1	PART 1	39	564	The City of Quen-gian-fu	At the end of the eight days he comes to the noble city of Quen-gian-fu,capital of a kingdom anciently magnificent and powerful, and which had many noble and valiant kings.				 Quen-gian-fu
@@ -573,7 +573,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	39	571	The City of Quen-gian-fu	A wall five miles in circuit, surrounded with battlements, and well built, encloses this splendid edifice, having halls and chambers adorned with beaten gold.				
 1	PART 1	39	572	The City of Quen-gian-fu	Mangalu exercises his dominion with great justice, and is much beloved by his people ;			Mangalu	
 1	PART 1	39	573	The City of Quen-gian-fu	 the residents in the district enjoy great amusement in hawking and hunting.				
-1	PART 1	40	574	The Province of Cun-chin	A man departing from this palace travels three days west ward through a very fine plain, always finding villages and castles, with men living by merchandise and rearing silk in great abundance.	Cun-chin			
+1	PART 1	40	574	The Province of Cun-chin	A man departing from this palace travels three days west ward through a very fine plain, always finding villages and castles, with men living by merchandise and rearing silk in great abundance.	Cun-chin	Hanzhong,China		
 1	PART 1	40	575	The Province of Cun-chin	He then comes to great mountains and valleys belonging to the province of Cun-chin ;the people are all idolaters, and subsist by agriculture and hunting, having many forests full of various wild animals.				Cun-chin
 1	PART 1	40	576	The Province of Cun-chin	Thus a man rides for twenty days through mountains, valleys, and woods, always finding cities, castles, and good inns.				
 1	PART 1	41	577	The Province of Achalech-Manji	After this journey, he enters a province named Achalech-Manji, entirely level, and full of cities and castles.	Achalech-Manji			Achalech-Manji
@@ -583,7 +583,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	41	581	The Province of Achalech-Manji	This plain lasts for two days, and we then travel twenty through mountains, valleys, and woods, seeing many cities and castles.				
 1	PART 1	41	582	The Province of Achalech-Manji	These people are idolaters, and live on the fruits of the earth and the flesh of birds and beasts; 				
 1	PART 1	41	583	The Province of Achalech-Manji	for there are abundance of lions, bears, wolves, stags, deer, and particularly of those animals which yield the musk.				
-1	PART 1	42	584	The Province of Achalech-Manji	When a man has left this country and travelled twenty days westward, he approaches a province on the borders of Manji named Sin-din-fu.	Sin-din-fu,Quian-su			Manji,Sin-din-fu
+1	PART 1	42	584	The Province of Achalech-Manji	When a man has left this country and travelled twenty days westward, he approaches a province on the borders of Manji named Sin-din-fu.	Sin-din-fu,Quian-su	Chengdu,China|		Manji,Sin-din-fu
 1	PART 1	42	585	The Province of Achalech-Manji	The capital, bearing the same name, was anciently very great and noble, governed by a mighty and wealthy sovereign.				
 1	PART 1	42	586	The Province of Achalech-Manji	He died, leaving three sons, who divided the city into three parts, and each enclosed his portion with a wall, which was within the great wall of twenty miles in circuit.				
 1	PART 1	42	587	The Province of Achalech-Manji	They ranked still as kings, and had ample possessions ; 				
@@ -620,7 +620,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	43	618	The Province of Achalech-Manji	For this reason, travellers, riding such horses, bind them by the feet, and stop their eyes and ears.				
 1	PART 1	43	619	The Province of Achalech-Manji	A man travels twenty days through these countries without finding either inns or victuals; 				
 1	PART 1	43	620	The Province of Achalech-Manji	he must therefore carry with him food for himself and his cattle during the whole of that space, meeting always, too, ferocious wild beasts, which are very dangerous.				
-1	PART 1	44	621	Another Part of Thibet	The traveller then comes to a part of Thibet where there are houses and castles; 	Thibet,Kain-du	Tibet|Xichang		
+1	PART 1	44	621	Another Part of Thibet	The traveller then comes to a part of Thibet where there are houses and castles; 	Thibet,Kain-du	Tibet		
 1	PART 1	44	622	Another Part of Thibet	but the people have a bad custom.				
 1	PART 1	44	623	Another Part of Thibet	None of them for the whole world will marry a virtuous maiden, saying that she is worth nothing without having had many lovers.				
 1	PART 1	44	624	Another Part of Thibet	When strangers, therefore, pass through, and have pitched their tents, or taken their lodging in inns, the old women bring their daughters, often to the number of thirty or forty, and offer them as wives during their stay ; 				
@@ -638,7 +638,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	44	636	Another Part of Thibet	They are poorly clad with the skins of beasts, canvass, and buckram ; 				
 1	PART 1	44	637	Another Part of Thibet	they have a language of their own, which they call Tebet.				
 1	PART 1	44	638	Another Part of Thibet	Now I will tell you of Kain-du.				Kain-du
-1	PART 1	45	639	The Province of Kain-du	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great Khan.	Brius River		Khan	
+1	PART 1	45	639	The Province of Kain-du	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great Khan.	Brius River	Jinsha River,China	Khan	
 1	PART 1	45	640	The Province of Kain-du	It contains a number of cities and castles, with a lake, in which are found many pearls; 				
 1	PART 1	45	641	The Province of Kain-du	but the monarch forbids them, under a severe penalty, to be removed except for his own use ;				
 1	PART 1	45	642	The Province of Kain-du	 because, if any one were allowed to take them, they would become worth almost nothing.				
@@ -662,7 +662,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	45	660	The Province of Kain-du	In it is found a great quantity of gold dust ; and on its banks abundance of cinnamon ; 				
 1	PART 1	45	661	The Province of Kain-du	it flows on to the ocean.				
 1	PART 1	45	662	The Province of Kain-du	Now let us tell you of Caraian.				Caraian
-1	PART 1	46	663	The Province of Caraian	When a man has departed and crossed the river, he enters this province, which is large, and contains seven kingdoms extending westward.	Caraian, Yaci			
+1	PART 1	46	663	The Province of Caraian	When a man has departed and crossed the river, he enters this province, which is large, and contains seven kingdoms extending westward.	Caraian, Yaci	Yunnan Province,China|Kunming,China		
 1	PART 1	46	664	The Province of Caraian	The people are all idolaters, and under the dominion of the great Khan.			Khan	
 1	PART 1	46	665	The Province of Caraian	The king is a son of his, named Essetemur, and is great, rich, and powerful.			Essetemur	
 1	PART 1	46	666	The Province of Caraian	He is also brave and upright, ruling his country with much justice.				
@@ -680,7 +680,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	46	678	The Province of Caraian	They use the raw flesh of all fowls and beasts ; 				
 1	PART 1	46	679	The Province of Caraian	for the poor people go to the market and get it newly taken from the animal, put it in garlic sauce, then eat it; 				
 1	PART 1	46	680	The Province of Caraian	the rich likewise eat it raw, but previously cut into small pieces, and the sauce mixed with good spices.				
-1	PART 1	47	681	The Province of Caraian	When a man leaves Yaci, or Chiaci, and goes ten days westward, he finds the province of Karazan, with a capital of the same name.	Karazan			Yaci,Chiaci,Karazan
+1	PART 1	47	681	The Province of Caraian	When a man leaves Yaci, or Chiaci, and goes ten days westward, he finds the province of Karazan, with a capital of the same name.	Karazan	Dali,China		Yaci,Chiaci,Karazan
 1	PART 1	47	682	The Province of Caraian	The people are all idolaters, and subject to the great Khan; 			Khan	
 1	PART 1	47	683	The Province of Caraian	the king is a son of that monarch, named Kogatin.			Kogatin	
 1	PART 1	47	684	The Province of Caraian	Gold dust is found in the river, and on the mountains in large pieces so abundantly that a bar is given for six of silver.				
@@ -705,7 +705,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	47	703	The Province of Karazan and its great Serpents	This was not out of enmity or with the view of taking his money, but because they imagined that his wisdom and other good qualities would thus remain with them.				
 1	PART 1	47	704	The Province of Karazan and its great Serpents	However, about thirty-five years ago, after that monarch conquered the country, he prohibited this crime, which, from fear of him, they no longer commit.				
 1	PART 1	47	705	The Province of Karazan and its great Serpents	Now let us tell of another province called Kardandan.				Kardandan
-1	PART 1	48	706	The Province of Kardandan	When a man departs from Karazan, and travels to the westward, he enters a province named Kardandan, inhabited by idolaters, and subject to the great Khan.	Kardanan,Vociam		Khan	Karazan,Kardandan
+1	PART 1	48	706	The Province of Kardandan	When a man departs from Karazan, and travels to the westward, he enters a province named Kardandan, inhabited by idolaters, and subject to the great Khan.	Kardanan,Vociam	Yunxian,China	Khan	Karazan,Kardandan
 1	PART 1	48	707	The Province of Kardandan	The chief city is called Vociam.				Vociam
 1	PART 1	48	708	The Province of Kardandan	All the people have their teeth, both upper and lower, covered with gold, which thus appear to be made of that metal.				
 1	PART 1	48	709	The Province of Kardandan	The men are soldiers, and regard nothing but war; 				
@@ -735,7 +735,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	48	733	The Province of Kardandan	It is then answered that he is not yet pardoned, but something more must be done, after which forgiveness will be granted.				
 1	PART 1	48	734	The Province of Kardandan	"This order is obeyed, when he says, ""he is pardoned, and will be immediately cured""."				
 1	PART 1	48	735	The Province of Kardandan	"The company then exclaim,""the spirit is on our side,"" and having eaten the sheep and drunk the pottage with great joy and festivity, they return to their homes."				
-1	PART 1	49	736	Of the great Battle fought between the Tartars and the King of Mien	Now I must mention a very great battle which was fought in the kingdom of Vociam, and you shall hear all how it happened.	Vociam			Vociam
+1	PART 1	49	736	Of the great Battle fought between the Tartars and the King of Mien	Now I must mention a very great battle which was fought in the kingdom of Vociam, and you shall hear all how it happened.	Vociam	Yunxian,China		Vociam
 1	PART 1	49	737	Of the great Battle fought between the Tartars and the King of Mien	In the year of our Lord 1272, the great Khan sent a mighty captain, named Nescardin, with 12,000 men, to defend the province of Caraian.			Khan,Nescardin	Caraian
 1	PART 1	49	738	Of the great Battle fought between the Tartars and the King of Mien	He was a prudent man, very strong in arms and skilful in war ; 				
 1	PART 1	49	739	Of the great Battle fought between the Tartars and the King of Mien	and the soldiers with him were good and very brave warriors.				
@@ -771,7 +771,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	50	769	Of the great Battle fought between the Tartars and the King of Mien	and they give an ounce of the former for five of the latter.				
 1	PART 1	50	770	Of the great Battle fought between the Tartars and the King of Mien	None but those who bring the gold can penetrate into the countries where it is produced, so difficult and intricate are the roads. 				
 1	PART 1	50	771	Of the great Battle fought between the Tartars and the King of Mien	When a man has travelled these two days and a half, he comes to a district which is called Anniz, on the borders of India, towards the south, and then he goes for fifteen days through a region covered with woods filled with elephants, unicorns, and other savage beasts, but not containing any human habitation.				Anniz,India
-1	PART 1	51	772	Of the City of Mien, and the most beautiful Tomb of the the King	At the termination of these wild and pathless tracts is a large and noble city called Mien, the capital of the province.	Mien	Bagan,Myanmar		Mien
+1	PART 1	51	772	Of the City of Mien, and the most beautiful Tomb of the the King	At the termination of these wild and pathless tracts is a large and noble city called Mien, the capital of the province.	Mien	Tagaung,Myanmar		Mien
 1	PART 1	51	773	Of the City of Mien, and the most beautiful Tomb of the the King	The people are all idolaters, with a language peculiar to themselves, and are subject to the great Khan.			Khan	
 1	PART 1	51	774	Of the City of Mien, and the most beautiful Tomb of the the King	About this city I will tell you a thing very remarkable.				
 1	PART 1	51	775	Of the City of Mien, and the most beautiful Tomb of the the King	There was anciently in it a rich and powerful king, who, being about to die, commanded that on his tomb should be erected two towers, one of gold, and the other of silver.				
@@ -812,7 +812,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	54	810	Of the Province of Amu	in short, they have plenty of the means of subsistence.				
 1	PART 1	54	811	Of the Province of Amu	From Amu to Kangigu, are fifteen days, and thence to Bangala, which is the third province behind, are thirty days.				Amu,Kangigu,Bangala
 1	PART 1	54	812	Of the Province of Amu	Now let us come to another province, which is called Tholoman, and lies eight journeys from this to the east.				Tholoman
-1	PART 1	55	813	Of the Province of Tholoman	Tholoman is a third province towards the east.	Tholoman			Tholoman
+1	PART 1	55	813	Of the Province of Tholoman	Tholoman is a third province towards the east.	Tholoman	Luoping,China		Tholoman
 1	PART 1	55	814	Of the Province of Tholoman	All the - people are idolaters, have a language of their own, and are under the great Khan.			Khan	
 1	PART 1	55	815	Of the Province of Tholoman	They are handsome, of rather a brown complexion, good men at arms, and have a number of cities, castles, and forts, on the top of very high mountains.				
 1	PART 1	55	816	Of the Province of Tholoman	When they die, the bodies are burned, and the bones which cannot be consumed are placed in chests and carried to the caverns of high mountains, where they are kept suspended, so that neither man nor beast can touch them.				
@@ -820,7 +820,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	55	818	Of the Province of Tholoman	but the small money is of porcelain, which circulates in all these provinces.				
 1	PART 1	55	819	Of the Province of Tholoman	The merchants, though few, are rich ; 				
 1	PART 1	55	820	Of the Province of Tholoman	the people live on flesh and rice, and have many good spices.				
-1	PART 1	56	821	Of the Province of Cyn-gui and its Lions	Cyn-gui is a province likewise situated towards the east, and when a man leaves Tholoman, he goes twelve days along a river, where there are towns and castles, but nothing else worth mentioning.	Cyn-gui,Singul			Cyn-gui,Tholoman
+1	PART 1	56	821	Of the Province of Cyn-gui and its Lions	Cyn-gui is a province likewise situated towards the east, and when a man leaves Tholoman, he goes twelve days along a river, where there are towns and castles, but nothing else worth mentioning.	Cyn-gui,Singul	Guizhou,China		Cyn-gui,Tholoman
 1	PART 1	56	822	Of the Province of Cyn-gui and its Lions	At the end of these twelve days, he finds the city Sinugul, very large and noble.				Sinugul
 1	PART 1	56	823	Of the Province of Cyn-gui and its Lions	The inhabitants are all idolaters, and subject to the great Khan.			Khan	
 1	PART 1	56	824	Of the Province of Cyn-gui and its Lions	They live by merchandise and arts, and weave cloths of the bark of trees, which make fine summer dresses.				
@@ -856,7 +856,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	58	854	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	Five days' journey from Cian-glu is Cian-gli, where are many cities and castles.				Cian-glu,Cian-gli
 1	PART 1	58	855	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	It is a town of Cathay, and the whole people are idolaters, subject to the Khan, and use paper money.			Khan	Cathay
 1	PART 1	58	856	Cities of Ca-cian-fu, Cian-glu, and Cian-gli	Through the middle of that territory flows a great river, on which is conveyed much merchandise of various kinds.				
-1	PART 1	59	857	Condi-fu--Rebellion against the Great Khan	In departing from Cian-gli, we come in six days to Condi-fu,a great city, which the Khan conquered by force of arms, but still it is the noblest in the province.	Condi-fu		Khan	Cian-gli,Condi-fu
+1	PART 1	59	857	Condi-fu--Rebellion against the Great Khan	In departing from Cian-gli, we come in six days to Condi-fu,a great city, which the Khan conquered by force of arms, but still it is the noblest in the province.	Condi-fu	Yanzhou,China	Khan	Cian-gli,Condi-fu
 1	PART 1	59	858	Condi-fu--Rebellion against the Great Khan	There is a wonderful abundance of silk, as well as orchards with many delicate fruits, and the situation is delightful ;				
 1	PART 1	59	859	Condi-fu--Rebellion against the Great Khan	 it has also under it fifteen other cities of great importance and commerce, whence it derives high honour and dignity.				
 1	PART 1	59	860	Condi-fu--Rebellion against the Great Khan	In the year 1273, the Khan gave to Litan, one of his barons, 70,000 horse to defend and secure that city; 			Khan,Litan	
@@ -867,7 +867,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	59	865	Condi-fu--Rebellion against the Great Khan	Litan was killed, with many others; 			Litan	
 1	PART 1	59	866	Condi-fu--Rebellion against the Great Khan	and the Khan caused all those who had been guilty to be put to death, and spared the lives of the rest.			Khan	
 1	PART 1	59	867	Condi-fu--Rebellion against the Great Khan	Now let us tell of another country named Sin-gui.				Sin-gui
-1	PART 1	60	868	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man has gone south from Condi-fu, he finds cities and castles, many animals of the chase and birds, with a vast abundance of all productions, and then comes to Sin-gui,which is noble, great, and beautiful, with much merchandise and many arts; 	Sin-gui,Lin-gui,Pin-gui,Cin-gui			Condi-fu,Sin-gui
+1	PART 1	60	868	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man has gone south from Condi-fu, he finds cities and castles, many animals of the chase and birds, with a vast abundance of all productions, and then comes to Sin-gui,which is noble, great, and beautiful, with much merchandise and many arts; 	Sin-gui,Lin-gui,Pin-gui,Cin-gui	 |Xuzhou,China|Pizhou,China|Suqian.China		Condi-fu,Sin-gui
 1	PART 1	60	869	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the whole people are idolaters, subject to the Khan, and use paper money.			Khan	
 1	PART 1	60	870	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	They have a river which is of great utility, because the people of the country have divided the stream which comes from the south into two parts; 				
 1	PART 1	60	871	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	one goes eastward towards Manji, the other westward towards Cathay ; 				Manji,Cathay
@@ -888,7 +888,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	60	886	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	They have much grain and grass.				
 1	PART 1	60	887	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	When a man leaves Cin-gui, he finds cities, villages, and castles, with handsome dogs and good pasturage ; 				Cin-gui
 1	PART 1	60	888	Cities of Sin-gui, Lin-gui, Pin-gui, and Cin-gui	the people being such as are above described.				
-1	PART 1	61	889	Of the great River Kara-moran	At the end of two days a man finds the great river called Kara-moran, coming from the lands of Prester John.	Kara-moran river		Prester John	Kara-moran
+1	PART 1	61	889	Of the great River Kara-moran	At the end of two days a man finds the great river called Kara-moran, coming from the lands of Prester John.	Kara-moran river	Huang He ,China	Prester John	Kara-moran
 1	PART 1	61	890	Of the great River Kara-moran	It is full, broad, and so deep that a large ship can pass through its channel; 				
 1	PART 1	61	891	Of the great River Kara-moran	and there are on it full 15,000 vessels, all belonging to the Khan, meant for conveying his goods when he goes to the islands of the sea, which is distant about a day's journey.			Khan	
 1	PART 1	61	892	Of the great River Kara-moran	And each of these ships requires fifteen mariners, and carries fifteen horses with their riders, provisions, and every thing else necessary for them.				
@@ -920,7 +920,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	63	918	Of the Piety and Justice of the King towards his Subjects	She was led to the great Khan, who made her be honoured and served asa powerful sovereign ; 			Khan	
 1	PART 1	63	919	Of the Piety and Justice of the King towards his Subjects	but the king, her husband, never came out of the islands of the ocean, and died there, and thus the whole kingdom remained with the Khan.			Khan	
 1	PART 1	63	920	Of the Piety and Justice of the King towards his Subjects	Now let us tell of the province of Manji, and the manners and customs of the people ; beginning with the city of Koi-gan-zu.				Manji,Koi-gan-zu
-1	PART 1	64	921	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Koi-gan-zu is a great, rich, and noble city, at the entrance of the province of Manji, lying to the south.	Koi-gan-zu,Pau-chym,Chaym			Koi-gan-zu,Manji
+1	PART 1	64	921	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Koi-gan-zu is a great, rich, and noble city, at the entrance of the province of Manji, lying to the south.	Koi-gan-zu,Pau-chym,Chaym	Huaian,China|Baoying,China|Gaoyou,China		Koi-gan-zu,Manji
 1	PART 1	64	922	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The whole people are subject to the Khan; 			Khan	
 1	PART 1	64	923	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	they are idolaters, and burn the bodies of their dead.				
 1	PART 1	64	924	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	It lies on the river Kara-moran, and hence is full of ships ; 				Kara-moran
@@ -936,18 +936,18 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	64	934	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	When a man sets out from Pau-chym, he travels a day and discovers a very large city named Chaym.				Pau-chym,Chaym
 1	PART 1	64	935	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	There is great abundance of the necessaries of life ; 				
 1	PART 1	64	936	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	fish beyond measure, beasts and birds for sport in great numbers, so that for a Venetian silver grosso you may purchase three pheasants.				
-1	PART 1	65	937	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Tin-gui is a pretty agreeable city, a full day's journey from Chaym.	Tin-gui,Cyn-gui			Tin-gui, Chaym
+1	PART 1	65	937	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Tin-gui is a pretty agreeable city, a full day's journey from Chaym.	Tin-gui,Cyn-gui	Taizhou,China|		Tin-gui, Chaym
 1	PART 1	65	938	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	The people are idolaters, subject to the Khan, and use paper money ; 			Khan	
 1	PART 1	65	939	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	they have merchandise and arts, and numerous ships belonging to them.				
 1	PART 1	65	940	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	It lies to the south-east, and on the left, nearly three days' journey to the eastward, is the ocean, where salt is made in great quantities.				
 1	PART 1	65	941	Of the Cities of Koi-gan-zu, Pau-chym, and Chaym	Here is a city named Cyn-gui, large, rich, and noble, to which all the salt is brought, and the Khan draws from it a revenue so wonderful that it could not be believed.			Khan	Cyn-gui
-1	PART 1	66	942	Of the great City of Yan-gui	When a man leaves Tin-gui he proceeds a day towards the south-east,through a very fine country, finding towns and castles, and then comes to Yan-gui,a large and beautiful city, which has under it twenty-four, all good and of great trade.	Yan-gui			Tin-gui,Yan-gui
+1	PART 1	66	942	Of the great City of Yan-gui	When a man leaves Tin-gui he proceeds a day towards the south-east,through a very fine country, finding towns and castles, and then comes to Yan-gui,a large and beautiful city, which has under it twenty-four, all good and of great trade.	Yan-gui	Yanzhou,China		Tin-gui,Yan-gui
 1	PART 1	66	943	Of the great City of Yan-gui	Its affairs are administered by one of the twelve barons of the Khan ; 			Khan	
 1	PART 1	66	944	Of the great City of Yan-gui	Messer Marco Polo, of whom this book treats, governed it three years.			Messer Marco Polo	
 1	PART 1	66	945	Of the great City of Yan-gui	Here are made many arms and other equipments for knights and men of war ; 				
 1	PART 1	66	946	Of the great City of Yan-gui	for in this place and around it numerous troops are quartered.				
 1	PART 1	66	947	Of the great City of Yan-gui	I will now tell you of two great provinces lying to the west, and as I shall have much to say, I will begin with Nan-ghin.				Nan-ghin
-1	PART 1	67	948	Of the great City of Yan-gui	Nan-ghin is a province towards the west, belonging to Manji, and is very noble and rich.	Nan-ghin			Nan-ghin,Manji
+1	PART 1	67	948	Of the great City of Yan-gui	Nan-ghin is a province towards the west, belonging to Manji, and is very noble and rich.	Nan-ghin	Anqing,China		Nan-ghin,Manji
 1	PART 1	67	949	Of the great City of Nan-ghin	The people are idolaters, use paper money, and are subject to the great Khan.			Khan	
 1	PART 1	67	950	Of the great City of Nan-ghin	They live by merchandise and arts, have silk in abundance, and make cloths of it interwoven with gold, in all fashions.				
 1	PART 1	67	951	Of the great City of Nan-ghin	They have an ample supply of every kind of grain and provisions ; 				
@@ -955,7 +955,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	67	953	Of the great City of Nan-ghin	There are also lions and animals for hunting.				
 1	PART 1	67	954	Of the great City of Nan-ghin	There are many rich merchants who carry on much trade, and pay a large revenue to the great sire.				
 1	PART 1	67	955	Of the great City of Nan-ghin	But I will now go to the noble city of Sa-yan-fu, respecting which I shall have much to say.				Sa-yan-fu
-1	PART 1	68	956	Of the City of Sa-yan-fu, and how it was taken	Sa-yan-fu is a large and magnificent city, having under it twelve others also great and noble; 	Sa-yan-fu			Sa-yan-fu
+1	PART 1	68	956	Of the City of Sa-yan-fu, and how it was taken	Sa-yan-fu is a large and magnificent city, having under it twelve others also great and noble; 	Sa-yan-fu	Xiangyang,China		Sa-yan-fu
 1	PART 1	68	957	Of the City of Sa-yan-fu, and how it was taken	it is the seat of many valuable arts and of much merchandize.				
 1	PART 1	68	958	Of the City of Sa-yan-fu, and how it was taken	The inhabitants are idolaters; 				
 1	PART 1	68	959	Of the City of Sa-yan-fu, and how it was taken	they use paper money, are subject to the Khan, and burn the bodies of their dead.			Khan	
@@ -985,7 +985,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	69	983	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	yet they are of heavy burden, and carry each from 4000 to 12,000 cantars.				
 1	PART 1	69	984	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	They have ropes composed of cane for drawing them through the water ; 				
 1	PART 1	69	985	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	those belonging to the larger vessels are thick, and fifteen paces in length, being cloven at the end, and bound together in such a way as to make a cord 300 paces long.				
-1	PART 1	70	986	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Cai-gui is a small city towards the south-east,situated upon the bank of the above-mentioned river ; 	Cai-gui			Cai-gui
+1	PART 1	70	986	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Cai-gui is a small city towards the south-east,situated upon the bank of the above-mentioned river ; 	Cai-gui	Guazhou,China		Cai-gui
 1	PART 1	70	987	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	all the people are idolaters, subject to the Khan, and use paper money.			Khan	
 1	PART 1	70	988	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	Here are collected large quantities of corn and rice ; 				
 1	PART 1	70	989	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	and there is a passage by water to the city of Kambalu and the court of the Khan; 			Khan	Kambalu
@@ -994,12 +994,12 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	70	992	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	And by the side of this water-channel goes a road, so that you may take either the one or the other, as is most convenient.				
 1	PART 1	70	993	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	In the middle of that river, opposite the city, is an isle of rocks, on which is a monastery of idolaters, where there are 200 monks, who serve a very great number of gods.				
 1	PART 1	70	994	Of the City of Sin-gui and the River Kiang, and the Multitude of Cities on that River	 Now, let us cross the river, and tell of a city named Cin-ghian-fu.				Cin-ghian-fu
-1	PART 1	71	995	Of the City of Cin-ghian-fu	Cin-ghian-fu is a city of Manji, and the peaple are such as we have already described, idolaters, and subjects of the great Khan.	Cin-ghian-fu		Khan	Cin-ghian-fu,Manji
+1	PART 1	71	995	Of the City of Cin-ghian-fu	Cin-ghian-fu is a city of Manji, and the peaple are such as we have already described, idolaters, and subjects of the great Khan.	Cin-ghian-fu	Zhenjiang,China	Khan	Cin-ghian-fu,Manji
 1	PART 1	71	996	Of the City of Cin-ghian-fu	They are artificers, merchants, and hunters, raise much grain, and make cloths of silk and gold.				
 1	PART 1	71	997	Of the City of Cin-ghian-fu	Here are two churches of Nestorian Christians, formed in the year 1278 ; which happened because at that time the governor under the Khan was a Nestorian, named Marsarchis, and he caused these two edifices to be built.			Khan,Marsarchis	
 1	PART 1	71	998	Of the City of Cin-ghian-fu	Now, let us go to the great city of Cin-ghin-gui.				Cin-ghin-gui
 1	PART 1	72	999	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When a man leaves Cin-ghian-fu, and travels three or four days south-east, he always discovers cities and castles, with much merchandise ; 				Cin-ghian-fu
-1	PART 1	72	1000	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	the people are all idolaters, subject to the Khan, and use paper money.	Cin-ghin-gui		Khan	
+1	PART 1	72	1000	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	the people are all idolaters, subject to the Khan, and use paper money.	Cin-ghin-gui	Changzhou,China	Khan	
 1	PART 1	72	1001	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	Then he comes to the city of Cin-ghin-gui, great and noble, the people idolaters, and subject to the Khan; 			Khan	Cin-ghin-gui
 1	PART 1	72	1002	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	they have abundance of provisions, produce and manufacture a vast quantity of silk.				
 1	PART 1	72	1003	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	And here I will tell you a wicked thing which the people of this city did, but it cost them dear.				
@@ -1008,7 +1008,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	72	1006	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When the men of the city saw them in this condition, that very night they slew them all, so that not one escaped.				
 1	PART 1	72	1007	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	When Bayam the commander heard of this disloyal conduct, he sent an army who took the town, and put all the inhabitants to the sword.			Bayam	
 1	PART 1	72	1008	Of the City of Cin-ghin-gui, and of a dreadful Slaughter	Now, let us go on, and I will tell you of another named Sin-gui.				Sin-gui
-1	PART 1	73	1009	Of the City of Sin-gui, of Un-gui, and of Ughim	Sin-gui is a very great and noble city.	Sin-gui,Un-gui,Ughiam			Sin-gui
+1	PART 1	73	1009	Of the City of Sin-gui, of Un-gui, and of Ughim	Sin-gui is a very great and noble city.	Sin-gui,Un-gui,Ughiam	Suzhou,China||		Sin-gui
 1	PART 1	73	1010	Of the City of Sin-gui, of Un-gui, and of Ughim	The people are idolaters, subject to the great Khan, and use paper money.			Khan	
 1	PART 1	73	1011	Of the City of Sin-gui, of Un-gui, and of Ughim	Most of them live by merchandise and arts, raise much silk, make cloths of it interwoven with gold very costly and fine.				
 1	PART 1	73	1012	Of the City of Sin-gui, of Un-gui, and of Ughim	The town is forty miles in circuit, and the number of inhabitants is so great, that no person can count them, and if they were men-at-arms, those of the province of Manji would conquer the whole world; 				Manji
@@ -1026,7 +1026,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	73	1024	Of the City of Sin-gui, of Un-gui, and of Ughim	the men are idolaters, subject to the great Khan, use paper money, and have abundance of all things.			Khan	
 1	PART 1	73	1025	Of the City of Sin-gui, of Un-gui, and of Ughim	There is nothing else worth mentioning ; 				
 1	PART 1	73	1026	Of the City of Sin-gui, of Un-gui, and of Ughim	therefore I will go on to tell you of the noble city of Kin-sai, which is the capital of the kingdom of Manji.				Kin-sai,Manji
-1	PART 1	74	1027	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	When a man leaves Ughim, and goes three days, he observes many noble and rich cities and castles, with great merchandise.	Kin-sai,Gan-fu			Ughim
+1	PART 1	74	1027	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	When a man leaves Ughim, and goes three days, he observes many noble and rich cities and castles, with great merchandise.	Kin-sai,Gan-fu	Hangzhou,China|		Ughim
 1	PART 1	74	1028	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	The people are all idolaters, subject to the Khan, use paper money, and have abundant means of subsistence.			Khan	
 1	PART 1	74	1029	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	At the end of these three days, he finds a very noble city named Kin-sai,which means in our language the city of heaven.				Kin-sai
 1	PART 1	74	1030	Of the most noble and wonderful City of Kin-sai and of its Population, Trades, Lake, Villas, and splendid Palace	And now I will tell you all its nobleness; 				
@@ -1233,7 +1233,7 @@ Caramoran,Catanduanes,Philippines || Hejian, Hebei province, China   "		Kara-mor
 1	PART 1	80	1231	Of the City of Fu-gui	and they ascend by the great river to Fu-gui.				Fu-gui
 1	PART 1	80	1232	Of the City of Fu-gui	The people have abundance of all things necessary for subsistence ; fine gardens, with good fruit ; and the city is wonderfully well ordered in all respects.				
 1	PART 1	80	1233	Of the City of Fu-gui	But we will now go on to other matters.				
-1	PART 1	81	1234	Of the most noble Port of Zai-tun, and of Ti-min-gui	When one departs from Fu-gui, passes the river, and goes five days south-east, he finds cities and castles, where there is abundance of all things, woods, birds, and beasts, with the tree which bears camphor.	Zai-tun,Ti-min-gui			Fu-gui
+1	PART 1	81	1234	Of the most noble Port of Zai-tun, and of Ti-min-gui	When one departs from Fu-gui, passes the river, and goes five days south-east, he finds cities and castles, where there is abundance of all things, woods, birds, and beasts, with the tree which bears camphor.	Zai-tun,Ti-min-gui	Quanzhou,China		Fu-gui
 1	PART 1	81	1235	Of the most noble Port of Zai-tun, and of Ti-min-gui	The people are all idolaters, under the great Khan and the jurisdiction of Fu-gui.			Khan	Fu-gui
 1	PART 1	81	1236	Of the most noble Port of Zai-tun, and of Ti-min-gui	At the end of the five days he finds a city called Zai-tun,which is a noble port, where all the ships of India arrive, and for one laden with pepper which comes from Alexandria to be sold throughout Christendom, there go to that city a hundred.				Zai-tun,Alexandria,Christendom
 1	PART 1	81	1237	Of the most noble Port of Zai-tun, and of Ti-min-gui	It is one of the two best ports in the world, and the most frequented by merchants and merchandise.				
