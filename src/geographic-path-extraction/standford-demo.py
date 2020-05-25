@@ -6,6 +6,11 @@ import os
 
 nlp = StanfordCoreNLP('/home/ruta/master-thesis/tools/stanford-corenlp-full-2018-10-05')
 
+#annotators = 'tokenize, ssplit, pos, lemma, ner, entitymentions, coref, sentiment, quote, openie'
+#options = {'openie.resolve_coref': True}
+
+#nlp = StanfordCoreNLP(annotators=annotators, options=options)
+
 def is_travelled_location(dependencies,verb_list,location):
     #found_match = []
     for verb in verb_list:
@@ -36,16 +41,24 @@ def is_travelled_location(dependencies,verb_list,location):
 
 
 
-sentence =  "By this town we enter the province of Turcomania"
+sentence =  "When a man leaves Kambalu and has gone ten miles, he finds a river called Pulisangan, which flows on to the ocean, and is crossed by many merchants with their goods."
 
+#document = nlp(sentence)
+
+
+#print(document)
 output = nlp.annotate(sentence, properties={"outputFormat": "json", "annotators": "depparse"})
 #print(output)
 res = json.loads(output)
 #print(res)
 res_dict = res['sentences'][0]
-dependencies = res_dict['enhancedPlusPlusDependencies']
+#print(res_dict)
+openie = res_dict['enhancedPlusPlusDependencies']
 
-print(dependencies)
+print(openie)
+
+for item in openie:
+    print(item)
 
 #location_list = ['Armenia the Greater']
 #for location in location_list:

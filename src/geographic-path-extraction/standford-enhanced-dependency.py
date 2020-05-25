@@ -8,7 +8,10 @@ from collections import Counter
 def is_travelled_location(dependencies,verb_list,location):
     found_match = []
     for verb in verb_list:
-        match = [item['dependentGloss']  for item in dependencies if(item['governorGloss'] == verb)]
+        match = [item['dependentGloss'] for item in dependencies if(item['governorGloss'] == verb)]
+        print(verb)
+        print(match)
+        print("===============================================================")
         if match:
             if location in match:
                 found_match.append(location)
@@ -30,17 +33,18 @@ def find_travelled_location(data):
 
         verb_phrases = []
         travel_verb_phrases = []
+        travel_verbs_list = []
         narrate_verb_phrases = []
         #sentence = row['Travel Noun Phrases']
         travel_phrases = row['Travel Noun Phrases']
-        narrate_phrases = row['Narrate Noun Phrases']
+        #narrate_phrases = row['Narrate Noun Phrases']
         if not isinstance(travel_phrases,float):
             travel_verb_phrases = travel_phrases.split(",")
 
-        if not isinstance(narrate_phrases,float):
-            narrate_verb_phrases = narrate_phrases.split(",")
+        #if not isinstance(narrate_phrases,float):
+        #    narrate_verb_phrases = narrate_phrases.split(",")
 
-        verb_phrases = travel_verb_phrases + narrate_verb_phrases
+        verb_phrases = travel_verb_phrases
         print(verb_phrases)
         location = row['Location']
 
@@ -107,12 +111,12 @@ def find_travelled_location(data):
     return data
 
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
     readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part,part)
-    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
+    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False,nrows=550)
 
     outdata = find_travelled_location(data)
 

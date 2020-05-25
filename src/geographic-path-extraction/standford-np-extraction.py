@@ -200,11 +200,11 @@ def find_travel_phrase(data):
     nlp.close()
     return data
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-verbs.csv'.format(part, part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travel_phrase(data)
