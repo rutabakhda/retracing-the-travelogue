@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from stanfordcorenlp import StanfordCoreNLP
 from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.corpus import wordnet as wn
 from pathlib import Path
 import pandas as pd
 import os
@@ -65,7 +66,7 @@ def get_travel_roles(fn_frame,vn_cls):
 
 
 def find_verbs(sentence):
-
+    print(sentence)
     pos = nlp.pos_tag(sentence)
     verbs_list = [item[0] for item in pos if item[1] in {'VB','VBD','VBG','VBN'}]
     return verbs_list
@@ -84,6 +85,7 @@ def find_travel_frames(verb):
     base_verb = WordNetLemmatizer().lemmatize(verb, 'v')
     fn_frame_list = []
     [found_frame, found_vn_cls] = get_fn_frame(base_verb)
+    found_frame = list(set(found_frame))
     total_frames = len(found_frame)
 
     for i in range(0, total_frames):
@@ -95,17 +97,23 @@ def find_travel_frames(verb):
 
 
 def find(data):
+
     count = 0
     travel_verbs = []
     travel_verb_frames = []
+    travel_verbs_org = []
+    travel_verb_syn = []
 
     for index, row in data.iterrows():
         temp_travel_verbs = []
         temp_travel_verb_frames = []
+        temp_syn_org = []
+        temp_syn = []
 
         sentence = row['sentence']
         verbs = find_verbs(sentence)
         for verb in verbs:
+
             travel_frames = find_travel_frames(verb)
             #print(travel_frames)
 
@@ -116,17 +124,45 @@ def find(data):
                 temp_travel_verbs.append(verb)
                 temp_travel_verb_frames.append(travel_frames_str)
 
+            else:
+                list_syn = []
+                syn = wn.synsets(verb, pos=wn.VERB)
+
+                for item in syn:
+                    list_syn = list_syn + wn.synset(item.name()).lemma_names()
+
+                list_syn = list(set(list_syn))
+                temp_syn_org_li = []
+                temp_syn_li = []
+                #travel_frames = []
+
+                for verb_syn in list_syn:
+                    travel_frames_syn = find_travel_frames(verb_syn)
+
+                    if len(travel_frames_syn) != 0:
+                        temp_syn_li.append(verb_syn)
+                        #travel_frames = travel_frames + travel_frames_syn
+
+                if len(temp_syn_li) != 0:
+                    temp_syn_org.append(verb)
+                    temp_syn.append(",".join(temp_syn_li))
+
+        temp_syn_org_str = ",".join(temp_syn_org)
+        temp_syn_str = ",".join(temp_syn)
         temp_travel_verbs_str = ",".join(temp_travel_verbs)
-        temp_travel_verbs_frames_str = ",".join(temp_travel_verb_frames)
 
         travel_verbs.append(temp_travel_verbs_str)
-        travel_verb_frames.append(temp_travel_verbs_frames_str)
+        # travel_verb_frames.append(temp_travel_verbs_frames_str)
+        travel_verbs_org.append(temp_syn_org_str)
+        travel_verb_syn.append(temp_syn_str)
 
         count = count + 1
         print(count)
 
-    data['Travel verbs'] = travel_verbs
-    data['Travel verb Frames'] = travel_verb_frames
+    data['Travel verbs3'] = travel_verbs
+    data['Travel verbs org'] = travel_verbs_org
+    data['Travel verbs syn'] = travel_verb_syn
+    #data['Travel verb Frames'] = travel_verb_frames
 
     return data
 
@@ -159,8 +195,8 @@ book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/processed/{}-annotated-special.csv'.format(part,part)
-    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-travel-verbs-new.csv'.format(part,part)
+    data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False,nrows=300)
 
     outdata = find(data)
 

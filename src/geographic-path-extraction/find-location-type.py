@@ -93,6 +93,7 @@ def find_travel_frames(verb):
     base_verb = WordNetLemmatizer().lemmatize(verb, 'v')
     fn_frame_list = []
     [found_frame, found_vn_cls] = get_fn_frame(base_verb)
+    found_frame = list(set(found_frame))
     total_frames = len(found_frame)
 
     for i in range(0, total_frames):
@@ -225,7 +226,7 @@ for part in book:
     readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-travel-verbs-new.csv'.format(part, part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
-    outdata = find_location_type(data)
+    outdata = find(data)
 
     writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-travel-verbs-new.csv'.format(
         part, part)

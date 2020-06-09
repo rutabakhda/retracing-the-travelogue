@@ -35,24 +35,51 @@ def find_travelled_location(data):
         travel_verb_phrases = []
         travel_verbs_list = []
         narrate_verb_phrases = []
-       
+        #sentence = row['Travel Noun Phrases']
         travel_phrases = row['Travel Noun Phrases']
-
+        #narrate_phrases = row['Narrate Noun Phrases']
         if not isinstance(travel_phrases,float):
             travel_verb_phrases = travel_phrases.split(",")
+
+        #if not isinstance(narrate_phrases,float):
+        #    narrate_verb_phrases = narrate_phrases.split(",")
 
         verb_phrases = travel_verb_phrases
         print(verb_phrases)
         location = row['Location']
 
+        #is_narrate = row['Is Narrate']
+        #is_travel = row['Is Travel']
+        #narrate_verbs = row['Narrate Verbs']
+        #travel_verbs = row['Travel Verbs']
+
         travel_verbs = row['Location']
         if not isinstance(travel_verbs, float):
             travel_verbs_list = travel_verbs.split(",")
+       # narrate_verbs = row['Narrate verbs']
+       # if not isinstance(narrate_verbs, float):
+       #     narrate_verbs_list = narrate_verbs.split(",")
 
         matched_narrate_list = []
         matched_travel_list = []
         matched_travel_phrase = []
- 
+        #
+        # if len(verb_phrases) > 1:
+        #     new_verb_phrase = []
+        #     for verb_phrase in verb_phrases:
+        #         #print(verb_phrases)
+        #         temp_verb_phrases = []
+        #         temp_verb_phrases = verb_phrases.copy()
+        #         temp_verb_phrases.remove(verb_phrase)
+        #         #
+        #         if not len(temp_verb_phrases) == 0:
+        #             if any(verb_phrase in s for s in temp_verb_phrases):
+        #                 verb_phrases.remove(verb_phrase)
+        #             else:
+        #                 new_verb_phrase.append(verb_phrase)
+        # else:
+        #     new_verb_phrase = verb_phrases
+
         for sentence in verb_phrases:
             sentence_list = sentence.split(" ")
             print(sentence_list)
@@ -65,9 +92,13 @@ def find_travelled_location(data):
 
 
         final_travel = matched_travel_list
+        #print(final_travel)
+
+        #narrate = ', '.join([str(elem) for elem in matched_narrate_list])
         travel = ' ,'.join([str(elem) for elem in final_travel])
         travel_phrase = ' ,'.join([str(elem) for elem in matched_travel_phrase])
 
+        #narrate_list.append(narrate)
         travel_phrase_list.append(travel_phrase)
         travel_list.append(travel)
         count = count + 1
@@ -80,7 +111,7 @@ def find_travelled_location(data):
     return data
 
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 

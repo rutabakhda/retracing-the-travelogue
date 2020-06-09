@@ -45,7 +45,7 @@ def extract_phrase(tree_str, label):
 
 def my_nth_txt(text, n):
     leng = text.split()
-    if len(leng) > 1:
+    if len(leng) > n:
         return text.split()[n]
     return ""
 
@@ -63,28 +63,48 @@ def find_travel_phrase(data):
             travel_verbs = []
 
         tree_str = nlp.parse(sentence)
-        #nps = extract_phrase(tree_str, 'NP')
+        
         vps = extract_phrase(tree_str, 'VP')
-        #pps = extract_phrase(tree_str, 'PP')
-        print(vps)
+        
+        #print(vps)
         found_vps = []
         found_nps = []
-
+        #print(travel_verbs)
         for verb in travel_verbs:
+            print("*******************************************")
+            print(verb)
             verb_phrases = [i for i in vps if i.startswith(verb)]
+            #print(verb_phrases)
             nps = []
             new_verb_phrase = []
             new_noun_phrase = []
             new_noun_phrase1 = []
             new_prep_phrase = []
-
-            if len(verb_phrases) > 1:
+            
+            if len(verb_phrases) == 0:
+                #print("COMES HERE")
+                split_sent = sentence.split(verb)
+                #print(len(split_sent))
+                if len(split_sent) > 1:
+                  if split_sent[1].find(","):
+                  #print("TRUE")
+                    verb_sent = split_sent[1].split(",")
+                  
+                  else:				
+                    verb_sent = split_sent[1].split(".")
+                #print("**************")
+                  created_vp_sent = verb_sent[0].strip()
+                  created_vp = verb+" "+created_vp_sent
+                  new_verb_phrase.append(created_vp)
+                else:  
+                  new_verb_phrase = verb_phrases
+            elif len(verb_phrases) > 1:
 
                 for verb_phrase in verb_phrases:
                     temp_verb_phrases = []
                     temp_verb_phrases = verb_phrases.copy()
                     temp_verb_phrases.remove(verb_phrase)
-                    #
+                    
                     if not len(temp_verb_phrases) == 0:
                         if any(verb_phrase in s for s in temp_verb_phrases):
                             verb_phrases.remove(verb_phrase)
@@ -92,15 +112,19 @@ def find_travel_phrase(data):
                             new_verb_phrase.append(verb_phrase)
             else:
                 new_verb_phrase = verb_phrases
-            print(new_verb_phrase)
+            #print("VERB PHRASES")
+            #print(new_verb_phrase)
             for phrase in new_verb_phrase:
+                phrase = "I " + phrase
+                #print(phrase)
                 tree_str = nlp.parse(phrase)
                 nps = extract_phrase(tree_str, 'NP')
                 pps = extract_phrase(tree_str, 'PP')
-
-                print("================")
+                #print(nps)
+                #print(pps)
+                #print("================")
                 print(phrase)
-                word_after_verb = my_nth_txt(phrase, 1)
+                word_after_verb = my_nth_txt(phrase, 2)
                 print(word_after_verb)
 
                 noun_phrases = [i for i in nps if i.startswith(word_after_verb)]
@@ -139,20 +163,19 @@ def find_travel_phrase(data):
                     new_prep_phrase = prep_phrases
 
 
-
                 for phrase in new_prep_phrase:
 
-                    print("==========================")
-                    print(phrase)
+                    #print("==========================")
+                    #print(phrase)
                     tree_str = nlp.parse(phrase)
                     nps1 = extract_phrase(tree_str, 'NP')
-                    print(nps1)
+                    #print(nps1)
                     word_after_verb1 = my_nth_txt(phrase, 1)
-                    print(word_after_verb1)
+                    #print(word_after_verb1)
 
                     noun_phrases1 = [i for i in nps1 if i.startswith(word_after_verb1)]
-                    print(noun_phrases1)
-                    print('~~~~~~~~')
+                    #print(noun_phrases1)
+                    #print('~~~~~~~~')
                     if len(noun_phrases1) > 1:
 
                         for noun_phrase1 in noun_phrases1:
@@ -170,11 +193,14 @@ def find_travel_phrase(data):
 
 
 
-
+      
 
 
             found_vps = found_vps + new_verb_phrase
             found_nps = found_nps + new_noun_phrase + new_noun_phrase1
+            #print("**************************************")
+            print(found_vps)
+            print(found_nps)
 
             # for verb_phrase in verb_phrases:
             #      verb_phrase_changed = verb_phrase.replace(verb, "")
@@ -185,7 +211,7 @@ def find_travel_phrase(data):
             #
             #      elif verb_phrase_changed in pps:
             #          found_nps.append(verb_phrase)
-
+		#print(found_vps)
         vps = ','.join(found_vps)
         nps = ','.join(found_nps)
         travel_phrase_vp_list.append(vps)
@@ -200,20 +226,23 @@ def find_travel_phrase(data):
     nlp.close()
     return data
 
-book = ['part1']
+book = ['part2']
 
 for part in book:
 
+    rows_to_keep = [0,857]
     readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-annotated-verbs.csv'.format(part, part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
+    #data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False,skiprows = lambda x: x not in rows_to_keep)
 
+	#print(data)
     outdata = find_travel_phrase(data)
-
+	
     writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
+
     if os.path.exists(writefile):
-        os.remove(writefile)
-
-
+      os.remove(writefile)
+	
     outdata.to_csv(writefile, sep='\t', encoding='latin1', index=False)
 
 
