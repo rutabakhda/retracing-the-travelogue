@@ -1,71 +1,62 @@
-Count	Annotated Travel
-0	Kambalu
-1	Pulisangan 
-2	Geo-gui
-3	Ta-in-fu
-4	Pi-an-fu
-5	Caya-fu
-6	Kara-moran river
-7	 Ca-cian-fu
-8	Quen-gian-fu
-9	Cun-chin
-10	Achalech-Manji
-11	Sin-din-fu
-12	Quian-su
-13	Thibet
-14	Kain-du
-15	Brius River
-16	Caraian
-17	 Yaci
-18	Karazan
-19	Kardanan
-20	Vociam
-21	Anniz
-22	Mien
-23	Bangala
-24	Kangigu
-25	Amu
-26	Tholoman
-27	Cyn-gui
-28	Singul
-29	Sin-din-fu
-30	Gin-gui
-31	Ca-cian-fu
-32	Cian-glu
-33	Cian-gli
-34	Condi-fu
-35	Sin-gui
-36	Lin-gui
-37	Pin-gui
-38	Cin-gui
-39	Kara-moran river
-40	Manji
-41	Koi-gan-zu
-42	Pau-chym
-43	Chaym
-44	Tin-gui
-45	Yan-gui
-46	Nan-ghin
-47	Sa-yan-fu
-48	Sin-gui
-49	Kiang river
-50	Cai-gui
-51	Cin-ghian-fu
-52	Cin-ghin-gui
-53	Sin-gui
-54	Un-gui
-55	Ughiam
-56	Kin-sai
-57	Gan-fu
-58	Kin-sai
-59	Tam-pin-gui
-60	Un-gui
-61	Chen-gui
-62	Cian-cian
-63	Can-gui
-64	Fu-gui
-65	Que-lin-fu
-66	Fu-gui
-67	Con-cha
-68	Zai-tun
-69	Ti-min-gui
+Count	Annotated Travel	Before Count	After Count
+1	Kambalu	0	60
+2	Pulisangan 	1	59
+3	Geo-gui	2	58
+4	Ta-in-fu	3	57
+5	Pi-an-fu	4	56
+6	Caya-fu	5	55
+7	Ca-cian-fu	6	54
+8	Quen-gian-fu	7	53
+9	Cun-chin	8	52
+10	Achalech-Manji	9	51
+11	Sin-din-fu	10	50
+12	Thibet	11	49
+13	Kain-du	12	48
+14	Brius	13	47
+15	Caraian	14	46
+16	 Yaci	15	45
+17	Karazan	16	44
+18	Kardanan	17	43
+19	Vociam	18	42
+20	Anniz	19	41
+21	Mien	20	40
+22	Bangala	21	39
+23	Kangigu	22	38
+24	Amu	23	37
+25	Tholoman	24	36
+26	Singul	25	35
+27	Sin-din-fu	26	34
+28	Gin-gui	27	33
+29	Ca-cian-fu	28	32
+30	Cian-glu	29	31
+31	Cian-gli	30	30
+32	Condi-fu	31	29
+33	Sin-gui	32	28
+34	Lin-gui	33	27
+35	Pin-gui	34	26
+36	Cin-gui	35	25
+37	Kara-moran river	36	24
+38	Manji	37	23
+39	Koi-gan-zu	38	22
+40	Pau-chym	39	21
+41	Chaym	40	20
+42	Tin-gui	41	19
+43	Yan-gui	42	18
+44	Sin-gui	43	17
+45	Kiang	44	16
+46	Cin-ghian-fu	45	15
+47	Cin-ghin-gui	46	14
+48	Sin-gui	47	13
+49	Un-gui	48	12
+50	Ughim	49	11
+51	Kin-sai	50	10
+52	Tam-pin-gui	51	9
+53	Un-gui	52	8
+54	Chen-gui	53	7
+55	Cian-cian	54	6
+56	Can-gui	55	5
+57	Fu-gui	56	4
+58	Que-lin-fu	57	3
+59	Fu-gui	58	2
+60	Zai-tun	59	1
+61	Ti-min-gui	60	0

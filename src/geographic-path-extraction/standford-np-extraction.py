@@ -56,7 +56,7 @@ def find_travel_phrase(data):
 
     for index,row in data.iterrows():
         sentence = row['sentence']
-        travel_verbs_str = row['Travel verbs']
+        travel_verbs_str = row['Voted Travel']
         if not isinstance(travel_verbs_str,float):
          travel_verbs = travel_verbs_str.split(",")
         else:
@@ -226,7 +226,7 @@ def find_travel_phrase(data):
     nlp.close()
     return data
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
@@ -238,7 +238,7 @@ for part in book:
 	#print(data)
     outdata = find_travel_phrase(data)
 	
-    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part, part)
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-voted-gazetteer.csv'.format(part, part)
 
     if os.path.exists(writefile):
       os.remove(writefile)

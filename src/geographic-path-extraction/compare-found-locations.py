@@ -52,21 +52,21 @@ def compare(data,data_algo):
 	
 	
 datapath = Path(__file__).resolve().parents[2]
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
 	readfile = datapath / 'results/hugh-murray/{}/processed/{}-locations.csv'.format(part,part)
 	data = pd.read_csv(readfile, sep='\t', encoding='latin1')
 
-	readfile_algo = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-locations-test.csv'.format(part,part)
+	readfile_algo = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-locations-voted-annotated.csv'.format(part,part)
 	data_algo = pd.read_csv(readfile_algo, sep='\t', encoding='latin1')
 
     #print(data)
     #print(data_algo)
     
 	outdata = compare(data,data_algo)
-	writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-location-comparision.csv'.format(part, part)
+	writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-location-comparision-voted-annotated.csv'.format(part, part)
 
 	if os.path.exists(writefile):
 		os.remove(writefile)

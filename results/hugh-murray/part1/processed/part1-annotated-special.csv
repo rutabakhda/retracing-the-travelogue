@@ -550,7 +550,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	37	549	The Castle of Caya+AC0-fu+AC0ALQ-Story of its King and Prester John		+ACI-Then said the christian prince,+AC0AIgAi- I will impose upon you no more hardship and grief+ADs- you shall receive favour and honour.+ACIAIg-+ACI-				
 1	PART 1	37	550	The Castle of Caya+AC0-fu+AC0ALQ-Story of its King and Prester John		Having then supplied him with many horses handsomely equipped, and a numerous attendance, he permitted him to go.				
 1	PART 1	37	551	The Castle of Caya+AC0-fu+AC0ALQ-Story of its King and Prester John		Dor then returned to his kingdom, and from that time was a faithful friend and servant of Prester John.			Dor,Prester John	
-1	PART 1	38	552	The great River Kara+AC0-moran, and the City Ca+AC0-cian+AC0-fu	Kara-moran river, Ca-cian-fu	Twenty miles westward from that castle is a river called Kara+AC0-moran,so large and broad that it cannot be crossed by a bridge, and flows on even to the ocean.	Kara+AC0-moran river, Ca+AC0-cian+AC0-fu	+ACI-		
+1	PART 1	38	552	The great River Kara+AC0-moran, and the City Ca+AC0-cian+AC0-fu	Ca-cian-fu	Twenty miles westward from that castle is a river called Kara+AC0-moran,so large and broad that it cannot be crossed by a bridge, and flows on even to the ocean.	Kara+AC0-moran river, Ca+AC0-cian+AC0-fu	+ACI-		
 1	PART 1	38	553	The great River Kara+AC0-moran, and the City Ca+AC0-cian+AC0-fu		On its banks are many cities and castles, likewise many merchants and manufactured goods+ADs- 				
 1	PART 1	38	554	The great River Kara+AC0-moran, and the City Ca+AC0-cian+AC0-fu		and in the country around ginger grows in great abundance.				
 1	PART 1	38	555	The great River Kara+AC0-moran, and the City Ca+AC0-cian+AC0-fu		The number of birds is wonderful, so that for a Venetian grosso one can buy three pheasants +ADs- 				
@@ -582,7 +582,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	41	581	The Province of Achalech+AC0-Manji		This plain lasts for two days, and we then travel twenty through mountains, valleys, and woods, seeing many cities and castles.				
 1	PART 1	41	582	The Province of Achalech+AC0-Manji		These people are idolaters, and live on the fruits of the earth and the flesh of birds and beasts+ADs- 				
 1	PART 1	41	583	The Province of Achalech+AC0-Manji		for there are abundance of lions, bears, wolves, stags, deer, and particularly of those animals which yield the musk.				
-1	PART 1	42	584	The Province of Achalech+AC0-Manji	Sin-din-fu,Quian-su	When a man has left this country and travelled twenty days westward, he approaches a province on the borders of Manji named Sin+AC0-din+AC0-fu.	Sin+AC0-din+AC0-fu,Quian+AC0-su	Chengdu,China+AHw-		Manji,Sin+AC0-din+AC0-fu
+1	PART 1	42	584	The Province of Achalech+AC0-Manji	Sin-din-fu	When a man has left this country and travelled twenty days westward, he approaches a province on the borders of Manji named Sin+AC0-din+AC0-fu.	Sin+AC0-din+AC0-fu,Quian+AC0-su	Chengdu,China+AHw-		Manji,Sin+AC0-din+AC0-fu
 1	PART 1	42	585	The Province of Achalech+AC0-Manji		The capital, bearing the same name, was anciently very great and noble, governed by a mighty and wealthy sovereign.				
 1	PART 1	42	586	The Province of Achalech+AC0-Manji		He died, leaving three sons, who divided the city into three parts, and each enclosed his portion with a wall, which was within the great wall of twenty miles in circuit.				
 1	PART 1	42	587	The Province of Achalech+AC0-Manji		They ranked still as kings, and had ample possessions +ADs- 				
@@ -637,7 +637,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	44	636	Another Part of Thibet		They are poorly clad with the skins of beasts, canvass, and buckram +ADs- 				
 1	PART 1	44	637	Another Part of Thibet		they have a language of their own, which they call Tebet.				
 1	PART 1	44	638	Another Part of Thibet		Now I will tell you of Kain+AC0-du.				Kain+AC0-du
-1	PART 1	45	639	The Province of Kain+AC0-du	Brius River	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great Khan.	Brius River	Jinsha River,China	Khan	
+1	PART 1	45	639	The Province of Kain+AC0-du	Brius	This is a province lying to the west, having only one king, the inhabitants idolaters, and subject to the great Khan.	Brius River	Jinsha River,China	Khan	
 1	PART 1	45	640	The Province of Kain+AC0-du		It contains a number of cities and castles, with a lake, in which are found many pearls+ADs- 				
 1	PART 1	45	641	The Province of Kain+AC0-du		but the monarch forbids them, under a severe penalty, to be removed except for his own use +ADs-				
 1	PART 1	45	642	The Province of Kain+AC0-du		 because, if any one were allowed to take them, they would become worth almost nothing.				
@@ -819,7 +819,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	55	818	Of the Province of Tholoman		but the small money is of porcelain, which circulates in all these provinces.				
 1	PART 1	55	819	Of the Province of Tholoman		The merchants, though few, are rich +ADs- 				
 1	PART 1	55	820	Of the Province of Tholoman		the people live on flesh and rice, and have many good spices.				
-1	PART 1	56	821	Of the Province of Cyn+AC0-gui and its Lions	Cyn-gui,Singul	Cyn+AC0-gui is a province likewise situated towards the east, and when a man leaves Tholoman, he goes twelve days along a river, where there are towns and castles, but nothing else worth mentioning.	Cyn+AC0-gui,Singul	Guizhou,China		Cyn+AC0-gui,Tholoman
+1	PART 1	56	821	Of the Province of Cyn+AC0-gui and its Lions	Singul	Cyn+AC0-gui is a province likewise situated towards the east, and when a man leaves Tholoman, he goes twelve days along a river, where there are towns and castles, but nothing else worth mentioning.	Cyn+AC0-gui,Singul	Guizhou,China		Cyn+AC0-gui,Tholoman
 1	PART 1	56	822	Of the Province of Cyn+AC0-gui and its Lions		At the end of these twelve days, he finds the city Sinugul, very large and noble.				Sinugul
 1	PART 1	56	823	Of the Province of Cyn+AC0-gui and its Lions		The inhabitants are all idolaters, and subject to the great Khan.			Khan	
 1	PART 1	56	824	Of the Province of Cyn+AC0-gui and its Lions		They live by merchandise and arts, and weave cloths of the bark of trees, which make fine summer dresses.				
@@ -946,7 +946,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	66	945	Of the great City of Yan+AC0-gui		Here are made many arms and other equipments for knights and men of war +ADs- 				
 1	PART 1	66	946	Of the great City of Yan+AC0-gui		for in this place and around it numerous troops are quartered.				
 1	PART 1	66	947	Of the great City of Yan+AC0-gui		I will now tell you of two great provinces lying to the west, and as I shall have much to say, I will begin with Nan+AC0-ghin.				Nan+AC0-ghin
-1	PART 1	67	948	Of the great City of Yan+AC0-gui	Nan-ghin	Nan+AC0-ghin is a province towards the west, belonging to Manji, and is very noble and rich.	Nan+AC0-ghin	Anqing,China		Nan+AC0-ghin,Manji
+1	PART 1	67	948	Of the great City of Yan+AC0-gui		Nan+AC0-ghin is a province towards the west, belonging to Manji, and is very noble and rich.	Nan+AC0-ghin	Anqing,China		Nan+AC0-ghin,Manji
 1	PART 1	67	949	Of the great City of Nan+AC0-ghin		The people are idolaters, use paper money, and are subject to the great Khan.			Khan	
 1	PART 1	67	950	Of the great City of Nan+AC0-ghin		They live by merchandise and arts, have silk in abundance, and make cloths of it interwoven with gold, in all fashions.				
 1	PART 1	67	951	Of the great City of Nan+AC0-ghin		They have an ample supply of every kind of grain and provisions +ADs- 				
@@ -954,7 +954,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	67	953	Of the great City of Nan+AC0-ghin		There are also lions and animals for hunting.				
 1	PART 1	67	954	Of the great City of Nan+AC0-ghin		There are many rich merchants who carry on much trade, and pay a large revenue to the great sire.				
 1	PART 1	67	955	Of the great City of Nan+AC0-ghin		But I will now go to the noble city of Sa+AC0-yan+AC0-fu, respecting which I shall have much to say.				Sa+AC0-yan+AC0-fu
-1	PART 1	68	956	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken	Sa-yan-fu	Sa+AC0-yan+AC0-fu is a large and magnificent city, having under it twelve others also great and noble+ADs- 	Sa+AC0-yan+AC0-fu	Xiangyang,China		Sa+AC0-yan+AC0-fu
+1	PART 1	68	956	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		Sa+AC0-yan+AC0-fu is a large and magnificent city, having under it twelve others also great and noble+ADs- 	Sa+AC0-yan+AC0-fu	Xiangyang,China		Sa+AC0-yan+AC0-fu
 1	PART 1	68	957	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		it is the seat of many valuable arts and of much merchandize.				
 1	PART 1	68	958	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		The inhabitants are idolaters+ADs- 				
 1	PART 1	68	959	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		they use paper money, are subject to the Khan, and burn the bodies of their dead.			Khan	
@@ -973,7 +973,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	68	972	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		This was agreed to, and Sa+AC0-yan+AC0-fu came under the power of the great Khan, through the interposition of Messeri Nicolo, Maffio, and Marco +ADs- 			Khan,Messeri Nicolo,Maffio,Marco	Sa+AC0-yan+AC0-fu
 1	PART 1	68	973	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		and it was not a small service, for this town and province are among the best in his possession, and he draws from them a great revenue.				
 1	PART 1	68	974	Of the City of Sa+AC0-yan+AC0-fu, and how it was taken		Now, we shall leave this subject and treat of a city called Sin+AC0-gui.				Sin+AC0-gui
-1	PART 1	69	975	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River	Sin-gui,Kiang river	When a man leaves Yan+AC0-gui and goes fifteen miles  south+AC0-east, he perceives a certain city named Sin+AC0-gui, which is not very extensive, but has great merchandise and much shipping.	Sin+AC0-gui,Kiang river			Yan+AC0-gui,Sin+AC0-gui
+1	PART 1	69	975	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River	Sin-gui,Kiang	When a man leaves Yan+AC0-gui and goes fifteen miles  south+AC0-east, he perceives a certain city named Sin+AC0-gui, which is not very extensive, but has great merchandise and much shipping.	Sin+AC0-gui,Kiang river			Yan+AC0-gui,Sin+AC0-gui
 1	PART 1	69	976	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		The people are idolaters, use paper money, and are subject to the Khan.			Khan	
 1	PART 1	69	977	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		That city stands upon a river, named Kiang, which is the largest in the world +ADs- being in some places ten miles broad, and upwards of a hundred days' journey in length.				Kiang
 1	PART 1	69	978	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		Through it the inhabitants have a lucrative trade, which yields a large revenue to the Khan.			Khan	
@@ -984,7 +984,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	69	983	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		yet they are of heavy burden, and carry each from 4000 to 12,000 cantars.				
 1	PART 1	69	984	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		They have ropes composed of cane for drawing them through the water +ADs- 				
 1	PART 1	69	985	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		those belonging to the larger vessels are thick, and fifteen paces in length, being cloven at the end, and bound together in such a way as to make a cord 300 paces long.				
-1	PART 1	70	986	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River	Cai-gui	Cai+AC0-gui is a small city towards the south+AC0-east,situated upon the bank of the above+AC0-mentioned river +ADs- 	Cai+AC0-gui	Guazhou,China		Cai+AC0-gui
+1	PART 1	70	986	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		Cai+AC0-gui is a small city towards the south+AC0-east,situated upon the bank of the above+AC0-mentioned river +ADs- 	Cai+AC0-gui	Guazhou,China		Cai+AC0-gui
 1	PART 1	70	987	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		all the people are idolaters, subject to the Khan, and use paper money.			Khan	
 1	PART 1	70	988	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		Here are collected large quantities of corn and rice +ADs- 				
 1	PART 1	70	989	Of the City of Sin+AC0-gui and the River Kiang, and the Multitude of Cities on that River		and there is a passage by water to the city of Kambalu and the court of the Khan+ADs- 			Khan	Kambalu
@@ -1007,7 +1007,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	72	1006	Of the City of Cin+AC0-ghin+AC0-gui, and of a dreadful Slaughter		When the men of the city saw them in this condition, that very night they slew them all, so that not one escaped.				
 1	PART 1	72	1007	Of the City of Cin+AC0-ghin+AC0-gui, and of a dreadful Slaughter		When Bayam the commander heard of this disloyal conduct, he sent an army who took the town, and put all the inhabitants to the sword.			Bayam	
 1	PART 1	72	1008	Of the City of Cin+AC0-ghin+AC0-gui, and of a dreadful Slaughter		Now, let us go on, and I will tell you of another named Sin+AC0-gui.				Sin+AC0-gui
-1	PART 1	73	1009	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim	Sin-gui,Un-gui,Ughiam	Sin+AC0-gui is a very great and noble city.	Sin+AC0-gui,Un+AC0-gui,Ughiam	Suzhou,China+AHwAfA-		Sin+AC0-gui
+1	PART 1	73	1009	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim	Sin-gui,Un-gui,Ughim	Sin+AC0-gui is a very great and noble city.	Sin+AC0-gui,Un+AC0-gui,Ughiam	Suzhou,China+AHwAfA-		Sin+AC0-gui
 1	PART 1	73	1010	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		The people are idolaters, subject to the great Khan, and use paper money.			Khan	
 1	PART 1	73	1011	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		Most of them live by merchandise and arts, raise much silk, make cloths of it interwoven with gold very costly and fine.				
 1	PART 1	73	1012	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		The town is forty miles in circuit, and the number of inhabitants is so great, that no person can count them, and if they were men+AC0-at+AC0-arms, those of the province of Manji would conquer the whole world+ADs- 				Manji
@@ -1025,7 +1025,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	73	1024	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		the men are idolaters, subject to the great Khan, use paper money, and have abundance of all things.			Khan	
 1	PART 1	73	1025	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		There is nothing else worth mentioning +ADs- 				
 1	PART 1	73	1026	Of the City of Sin+AC0-gui, of Un+AC0-gui, and of Ughim		therefore I will go on to tell you of the noble city of Kin+AC0-sai, which is the capital of the kingdom of Manji.				Kin+AC0-sai,Manji
-1	PART 1	74	1027	Of the most noble and wonderful City of Kin+AC0-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Kin-sai,Gan-fu	When a man leaves Ughim, and goes three days, he observes many noble and rich cities and castles, with great merchandise.	Kin+AC0-sai,Gan+AC0-fu	Hangzhou,China+AHw-		Ughim
+1	PART 1	74	1027	Of the most noble and wonderful City of Kin+AC0-sai and of its Population, Trades, Lake, Villas, and splendid Palace	Kin-sai	When a man leaves Ughim, and goes three days, he observes many noble and rich cities and castles, with great merchandise.	Kin+AC0-sai,Gan+AC0-fu	Hangzhou,China+AHw-		Ughim
 1	PART 1	74	1028	Of the most noble and wonderful City of Kin+AC0-sai and of its Population, Trades, Lake, Villas, and splendid Palace		The people are all idolaters, subject to the Khan, use paper money, and have abundant means of subsistence.			Khan	
 1	PART 1	74	1029	Of the most noble and wonderful City of Kin+AC0-sai and of its Population, Trades, Lake, Villas, and splendid Palace		At the end of these three days, he finds a very noble city named Kin+AC0-sai,which means in our language the city of heaven.				Kin+AC0-sai
 1	PART 1	74	1030	Of the most noble and wonderful City of Kin+AC0-sai and of its Population, Trades, Lake, Villas, and splendid Palace		And now I will tell you all its nobleness+ADs- 				
@@ -1222,7 +1222,7 @@ chapterNo	chapterTitle	sectionNo	SentenceNo	sectionTitle	Marco Location	sentence
 1	PART 1	79	1221	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem		There are lions, great and fierce, doing much injury to the passengers, who on this account cannot travel without imminent danger.				
 1	PART 1	79	1222	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem		At the end of the journey is found a city called Un+AC0-quem, where there is made such a quantity of sugar, that the whole court of the Khan is thence supplied, which is worth a vast treasure.			Khan	Un+AC0-quem
 1	PART 1	79	1223	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem		Beyond it is the large city of Fu+AC0-gui, capital of this kingdom.				Fu+AC0-gui
-1	PART 1	80	1224	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem	Fu-gui,Con-cha	Fu+AC0-gui,as just stated, is the capital of the kingdom of Con+AC0-cha, which is one of the nine parts of Manji.	Fu+AC0-gui,Con+AC0-cha			Fu+AC0-gui,Con+AC0-cha,Manji
+1	PART 1	80	1224	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem	Fu-gui	Fu+AC0-gui,as just stated, is the capital of the kingdom of Con+AC0-cha, which is one of the nine parts of Manji.	Fu+AC0-gui,Con+AC0-cha			Fu+AC0-gui,Con+AC0-cha,Manji
 1	PART 1	80	1225	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem		In that city is much merchandise and art +ADs- 				
 1	PART 1	80	1226	Of the Cities of Que+AC0-lin+AC0-fu and Un+AC0-quem		the people are idolatrous, and subject to the great Khan.			Khan	
 1	PART 1	80	1227	Of the City of Fu+AC0-gui		He keeps there a strong army, because the towns and castles often revolt, and whenever they do so the troops hasten thither, take and destroy them.				

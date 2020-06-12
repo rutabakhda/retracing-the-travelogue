@@ -48,16 +48,16 @@ def location_to_list(data):
 
 
 datapath = Path(__file__).resolve().parents[2]
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-travel.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-travel-voted-annotated.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1')
 
     outdata = location_to_list(data)
 
-    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-locations-test.csv'.format(part,part)
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-locations-voted-annotated.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

@@ -80,16 +80,16 @@ def find_travelled_location(data):
     return data
 
 
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
-    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases.csv'.format(part,part)
+    readfile = datapath / 'results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-voted-annotated.csv'.format(part,part)
     data = pd.read_csv(readfile, sep='\t', encoding='latin1', error_bad_lines=False)
 
     outdata = find_travelled_location(data)
 
-    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-travel.csv'.format(part,part)
+    writefile = str(datapath) + '/results/hugh-murray/{}/geograhpic-path-extraction/{}-np-phrases-travel-voted-annotated.csv'.format(part,part)
     if os.path.exists(writefile):
         os.remove(writefile)
 

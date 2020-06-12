@@ -48,7 +48,7 @@ def location_to_list(data):
 
 
 datapath = Path(__file__).resolve().parents[2]
-book = ['part2']
+book = ['part1']
 
 for part in book:
 
